@@ -1,0 +1,630 @@
+# Tiende sang. *Sangen om Dolon.*
+
+[V]{.initial}ed sine langskibe sov de andre akaiiske stormænd\
+natten igjennem, og lindt var de lagt i slummerens lænker\
+Søvnen, den liflige, gjestet dog ei den mægtige konge\
+Atrevs' søn Agamemnon som tumlet med mangt i sit hjerte.\
+Som naar den haarfagre Heras gemal lar tordenen rulle\
+truende enten med byger av hagl eller øsende styrtregn\
+eller med hvirvlende fokk, naar markerne hvitner av snedrys.\
+eller forfærdelig krig som gaper med graadige kjæver,\
+saaledes drog Agamemnon ustanselig stønnende sukke\
+dypt fra sit ængstede bryst og skalv av gru i sit hjerte.\
+Ti naar han undrende vendte sit blik mot den troiske slette,\
+saa han de talrike flammende baal foran Ilions mure,\
+lyttet til fløiter og piper og lyden av larmende stridsmænd.\
+Men naar han saa mot skibenes rad og akaiernes kjæmper,\
+rev han fra issen saa mangt et haar, og fra ædlingens bringe\
+trængte sig mangt et inderlig suk til Zevs i det høie.\
+Bedst ham tyktes tilsidst det raad at gaa for at søke\
+først blandt fyrsterne Nelevs' søn, den sindige Nestor,\
+dersom den gamle kanhænde med ham kunde finde et kløktig\
+frelsende raad som vernet akaiernes sønner mot vanheld.\
+Stod han da op fra sit leie og spændte sin kjortel om bringen,\
+bandt under skinnende føtter de skjønne sandaler og slængte\
+derefter om sine skuldre som fotsid kappe det store\
+brandgule skind av en løve og grep i haanden sin lanse.
+
+Likesa, skalv Menelaos av angst, og kvægende slummer\
+sænket sig ei paa hans øine. Han frygtet at ondt skulde ramme\
+Argos' mænd som av venskap for ham var stevnet til Troja\
+vidt over storhavets bølgende vei til mandige kampe.\
+Ryggen, den kraftige, dækket han først med den flekkete panters\
+brokete skind og satte saa raskt paa sit hode den blanke\
+stridshjelm av kobber og grep med sin kraftige næve om lansen,\
+gik saa avsted for at vække sin bror, som hersket med vælde\
+over argeiernes mænd og blev æret av dem som en guddom.\
+Fandt han da drotten bak langskibets stavn ifærd med at aksle\
+rustningen blank, og hjertelig bød hans bror ham velkommen.\
+Først tok den høimælte helt Menelaos til orde og mælte:\
+«Elskede bror, hvi ruster du dig? Vil du sende som speider\
+nogen av vore til troernes leir? Jeg frygter at ingen\
+vaager at by sig frem til saa farlig en færd som at vandre\
+ene avsted i den fredfulde nat for at speide blandt hatske\
+fienders skare. Den mand maatte visselig være dumdristig.»
+
+Straks tok den herlige drot Agamemnon til orde og svarte:\
+«Aa Menelaos, gudfostrede helt, nu kan vi dog begge\
+trænge et hjælpende raad som kan verne og frelse fra faren\
+Argos' snekker og mænd; ti Zevs har ændret sin vilje.\
+Mere har Hektor end vi kunnet glæde hans hjerte ved ofre.\
+Ti jeg har aldrig faat spurt eller set at en kjæmpe alene\
+øvet saa meget av ondt paa en eneste dag som den sterke\
+Hektor, hin Alfaders yndling, har voldt akaiernes sønner,\
+skjønt han jo hverken er søn av en gud eller av en gudinde.\
+Ja, han har øvet en daad som jeg tror argeier vil mindes\
+længer end længe; slik ve har han voldt akaiernes sønner.\
+Skynd dig nu du til Aias' skib og Idómenevs' snekker.\
+Kald paa dem begge! Jeg selv skal gaa for at vække den gjæve\
+Nestor og be ham staa op fra sin seng, om han kanske vil ile\
+hen med et manende bud til vakternes kraftige skare.\
+Ham vil de adlyde helst; ti hans søn er fører for vakten,\
+han og Meriones, drotten Idómenevs' trofaste væbner.\
+Særlig paa dem har vi lagt det hverv at svare for vakten.»
+
+Nu tok den høimælte helt Menelaos til orde og svarte:\
+«Hvorledes tyder jeg bedst dine ord og det bud som du gav mig?\
+Skal jeg da vente hos dem, til du kommer der selv, eller kanske\
+ile avsted for at hente dig ind, naar budet er bragt dem?»
+
+Mændenes drot Agamemnon tok atter til orde og svarte:\
+«Vent du bare hos dem, saa vi ikke skal omgaa hinanden\
+under vor vandring; ti leiren har talrike krydsende veie.\
+Rop overalt hvor du gaar og byd dem at holde sig vaakne.\
+Kald hver høvding ved navn og nævn hans far, saa du viser\
+alle den skyldige hæder, og krænk ikke nogen ved hovmod.\
+Selv faar vi stræve saa haardt som vi kan. Fra fødselens time\
+viet vel Zevs os to til tyngende møie og vanheld.»
+
+Saa han talte og sendte sin bror med det manende budskap.\
+Derefter hastet han selv til Nestor, folkenes hyrde.\
+Hist ved hans telt og det tjærede skib fandt drotten den gamle\
+hvilende bløtt paa sit leie med funklende vaaben ved siden,\
+skjoldet og tvende forsvarlige spyd og hjelmen den blanke,\
+dertil det straalende belte som oldingen spændte om midjen,\
+hvergang han rustet sig ut til dødssvangre kampe og førte\
+selv sine mænd. Han bøide sig ei under alderens byrde.\
+Støttet paa albuen reiste han sig og løftet sit hode.\
+Spørgende talte han saa til mændenes drot Agamemnon:\
+«Si, hvo er *du* som vandrer ved skibsleirens snekker alene\
+nu i den belgmørke nat, naar andre kan hvile i søvnen?\
+Leter du efter en ven eller efter et muldyr du mistet?\
+Tal, og nærm dig ikke saa tyst! Hvad er det du ønsker?»
+
+Straks tok mændenes drot Agamemnon til orde og svarte:\
+«Nestor, Nelevs' søn, akaiernes stolthet og hæder!\
+Vit, jeg er Atrevs' søn Agamemnon, han som den strenge\
+Zevs har styrtet i endeløs nød, saalænge min bringe\
+rummer et pust av liv og knærne endnu kan bøies.\
+Vildsomt vanker jeg om; ti jeg faar ikke blund paa mit øie.\
+Tungt paa mit sind ligger krigen og alt hvad akaierne lider;\
+ti for danaerne gruer jeg svart, og hvile for sindet\
+finder jeg ikke, kun uro og kval. Mit hjerte vil angstfuldt\
+sprænge mit bryst, og nu skjælver av gru mine kraftige lemmer\
+Hvis du har lyst paa en daad, da du selv ei heller kan sove,\
+kom da med mig! La os gaa for at mønstre de utsatte vakter,\
+om de til overmaal trætte og kuet omsider av søvnen\
+kanske har lagt sig til hvile og glemt at passe sit vakthold.\
+Fiendens stridsmænd sitter jo nær. Hvem vet om de ikke\
+endnu kanhænde inat faar lyst til at gaa os paa livet?»
+
+Derpaa tok Nestor til orde, den gamle gereniske vognhelt:\
+«Atrevs' herlige søn, stormægtige drot Agamemnon!\
+Zevs, den alvise drot, vil neppe fuldbyrde for Hektor\
+alt hvad han sagtens har haab om. Jeg tror at han selv skal faa føle\
+sorger og motgang større end før, naar engang Akillevs\
+bøier sit sind og vender sin hu fra vreden den grumme.\
+Ja, jeg skal gjerne slaa følge; men la os faa vækket de andre,\
+Tydevs' lansesvingende søn og den gjæve Odyssevs,\
+Fylevs' søn, hin kjæmpe i kraft, og den fotrappe Aias.\
+Godt var det ogsaa om én vilde haste avsted for at hente\
+Aias, saa sterk som en gud, og Idómenevs, kreternes konge.\
+Veien er ikke saa kort; deres fartøier ligger jo ytterst.\
+Men skjønt jeg elsker og agter ham høit, kan jeg ikke fordølge,\
+selv om det vækker din harm, at jeg laster din bror Menelaos,\
+naar han kan sove og rolig la *dig* alene om slitet.\
+Gjøre sit ytterste burde han nu hos samtlige fyrster,\
+trygle og be; ti nu er vi stedt i utaalelig trængsel.»
+
+Atter tok mændenes drot Agamemnon til orde og svarte:\
+«Selv har jeg lyst til at be dig om ellers at laste ham, gubbe;\
+ti han er ofte for slap og vil vanskelig vaage et tiltak,\
+ikke fordi han er træg og ikke har skjøn paa det rette;\
+nei, men han vogter paa *mig* og venter at *jeg* skal begynde.\
+Dennegang vaaknet han længe før jeg og kom til mit leie.\
+Netop til dem som du nævnte mig nys, har jeg sendt ham med budskap.\
+La os da gaa! Vi træffer dem vel hist utenfor porten\
+midt iblandt vogternes flok; ti der har jeg sagt de skal møte.»
+
+Atter tok Nestor til orde, den gamle gereniske vognhelt:\
+«Ja, er det saa, nuvel, da kan ingen argeier med rette\
+laste hans færd eller sætte sig op mot hans bud og befaling.»
+
+Saaledes talte den gamle og spændte sin kjortel om bringen,\
+bandt under skinnende føtter de skjønne sandaler og fæstet\
+om sine skuldre med naalen av guld sin kappe av purpur,\
+dobbelt og vid, av fineste uld og laadden i tøiet,\
+fattet i haanden sit spyd med den hvæssede malmodd, og begge\
+hastet saa ilsomt avsted langs akaiernes tjærede snekker.\
+Høilydt ropte nu Nestor, den gamle gereniske vognhelt,\
+først paa Odyssevs og vækket hin Alfaders like i klokskap\
+op av hans søvn. Han kjendte hans røst, da den naadde hans øre.\
+Straks kom han ut av sit telt og vendte sig til dem og spurte:\
+«Si, hvorfor vanker I om mellem skibsleirens snekker alene\
+nu i den belgmørke nat? Hvad nød er nu atter paa færde?»
+
+Nestor, den hestetumlende helt, tok atter til orde:\
+«Høibaarne søn av Laertes, du raadsnare kloke Odyssevs!\
+Bli ikke vred; ti av trykkende nød blir akaierne kuet.\
+Kom, saa vækker vi ogsaa de øvrige mænd som bør drøfte\
+klokt i det samlede raad om vi nu skal fly eller kjæmpe.»
+
+Saa han talte, og ind i sit telt gik helten Odyssevs,\
+hængte om skuldren det blinkende skjold og fulgte de tvende.\
+Derefter kom de til Tydevs' søn Diomedes og fandt ham\
+liggende utenfor teltet med vaaben ved siden. Hans svende\
+sov omkring ham og hvilte det mødige hode paa skjoldet.\
+Lanserne strittet paa rad med dopskoen fæstet i jorden.\
+Vidthen lyste som Alfaders lyn det luende kobber.\
+Høvdingen sov paa den utbredte hud av en utæmmet okse.\
+Under hans hode var lagt et kostelig, straalende teppe.\
+Hen til ham traadte nu Nestor og vækket ham varlig med foten,\
+skyndte saa paa ham med manende ord og refsende tale:\
+«Tydevs' søn, vaakn op! Hvi sover du natten til ende?\
+Hører du ei at troernes hær er leiret paa haugen\
+nær vore snekker? Det rum som skiller os fra dem, er litet.»
+
+Saa han talte. Med ilende hast for straks Diomedes\
+op fra sin slummer og talte med vingede ord til den gamle:\
+«Gubbe! utrættelig er du forvisst. Du hviler jo aldrig.\
+Findes da ei i akaiernes leir mangfoldige yngre\
+som kunde haste omkring overalt og vække hver enkelt\
+av vore konger? Nei gubbe, mot dig kan ingen sig verge.»
+
+Nestor, den hestetumlende helt, tok atter til orde:\
+«Ja, jeg maa si du har ret, min søn, i alt hvad du nævnte.\
+Selv har jeg herlige sønner og mandige stridsmænd i mængde.\
+Somme av dem maatte jo kunne gaa og kalde til møtet.\
+Dog, akaierne trykkes saa tungt av nøden den haarde;\
+ti paa en knivsegg vipper det nu, om døden den grumme\
+snart blir alle akaiernes lod, eller livet kan bjerges.\
+Vel, du er yngre end jeg; vil du spare en olding, saa skynd dig\
+hen for at vække hin Fylevs' søn og den fotrappe Aias.»
+
+Saa han talte. Da slængte hin helt om skuldre en brandgul\
+løvehud, stor saa den rak til hans fot, og grep om sin lanse.\
+Saa gik han hastig avsted og vækket og samlet de andre.
+
+Men da de alle kom frem og møttes hvor vakten var samlet,\
+fandtes der ingen som sov paa sin post av vakternes formænd.\
+Alle var vaakne og sat i en kreds med vaaben og verge.\
+Likesom hunder som vogter paa kve det vernløse smaafæ,\
+straks spidser ører ved vilddyrets brøl, naar det stormer fra fjeldet\
+ned gjenenm skogen — en frygtelig larm av mænd og av hunder\
+reiser sig straks ved dets komme, og ingen kan længer faa sove —\
+likesaa lidt fik førernes flok en blund paa sit øie,\
+mens de holdt vakt i det natlige mulm; ti altid mot sletten\
+vendte de sig og lyttet om troernes skridt kunde høres.\
+Gubben blev hjertelig glad, da han saa dem. Venlig han styrket\
+svendenes mod med vingede ord og talte iblandt dem:\
+«Dette er godt, mine barn! Hold omhyggelig vakt, og la ingen\
+falde i søvn til hjertelig fryd for fiender falske.»
+
+Saa han talte og sprang over voldgraven, fulgt av de andre\
+konger fra Argos, saa mange som nys var stevnet til raadet.\
+Nestors herlige søn og Meriones sluttet sig til dem;\
+ti de blev kaldt av kongerne selv til at raadslaa i møtet.\
+Da de kom over den vældige grav, gik alle til sæte\
+der hvor marken var bar og fri for lik av de faldne.\
+Her hadde Hektor omsider holdt op at fælde for fote\
+Argos' mænd, da det natlige mulm sank ned over sletten.\
+Der tok fyrsterne plads og pleiet saa raad med hverandre.\
+Vognhelten Nestor var den som først tok ordet iblandt dem:\
+«Er der da ei, mine venner, iblandt os nogen som vaager\
+freidig, med frygtløst sind, en færd til de modige troer?\
+Kanske han fik i sin vold en fiende ytterst i leiren,\
+eller fik luret sig til at høre paa troernes tale,\
+det som de drøfter i raadet inat, om de agter at vente\
+her ved skibene fjernt fra Ilios, eller vil drage\
+hjemad til byen i ro, da akaiernes fylking er slagen.\
+Kanske han skaffet sig nys om alt og vendte tilbake\
+uskadt til os. Blandt menneskers slegt under himmelen vide\
+vandt han det herligste ry og kostelig gave tillike.\
+Ti saa mange her er av fyrster som raader for skibe,\
+skulde hver eneste drot gi helten et faar til foræring,\
+sort og med diende lam, det herligste eie som findes.\
+Bydes til lag og til gilde som hædersgjest skulde han altid.»
+
+Saa han talte, og stille og tyst sat alle i kredsen.\
+Da tok den høimælte helt Diomedes til orde og mælte:\
+«Nestor, mig byder mit sind og det modige hjerte at drage\
+ind i troernes leir blandt fienden her i vor nærhet.\
+Var her nu ogsaa en anden som villig slog følge paa færden,\
+gav det jo større fortrøstning og tryggere tillid i faren.\
+Naar der er to som gaar til en dyst, saa kappes de begge,\
+en med den anden om det som er bedst; men er manden alene,\
+rækker hans tanke for kort, og hans kløkt kan lettelig klikke.»
+
+Saa han talte, og mangen en helt vilde gjerne slaa følge.\
+Villig var krigsgudens svende de tvende Aianter til færden.\
+Villig var Nestors søn, og Meriones ønsket det ivrig.\
+Villig var Atrevs' søn, den mandige helt Menelaos.\
+Villig var ogsaa Odyssevs, den haardføre helt, til at gjeste\
+troernes leir; ti utæmmelig mod var gjemt i hans bringe.\
+Derpaa tok mændenes drot Agamemnon til orde og mælte:\
+«Tydevs' søn Diomedes, som er mig saa kjær i mit hjerte.\
+Vel, din følgesvend kan du jo nu faa valgt som du lyster,\
+den som er gjævest av alle du ser; ti mange er rede.\
+Nu maa du ikke la blygsel faa blændet dit blik, saa du vraker\
+den som er bedst og vælger av blu en ringere fælle,\
+bare fordi han er gjævest av byrd og større blandt konger.»
+
+Saa han talte i angst for sin lyslette bror Menelaos.
+
+Da tok atter den høimælte helt Diomedes til orde:\
+«Dersom I selv gir mig lov til frit at vælge min fælle,\
+hvorledes skulde jeg da kunne glemme den kjække Odyssevs,\
+han som i fare og nød har mod og manddom i brystet\
+mere end nogen og elskes saa høit av Pallas Atene?\
+Ja, dersom han vil gaa med, da kommer vi begge tilbake\
+selv gjennem luende ild; ti i kløkt er ingen hans like.»
+
+Nu tok den haardføre helt Odyssevs til orde og mælte:\
+«Tydevs' søn, du kan spare dig her baade lovord og klander;\
+ti blandt argeierne taler du jo, som vet hvad jeg duger.\
+Kom la os gaa. Langt er det paa nat, og snart er det morgen.\
+Langt har stjernerne vandret, og endt har natten de tvende\
+dele av løpet; kun en av de tre har vi endnu tilbake».
+
+Saa de talte og akslet sin krigerske rustning. Da laante\
+Nestors søn Trasymedes et skjold og et tveegget slagsverd\
+til Diomedes; ti selv lot høvdingen vaaben og verge\
+ligge tilbake ved snekken. Saa satte han hjelm paa hans hode,\
+virket av hud av en okse. Ei hadde den bøiler og hjelmbusk.\
+Stormhue kaldes den helst, et vern for krigeres isse.\
+Likesaa rakte Meriones frem til den gjæve Odyssevs\
+bue og kogger og sverd og satte en hjelm paa hans hode,\
+virket av lær og paa indsiden stramt forbundet med remmer\
+utspændt paa kryds og paa tvers; men ytterst var stormhuens runding\
+prydet i række og rad med vildsvinets skinnende tænder\
+ordnet med mesterlig kunst. Med bløteste filt var den foret.\
+Kjæmpen Avtolykos tok den tilforn som rov da han trængte\
+ind i Eleon og plyndret Amyntors borg. Til Kytera\
+sendte han den, til helten Amfidamas, Skandeias konge.\
+Drotten Amfidamas gav den som skjænk til sin gjesteven Molos.\
+Sønnen Meriones fik den av ham, og nu blev den varlig\
+trykket som tryggeste vern om helten Odyssevs' hode.
+
+Men da de endelig begge var klædt i den krigerske rustning,\
+skiltes de der fra fyrsternes kreds og gav sig paa færden.\
+Pallas gav begge et lykkebud med; ti hun sendte en heire\
+nær deres vei til høire. Med øinene saa de ei fuglen\
+nu i den belgmørke nat; men de hørte dens gjaldende varsel.\
+Glad blev Odyssevs ved tegnet og bad til den høie Atene:\
+«Hør mig, du aigissvingerens barn som altid i faren\
+staar ved min side og vogter min færd med naaderikt øie.\
+Vær mig nu huld som tilforn og hjælp mig kjærlig, Atene!\
+Und os at komme tilbake til skibsleirens snekker med hæder.\
+Und os at øve et storverk som troerne længe vil mindes.»
+
+Derefter talte og bad den høimælte helt Diomedes:\
+«Hør ogsaa mig, du datter av Zevs, som aldrig kan trættes.\
+Følg nvi mig, som du fulgte min far, den herlige Tydevs,\
+dengang han drog til Teben avsted med akaiernes budskap.\
+Freidig forlot han den malmklædte hær ved Asopos og bragte\
+tilbud om fred og forlik til kadmeionernes stormænd.\
+Men paa hjemveien øvet han grufulde heltebedrifter\
+sammen med dig, gudinde; ti *du* stod huldt ved hans side.\
+Aa, vær likesaa naadig mot mig! Staa hos mig og verg mig!\
+Da skal jeg gi dig som offer en bredpandet, utæmmet kvie,\
+aarsgammelt dyr som aldrig en mand har ført under aaket.\
+Den skal jeg ofre, og helt med guld skal hornene dækkes.»
+
+Saaledes bad de, og bønnen blev hørt av Pallas Atene.\
+Men da de nu hadde bedt til den vældige Alfaders datter,\
+skyndte de sig i den belgmørke nat som glubende løver\
+hen gjennem mord og lik, over vaaben og blodet det sorte.
+
+Likesaa litt lot Hektor de modige troer faa sove.\
+Alle de gjæveste mænd lot han samles og stevnet til møte,\
+troernes helter, de første i krig og de første i raadet,\
+og i forsamlingen redet han ut sine kløktige planer:\
+«Hvem vil holde sit ord, naar han lover mig mandig at øve\
+storverk for kostelig skjænk. Forvisst skal han rundelig lønnes;\
+ti jeg skal gi ham en vogn og to høimankede hester,\
+ypperst av alle i løp ved akaiernes letrodde snekker,\
+dersom han drister sig til en daad, som vil bringe ham hæder,\
+og tør vaage sig frem til de hurtige skibe og speide\
+om der endnu, som før, staar vakt ved skibenes række,\
+eller om mændene, kuet av os med vældige næver,\
+rædde maa raadslaa om flugt og mættet av mathet og møie\
+ikke har vilje og kraft til natten igjennem at vaake.»
+
+Saa han talte, og stille og tyst sat alle i kredsen.\
+Men iblandt troerne var der en søn av herolden Evmedes,\
+Dolon ved navn, en mand som var rik paa guld og paa kobber.\
+Styg var kjæmpen av aasyn og vekst, men rap til at løpe.\
+Selv var han eneste søn; men fem i tal var hans søstre.\
+Nu tok han ordet i troernes kreds og talte til Hektor:\
+«Hektor, mig byder mit mandige mod og hjerte at drage\
+hen til de letrodde snekker paa vaagelig færd for at speide.\
+Vel, men først maa du løfte din stav og love at gi mig\
+vognen beslaat med den skinnende malm og de vælige hester,\
+gangernes tvespand som trækker for karm den stolte Peleide.\
+Ei skal jeg speide forgjæves. Dit haab skal ikke bli skuffet.\
+Tvers gjennem skibsleiren sniker jeg mig, saa langt til jeg kommer\
+frem til kong Agamemnons skib, hvor de ypperste helter\
+ventelig nu holder raad, om de straks skal fly eller kjæmpe.»
+
+Saa han talte, og Hektor svor med staven i hænde:\
+«Heras husbond, den tordnende Zevs, skal være mit vidne:\
+Ei skal en anden av troernes mænd faa kjøre hint tvespand.\
+Stolt skal du altid faa styre det selv, det lover jeg hellig.»
+
+Saa han talte og fristet med ed som han ei kunde holde.\
+Hængte da Dolon om skuldrene straks den krummede bue,\
+slængte saa om sig det graagule skind av en ulv, og paa hodet\
+satte han hjelmen av maarskind og fattet om spydet det hvasse.\
+Derefter løp han mot skibene hen fra leiren; men aldrig\
+skulde han vende tilbake og melde til Hektor sit budskap.\
+Da han fik trængt sig frem gjennem vrimlen av hester og stridsmænd,\
+gav han sig trøstig paa vei; men helten den gjæve Odyssevs\
+hørte den kommendes skridt og mælte til Tydevs' ætling:\
+«Lyt, Diomedes! hist kommer en mand fra troernes leirplads.\
+Ei kan jeg vite forvisst om han agter at speide ved flaaten\
+eller det kun er en tyv, som yil plyndre de faldne paa valen.\
+La os nu slippe ham frem et stykke forbi os paa sletten.\
+Saa skal vi kaste os mot ham med ett, og da kan vi kanske\
+ta ham til fange; men er han for rap, saa vi kan ikke naa ham,\
+træng da paa ham med lansen, og jag ham altid mot flaaten,\
+bort fra hans landsmænds leir, saa han ikke kan flygte til byen.»
+
+Saa han talte. De vek fra sin vei og lagde sig begge\
+ned mellem lik, mens Dolon i daarskap ilte forbi dem.\
+Men da han kom saa langt som mulæsler uten at hvile\
+velter med plogen sin fure i muld — ti raskere trækker\
+mulernes spand den kraftige plog end langsomme okser —\
+styrtet de frem. Han stanset sin gang ved lyden av fotslag;\
+ti i sit inderste haabet han først at troiske venner\
+ilte paa Hektors bud for at kalde ham hastig tilbake.\
+Dog, da de kom saa nær at der knapt var et spydkast imellem,\
+saa han med gru at fiender kom, og han rørte de rappe\
+føtter til flugt, og i jagende fart for heltene efter.\
+Som naar et hundepar, øvet i jagt og med tænder saa hvasse,\
+følger en raa eller hare og uten et øiebliks hvile\
+jager i skogen det flygtende vildt som skriker i dødsangst,\
+saaledes trængte nu Tydevs' søn og den barske Odyssevs\
+flygtningen bort fra hans fæller og jaget ham uten at hvile.\
+Men da saa manden paa flugt mot skibene snart maatte komme\
+frem til akaiernes vakt, da skjænket den høie Atene\
+Tydevs' søn den ubændigste kraft, forat ingen akaier\
+stolt skulde si at han rammet ham først, og at han blev den anden.\
+Styrtet da straks Diomedes med lansen imot ham og ropte:\
+«Stans, hvis ikke mit spyd skal ramme dig. Trygt tør jeg paastaa:\
+Længe sparer min næve dig ei for døden den bratte.»
+
+Saa han talte og slynget sit spyd, men feilet med vilje.\
+Spydskaftets hvæssede odd for hen over skuldren til høire\
+ned i jorden og boret sig fast. Da skalv han og stanset\
+likblek av rædsel. Hans tunge slog klik, og stymperens tænder\
+klapret i munden. De naadde ham snart forpustet og fattet\
+begge hans arme. Da brast han i graat og bad dem saa bønlig:\
+«Fang mig og spar mit liv! Jeg skal kjøpe mig løs; ti jeg eier\
+kobber og guld og kostelig jern som en mester har hamret.\
+Derav sender min far jor straks umaadelig løsning,\
+hvis han faar spurt at I sparte mit liv ved akaiernes skibe.»
+
+Da tok den raadsnare helt Odyssevs til orde og svarte:\
+«Vær du kun trøstig og gi ikke dødsfrygt rum i dit hjerte.\
+Si mig nu bare, og la hvert ord være sandt som du sier:\
+Hvi har du listet dig hit fra din leir til flaaten alene\
+nu i den belgmørke nat, naar mennesker ellers kan sove?\
+Kommer du lumsk for at plyndre paa val et lik av en kriger?\
+Kommer du hit av dig selv, eller sendte kanhænde den gjæve\
+Hektor dig ut som speider inat til de stavnhøie snekker?»
+
+Derpaa tok Dolon med skjælvende knær til orde og svarte:\
+«Hektor har lokket mit sind med mangfoldige daarende tilsagn.\
+Høit og dyrt har han lovet at gi mig den gjæve Peleides\
+fotrappe hester til løn og dertil hans malmsmykte stridsvogn.\
+Ut i den belgmørke ilende nat har han budt mig at drage\
+dit hvor fienden ligger i leir og skaffe mig kundskap\
+om der endnu som før staar vakt ved de hurtige snekker,\
+eller om mændene, kuet av os med vældige næver,\
+rædde maa raadslaa om flugt og mættet av mathet og møie\
+ikke har vilje i bryst til natten igjennem at vaake.»
+
+Smilende svarte igjen den raadsnare høvding Odyssevs:\
+«Sandelig var det da svare til løn du lystet at vinde,\
+selve den kamplystne helt Akillevs' hester! For brysomt\
+blev det for dødelig mand at tæmme og styre dem. Ingen\
+magter det uten Akillevs som har til mor en gudinde.\
+Si mig igjen, og la hvert et ord være sandt som du sier:\
+Hvor forlot du hin folkenes drot, den straalende Hektor?\
+Hvor er hans krigerske vaaben, og hvor er hans fotrappe hester?\
+Passer de øvrige troer sin vakt, eller gik de til hvile?\
+Si, hvad de drøfter i mændenes raad, om de agter at vente\
+her ved skibene fjernt ifra Ilios, eller vil drage\
+hjemad i ro til sin by, da akaiernes fylking er slagen.
+
+Atter tok Dolon, Evmédes' søn, til orde og svarte:\
+«Ja, jeg skal svare paa alt og ikke fordølge det mindste.\
+Hektor og samtlige høibaarne mænd som har sæte i raadet,\
+holder nu møte og raadslaar hist ved Ilos' gravhaug,\
+fjernt ifra larmen; men spør du om vakterne, helt, skal du vite:\
+Slet ingen poster er stillet paa vakt og verner om leiren.\
+Hist hvor baalene blusser, er troerne vaakne; ti faren\
+tvinger dem til det, og mændene ber hverandre at vaake.\
+Men de stridsmænd som kaldtes til hjælp fra fremmede byer,\
+hviler i søvn; for vakthold inat lar de troerne sørge.\
+Hustruer har de jo ei eller barn som her er til huse.»
+
+Derefter talte den raadsnare helt Odyssevs og spurte:\
+«Sover da hjælperne nu blandt de hestetumlende troer,\
+eller i leir for sig selv? Giv grei besked, saa jeg vet det.»
+
+Atter tok Dolon, Evmédes' søn, til orde og svarte:\
+«Grei og sandfærdig besked skal jeg gi dig ogsaa om dette.\
+Hist ved havet er leiret paioner med krummede buer,\
+karer, leleger, kavkoner og tapre pelasgiske stridsmænd,\
+hestetumlende fryger og gjæve maioniske kjæmper.\
+Fjernt ved Tymbra fik lykier plads og de navngjetne myser.\
+Dog, hvad tjener det til at spørre saa nøie om dette?\
+ti hvis I agter at vaage jer ind i troernes skarer,\
+kom jo trakerne nys og leiret sig ytterst av alle.\
+Resos er trakernes drot, Eiónevs' herlige ætling.\
+Ei har jeg set slike hester som hans, saa store og skjønne.\
+Hvitere er de end sne og rappe som susende stormvind.\
+Kostelig prydet med guld og med sølv er høvdingens stridsvogn.\
+Klædt i en kjæmpestor rustning av guld et under at skue,\
+kom han til troernes leir. Saa pragtfulde vaaben bør ingen\
+dødelig mand kunne bære, men ikkun de salige guder.\
+Aa, men ta mig og før mig nu bort til de hurtige snekker,\
+ja, eller la mig faa bli hvor jeg er i grusomme lænker,\
+indtil I kommer tilbake og selv har skaffet jer visshet\
+om hvert ord som jeg nu har fortalt er sandt eller ikke.»
+
+Men Diomedes maalte ham barsk med blikket og svarte:\
+«Dolon! har vi dig nu i vor magt, saa la ikke hjertet\
+ramme en tanke paa flugt, skjønt glædelig budskap du bragte.\
+Dersom du nu fik kjøpe dig løs, eller slap os av hænde,\
+kom du saavisst igjen til akaiernes hurtige snekker\
+enten som speider paany eller ogsaa til aapenlys feide;\
+men hvis du nu maa late dit liv for min kraftige næve,\
+kommer du aldrig paany til at volde argeierne skade.»
+
+Saa han talte. Da prøvde den bedende Dolon at røre\
+ydmyg hans hake med haanden; men høvdingen hugg ham med sverdet\
+tvers over halsen og kløvde med slagsverdet begge hans sener.\
+Rallende skrek han, da hodet faldt ned og rullet i støvet\
+Hjelmen av maarskind løste de først fra hans hode, og derpaa\
+tok de hans ulveskinds kappe, hans haardspændte bue og lansen.\
+Løftet da helten Odyssevs mot hærfangsgudinden Atene\
+høit deres bytte paa arm, og bedende tok han til orde:\
+«Glæd dig gudinde ved dette; ti først blandt olympiske guder\
+ofrer og ber vi til dig. Aa, følg os nu atter i naade\
+frem til troernes sovende mænd og vælige hester!»
+
+Saaledes lød hans bøn, og han hængte det blodige hærfang\
+op paa en høi tamarisk og sanket til tydelig merke\
+rør i en haug, og av busken han brøt de blomstrende grener,\
+forat de ei skulde gaa det forbi paa sin hjemfærd om natten.\
+Videre vandret de saa over blod og henslængte vaaben.\
+Snart kom heltene dit, hvor trakernes fylker var leiret.\
+Opgit av træthet sov de nu tungt, og de herlige vaaben\
+lyste i tredobbelt rad paa marken ved kjæmpernes side.\
+Nær ved enhver av de sovende mænd stod tvespandet bundet.\
+Resos var sovnet i krigernes kreds, og hans fotrappe hester\
+stod ved hans side. Til stridsvognens karm var de bundet med remmer.\
+Først blev Odyssevs ham var og pekte paa ham for sin fælle.
+
+«Her er han selv, Diomedes, og der er hans vælige hester,\
+hingstenes par som Dolon har talt om, han som vi dræpte.\
+Vis nu din vældige kraft! ti haandfalden bør du dog ikke\
+staa der med vaaben i haand. Saa løs da hans hester fra vognen\
+eller slaa løs paa hans mænd, saa sørger jeg selv for hans hester.»
+
+Saa han talte, og kræfter og mod gav Pallas sin yndling.\
+Fiender vog han til høire og venstre. De døendes rallen\
+lød hvor hans slagsverd faldt, og rød blev marken av blodet.\
+Som naar en løve har fundet en flok av vergeløst smaafæ,\
+faar eller gjeter, og grisk styrter frem og fælder for fote,\
+saaledes for Diomedes omkring blandt troernes kjæmper,\
+indtil han tolv hadde dræpt, og saasnart Diomedes' slagsverd\
+rammet med dræpende hug, saa grep den kloke Odyssevs\
+straks den faldne ved foten og slæpte ham bort; ti i tanken\
+drøftet han slu hvordan hestenes spand med de flagrende manker\
+let kunde føres igjennem og ikke bli sky, naar de maatte\
+gaa over blodige lik; til slikt var de endnu for uvant\
+Men da saa Tydevs' søn hadde naadd den sovende konge,\
+hugg han for trettende gang og røvet ham livet det søte,\
+just som han stønnet; ti Oinevsætlingen stod ved Atenes\
+mægtige bud som en skræmmende drøm ved hans hode i mørket.\
+Helten Odyssevs løste imens de stampende hester,\
+koblet dem sammen med remmer og drev dem saa ut gjennem skaren,\
+og av hans buesnor fik de et rap; ti den skinnende svepe\
+sanset han ikke at gripe med haand fra den straalende vognkarm\
+Plystrende gav han et tegn til sin ven Diomedes; ti denne\
+nølte i tvil om det vaagsomste verk, om han først skulde røve\
+vognen hvor rustningen laa og trække den bort efter stangen\
+eller faa løftet den op og baaret den bort gjennem skaren,\
+eller kanhænde faa røvet end fler av troerne livet.\
+Mens han i tankerne tumlet med slikt, kom Pallas Atene\
+nær ham og rettet et ord til den herlige helt Diomedes:\
+«Tænk nu paa hjemfærd i tide, du søn av den modige Tydevs;\
+ellers du kunde saa let komme hjem til flaaten som flygtning,\
+dersom kanhænde en gud skulde vække de sovende troer.»
+
+Saaledes lød hendes ord. Han hørte gudinden og lystret,\
+Ilsomt steg han til hest. Da snertet Odyssevs med buen\
+gangernes ryg, og de fløi som en vind til akaiernes snekker.
+
+Ei stod Apollon med buen av sølv paa vakt som den blinde,\
+da han fik se Diomedes i følge med Pallas Atene.\
+Vred paa gudinden ilte han ned til troernes vrimmel,\
+vækket saa først den gjæve Hippokoon, trakernes høvding,\
+Resos' fætter, av søvne. Han skyndte sig op fra sit leie,\
+og da han saa at pladsen var tom hvor de fotrappe hester\
+nys hadde staat, og de myrdede mænd som sprællet i dødskamp,\
+sukket han tungt og kaldte ved navn sin elskede frænde.\
+Troerne styrtet med skingrende skrik i vildeste tummel\
+sammen og stirret paa mændenes verk, den grufulde udaad\
+som de fornys hadde øvet, før hjemad til flaaten de stevnet.
+
+Men da de naadde til stedet hvor Hektors speider var fældet,\
+stanset Odyssevs, hin yndling av Zevs, de hurtige hester.\
+Ned til jord sprang Tydevs' søn og rakte Odyssevs\
+krigerens blodige rustning og hoppet igjen paa sin ganger.\
+Gav han saa begge et rap, og villige fløi de som vinden\
+hen til de stavnhøie snekker; ti derhen stod al deres higen.\
+Først var det Nestor som hørte de drønende hovslag og mælte:\
+«Venner, argeiernes fyrster i kamp og formænd i raadet!\
+Skal jeg faa ret eller ikke? Mit hjerte mig byder at tale.\
+Larmen av travende gangere naar just nu mine ører.\
+Gid det var Tydevs' søn som kom og den gjæve Odyssevs\
+hit fra troernes leir med en fangst av fotrappe foler.\
+Dog, i mit sind maa jeg grue av angst for at vanheld har rammet\
+Argos' tapreste mænd i troernes larmende tummel.»
+
+Neppe var ordene sagt, før heltene selv var tilstede.\
+Ned fra hestene steg de paa jord, og vennerne hilste\
+glade de to med venlige ord og rakte dem haanden.\
+Først tok Nestor, den graanede helt, til orde og spurte:\
+«Si mig, Odyssevs, du navngjetne helt, akaiernes stolthet.\
+Hvor har I faat saa herlig et spand? Har I virkelig gjestet\
+troernes leir, eller er det en skjænk fra en gud som har møtt jer!\
+Grant de ligner i blændende glans det straalende sollys.\
+Troerne møter jeg stadig i strid og vet at jeg aldrig\
+nøler ved flaaten, skjønt olding forlængst og graanet i krigen.\
+Dog, mine øine har endnu ei set saa herlige hester.\
+Nei, jeg maa tro I har møtt en gud som skjænket jer gaven.\
+Høit er I begge jo elsket av Zevs som troner i skyen,\
+elsket tillike av Alfaders barn, den blaaøide Pallas.»
+
+Nu tok Odyssevs, den raadsnare helt, til orde og svarte:\
+«Nestor, du Nelevs' søn, akaiernes stolthet og hæder.\
+Lettelig kunde en gud, hvis han vilde det, skjænke som gave\
+ædlere hester end disse; ti størst er gudernes vælde.\
+Disse du spør om, gubbe, er hester som nylig er kommet\
+hit fra Trakien. Tydevs' søn har dræpt deres eier.\
+Tolv av hans krigere vog han, de ypperste mænd i hans følge,\
+og som den trettende fældte vi nær ved flaaten en speider,\
+en som Hektor fornys og de øvrige troiske fyrster\
+sendte avsted til vor leir for at se hvad vi nu hadde fore.»
+
+Saa han talte, og lydt han lo, da han jog over graven\
+hestenes travende spand, og akaierne fulgte ham glade.\
+Men da de snart hadde naadd Diomedes' prægtige leirtelt,\
+bandt de Resos' tvespand med veltilsnittede remmer\
+fast ved hestenes krybber, hvor alt Diomedes' egne\
+fotrappe gangere stod og tygget den deilige hvete.\
+Agter i bakstavnen gjemte imens den gjæve Odyssevs\
+Dolons blodige rustning som offer til Pallas Atene.\
+Derefter vadet de ut i det bølgende saltvand og vasket\
+strømmende sved fra nakke og ryg, fra lægger og lænder.\
+Men da de kjølige bølger fra sjø hadde skyllet den salte\
+sved fra den mødige krop, og friskere slog deres hjerte,\
+steg de til styrkende bad i karrene skinnende blanke,\
+og da de begge var tvættet i bad og salvet med olje,\
+satte de sig til sit maaltid og øste av bollen den fulde\
+honningsøt vin og bragte til tak Atene et offer.

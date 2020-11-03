@@ -1,0 +1,571 @@
+# Sjette sang. *Møtet mellem Hektor og Andromake.*
+
+[G]{.initial}uderne svandt fra akaiernes strid med troernes helter.\
+Kampene raste dog vildt over slagmarken frem og tilbake,\
+medens de møtte hverandre i strid med de malmhvasse lanser\
+midt mellem Simoeis' strøm og Ksantos' hvirvlende vande.
+
+Først brøt Aias, akaiernes vern, hin Telamons ætling,\
+vei gjennem troernes hær, og vennerne bragte han redning;\
+ti han fik fældet en helt som var trakernes ypperste høvding,\
+Akamos, vældig og sterk, en søn av den gjæve Evsoros.\
+Først fik han ram paa hans hjelm med den flagrende hestehaars hjelmbusk\
+like i skjærmen. I panden han traf, og tvers gjennem benet\
+boret sig kobberets odd, og dødsmørket slørte hans øine.
+
+Derefter fældte den høimælte helt Diomedes den kjække\
+Aksylos, Tevtras' søn, hvis hjem var det skjønne Arisbe.\
+Rik var manden paa kostelig gods og av mennesker elsket;\
+ti i sit hus ved den alfare vei var han gjestmild mot alle.\
+Dog der var ingen av disse som stillet sig frem for at verne\
+helten mot jammerfuld død. Diomedes fik fældet dem begge,\
+baade ham selv og hans væbner Kalesios, svenden som styrte\
+hestenes vælige spand. Nu styrtet de begge til jorden.
+
+Men for Evryalos' spyd Ofeltios segnet og Dresos.\
+Derefter vog han Aisépos og Pedasos, brødre som nymfen\
+Abarbarea tilforn den gjæve Bukolion fødte.\
+Helten Bukolion selv var Laomedons søn, og den ældste\
+var han av høvdingens barn, men hans mor hadde født ham i dølgsmaal.\
+Dengang han vogtet paa vang sine faar, hos nymfen han hvilte.\
+Snart hun følte sig mor og fødte ham tvillinger kjække.\
+Dog, deres kraft blev brutt og de straalende lemmer blev lammet\
+nu av Mekistevs' søn, og han rev deres rustning av skuldre.
+
+Drotten Astyalos faldt for den krigerske helt Polypoites;\
+men av Odyssevs blev dræpt Pidytes, en helt fra Perkote,\
+rammet av kobberets odd. Aretaon blev fældet av Tevkros.\
+Nestors søn Antilokos vog med den blinkende lanse\
+helten Ableros, og mændenes drot Agamemnon fik fældet\
+Elatos, drotten hvis hjem var i Pedasos, fjernt ved den klare\
+Satnioeis' bred; men Leitos støtte paa flugten\
+Fylakos ned. Evrypylos tok Melantios' rustning.
+
+Men Menelaos, den høimælte drot, tok helten Adrastos\
+uskadt til fange; ti sky løp hestene hen over sletten\
+tørnende haardt mot en gren av en tæt tamarisk, saa de knækket\
+stangen for stridsvognens buede karm. Saa for de til byen,\
+dit hvor ogsaa de andre ustyrlige hester tok flugten.\
+Selv blev han slynget fra vognen og faldt paa sit ansigt i støvet\
+forover like ved hjulet; men Atrevs' søn Menelaos\
+skyndte sig hen til den faldne og svang sin vældige lanse.\
+Tryglende favnet Adrastos hans knæ og bad ham om naade:\
+«Spar mig Atrevs' søn, og ta mine skatte som løsning!\
+Meget og kostelig gods har min grundrike far i sit eie,\
+kobber og guld og jern, som smedene kunstfærdig hamret.\
+Visselig skjænket min far dig herlige gaver til gjengjæld,\
+hvis han fik spurt at du sparte mit liv ved akaiernes skibe.»
+
+Bedende talte han saa og rørte hans hjerte i barmen.\
+Just vilde høvdingen byde sin svend at føre den fangne\
+hen til akaiernes snekker; men folkenes drot Agamemnon\
+skyndte sig ilsomt imot ham og refset ham haardt i sin tale:\
+«Aa Menelaos, min ven, hvor kan dog fiender vække\
+ynk i din sjæl? Forvisst i dit hjem har troerne øvet\
+priselig verk. Maatte ingen av dem kunne fly for den bratte\
+død for vor haand, nei ikke engang hvad en mor under hjerte\
+bærer av mandkjøn. Selv fostret maa dø! Ja maatte de alle\
+ryddes av Ilios ut, ujordet og synke i glemsel.»
+
+Saaledes talte han myndig sin bror til rette og vendte\
+straks hans tanker og sind, og han støtte med haanden ifra sig\
+helten den gjæve Adrastos, og mændenes drot Agamemnon\
+gav ham i lysken et støt. Han faldt paa sin ryg, og Atreiden\
+satte sin hæl paa hans bryst og trak ut sin asketræs lanse.\
+Lydelig ropte nu Nestor til alle argeiernes stridsmænd:
+
+«Venner, danaiske helter, I Ares' stridsvante svende!\
+Ingen av jer maa kaste sig grisk over byttet og dvæle\
+bakerst, for selv at bringe den rikeste vinding til leiren.\
+Nei, la os først slaa mændene ned, saa kan I jo siden\
+plyndre i ro og mak de fældedes rustning paa sletten.»
+
+Saa han talte og kræfter og mod hos dem alle han vakte.\
+Atter var troernes hær av akaiernes krigerske fylking\
+jaget avsted paa feigeste flugt bak Ilions mure,\
+hvis ikke Hélenos, Priamos' søn, hin mester i sandsagn,\
+straks hadde skyndt sig med manende ord til Aineias og Hektor:
+
+«Hør mig, Aineias og Hektor; ti troers og lykiers kampe\
+hviler jo tungest paa jer. I alt hvor det gjælder et tiltak,\
+er I de bedste av alle, i kamp og i kløktige planer.\
+Stans nu her! Gaa om overalt og sørg for at holde\
+folket tilbake ved porten, før atter de flyr og umandig\
+synker i kvindernes arme til spot for fienders skarer.\
+Men saasnart I har egget til kamp vor samlede fylking,\
+saa skal vi andre forsvare os her mot danaernes rækker,\
+selv om de trænger os haardt; ti vi drives av nøden den tunge.\
+Skynd dig saa, Hektor, til byen imens og tal med vor fælles\
+mor og byd at hun straks skal samle de høibaarne kvinder\
+hist paa vor kneisende borg ved den blaaøide Pallas' tempel.\
+Der skal hun aapne med nøklen den hellige tempelhals dører,\
+og paa den haarfagre Pallas' fang skal hun lægge som gave\
+ydmyg det slør som hun tykkes er størst og yndigst av alle,\
+det som hun høiest har skattet av dem som hun gjemmer i hallen.\
+Saa skal hun love tillike at bringe i templet som offer\
+tolv utæmmede aarsgamle kjør, saafremt hun vil ynkes\
+over vor by, over troernes barn og kvinder, og verne\
+Ilions hellige by mot Tydevs' søn, mot den barske\
+lansesvingende helt, hin kjæmpe som slaar os med rædsel.\
+Sterkest er han, tør jeg si, av alle akaier; ti aldrig\
+gruet vi saa selv ei for hin vældige høvding Akillevs,\
+han som skal ha, som man sier, til mor en gudinde; men denne\
+stormer som rasende frem, og i styrke er ingen hans like.»
+
+Saa han talte, og Hektor, hans bror, tok raadet tilfolge.\
+Ned ifra stridsvognen sprang han til jord i skinnende rustning.\
+Svingende hvæssede spyd for han om overalt gjennem hæren,\
+eggende alle til strid, og han vakte det grufulde kampgny.\
+Troerne vendte sig raskt og holdt stand mot akaiernes fylking,\
+medens akaierne vek og stanset med blodige manddrap.\
+Visselig trodde de nu at en gud fra den straalende himmel\
+netop var kommet til troernes hjælp. Saa kjækt de sig vendte.\
+Ropte da Hektor med rungende røst til troernes fylking:
+
+«Modige troer, og I, vore hjælpere, navngjetne helter!\
+Te jer som mænd, mine venner, og tænk paa de stormende kampe,\
+medens jeg stevner til Troja med bud til de graanede gubber\
+hjemme i raadet og til vore hustruer. Dem vil jeg byde\
+fromt at trygle om gudernes hjælp og love dem ofre.»
+
+Saaledes talte den hjelmbuskvaiende Hektor og ilte\
+hastig avsted. Mot hans hals og mot anklerne tørnet den sorte\
+ytterste skindklædte rand som løp om det buklede malmskjold.
+
+Glavkos, Hippolokos' søn, og Tydevs' søn Diomedes\
+stormet nu kamplystne frem mellem begge de kjæmpende hære.\
+Da de var kommet paa nærmeste hold og møtte hinanden,\
+talte den høimælte helt Diomedes først til den anden:
+
+«Hvem kan du være blandt menneskers barn, du mandige høvding?\
+Aldrig tilforn har jeg set dig i kamp, hvor hæderen vindes.\
+Nu har du vaaget dig frem langt forut for alle de andre,\
+dristig som faa, naar du trodser saa kjækt min vældige lanse.\
+Ve de arme forældre, hvis sønner tør møte min styrke!\
+Men hvis du er av guddommelig æt og er kommet fra himlen,\
+agter jeg ikke at stevne til kamp mot himmelske guder;\
+ti selv Dryas' søn, den vældige kjæmpe Lykurgos,\
+fik kun et kortvarig liv, da han stred mot de evige guder,\
+helten som jaget den rasende gud Dionysos' ammer\
+over Nyseïons hellige fjeld, saa de alle til jorden\
+kastet sin tyrsosstav; ti den mordlystne kjæmpe Lykurgos\
+slog dem med pigkjeppens brodd. Dionysos selv i sin rædsel\
+kastet sig ned i det bølgende hav, og Tetis' arme\
+favnet den skrækslagne gud; ti han skalv for den vældiges trusler,\
+Dog han var siden forhatt av de sorgløst levende guder.\
+Kronos' søn slog kjæmpen med blindhet. Ikke blev livet\
+længe ham undt, da han egget til hat de evige guder.\
+Nei, jeg fordrister mig ei til en kamp mot de salige guder.\
+Men er du dødelig mand og næres av markernes grøde,\
+kom mig da nær! des før skal du møte din skjæbne og falde.»
+
+Da tok Hippolokos' straalende søn til orde og svarte:\
+«Tydevs' modige søn, hvi spør du mig om mine frænder?\
+Likesom trærnes vekslende løv er menneskers slegter.\
+Vindene hvirvler til jord de visnede blade; men skogen\
+klær sig i løv og blomster paany, naar det stunder mot vaaren.\
+Saaledes spirer en slegt av mænd, mens en anden maa visne.\
+Dog, hvis du ønsker besked, skal du faa den, saa du kan vite\
+alt om min slegt, og mange er de som kjender den nøie.\
+Inderst i Argos, det hestrike land, er byen Efyra.\
+Der var Sisyfos konge, den klokeste hersker som levde,\
+Sisyfos, Aiolos' søn, og han avlet en søn som het Glavkos.\
+Glavkos avlet en søn, den herlige Bellerofontes.\
+Ham gav guderne skjønhet og skjænket ham elskelig manddom.\
+Dog, kong Proitos la lumskelig raad mot helten og drev ham\
+bort fra hans land og hans folk; ti den mægtigste var han av alle\
+Argos' mænd, da Zevs hadde bøiet dem under hans scepter.\
+Proitos' viv, den skjønne Anteia, brændte av længsel\
+efter at vinde hans elskov i løn; men hun fik ikke daaret\
+helten saa ædel av sind, den krigerske Bellerofontes.\
+Derefter løi hun for kongen, sin mand, og talte til Proitos:\
+«Proitos, dø eller dræp den skamløse Bellerofontes,\
+han som med vold vilde ta mig i favn, da jeg verget min ære.»\
+Saa hun talte, og kongen blev vred over det som han hørte.\
+Dog, han vilde ei dræpe ham selv; ti han gruet for blodskyld.\
+Fjernt til Lykien sendte han ham med grufulde runer.\
+Ridsende mangt et dødssvangert tegn paa sammenlagt tavle\
+bød han ham vise dem frem til hans maag, saa han selv kunde dræpes.\
+Hen til Lykien drog han, og vernende guder gik med ham.\
+Men da han kom til Lykiens land og den strømmende Ksantos,\
+hædret det vidtstrakte Lykiens drot ham venlig og feiret\
+gjesten ni samfulde dage i træk. Ni okser han slagtet.\
+Men da for tiende gang den rosenfingrede Eos\
+skinnet i øst, da spurte han ham og bad ham at vise\
+tegnet han jo skulde bringe som bud fra hans svigersøn Proitos.\
+Men da han fik de dødssvangre tegn som hans maag hadde ridset,\
+bød han ham først at dræpe det grufulde udyr Kimaira.\
+Ei var hun runden av dødelig rot; men stammet fra guder,\
+fortil en løve, i midten en gjet og baktil en slange.\
+Frygtelig spydde hun flammende ild i vældige luer.\
+Utysket dræpte han modig i lit til gudernes varsler.\
+Derefter stred han i kamp mot solymernes navngjetne helter.\
+Det var den haardeste strid med mænd som han visste at nævne.\
+Tredjegang vog han i kamp amazonernes mandige skarer.\
+Da han kom hjem, hadde kongen paany lagt snarer for helten;\
+ti fra det vidtstrakte lykiske land lot han lægge de bedste\
+kjæmper i bakhold. De vendte dog ei til hjemmet tilbake.\
+Alle som en blev de dræpt av den herlige Bellerofontes.\
+Dog, da han skjønte tilsidst at helten var gudernes ætling,\
+holdt han sin gjest tilbake og gav ham sin datter til egte,\
+gav ham saa dertil av kongelig magt og hæder det halve.\
+Men av det lykiske folk fik helten til odel og eie\
+særskilt den herligste gaard med frodige marker og lunde.\
+Dronningen fødte sin mand, den krigerske Bellerofontes,\
+arvinger tre, Isandros, Hippolokos og som den tredje\
+Laodameia. Hos hende har Zevs den alvise hvilet.\
+Fødte hun da den malmklædte helt, den gjæve Sarpedon.\
+Dog, ogsaa han blev forhatt av samtlige guder og vanket\
+vildsomt og ene omkring paa den øde aleiske slette\
+naget av tærende tungsind, og menneskers stier han skydde.\
+Sønnen Isandros blev dræpt av Ares, den mordlystne krigsgud,\
+just som han kjæmpet i strid med solymernes navngjetne helter.\
+Artemis, møen med tøiler av guld, blev datterens bane.\
+Jeg er Hippolokos' søn; fra ham er jeg stolt av at stamme.\
+Selv har han sendt mig til Troja og faderlig lagt mig paa hjerte\
+altid at te mig som helt og hæve mig over de andre,\
+aldrig at volde min slegt nogen skam, de fædre som altid\
+pristes som gjævest av alle i Lykiens land og Efyra.\
+Dette er hele min slegt. Deres blod er jeg stolt av at eie.»
+
+Saa han talte, og glad blev den høimælte helt Diomedes,\
+ned i den mangenærende jord han støtte sin lanse.\
+Derefter talte han venlige ord til folkenes hyrde:\
+«Sandelig er du min gjesteven kjær fra fædrenes dage.\
+Oinevs har huset som gjest den herlige Bellerofontes\
+fordum og holdt ham paa tyvende dag tilbake paa borgen;\
+ja, og de skjænket hinanden de herligste gaver til avsked.\
+Oinevs gav ham et belte som skinnet i glødende purpur,\
+og en pokal av guld gav Bellerofontes til gjengjæld.\
+Hist paa min hjemlige borg fik den staa, da jeg gav mig paa færden.\
+Tydevs erindrer jeg ei. Han lot mig tilbake i hjemmet\
+endnu et barn, da akaiernes mænd maatte segne ved Teben.\
+Vel; men saa er jeg din gjesteven kjær derhjemme i Argos.\
+Du er i Lykien min, naar jeg gjester dig der i dit hjemland.\
+La os i tummelen sky at møte hinanden med lansen.\
+Selv har jeg troer og hjælpere nok at fælde i kampen,\
+dem som en gud mig under at naa paa føtterne rappe,\
+og for dig selv er der nok av akaiske mænd du kan dræpe.\
+Men la os nu bytte rustning, saa ogsaa de andre kan skjønne\
+grant at vi stolte fra fædrenes tid kan kalde os venner.»
+
+Saaledes talte de to og hoppet saa begge fra vognen,\
+trykket hinanden i haand og lovet ubrødelig troskap.\
+Visselig røvet nu Zevs den forblindede Glavkos forstanden,\
+saasom han byttet med Tydevs' søn sine vaaben og mottok\
+kobber for guld, ni oksers værdi for hundrede oksers.
+
+Men da nu Hektor var naadd til den skaiiske port og til eken,\
+sanket sig troernes døtre og hustruer om ham i klynge.\
+Ængstelig spurte de ham om sønner og brødre og frænder\
+og sine mænd. Da bad han dem en efter en om at trygle\
+guderne ydmygt om hjælp. Dog, sorg skulde times saa mange.
+
+Derefter kom han til borgen, til Priamos' herlige kongsgaard,\
+bygget med svalgang av skinnende sten, og indenfor pranget\
+femti herlige kamre med vægger av straalende marmor,\
+opbygget nær ved hverandre paa rad. Der hvilte de gjæve\
+sønner av Priamos, hver hos sin ærbare viede hustru.\
+Men for hans døtre var reist, ret overfor disse mot gaarden,\
+høienloftskamrene tolv av skinnende marmor og bygget\
+nær ved hverandre paa rad. Der sov kong Priamos' gjæve\
+svigersønskare, enhver hos sin ærbare viede hustru.\
+Inde i forgaarden kom hans gavmilde mor ham imøte\
+ledende ind Laodike, den skjønneste blandt hendes døtre.\
+Fast hun grep og trykket hans haand og spurte ham kjærlig:
+
+«Hvi er du kommet, min søn, fra de hidsige kampe paa valen?\
+Visselig trænger akaiernes folk, som jeg hater at nævne,\
+haardt vore mænd i kamp om vor by. Dit hjerte har higet\
+efter at komme og løfte mot Zevs dine hænder fra borgen.\
+Vent, mens jeg henter dig kvægende vin, saa først du kan bringe\
+offer til alfader Zevs og alle de evige guder.\
+Derefter kan du da læske dig selv med et styrkende bæger.\
+Vinen gir mangefold styrke og mod, naar manden er mødig,\
+slik som du selv er træt av at verne i kamp dine landsmænd.»
+
+Derpaa tok helten, den hjelmbuskvaiende Hektor, til orde:\
+«Hent ikke kvægende vin, ærværdige mor; ti du kunde\
+svække min kraft og jeg selv kunde glemme mit mod og min styrke.\
+Ofre den funklende vin til Zevs med urene hænder\
+gruer jeg for; ti det sømmer sig ei at be til den høie\
+skysamler, Kronos' søn, for den som er blodig og smudsig.\
+Nei, du maa skynde dig hen til den herjende Pallas' tempel,\
+bringende røkelse med og fulgt av de høibaarne kvinder,\
+og paa den haarfagre guddoms fang skal du lægge som gave\
+ydmyg det slør som tykkes dig størst og yndigst av alle,\
+det som du høiest har skattet av dem som du gjemmer i hallen.\
+Saa maa du love tillike at bringe i templet som offer\
+tolv utæmmede aarsgamle kjør, om gudinden vil ynkes\
+over vor by, over troernes barn og kvinder og verne\
+Ilions hellige by mot Tydevs' søn, mot den barske\
+lansesvingende helt, hin kjæmpe som slaar os med rædsel.\
+Gaa da i hast til den byttesamlende Pallas' tempel.\
+Selv vil jeg ile til Paris og be ham at komme til kampen,\
+om han maaske vil høre mit ord. Aa, maatte dog jorden\
+sluke ham straks; til sorg har Olympos' hersker ham fostret\
+baade for troernes folk og for Priamos selv og hans sønner.\
+Dersom jeg maatte faa se at han snart fik vandre til Hades,\
+tror jeg forvisst at min sjæl vilde glemme den grufulde jammer.»
+
+Saa han talte, og straks gik hun ind i hallen og kaldte\
+ind sine terner. Da samlet de straks de høibaarne kvinder\
+rundt i byen; men selv steg hun ned i det duftende kammer.\
+Der laa yndige mønstrede slør, sidoniske kvinders\
+kunstfulde verk som tilforn den gudskjønne helt Aleksandros\
+bragte fra Sidon paa vaagelig færd over storhavets vidder\
+førende Hélena med til sit hjem, den ætstore kvinde.\
+Ett av disse tok Hékabe med som skjænk til Atene,\
+det som var størst og virket med kunst i det deiligste mønster.\
+Ret som en stjerne det straalte og gjemtes paa bunden av kisten.\
+Derefter gik hun avsted, og talrike kvinder slog følge.
+
+Men da de naadde til borgen, til Pallas' straalende tempel,\
+aapnedes tempelets hellige dør av den skjønne Teano,\
+Kissevs' datter, den gjæve Antenors ærværdige hustru;\
+ti av troernes folk var hun valgt til Atenes prestinde.\
+Jamrende løftet nu kvindernes flok sine hænder mot Pallas.\
+Derefter tok den skjønne Teano sløret, og ydmyg\
+la hun det ned paa Pallas' fang, den haarfagre guddoms.\
+Inderlig bad hun en bøn til den mægtige Alfaders datter:\
+«Høie Atene, vor hjembygds vern, du stolte gudinde!\
+Knæk Diomedes' spyd, og und os at selv han maa falde\
+hist ved den skaiiske port paa sit ansigt. Da skal vi ofre\
+her i dit hellige tempel tolv aarsgamle kvier som aldrig\
+dreves med pigkjeppen frem under aak, saasandt du vil ynkes\
+over vor by, over troernes barn og vernløse kvinder.»
+
+Saaledes bad hun; men ei blev hun hørt av Pallas Atene.\
+Men medens kvinderne bad til den vældige Alfaders datter,\
+hadde den straalende Hektor naadd frem til Paris' skjønne\
+kneisende hus som han selv hadde reist med mestre som dengang\
+skattedes høiest for ypperlig kunst i det frugtbare Troja.\
+Høienloftskamre og hal og forgaard hadde de bygget\
+oppe paa borgen og nær ved Hektors og Priamos' bolig.\
+Ind gjennem porten gik Hektor, hin yndling av Zevs, og i haanden\
+bar han sin lanse med elleve alens skaft, og ytterst paa stangen\
+straalte en spydodd av malm, og om skaftet var fæstet en guldring.\
+Inde i kammeret fandt han sin bror. Sine herlige vaaben\
+prøvet han nøie, sin brynje, sit skjold og den krummede bue.\
+Hélena, kvinden fra Argos, som sat blandt de tjenende terner,\
+holdt dem til flittig at sysle med kunstfuld kvindelig gjerning.\
+Straks da Hektor fik se sin bror, tok han haanlig til orde:
+
+«Kjære, det er ikke smukt at du nærer slikt nag i dit hjerte.\
+Kjæmpende rundt vor by og dens kneisende mure maa folket\
+segne i døden, og du har forskyldt at hærskrik og kampgny\
+raser om denne vor stad. Selv vilde du refse en anden,\
+dersom du saa at han viste sig feig i de grufulde kampe.\
+Op da, saa ikke vor by skal herjes av flammende luer!»
+
+Derefter svarte igjen den straalende helt Aleksandros:\
+«Hektor, din haan er forskyldt; du refser mig ikke ubillig.\
+Ti vil jeg gi dig et svar. Læg du det paa sinde og hør mig:\
+Ikke saa meget av vrede og nag imot troiske landsmænd\
+sitter jeg her i mit kammer, men lammet av trykkende tungsind.\
+Nu har min hustru formant mig med venlige ord og har atter\
+egget mit mod til at stevne til kamp. Selv tykkes jeg ogsaa\
+nu at dette er bedst. Mellem stridsmænd veksler jo seiren.\
+Vent nu en stund, mens jeg aksler til kamp min krigerske rustning,\
+eller gaa foran, saa kommer jeg snart. Jeg tror jeg skal naa dig.»
+
+Saa han talte. Den herlige Hektor svarte ham ikke.\
+Hélena vendte sig nu med venlige ord til sin svoger:
+
+«Svoger av mig, jeg frække, som voldte jer vanheld og sorger.\
+Aa, hadde selvsamme dag som min mor hadde født mig til verden,\
+stormende vindbyger revet mig bort paa susende vinger\
+hen til et fjeld eller ned i de skummende bølger paa havet!\
+Da hadde bølgerne blit min grav, før dette var kommet.\
+Men siden guderne selv vilde volde mig al denne jammer,\
+burde jeg dog ha faat en ædlere mand til min husbond,\
+en som gav agt paa menneskers hat og sviende haansord.\
+Denne har ei i sit sind nogen manddom og fasthet, og aldrig\
+faar han det heller. Han høster vel snart, kan jeg tro, som han saadde.\
+Dog, træd indenfor, svoger, og sæt dig til hvile paa stolen.\
+Du er jo den som maa bære den bitreste kvide og bøte\
+haardest for al min skamløse færd og for Paris' brøde.\
+Os har Zevs git en sørgelig lod; ti de kommende slegter\
+vil gjennem tiderne synge om os sine spottende viser.»
+
+Derefter svarte den høie, den hjelmbuskvaiende Hektor:\
+«Hélena, bed mig dog ei saa venlig at sitte. Jeg kan ei.\
+Alt forlængst staar hele min hu til at verne i kampen\
+troernes mænd, som savner mig saart, naar jeg ei er tilstede.\
+Faa du nu denne avsted, og selv maa han skynde sig ivrig\
+saa han kan træffe mig snart, mens jeg endnu er inde i byen;\
+ti jeg vil skynde mig hjem til mit hus for at se til min unge\
+elskede hustru, mit barn og alle derhjemme i huset.\
+Ja, for jeg vet jo ei visst om jeg atter skal vende tilbake,\
+eller om guderne vil jeg skal dø for akaiernes hænder.»
+
+Saaledes talte den straalende helt og ilte mot hjemmet.\
+Snart var han fremme og kom til sit hus med de prægtige haller.\
+Dog han traf ei den skjønne Andromake hjemme i salen;\
+men med sin elskede søn og fulgt av en langsløret terne\
+stod hun i klage og hulkende graat paa vakttaarnets tinde.\
+Men da han ei kunde finde sin herlige hustru i hallen,\
+gik han paa terskelen frem og talte til ternernes skare:
+
+«Hør mig I tjenende kvinder, og si mig den skjæreste sandhet:\
+Hvor gik Andromake hen, min straalende viv? Er hun vandret\
+hen til en langsløret søster av mig eller kjær svigerinde,\
+eller maaske til Pallas' tempel, der hvor de andre\
+haarfagre troiske kvinder formilder den barske gudinde?»
+
+Da tok den ferme husholderske straks tilorde og svarte:\
+«Hektor, siden du kræver mig strengt til regnskap, saa gik hun\
+hverken avsted til en søster av dig eller kjær svigerinde,\
+eller til Pallas' hellige tempel, der hvor de andre\
+haarfagre troiske kvinder formilder den barske gudinde;\
+men hun har skyndt sig til Ilions taarn, da hun nylig fik høre\
+at vore troer var slaat og akaiernes overmagt vældig.\
+Nu har hun visselig naadd den kneisende mur; ti hun ilte\
+rent som i ørske, og ammen er med og bærer den lille.»
+
+Saa hun talte; men Hektor gik raskt avsted fra sin bolig\
+atter den selvsamme vei igjennem de prægtige gater.\
+Men da han saa paa sin gang gjennem hjembyen naadde den høie\
+skaiiske port, hvor hans vei maatte gaa, naar han skulde til sletten,\
+ilte hans rikt velsignede viv Andromake kjærlig\
+helten i møte, den høibaarne drot Eetions datter.\
+Fjernt ved skogrike Plakos' fot, i det plakiske Tebai\
+hørte Eëtion hjemme, kilikernes mægtige fyrste.\
+Hektor, den kobberpansrede helt, hadde vundet hans datter.\
+Nu kom hun ilende hen til sin mand, og ternen som fulgte,\
+bar ved sin duftende barm deres barn, den uskyldige lille,\
+Hektors bedaarende søn, som lignet en smilende stjerne.\
+Hektor kaldte ham selv Skamandrios; men av de andre\
+blev han Astyanaks kaldt; ti Hektor var Ilions forsvar.\
+Kjærlig han saa paa sin søn, og smilte i taushet til barnet.\
+Men Andromake traadte ham nær og med taarer i øiet\
+grep hun og trykket med ømhet hans haand og talte saa bønlig.\
+«Hektor du slemme! Dit mod blir din død. Du ynkes jo aldrig\
+over dit spæde, uskyldige barn og mig arme, som snarlig\
+vorder din enke; ti snart vil alle akaierne styrte\
+mot dig og volde din død. Aa, mister jeg dig, var det bedre\
+om jeg fik synke i muld; ti senere finder jeg aldrig\
+lindrende trøst eller haab, naar du har fundet din bane;\
+nei kun sorger. Ei far eller mor har jeg længer i live.\
+Dræpt blev vor elskede far av helten den stolte Akillevs\
+dengang han herjet kilikernes by med de kneisende porte,\
+Tebai den prægtige stad. Eëtion faldt for hans lanse.\
+Rustningen tok han dog ei; ti han gruet for det i sit hjerte.\
+Nei, men han brændte hans lik i den skinnende rustning og reiste\
+haug over høvdingens ben, og aigissvingerens døtre,\
+nymfer fra bjergene, plantet av alm en lund om hans gravhaug.\
+Og mine brødre, de syv som var født i de hjemlige haller,\
+vandret i følge paa selvsamme dag til Hades' bolig.\
+Alle blev dræpt av den fotrappe helt, den stolte Akillevs,\
+medens de vogtet de snehvite faar og de langsomme okser.\
+Ja, og min mor, som hersket saa vidt om det skogrike Plakos,\
+førte han voldelig bort med alt sit øvrige hærfang.\
+Dog, han gav hende fri mot herlige skatte som løsning;\
+men hun blev dræpt i sin fars palads av Artemis' piler.\
+Hektor, saa maa du da nu være far og mor for din hustru.\
+Du er min bror, og du er min elskede mandige husbond.\
+Ynkes da over mig nu og bli her oppe paa taarnet.\
+Gjør ei din søn til et faderløst barn og din hustru til enke.\
+Stil dine mænd ved fikenen hist, hvor fienden lettest\
+trænger sig ind i vor by og hvor murene lettest kan stormes.\
+Treganger fristet tilforn de tapreste helter at storme.\
+Begge Aianterne kom i drotten Idomenevs' følge,\
+likesaa Atrevs' sønner og Tydevs' søn Diomedes,\
+enten de fulgte et vink av en som er kyndig i varsler,\
+eller de egges og drives avsted av sin rasende kamplyst.»
+
+Hektor, den hjelmbuskvaiende helt, tok ordet og svarte:\
+«Alt hvad du sa, min elskede, tænker jeg selv; men jeg blyges\
+saare for troernes mænd og for troernes langslørte kvinder,\
+dersom jeg nu skulde flygte fra kamp som en skjælvende usling.\
+Nei, til slikt staar ikke min hu; ti jeg lærte at kjæmpe\
+altid som tapreste helt i troernes forreste rækker,\
+vernende stedse vort glimrende ry, min fars og mit eget\
+Dog, jeg føler og vet det saa vel i mit sind og mit hjerte:\
+Engang skal komme den dag, da det hellige Ilios falder,\
+Priamos selv, hin spydsvinger gjæv og Priamos' stridsmænd.\
+Dog, jeg gruer ei saa for troernes kommende jammer\
+eller for Hékabe selv og for Priamos, drotten i Troja\
+eller for alle de mange og herlige brødre som alle\
+engang skal segne i støvet for grusomme fienders vaaben,\
+som jeg maa ængstes for dig, naar omsider en malmklædt danaer\
+fører dig graatende bort og røver dig frihetens dage.\
+Da maa du staa ved din væv for en kvinde i Argos og bære\
+vand fra Messeïs' rislende bæk eller fra Hypereia,\
+meget imot din lyst, men tvunget av nøden den haarde.\
+Mange vil visselig si, naar de ser at du svømmer i taarer:\
+«Denne var Hektors viv. Blandt troiske kjæmper paa stridsvogn\
+var han den tapreste helt da de kjæmpet om Ilions mure.»\
+Saa vil de mangengang si, og din kummer blir ny, naar du længter\
+efter saa tapper en mand til at fri dig fra trældommens dage.\
+Maatte jeg da være død og gjemmes forlængst under mulde\
+førend jeg ser at de slæper dig bort, og hører dit angstrop.»
+
+Saa hadde Hektor talt, og han rakte sig frem efter sønnen.\
+Skrikende klynget den lille sig ind til sin amme og gjemte\
+ansigtet ved hendes barm, av gru for sin far; ti han frygtet\
+kobberets blændende glans og den vaiende hestehaars hjelmbusk\
+nu da han saa den nikke saa barskt der oppe fra hjelmen.\
+Baade den kjærlige far og den værdige mor maatte smile.\
+Straks tok Hektor, den straalende helt, fra sit hode den blanke\
+stridshjelm av kobber og la den ned paa den nærende jordbund.\
+Derefter kysset han sønnen og vugget ham paa sine arme,\
+bad saa en bøn til Zevs og alle de evige guder:\
+«Zevs, og alle I guder! aa und mig at denne min lille\
+elskede søn maatte bli som jeg selv, den første blandt troer,\
+likesaa kraftig og sterk og herske med vælde i Troja.\
+Maatte det engang bli sagt: «Ja sandelig! denne er større\
+helt end sin far,» naar han kommer fra kamp med sin fældede uvens\
+blodige rustning, og maatte hans mor bli glad i sit hjerte.»
+
+Saa han talte og la sin søn i hustruens arme.\
+Ind til sin duftende barm hun trykket den lille saa kjærlig,\
+smilende blidt gjennem taarer. Da ynkedes saart hendes husbond.\
+Klappende ømt sin hustru paa kind tok han kjærlig til orde:\
+«Elskede, føl ikke sorgen saa trykkende tungt i dit hjerte.\
+Ikke skal nogen mot skjæbnen faa sendt mig til Hades' bolig;\
+men jeg tør si at aldrig en mand har flydd for sin skjæbne,\
+ingen som fødtes paa jord, hverken herligste helt eller niding.\
+Skynd dig tilbake til hjemmet og gaa til din daglige syssel.\
+Sæt dig til væv eller ten og la dine tjenestekvinder\
+gaa til sin huslige gjerning. Vi mænd skal tænke paa kampen\
+alle som en, men mest jeg selv blandt Ilions sønner.»
+
+Saaledes talte den straalende helt og løftet fra jorden\
+hjelmen med hestehaars busk; men hustruen vandret mot hjemmet.\
+Ofte hun vendte sig om, og taarerne strømmet saa stride.\
+Snart var hun fremme og kom til den heltedræpende Hektors\
+skjønne palads, og inde i kamrene traf hun de mange\
+trofaste terner, og klage og graat hun vakte hos alle.\
+Kvinderne graat i hans hjem over Hektor som end var i live,\
+saasom de trodde han ei skulde komme tilbake fra kampen\
+frelst fra akaiiske fienders vold og kraftige hænder.
+
+Paris forblev ei længe i ro i sit høienloftskammer;\
+men da han først hadde akslet sin herlige rustning av kobber,\
+ilte han stolt gjennem byen i lit til de hurtige føtter.\
+Likesom hingsten som æter sit byg fra krybben i stalden,\
+sliter sit baand og stormer i dundrende trav over sletten\
+vant til det kjølende bad i de speilklare vande i elven —\
+— Stolt den løfter sit hode og kaster med nakken. I løpet\
+vifter om bogen den flagrende man, og kry av sin skjønhet\
+farer den let paa foten til hestenes velkjendte beiter —\
+Slik for Priamos' søn Aleksandros stolt i sin rustning\
+ned ifra borgen i glitrende glans som et straalende solglimt.\
+Høit han jublet, og føtterne bar ham let, saa han snarlig\
+naadde den herlige Hektor, sin bror, da han just skulde haste\
+bort fra det sted hvor han nys hadde talt saa ømt med sin hustru.\
+Først tok den straalende helt Aleksandros tilorde og mælte:\
+«Elskede bror, forvisst har jeg sinket din hast og har nølet\
+hjemme for længe. Jeg kom ikke frem i betids, som du bød mig.»
+
+Derefter svarte igjen den hjelmbuskvaiende Hektor:\
+«Kjære, tilvisse kan ei nogen mand som vil være retfærdig,\
+laste din færd i en kamp; ti du eier de herligste kræfter.\
+Dog, du er slap, og ingenting vil du; men i mit hjerte\
+føler jeg nagende sorg, naar jeg hører dig haanet av alle\
+troernes kjæmpende mænd, som døier saa meget for din skyld.\
+Kom, la os gaa. Den sak kan vi efterpaa broderlig drøfte,\
+dersom da Zevs os under at sætte i hjemlige haller\
+frihetens bolle paa bord som skjænk til de evige guder,\
+naar vi har jaget fra Troja akaiernes malmklædte skarer.»

@@ -1,0 +1,585 @@
+# Fjerde sang. *Pakten blir brutt. Agamemnon mønstrer hæren.*
+
+[G]{.initial}uderne sat i den guldsmykte hal hos Zevs i det høie,\
+alle forsamlet til raad, og gudinden den værdige Hebe\
+skjænket den liflige nektar, og løftende gyldne pokaler\
+drak hverandre de til og saa paa det hellige Troja.\
+Straks tok Kroniden til orde og fristet at tirre til vrede\
+Hera med spydige ord og spøkefuldt eggende tale:\
+«To av gudinderne hjælper saa ømt sin ven Menelaos,\
+Hera, som æres i Argos, og Pallas fra Alalkomenai.\
+Frydfulde sitter de fjernt og ser paa sin kjæmpende yndling.\
+Men Afrodite, som smiler saa søtt, hun holder sig altid\
+nær ved den anden og verner ham huldt mot dødens gudinder.\
+Nu har hun frelst ham paany, da han trodde hans time var kommet.\
+Seiret har nu tilvisse den krigerske drot Menelaos.\
+La os da drøfte i gudernes raad, hvordan dette skal ende,\
+om vi paany skal egge til kamp og vække en grufuld,\
+endeløs strid eller skille dem ad i fred og i venskap.\
+Dersom det tykkes jer bedst, og alle kan finde det billig,\
+kunde jo herskeren Priamos' stad bli staaende uskadt,\
+og Menelaos kan drage med Hélena hjemad til Argos.»\
+
+Saa han talte. Da fnyste av harm baade Pallas og Hera.\
+Nær ved hinanden de sat, og troerne ønsket de vanheld.\
+Dog, Atene sat taus og mælte slet intet, skjønt argest\
+hatskhet hun følte mot Zevs, sin far, og den vildeste vrede.\
+Hera var ikke istand til at tøile sin harme, men svarte:\
+«Grusomme søn av Kronos! hvad mente du dog med din tale?\
+Vil du da spilde mit stræv, og skal jeg ha svedet forgjæves,\
+dengang jeg trættet mit vælige spand for at samle de mange\
+stridsmænd mot Priamos' stad til fordærv for ham selv og hans sønner?\
+Gjør det; men ei vil din gjerning bli rost av samtlige guder.»\
+
+Vred tok den mægtige skysamler Zevs til orde og svarte:\
+«Si mig, min ven, hvilken tort har Priamos selv og hans sønner\
+voldt dig saa skjendig og stor at du nu ustanselig higer\
+efter at herje og lægge i grus det velbygde Troja?\
+Dersom du gik gjennem byporten hist paa den vældige ringmur\
+og kunde sluke kong Priamos selv, hans sønner og alle\
+troer med hud og haar, saa stillet du kanske din vrede.\
+Gjør som du vil, og la det ei ske at denne vor trætte\
+senere volder den hatskeste strid imellem os begge.\
+Men jeg vil si dig et ord, og det skal du lægge paa hjerte:\
+Dersom jeg selv med tiden faar lyst til at jevne med jorden\
+just den by, hvor modige mænd som du elsker er fostret,\
+da maa du ei ville stanse min harm, men frit la mig raade.\
+Selv har jeg føiet dig nu uten tvang, skjønt jeg gjorde det nødig;\
+ti av alle de byer hvor jordiske mænd er til huse,\
+vidt under stjernernes straalende hvælv og solgudens bane,\
+stod jo ingen mit hjerte saa nær som det hellige Troja\
+eller som Priamos selv og spydhelten Priamos' stridsmænd.\
+Adrig blev der mit alter forglemt med et rikelig offer\
+enten av vin eller duftende damp. Saa hædres jo guder.»\
+
+Derefter svarte gudinden, den mørkøide værdige Hera:\
+«Vel, blandt samtlige byer paa jord er trende mig kjærest:\
+Argos og Sparta og staden med gaterne brede, Mykene.\
+Styrt dem i grus den dag de blir dig forhatt i dit hjerte.\
+Ikke skal jeg formene dig det eller staa dig i veien,\
+ti hvis jeg undte dig ei deres fald og trodset din vilje,\
+nyttet mit nei dog intet; ti mig kan du lettelig kue.\
+Dog, jeg har ret til at kræve at ogsaa min møie blir lønnet.\
+Selv er jeg ogsaa en guddom; av selvsamme byrd er vi begge.\
+Jeg er den første i rang av den listige Kronos' døtre,\
+baade som ældst av aar og fordi jeg blir nævnt som din hustru,\
+viet til dig som alle de evige guder maa lyde.\
+La os da føie hinanden og villig gi efter i dette,\
+du for mit ønske, og jeg for dit bud, saa vil nok de andre\
+evige guder slaa følge med os. Saa byd da Atene\
+straks at gaa til akaiers og troers forfærdende kampe.\
+Der skal hun friste de troiske mænd til at bryte paa forhaand\
+pakten og eden de svor og krænke de stolte akaier.»\
+
+Saa hun talte, og han som er far for mænd og for guder,\
+lød hendes raad og talte med vingede ord til Atene:\
+«Skynd dig avsted til akaiernes leir og troernes fylking!\
+Der skal du friste de troiske mænd til at bryte paa forhaand\
+pakten og eden de svor og krænke de stolte akaier.»\
+
+Saa han talte og egget end mer den higende Pallas.\
+Ned fra Olympos' tinder hun for lik en skinnende stjerne,\
+en som den listige Kronos' søn lar falde fra himlen\
+enten som jertegn for krigernes leir eller varsel for sjømænd.\
+— Funklende ildgnister farer i sværm fra den lysende stjerne. —\
+Saaledes dalte mot jord den herlige Pallas Atene.\
+Ind mellem mændene sprang hun til gru for alle de mange\
+troiske kjæmper og malmklædte mænd av Akaia som saa det,\
+Vekslet da mange et blik med sin nærmeste nabo og mælte:\
+«Nu skal der enten paany bli en frygtelig krig og en grufuld\
+larmende kamp, eller Zevs lar folkene skilles som venner,\
+han som alene kan raade for krig blandt menneskers slegter.»\
+
+Saaledes talte i kredsen saa mangen akaier og troer.\
+
+Men lik helten, den kjække Laódokos, søn av Antenor,\
+stevnet gudinden i ilsomt løp gjennem troernes skarer.\
+Pandaros var det hun søkte, en helt som var gudernes like.\
+Høvdingen fandt hun, Lykaons søn, den gjæve og sterke,\
+staaende midt i sin mægtige hær av skjolddækte stridsmænd,\
+som hadde fulgt sin drot fra floden Aisepos' strømme.\
+Gik hun da nær og med vingede ord hun talte til helten:\
+«Dersom du lyder mit raad, du kampglade søn av Lykaon,\
+vaager du modig at sende en pil mot hin helt Menelaos.\
+Da kan du vinde dig hæder og tak hos samtlige troer,\
+mest dog tilvisse hos helten av kongelig byrd, Aleksandros.\
+Særlig av ham vil du visselig faa de herligste gaver,\
+dersom han ser Menelaos, den krigerske ætling av Atrevs,\
+fældet av dig med den dræpende pil bli baaret paa likbaal.\
+Skyt nu en rammende pil mot den navngjetne drot Menelaos.\
+Lov den lysfødte gud, den bueberømte Apollon,\
+herlige ofre av talrike lam, de første i kuldet,\
+naar du har naadd til dit hjem, den hellige kongsstad Zeleia.»\
+
+Saaledes talte Atene, og tankeløs lot han sig daare.\
+Straks tok helten sin bue, den glattede, gjort av de sterke\
+horn av den springende buk som engang han rammet i brystet,\
+just da den steg fra det styrtbratte fjeld. Fra sit lønlige bakhold\
+traf han den like i brystet, og baklængs faldt den fra skrenten\
+Seksten haandsbredder vokste dens horn fra det mægtige hoved.\
+Kunstfærdig føiet en mester de vældige bukkehorn sammen,\
+glattet dem vel overalt og fæstet til buen en guldkrok.\
+Pandaros bøiet den krum mot marken, og snoren blev fæstet,\
+medens hans modige svende omhyggelig holdt sine skjolde\
+frem til vern, saa akaierne ei kunde storme til anfald,\
+før Menelaos, den krigerske søn av Atrevs, var rammet.\
+Derefter aapnet han koggerets lok og valgte en vinget\
+pil som aldrig var brukt, en kilde til dødsmørke kvaler,\
+la saa den smertende pil til rette paa snoren og lovet\
+straks den lysfødte gud, den bueberømte Apollon\
+herlige ofre av talrike lam, de første i kuldet,\
+naar han med tiden kom hjem til den hellige kongsstad Zeleia.\
+Fast om skaftet paa pilen han grep og om oksehudsstrengen,\
+trak saa strengen mot brystet og spidsen av pilen mot buen,\
+og da den vældige bue var spændt i den krummeste runding,\
+klirret den lydt; høit hvinte dens streng, og hen gjennem skaren\
+ilte hans hvæssede pil paa sin flugt og higet mot maalet.\
+
+Dog de evige guder forglemte ei dig, Menelaos,\
+mindst av dem alle hin datter av Zevs, den herjende skjoldmø.\
+Foran dig traadte hun frem, og pilen den bitre hun stanset.\
+Likesaa vart hun skjærmet din hud som en mor, naar hun vifter\
+fluerne bort fra sit barn, som sødelig sover i vuggen.\
+Selv hun rettet den dit hvor beltet blev holdt over midjen\
+fast med en spænde av guld over panserets dobbelte plater.\
+Pilen den smertende rammet ham midt i det fastspændte belte.\
+Tvers gjennem beltets forsirede rem blev den drevet med vælde.\
+Derefter skar den igjennem det kunstfuldt hamrede panser\
+og gjennem platen som inderst han bar til vern imot spydkast.\
+Den var hans tryggeste vern; men pilen fik boret sig gjennem.\
+Ytterst i høvdingens hud den ridset en rift, og det mørke\
+dampende blod sprang frem og strømmet i hast fra hans vunde.\
+Som naar en mø fra Maioniens land eller Kariens egne\
+elfenben farver i purpur til smykke for fotrappe hester.\
+Inderst i kammeret ligger det gjemt, og mangen en krigsmand\
+ønsker at eie den herlige skat; men den gjemmes til kongen\
+baade til pryd for hans hest og til hæder for stridsvognens styrer,\
+Saaledes farvedes nu, Menelaos, i blod dine skjønne\
+laar og velskapte lægger og nederst de deilige ankler.\
+
+Mændenes mægtige drot Agamemnon for sammen i rædseL\
+da han fik se at mørkerødt blod fløt ut gjennem saaret.\
+Ogsaa den krigerske helt Menelaos selv maatte grue;\
+men da han saa baade snoren og hakerne utenfor saaret,\
+samlet sig kraften og modet paany i hans bankende hjerte.\
+Sukkende talte den mægtige drot Agamemnon iblandt dem,\
+trykkende fast Menelaos' haand, mens vennerne jamret:\
+
+«Elskede bror, til bane for dig har jeg sluttet vor edspakt\
+Ene jeg stillet dig frem som akaiernes vern mot de lumske\
+troer som rammet dig nu og traadte vor pakt under føtter.\
+Dog, de vil visselig ei vorde spildt vore eder og ofre,\
+vinen og lammenes blod og de haandslag som gjorde os trygge.\
+Ti hvis hin drot paa Olymp ei straks fuldbyrder sin vilje,\
+gjør han det dog tilsidst, og da skal de frygtelig bøte;\
+mænd skal miste sit liv og kvinder og barn vorde træller.\
+Ja, ti jeg føler og vet jo forvisst i mit sind og mit hjerte:\
+Engang skal komme den dag da det hellige Ilios falder,\
+Priamos selv, hin spydsvinger gjæv, og Priamos' stridsmænd.\
+Da skal Zevs, den himmelske drot som i æteren troner,\
+ryste imot dem i harme sin grufulde sorte aigide\
+vred over dette bedrag; ja, saa vil det vorde fuldbyrdet.\
+Aa, men for dig, Menelaos, vil nagende kummer mig pine,\
+hvis du skal dø, og loddet er faldt som skal ende din livsvei;\
+ti som den usleste kom jeg da hjem til det tørstige Argos.\
+Straks vil akaierne mindes det elskede fædrene hjemland\
+og la Priamos selv og troerne pralende eie\
+Hélena, kvinden fra Argos, og selv vil du raatne i jorden\
+her ved Troja, og intet av det som du vilde, er fuldført\
+Saa vil vel mangen en mand blandt de overmodige troer\
+si, naar han tramper med haan Menelaos' enslige gravhaug:\
+«Gid Agamemnon altid som nu maatte mætte sin vrede,\
+nu da han førte forgjæves en hær av akaier mot byen\
+og maatte stevne tilsidst med skibene lette og tomme\
+hjemad til fædrenes land, men la Menelaos tilbake.»\
+Saa vil de si. Dog, bedre det var om jorden mig slukte.»\
+
+Trøstende venlig sin bror tok nu Menelaos til orde:\
+«Kjære, fat mod og væk ikke frygt i akaiernes hjerter.\
+Dødelig traf ei den hvæssede pil; men det kunstfulde belte\
+skjærmet mig ytterst mot døden og derefter brynjen, og inderst\
+vernet mig platen av kobber, som smedene kunstfærdig virket.»\
+
+Straks tok mændenes drot Agamemnon til orde og svarte:\
+«Elskede bror Menelaos, aa gid det var sandt som du sier!\
+Nu skal en læge faa se til dit saar og lægge paa vunden\
+kraftige urter som snart kan stille de sortnende smerter.»\
+
+Saa han talte og svenden, den gjæve Taltybios, bød han:\
+«Skynd dig, Taltybios, hastig avsted og hent os den gjæve\
+høvding Makaon, hin søn av Asklepios, lægernes mester.\
+Byd ham at se til min bror Menelaos, Atrevs' ætling,\
+hvem nu en mesterlig skytte, en lykier eller en troer,\
+rammet med pilen til hæder for sig, men til sorg for os andre.»\
+
+Saa han talte. Ham hørte hans svend og lød hans befaling.\
+Hen til akaiernes malmklædte mænd han ilte og speidet\
+skarpt efter helten Makaon og fandt ham staaende rolig\
+midt i de kraftige rækker av modige skjolddækte kjæmper\
+som hadde fulgt sin drot fra det gangernærende Trike.\
+Gik han da nær og med vingede ord han talte til helten:\
+«Op, Asklepios' søn. Dig kalder vor drot Agamemnon,\
+at du kan se til hans bror Menelaos, akaiernes fører,\
+hvem nu en mesterlig skytte, en lykier eller en troer,\
+rammet med pilen til hæder for sig, men til sorg for os andre.»\
+
+Saaledes talte den gjæve herold og rørte hans hjerte.\
+Ilsomt drog de avsted i akaiernes leir gjennem vrimlen.\
+Men da de begge kom dit, hvor den lyslette helt Menelaos\
+stod med sit blødende saar i en ring av de gjæveste fyrster\
+midt i den samlede kreds, hvor han stod saa skjøn som en guddom,\
+rykket han straks den smertende pil fra det fastspændte belte.\
+Begge de hvæssede mothaker brast, da han trak den tilbake.\
+Varsomt løste han saa det prægtige belte og dernæst\
+brynjen og platen som smeden tilforn saa kunstfærdig hamret.\
+Da han fik se hans saar, hvor den smertende pil hadde rammet\
+suget han blodet av saaret og strødde paa vunden de milde\
+lægende urter hans far hadde faat som gave av Keiron.\
+
+Medens de syslet omkring den høimælte helt Menelaos,\
+stevnet de skjolddækte troer til kamp i fylkede rækker.\
+Ogsaa akaierne rustet sig raskt og tænkte paa kampen.\
+
+Nølende saa man da ei den herlige drot Agamemnon.\
+Ei var han krøpet i skjul eller negtet at stevne til kampen.\
+Nei, han hastet til striden hvor mændene vinder sin hæder.\
+Dog, han lot hestene staa og stridsvognen, prydet med kobber.\
+Svenden Evrymedon, søn av Peiraos' søn Ptolemaios,\
+holdt imens hans prustende gangere fjernt fra de andre.\
+Strengt han la ham paa hjerte at holde dem rede, naar træthet\
+lammet omsider hans kraft paa hans ordnende gang gjennem hæren.\
+Mønstrende vandret han derpaa tilfots gjennem mændenes rækker.\
+Saa han danaiske helter som tumlet med iver sit tvespand,\
+stanset han glad og styrket med venlige ord deres kampmod:\
+«Tapre argeier, aa slap ikke av i det stormende kampgny.\
+Alfader Zevs gir aldrig sin hjælp til dem som har løiet.\
+Nei, de voldsmænd som først har krænket den hellige edspakt,\
+dem skal gribbene æte og flænge de kraftige kropper;\
+men deres hustruer og deres barn, som de elsket saa saare,\
+dem skal vi føre paa skibene hjem, naar byen er falden.»\
+
+Saa han derimot mænd som gruet for krigstumlens farer,\
+brukte han haanende ord og talte dem myndig til rette:\
+«Mundhelter! Feige argeier! Hør, føler I slet ingen blygsel?\
+Si mig, hvi staar I i raadvild angst som skjælvende raadyr,\
+som naar de trættes i ilsom flugt over endeløs slette,\
+stanser i hjælpeløs rædsel og eier ei mod i sit hjerte.\
+Saaledes staar I lammet av gru og tør ikke kjæmpe.\
+Kanske I venter til troerne naar eders stavnhøie snekker\
+der hvor I trak dem paa land langs stranden ved havet det golde,\
+saa I kan se om Kronos' søn vil verne jer naadig.»\
+
+Saaledes ilte han ordnende om gjennem mændenes rækker.\
+Hen til kreterne stevnet han først gjennem kjæmpernes vrimmel.\
+Samlet i kreds om sin drot Idomenevs rustet sig folket.\
+Selv stod han modig og sterk som et vildsvin forrest i skaren,\
+medens Meríones egget til kamp de bakerste rækker.\
+Men Agamemnon, den mægtige drot, blev glad, da han saa dem.\
+Straks til Idomenevs rettet han nu sin venlige tale:\
+«Høiest, Idomenevs, skatter jeg dig av alle danaer\
+baade i krigernes daad og i alleslags kongelig idræt\
+og ikke mindst i det festlige lag, naar akaiernes fyrster\
+blander den ædleste funklende vin i den skinnende bolle.\
+Ti naar de øvrige haarfagre mænd i akaiernes gilde\
+drikker sit fastsatte maal, staar altid det funklende bæger\
+fuldt for dig som for mig. Vi drikker saa meget vi lyster.\
+Op da, og skynd dig til kamp saa kjæk som du viste dig fordum!»\
+
+Straks tok Idomenevs, kreternes drot, til orde og svarte:\
+«Atrevs' søn! Din fuldtro ven skal jeg visselig være\
+nu som tilforn efter løftet jeg gav med nik og med haandslag.\
+Prøv nu at egge de andre akaiske haarfagre helter,\
+saa vi kan kjæmpe i hast; ti troerne krænket jo pakten.\
+Engang vil alle forvisst som løn for sit troløse edsbrud\
+pines av nagende kvaler og hente sig døden den visse.»\
+
+Saa han talte, og Atrevs' søn blev glad i sit hjerte.\
+Videre gik han i skaren og kom til Aianternes fylking.\
+Heltene væbnet sig just i en sværm av myldrende stridsmænd.\
+Som naar en gjæter kan øine en sky fra den høieste varde\
+— jaget av Zefyros iler den hen over skummende havdyp —\
+sortere tykkes den ham end bek, naar han ser den fra varden\
+komme i hast over havet med øsende regn i sit følge.\
+Gjæteren gruer ved synet og driver sit smaafæ til hulen.\
+Saaledes stevnet i hast i Aianternes følge de sorte\
+rækker av kraftige svende i tætsluttet fylking til striden,\
+dækket av skjoldenes rad og rustet med blinkende lanser.\
+Mændenes drot Agamemnon fik se dem og glædet sig saare.\
+Venlig han hilste og talte med vingede ord til dem begge:\
+«Hil jer Aianter, I drotter for malmklædte kjæmper fra Argos!\
+Jer har jeg intet at byde. Det sømmer sig ikke at hidse\
+helter som egger saa mandig til kamp sine kraftige svende.\
+Aa, maatte Zevs, vor far, og Apollon og Pallas Atene\
+skape i hvermands bryst et sind saa tappert og trofast!\
+Da skulde herskeren Priamos' by inden kort vorde bøiet\
+dypt i støvet med stormende haand og jevnes med jorden.»\
+
+Saa han talte og ilte fra dem til andre i skaren.\
+Derefter øinet han Nestor, den høimælte taler fra Pylos.\
+Raskt han ordnet sin hær og egget den ivrig til kampen\
+sammen med Pelagon, kjæmpen, og Kromios og med Alastor,\
+Haimon, den mandige drot, og Bias, hin folkenes hyrde.\
+Forrest stillet han helter tilvogns med hester og vogner.\
+Bakenfor ordnet han rækker tilfots av talrike stridsmænd,\
+tryggeste vern i en kamp. De feige blev stillet i midten,\
+forat de der skulde kjæmpe av tvang, saa nødig de vilde.\
+Stridsvognstyrerne nævnte han først og bød dem at holde\
+hver sine hester tilbake og ei tørne sammen i tumlen:\
+«Ikke maa nogen i lit til sin vognstyrerkunst og sin manddom\
+søke at kjæmpe alene mot troerne foran de andre.\
+Likesaa litt skal han vike; ti da vil I alle bli svækket.\
+Men naar en mand fra sin karm kan naa en troer paa stridsvogn,\
+da skal han strække sig frem med sit spyd; ti det er det bedste.\
+Saaledes herjet en krigshær tilforn baade byer og borge.\
+Saaledes var de tilsinds, og saaledes tænkte de alle.»\
+
+Manende talte han saa, den graanede krigsvante høvding.\
+Mændenes drot Agamemnon blev hjertelig glad, da han saa dem.\
+Hilste han da med vingede ord den værdige olding:\
+«Gamle, aa gid dine knær kunde følge dig villig som modet\
+endnu er friskt i dit bryst, ja gid du var kraftig som fordum!\
+Dog, du knuges av alderens vegt, som ingen kan undgaa.\
+Gid den trykket en anden og *du* var en av de unge»!\
+
+Nestor svarte ham straks, den gamle gereniske vognhelt:\
+«Visselig ønsker jeg, Atrevs' søn, at være som fordum,\
+dengang hin herlige helt Erevtalion faldt for min lanse;\
+dog, vi mennesker faar ikke alt av de evige guder.\
+Ung var jeg dengang og sterk; nu kuer mig alderens byrde.\
+Endda vil jeg dog færdes i strid med raad og formaning;\
+ti for de gamle er dette et hædrende hverv; men de yngre\
+pligter at slynge sin lanse med kraft, de helter som tæller\
+færre av aar end jeg og forlater sig trygt paa sin styrke.»\
+
+Saa han talte, og glad var Atrevs' søn, da de skiltes.\
+Derefter øinet han Peteos' søn, den raske Menestevs.\
+Stille han stod i en kreds av atenere, vældige kjæmper.\
+Nærmest ved ham stod helten, den kløktige kriger Odyssevs,\
+ledig midt i de tro kefalleneres mægtige rækker.\
+End hadde stridslarmens gny ei lydt for mændenes ører;\
+ti først nu skred akaiernes hær og troernes fylking\
+frem til det blodige stevne; nu stod de i taushet og ventet\
+indtil en tætsluttet trop av andre akaiiske stridsmænd\
+først skulde storme avsted til en kamp mot troernes skare.\
+Refset da mændenes drot Agamemnon dem strengt, da han saa det.\
+Haanende lød hans vingede ord, da han stanset og talte:\
+«Hør mig, du Peteos' søn, hin konges som guderne fostret!\
+Hør ogsaa du som er mester i svig og lurer paa vinding!\
+Si, hvi staar I og gjemmer jer bort og venter paa andre?\
+Sømmelig var det om I som de første i krigernes rækker\
+stillet jer frem og vaaget en kamp hvor den raser som hetest;\
+ti naar akaierne holder et lag for de gjæveste fyrster,\
+da er det jer som jeg først lar byde til gjest ved vort gilde.\
+Da er det brunstekte kjøt eders fryd og de bredfulde bægre.\
+Vinen den liflige drikker I da saa meget I lyster.\
+Men nu saa I vist helst at ti akaiiske hære\
+foran jer selv kunde storme til kamp med det grusomme kobber.\
+
+Harmfuld svarte Odyssevs og sendte ham trodsige blikke:\
+«Atrevs' søn, hvi slipper du slikt over tændernes gjærde?\
+Kan du faa sagt, jeg er slap i en kamp, naar akaiernes sønner\
+haster til skarpeste strid mot de hestetumlende troer?\
+Dersom du finder det umaken værd, og har lyst, skal du snarlig\
+se at Telemakos' far tør kaste sig ind blandt de første\
+troiske kjæmper tilvogns. Du taler jo rent borti taaken.»\
+
+Smilende svarte paany den mægtige drot Agamemnon,\
+straks da han merket hans harm, og han tok sine haansord tilbake:\
+«Høibaarne søn av Laertes, du snartenkte, kloke Odyssevs!\
+Litet jeg har at laste dig for og litet at kræve.\
+Visst jeg vet at du mener det godt, og at du av hjerte\
+under mig vel; ti av sind er vi ens, og i tanker vi møtes.\
+Gaa nu avsted, og saafremt noget ondt er sagt, skal vi siden\
+prøve at gjøre det godt. Maatte guderne gjøre det usagt!»\
+
+Saa han talte. De skiltes i hast, og han ilte til andre.\
+Traf han saa Tydevs' søn, den modige helt Diomedes,\
+staaende høit paa sin prægtige vogn med forspændte hester.\
+Stenelos, Kapanevs' herlige søn, stod like ved siden.\
+Refset da mændenes drot Agamemnon ham haardt, da han saa ham.\
+Spottende lød hans vingede ord, da han talte til helten:\
+«Skam dig, søn av den krigerske drot, av vognhelten Tydevs!\
+Si, hvi gjemmer du dig? Hvi speider du ræd efter kampen?\
+Ei var det Tydevs' skik at krype i skjul, men at kjæmpe\
+mandig mot fienders flok langt foran de trofaste venner.\
+Saa fortalte de mænd som saa ham i kampen; ti aldrig\
+saa jeg ham selv; men de sa at ingen var høvdingens like.\
+Engang han kom paa fredelig færd som gjest til Mykene,\
+fulgt av den herlige drot Polyneikes. De kom for at samle\
+folk, da de stevnet paa tog mot det murkranste hellige Teben.\
+Ivrig de bad os at sende til hjælp vore kjækkeste helter.\
+Alle var villige straks til at gi dem alt hvad de bad om.\
+Zevs forhindret det dog ved at sende advarende jertegn.\
+Men da de begge drog bort og kom paa sin møisomme hjemfærd,\
+dit hvor Asopos flyter med sivkranste grønklædte bredder,\
+sendte akaierne Tydevs avsted til staden med budskap.\
+Villig han gik og traf mangfoldige gjæve kadmeier\
+samlet i hallen til fest hos den vældige helt Eteokles.\
+Skjønt som en fremmed han kom, den hestetumlende Tydevs,\
+gruet han ei, skjønt ene han var blandt mange kadmeier.\
+Freidig han æsket dem ut til en dyst, og altid han seiret\
+lekende let; ti Atene var selv hans hjælper i kampen.\
+Vrede blev da kadmeiernes mænd, de vognkjæmper gjæve,\
+og da nu høvdingen gav sig paa hjemveien, lagde de listig\
+femti svende i skjul, og som førere sendte de tvende,\
+Maion, en søn av Haimon, saa kjæk som en gud, og hans fælle\
+helten Avtonoos' søn, den krigerske drot Polyfontes.\
+Dog, ogsaa disse blev fældet med skam av Tydevs. Han dræpte\
+alle de andre; kun en lot han vende tilbake til hjemmet.\
+Maion sendte han hjem i lit til gudernes jertegn.\
+Slik var Tydevs, aitolernes drot; men en søn har han avlet,\
+ringere langt i kamp; men rappere bruker han tungen.»\
+
+Saaledes talte han barsk. Diomedes svarte ham ikke.\
+Skamfuld bar han de refsende ord fra den værdige konge.\
+Da tok den navngjetne Kapanevs' søn til orde og svarte:\
+«Lyv ikke, Atrevs' søn, naar du godt kunde sige det sande.\
+Trygt tør vi rose os selv som gjævere end vore fædre.\
+Teben, den mægtige stad med portene syv, har vi stormet,\
+skjønt med en ringere hær vi drog mot de trodsige mure.\
+Dog vi stolte paa gudernes tegn og Alfaders bistand,\
+mens vore fædre forvoldte sit fald ved ugudelig hovmod.\
+Ros dem da ei som mønstre for os i manddom og hæder».\
+
+Misnøid, med rynkede bryn, tok straks Diomedes til orde:\
+«Stille, min ven, du faar lyde mit raad og holde dig rolig.\
+Ikke forarger det mig at mændenes drot Agamemnon\
+egger til skarpeste strid de malmklædte mænd av Akaia.\
+Ham vil jo hæderen følge, saafremt akaiernes sønner\
+vinder med troerne bugt og stormer det hellige Troja.\
+Selv vil han føle den bitreste sorg, hvis akaierne fældes.\
+Derfor velan, la os tænke paa kamp og storme til striden.»\
+
+Saa han talte og sprang fra sin vogn i skinnende rustning.\
+Frygtelig klang om herskerens bryst, da han hoppet til jorden,\
+panserets plater av malm. Den modigste helt kunde grue.\
+
+Likesom bølgerne ruller fra sjø mot den brusende strandbred\
+jaget av Zefyros frem og pisket av vældige byger\
+— Langt tilhavs de topper sig først; men derpaa de brytes\
+mægtig mot stranden med tordnende larm, og krummet om pynten\
+løfter de kammene høit og sprøiter det skummende saltvand —\
+Saaledes stormet danaernes hær i endeløs række\
+fremad til strid, og lydt klang førernes rop gjennem skaren.\
+Men deres folk gik tyst; ei skulde man tro at de mange\
+stridsmænd som fulgte sin drot hadde røst og mæle i brystet.\
+Førerne fulgte de lydig og tyst, og straalende lyste\
+blinkende brynjer om krigernes bryst, hvor rækkerne stevnet,\
+Troerne derimot skrek lik faar som i talløse flokker\
+staar i den myldrende kve paa rikmandens vang for at melkes,\
+mens de ustanselig bræker, naar lammenes stemmer de hører.\
+Saaledes gjaldet de larmende skrik fra den mægtige fylking;\
+ti deres tungemaal var ikke ens eller talen den samme.\
+Blandet var mændenes maal; fra mangfoldige land var de budsendt\
+Krigsguden egget nu disse til kamp, men Pallas de andre\
+sammen med Deimos og Fobos og møen, den stridslystne Eris,\
+søster av Ares, den blodgriske gud, og hans trofaste fælle.\
+Først er hun liten av vekst, naar hun aksler sin rustning; men siden\
+støtter hun issen mot himlen, mens frem over valen hun skrider.\
+Nu gik hun ogsaa omkring i de vrimlende hære og saadde\
+likelig ufredens sæd og øket de kjæmpendes møie.\
+
+Da de omsider kom frem og møtte hverandre paa valen,\
+tørnet de modige pansrede mænd med skjoldene sammen.\
+Lanserne slyngedes ut, og de vældige buklede skjolde\
+støttes mot skjolde med kraft, og stridslarmen drønet saa vide.\
+jamrende stønnen blev hørt og pralende rop fra de mange\
+kjæmper som fældte og faldt, og blodstrømme flommet paa jorden.\
+Som naar i høstflommens tid to elver som strømmer fra fjeldet,\
+møtes og styrter som vældigste fos i den kokende fjeldkløft\
+ned ifra kildernes mægtige væld langt inde i skaret —\
+Gjæteren hører den tordnende larm fjernt borte paa vidden —\
+saaledes drønet de stønnende rop, da de møttes i kampen.\
+
+Fældte da helten Antilokos først en høibaaren troer,\
+som blandt de første gik frem, Talysios' søn Ekepolos.\
+Like i skjærmen paa høvdingens hjelm med hestehaars busken\
+rammet han midt i hans pande, og malmspydet trængte med vælde\
+tvers gjennem benet, og dødsnattens mulm omhyllet hans øine.\
+Krigeren faldt som et styrtende taarn i den vældige tummel.\
+Grep da om høvdingens fot den modige helt Elefenor,\
+Kalkodons søn, den mægtige drot for de kjække abanter.\
+Bort fra spydregnet trak han hans lik; ti han agtet at røve\
+rustning og vaaben i hast; men brat var hans higen til ende;\
+ti da den kjække Agenor fik se at han slæpte den faldne,\
+jog han ham spydet i siden, som blottedes helt bak hans malmskjold,\
+just da han bøiet sig ned, og han lammet de segnende lemmer.\
+Saaledes lot han sit liv; men over hans lik blev der kjæmpet\
+vildt av akaier og troer. De styrtet som glubende ulver\
+ind paa hverandre, og mand vog mand i det blodige stevne.\
+
+Aias, Telamons søn, vog først en blomstrende yngling,\
+helten Antemions søn, Simoeisios. Hist ved de grønne\
+bredder av Simoeis fødte hans mor, da hun vandret fra Ida.\
+Begge forældrene fulgte hun dit, da de saa til sit smaafæ.\
+Derfor fik sønnen sit navn Simoeisios; men hans forældre\
+fik ikke løn for at fostre sit barn; ti kort blev hans livsvei,\
+nu da han segnet for Aias' spyd blandt de forreste kjæmper.\
+Like i brystbenet traf han ham haardt ved vorten til høire.\
+Tvers gjennem skuldren trængte den malmhvasse lanse, og helten\
+styrtet i støvet til jord saa tungt som en segnende poppel\
+hist paa den lavlændte grund, hvor den vokste ved fugtige myrer,\
+glat over stammen, men kranset med løv og grener i toppen.\
+Mesteren hugger den om med det blinkende staal for at bøie\
+veden til fælger om rullende hjul paa den prægtige stridsvogn.\
+Stammen blir liggende strakt for at tørke ved bredden av elven.\
+Slik Simoeisios faldt, Antemions søn, for den kjække\
+Aias' haand; men Antifos, klædt i det glitrende panser,\
+søn av kong Priamos, slynget sit hvæssede spyd imot helten.\
+Dog, han traf ikke Aias; men Levkos, en ven av Odyssevs,\
+traf han i lysken, da høvdingen trak den faldne til side.\
+Tvers over manden han faldt, og liket gled ut av hans hænder.\
+Harmfuld i hu over vennen som faldt blev helten Odyssevs.\
+Frem blandt de forreste kjæmper han gik i det skinnende kobber,\
+stanset saa nær ved sin ven og sigtet med lansen den blanke,\
+speidende rundt med sit blik, og troerne vek, da han svinget\
+lansen til kast. Ei slynget han ut sit vaaben forgjæves.\
+Priamos' frillesøn traf han, Demokoon som fra Abydos\
+nylig var kommet, hin by hvor fotrappe hopper blev fostret\
+Vred for sin fældede ven tok Odyssevs sit sigte og slynget\
+lansen mot høvdingens tinding med kraft, og gjennem den anden\
+trængte den malmhvasse odd, og dødsmørket slørte hans øine.\
+Drønende faldt han til jord, og rustningen klirret om helten.\
+Alle de forreste kjæmper og selve den straalende Hektor\
+vek, mens argeierne jublet og slæpte de faldne fra valen.\
+Videre stormet de frem; men Apollon som saa det fra borgen,\
+harmedes saare og egget med rop den troiske fylking:\
+«Fremad, I troiske kjæmper, og vik ei tilbake i striden,\
+feigt for argeiernes hær; ti hverken av jern eller graasten\
+er deres hud saa de taaler et hugg av det skjærende kobber.\
+Husk, han kjæmper ei mer, hin søn av den haarfagre Tetis.\
+Hist ved skibene sitter han nu i nagende vrede.»\
+
+Saaledes ropte fra borgen den harmfulde gud; men Atene,\
+Alfaders herlige barn, gik om i akaiernes fylking,\
+eggende alle til kamp hvor hun saa dem slappe i striden.\
+
+Rammet av skjæbnen blev først Amarynkevs' ætling, Diores;\
+ti over læggen til høire ved ankelens led blev han truffet\
+haardt med en skarpkantet sten. Det var trakernes fører som traf ham,\
+Peiroos, Imbrasos' søn, som var kommet til Troja fra Ainos.\
+Begge hans sener og ankelens ben blev knust av den haarde\
+grusomme sten. Paa ryggen han faldt i støvet og rakte\
+haenderne bedende frem mot de elskede venner, mens livets\
+svindende aandepust vek. Hans banemand Peiroos stormet\
+frem og i navlen han støtte sit spyd, saa tarmene vældet\
+ut paa den blodige jord, og dødsmørket slørte hans øine.\
+Men da han atter gik paa, blev han dræpt av aitoleren Toas,\
+rammet i brystet ved vorten saa spydet sat fast i hans lunge.\
+Toas gik frem og stillet sig nær og rykket sin lanse\
+ut av hans bryst, og dragende ut sit hvæssede slagsverd,\
+gav han ham midt over buken et hugg og voldte hans bane.\
+Rustningen fik han dog ei; langhaarede trakiske svende\
+stillet sig rundt sin segnede drot med fældede lanser,\
+og skjønt Toas var vældig og kjæk og sterk som en jætte,\
+drev de ham bort, og haardt blev han trængt, da han vek fra den faldne.\
+Saaledes laa de side om side henstrakt i støvet\
+trakernes mægtige drot og de malmklædte gjæve epeiers\
+mandige fører, og talrike stridsmænd segnet omkring dem.\
+
+Der skulde ei nogen mand kunne laste de kjæmpendes idræt,\
+dersom han, skjærmet mot hugg og mot stik av det hvæssede kobber\
+færdedes blandt dem i tumlen, og Pallas Atene ham førte\
+venlig ved haanden og vernet ham trygt mot lanser og piler;\
+ti paa hin ulykkesdag blev mange akaier og troer\
+strakt paa sit ansigt i støvet og laa der side om side.\

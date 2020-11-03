@@ -1,0 +1,666 @@
+# Første sang. *Vreden. Pesten.* {epub:type=chapter}
+
+[S]{.initial}yng, gudinde, om vreden som tok Peleiden Akillevs\
+svanger med død for akaiernes mænd og med talløse sorger.\
+Mangen en heltesjæl sendte den ned til Hades og gjorde\
+kroppen til føde for hunder og flokker av rovgriske fugler.\
+Saaledes var det at Zevs, den almægtiges vilje blev fuldbragt\
+straks fra den dag da striden brøt ut og tvedragten skilte\
+hærkongen, Atrevs' mægtige søn, og den stolte Akillevs.
+
+Hvem blandt guderne var det som egget de tvende til striden?\
+Han som er søn av Leto og Zevs; ti harmfuld mot kongen\
+sendte han vidt over leiren en herjende farsott, og folket\
+segnet i døden til straf; ti Atrevs' søn hadde haanet\
+Kryses, hans prest, da han kom til akaiernes letrodde snekker\
+bringende med sig umaadelig gods for at løse sin datter.\
+Fjernskytten Foibos Apollons, den mægtiges, hellige uldbaand\
+bar han paa guldsmykket stav, og han bønfaldt alle akaier,\
+mest dog Atrevs' sønner, de to som raadet for hæren:\
+«Hør mig, Atrevs' sønner og hærklædte mænd fra Akaia!\
+Maatte de guder som bor paa Olymp, forunde jer alle\
+lykkelig hjemfærd, naar Priamos' by er styrtet i gruset!\
+Aa, men gi mig mit elskede barn og ta mine skatte!\
+Bøi jer i blygsel for Alfaders søn, fjernskytten Apollon!»
+
+Alle de andre akaier blev rørt og ropte at kongen\
+fromt burde lyde hin prest og ta hans herlige skatte.\
+Dog, det huet ei Atrevs' søn Agamemnon; men haanlig\
+jog han ham bort fra sin leir, og barskt var hans truende magtbud:\
+«La mig ei træffe dig her ved de stavnkrumme snekker, du gamle,\
+enten du agter at bli eller siden at komme tilbake.\
+Da kunde guddommens scepter og baand ei skjærme din svakhet.\
+Vit at jeg aldrig vil gi hende fri; nei, før skal hun ældes\
+hist paa min kongsgaard i Argos, langt borte fra frænder og hjemland.\
+Der skal hun sysle med væven, og der skal hun rede mit leie.\
+Tir mig nu ikke, men gaa, saa du frelst kan vende tilbake!»
+
+Saaledes talte han. Oldingen skalv og lød hans befaling.\
+Taus gik han hjem langs havet, hvor bølgerne skvulpet mot stranden.\
+Men da den gamle gik bort, besvor han med brændende bønner\
+guden Apollon, hin mægtige søn av den haarfagre Leto:\
+«Hør mig, du gud med buen av sølv, som verner om Kryse\
+og om det hellige Killa, du Tenedos' mægtige skytsgud!\
+Smintevs! saafremt jeg har bygget for dig et straalende tempel,\
+dersom jeg mangen en gang paa dit alter har ofret dig fete\
+stykker av okser og gjeter, saa hør mig og gjør som jeg ber dig:\
+Hevn mine taarer og tugt danaerne med dine piler!»
+
+Brændende bad han, og bønnen blev hørt av Foibos Apollon.\
+Barsk steg han ned fra Olympos' tind med vrede i hjertet\
+Sølvbuen bar han paa akslen og koggerets lukkede gjemme.\
+Pilene klang paa hans skuldre, da guden i flammende vrede\
+hastet avsted mot sit maal, og mørkt var hans aasyn som natten\
+Langt fra skibene satte han sig og sendte med vælde\
+pilen fra strengen, og sølvbuens klang var grufuld at høre.\
+Først tok han sigte paa muldyr og fotrappe hunder i leiren;\
+derefter skjøt han paa mændene selv og de smertende piler\
+rammet dem altid, og luerne steg fra talrike likbaal.
+
+Fjernskyttens piler fløi om ni samfulde dage i leiren;\
+men da den tiende kom, blev folket kaldt til av Akillevs.\
+Tanken blev lagt i hans sjæl av gudinden den armhvite Hera;\
+ti da hun saa danaerne dø, blev hun grepet av medynk.
+
+Da de var stimlet til tinge i flok, og alle var samlet,\
+reiste Akillevs, den fotrappe helt, sig blandt dem og mælte:\
+«Atrevs' søn, nu tror jeg forvisst vi maa vende tilbake\
+skammelig slaat og prise vort held, hvis livet kan bjerges,\
+dersom akaierne baade skal dø av sott og i kampen.\
+La os nu spørge en spaamand, en prest, eller en som kan tyde\
+drømmenes tale, — ti Zevs gir ogsaa i drømme sit varsel —\
+en som klart kunde tolke Apollons forfærdende vrede\
+og kunde si om vi svek vort ord eller glemte et offer.\
+Kanske han rørt ved fettdamp av lam og av lytefri gjeter\
+tok hvad vi gav ham til soning og sparte os naadig for døden.»
+
+Saa han talte og satte sig ned. Da reiste sig Kalkas,\
+Testors ærværdige søn, den ypperste tolker av varsler.\
+Alt stod klart for hans blik, baade nutid og fortid og fremtid.\
+Frem til Ilios hadde han ført akaiernes skibe\
+trygt ved sin sandsigerkunst, som han fik af Foibos Apollon.\
+Venlig tilsinds mot dem alle tok gubben til orde og mælte:\
+«Kjække Akillevs, du ber mig, du Alfaders yndling, at tolke\
+hvorfor Apollon er vred, den fjerntfra rammende hersker.\
+Ja, jeg skal si det. Gi agt paa mit ord; men først maa du sverge\
+dyrt at du trofast skal være mit vern i ord og i gjerning;\
+ti jeg maa tro at jeg nu vil vække hans vrede som hersker\
+vældig blandt Argos' mænd, hin drot hvem akaierne lyder.\
+Uraad er det for den som er svak, at trodse en konge;\
+ti om han end biter i sig idag og dølger sin vrede,\
+ulmer dog nagende hat i hans bryst, og sent eller tidlig\
+tar han sin hevn. Saa tal da og si om du lover mig tryghet.»
+
+Straks tok Akillevs, den fotrappe helt, til orde og svarte:\
+«Nævn kun trøstig den tydning du vet av guddommens vilje;\
+ti ved Apollon, hin yndling av Zevs, den gud som du, Kalkas,\
+ærer i bøn, naar du tolker danaerne gudernes varsler,\
+aldrig saalænge mit øie kan se, og jeg lever og aander,\
+skal nogen voldsmand faa røre dig her ved de stavnkrumme snekker,\
+ingen av alle danaer, nei, ikke engang Agamemnon,\
+drotten som bryster sig nu som den første av alle akaier.»
+
+Nu fik den værdige sandsiger mod og talte iblandt dem:\
+«Ikke for løftebrud vredes han nu eller savner et offer;\
+men det er presten det gjælder, den prest Agamemnon har haanet.\
+Ei gav han datteren fri, men vraket de tilbudte gaver.\
+Derfor har fjernskytten plager os sendt, og fler vil han sende.\
+Ei vil han fri danaernes folk for den herjende farsott,\
+førend vi sender den kjærlige far hans blaaøide datter\
+vederlagsfrit og uten en bot og fører til Kryse\
+hellige ofre; men kanske vi da kunde mildne hans vrede.»
+
+Saa han talte og satte sig ned. Da reiste sig blandt dem\
+Atrevs' mægtige søn, den herlige helt Agamemnon,\
+skummende vred. Utæmmelig vildskap fyldte hans mørke\
+natsorte sjæl. Som flammende ildsluer lyste hans øine.\
+Først med et hatefuldt truende blik han talte til Kalkas:\
+«Ond er din spaadom, forbandede prest! Noget godt har du aldrig\
+varslet mig. Det som er ondt er det altid din glæde at spaa mig.\
+Ikke ett trøstefuldt ord har du sagt eller latt det bli sandet.\
+Nu har du sagt som gudernes tolk i danaernes møte\
+at det er mig som har skylden, at fjernskytten sender os plager\
+bare fordi jeg har negtet at ta de herlige skatte\
+Kryses har budt mig som bot for sit barn. Jeg vilde jo heller\
+eie hin mø i mit hjem. Ja, selv Klytaimnestra, min hustru,\
+elsker jeg ikke saa høit. I statelig vekst og i skjønhet\
+holder hun maal; hun er likesaa klok og ferm i sin gjerning.\
+Dog, jeg vil gi hende fri, saasandt som det baader os bedre;\
+ti jeg vil heller at folket blir frelst end at alle skal dræpes.\
+Vel, men skaf mig saa straks en hædrende gave; en uhørt\
+skam vil det være, om bare jeg selv skal miste min kampløn;\
+ti det er klart for enhver, at jeg mister den løn I har git mig.»
+
+Straks tok Akillevs, den fotrappe helt, til orde og svarte:\
+«Atrevs' søn, du stolte, du griskeste gnier av alle!\
+Hvorledes skal dog akaiernes mænd kunne gi dig en gave?\
+Meget av gods som er fælles — det vet vi jo — eier vi ikke.\
+Byttet vi vandt i en hærtagen by, fordelte vi stadig.\
+Sanke det sammen og bringe det hit bør folket dog ikke.\
+Lyd du guden og send hende hjem, saa skal vi akaier\
+sikre dig trefold og firefold løn, naar Zevs i sin naade\
+under os engang at styrte i grus det murkranste Troja.»
+
+Nu tok den mægtige drot Agamemnon til orde og svarte:\
+«Vel er du tapper og kjælt som en gud, høibaarne Akillevs,\
+men du kan spare din list; du lurer mig ikke med løfter.\
+Kanske du selv vil beholde din skat, mens jeg skal faa sitte\
+blottet og bar og fromt paa dit raad sende møen tilbake.\
+Vel, jeg skal føie mig fromt, saasandt som de tapre akaier\
+gir mig en gave jeg liker, saa vinding og tap blir det samme.\
+Men hvis de ikke vil gi den, ja da skal jeg ta mig til rette,\
+komme og ta mig en kampløn med magt fra dig eller Aias\
+eller Odyssevs, og vred blir vel den som jeg agter at gjeste.\
+Nu, men det haster jo ikke. Den sak kan vi senere drøfte.\
+Først faar vi sætte paa glitrende sjø en sortmalet snekke,\
+samle av rorskarler nok og laste med festlige ofre\
+skibet og føre ombord den deilige datter av Kryses.\
+En faar saa være fører ombord, en høvding i raadet,\
+enten det nu blir Aias, Idómenevs eller Odyssevs\
+eller du, Pelevs' søn, du helt, mest frygtet av alle.\
+Du faar da ofre til guden og sone fjerntrammerens vrede.»
+
+Svarte da straks med rynkede bryn den raske Akillevs:\
+«Aa du skamløse niding, du griske og lumske bedrager!\
+Kan en akaier ha lyst til at føie dit ønske og villig\
+drage paa vaagelig færd eller kjæmpe av ytterste evne?\
+Ikke for troernes skyld, de spydvante mænds, er jeg kommet\
+hit for at kjæmpe. Paa dem har jeg ei nogen uret at hevne.\
+Aldrig har troerne røvet vort fæ eller tat vore hester,\
+og i det muldrike Ftia som nærer saa mangen en kriger,\
+ødte de adrig vor grøde; ti mellem os ligger der mange\
+blaanende rækker af fjeld og storhavets brusende vande;\
+men det var dig som vi fulgte, du skamløse! og for at glæde\
+dig, du skulende hund, og din bror Menelaos vi krævet\
+bøter av troerne. *Det* har du glemt; *det* rager dig ikke.\
+*Mig* tør du true; *min* hædrende løn vil du ta som din egen,\
+den som jeg vandt mig med møie, den løn som akaierne gav mig.\
+Aldrig jeg vinder en kamppris som din, naar de tapre akaier\
+lægger i grus en velbygget by i troernes bygder.\
+Altid, naar kampene raser som værst, er det mig som maa løfte\
+armen til haardeste hugg; men naar saa fordelingen kommer,\
+da er det dig som faar mest; med en kjær, men ringere gave\
+gaar jeg, naar armen er trættet av kamp, tilbake til flaaten.\
+Nu vil jeg stevne til Ftia; ti sandelig er det dog bedre\
+straks at vende med skibene hjem. Jeg vil ikke dvæle\
+længer med utak og sanke for dig ustyrtelig rigdom.»
+
+Straks tok den mægtige drot Agamemnon til orde og svarte:\
+«Fly kun, dersom det huer dig bedst. Jeg skal ikke be dig\
+tyndt om at dvæle for min skyld. Jeg har ogsaa andre som trofast\
+hjælper, og mest vil den alvise Zevs forøke min hæder.\
+Ingen jeg hater som dig av de gudopfostrede konger.\
+Altid er strid og tvedragt dig kjær og kamp uten ende.\
+Vel har du vældige kræfter; men husk, det er guddommens gave.\
+Drag du kun hjem med de skibe du har og med dine svende;\
+hersk saa over dit folk, myrmidonerne. Ikke det mindste\
+ænser jeg dig og din vrede. Men nu skal du høre min trusel:\
+Eftersom Foibos Apollon vil røve Kryseïs, min kampløn,\
+godt, saa skal hun bli sendt med mit tjærede skib og mit mandskap.\
+Efterpaa kommer jeg selv og henter den skjønne Briseïs\
+hjem fra dit telt, din hædrende løn, saa selv du kan skjønne\
+at jeg i magt staar høit over dig og at ingen bør vaage\
+frækt at trodse mit ord og te sig som var han min like.»
+
+Saa han talte; men vred blev Pelevs' søn, og hans hjerte\
+hamret i tvil i hans haarede bryst, om han straks skulde rive\
+hastig fra lænden det skarpslepne sverd og jage de andre\
+høvdinger bort ifra tinget og ta Agamemnon av dage,\
+eller betvinge sit harmfulde sind og styre sin vrede.\
+Da, mens tankerne tumlet sig vildt i hans sind og han raadvild\
+holdt paa at trække av skeden sit slagsverd, svævet Atene\
+ned fra det høie. Som bud blev hun sendt av den armhvite Hera;\
+ti hun var glad i dem begge og elsket dem høit i sit hjerte.\
+Stilt hun stanset bak Pelevs' søn og rørte hans blonde\
+lokkede håar, kun synlig for ham, men ei for de andre.\
+Studsende vendte Akillevs sig om og kjendte forfærdet\
+Pallas Atene; ti øinenes glans var sælsom at skue.\
+Undrende lød hans vingede ord, da han talte og spurte:\
+«Datter av aigissvingeren Zevs, hvi kom du saa hastig?\
+Mon for at selv du kan se Agamemnons hovmodige voldsfærd?\
+Dog, jeg vil si dig et ord, og visst skal det ogsaa bli sandet:\
+Kanske hans krænkende overmod snart skal koste ham livet.»
+
+Tok da til orde den blaaøide mø, gudinden Atene:\
+«Vit at jeg svævet fra himlen herned for at dæmpe din vrede,\
+om du gir efter. Mig sendte som bud den armhvite Hera;\
+ti hun er glad i jer begge og elsker jer høit i sit hjerte.\
+Stans nu striden og lyd hendes bud og drag ikke sverdet!\
+Haan ham bare med tirrende ord saa meget du lyster.\
+Ett tør jeg love forvisst, og mit løfte skal ogsaa bli fuldbragt.\
+Engang faar du til gjengjæld for al den uret du lider,\
+trefold saa herlige gaver. Saa tving dig og gjør som vi ber dig.»
+
+Straks tok Akillevs, den fotrappe helt, til orde og svarte:\
+«Høie gudinde, et paabud av jer bør jeg visselig lyde,\
+fylder end bitreste harme min sjæl, ti det er det bedste.\
+Den som vil adlyde gudernes bud, ham hører de gjerne.»
+
+Grep han da fast om hjaltet av sølv med sin vældige næve,\
+støtte det mægtige sverd tilbage i skeden og fulgte\
+lydig Atenes formaning; men selv drog hun hjem til Olympen\
+op til aigissvingerens borg hvor guderne møtes.
+
+Nu tok Akillevs til orde paany og tirret med haansord\
+Atrevs' søn, og endnu forvandt han ikke sin vrede.
+
+«Vin-tunge usling med mod som en hjort og et blik som en kjøter!\
+Ei har du endnu hat mod til hærklædt at stevne til kampen\
+med dine folk, eller sammen med os, de bedste akaier,\
+gaa til et bakhold; slikt mener du vist er det samme som døden.\
+Nei, langt bedre at bli i akaiernes leir og at røve\
+gaver fra den som vaager at kny og trodse din vilje.\
+Magtstjaalet har du dit folk; over uslinger hersker du, konge!\
+Ellers, Atreide, blev denne din haan vel ogsaa den sidste.\
+Men jeg skal si dig en ting, og den dyreste ed vil jeg sverge.\
+Hør nu: Ved denne min stav som aldrig i fremtid vil skyte\
+kvister og blad eller smykkes paany med prangende blomster,\
+siden den skiltes fra stubben paa fjeld; ti kobberet skrællet\
+barken og bladene av. Nu bærer akaiernes sønner\
+staven i haand, naar de sitter til doms paa tinge og verner\
+Alfaders bud, og vit at min ed skal koste dig meget:\
+Visselig kommer den stund, da alle akaiernes sønner\
+savner Akillevs; men da vil du ei, naar du knuges av sorger,\
+magte at bringe dem hjælp, naar mangfoldige segner i døden,\
+dræpt av den mordlystne Hektor. Med flængende anger i hjertet\
+mindes du da at du krænket akaiernes tapreste fyrste.»
+
+Saaledes talte Peleiden og kastet i harme til jorden\
+staven med nagler av guld, og selv tok han sæte i kredsen.\
+Likesaa harmfuld var Atrevs' søn. Da reiste sig Nestor,\
+Pylos' drot med den sølvklare røst og den lokkende tale.\
+Søtere strømmet de liflige ord fra hans læber end honning.\
+Døde forlængst var to av de mælende menneskers slegtled,\
+mænd som var født og fostret med ham i fremfarne dage\
+hist i det sandige Pylos. Nu hersket han over det tredje.\
+Venlig tilsinds mot dem begge tok gubben til orde iblandt dem:\
+«Ve os alle! En knugende sorg vil ramme Akaia.\
+Sandelig, glad vil Priamos bli og alle hans sønner.\
+Ja, og hver eneste troer vil fryde sig inderst i sjælen\
+naar han faar høre at I, de første danaer i raadet,\
+I som gaar foran i kamp, nu kives i hatefuld tvedragt.\
+Lyd nu et velment raad; ti yngre end mig er I begge.\
+Endnu langt gjævere var de end vi de helter jeg fordum\
+færdedes blandt; men altid de agtet mig dog som sin like.\
+Ei har jeg set saa herlige mænd og faar ikke se dem,\
+mænd som Peiritoos var og Dryas, hin høvding for stridsmænd.\
+Kainevs, den herlige drot og Eksádios og Polyfémos,\
+eller som Tesevs, Aigevs' søn, saa sterk som en guddom.\
+Vældige vokste da op som kjæmper blandt jordbundne slegter.\
+Vældige var de og kjæmpet i strid med vældige kjæmper,\
+bjergenes grufulde troll og vog dem i rædsomme blodbad.\
+Dette var mænd som jeg færdedes blandt, da jeg stevnet fra Pylos,\
+fjernt fra det fremmede land, og de bad mig selv om at komme:\
+Som deres likemand stod jeg i strid. Mot saadanne kjæmper\
+vaaget forvisst ei dødelig mand for tiden at feide.\
+Dog, de lød mine manende raad, og agtet min tale.\
+Lyd mig nu ogsaa I to, ti det baader jer begge at lyde.\
+Ikke skal du, hvor mægtig du er, ta ungmøen fra ham;\
+men la ham eie den gave han fik av akaiernes sønner,\
+og du, Pelevs' søn! med storkongen maa du ei yppe\
+aapenlys strid; ti altid fik han som scepteret bærer,\
+rikere hæder. Ham skjænket jo Zevs hans magt og hans ære.\
+Vel er du tapper og sterk, og vel er din mor en gudinde;\
+dog hans magt er den største, og videre rækker hans vælde.\
+Atrevs' søn, du maa stille din harm; jeg ber dig saa bønlig.\
+La nu fare dit nagende hat mot Akillevs som tryggest\
+verner akaiernes mænd i alle de grufulde kampe.»
+
+Talte da atter den mægtige drot Agamemnon og svarte:\
+«Gamle, du hadde jo visselig ret i alt hvad du nævnte;\
+men denne mand vil hæve sig høit over alle os andre;\
+ti han vil mestre os alle og herske som drot over alle;\
+alle skal lyde hans vink; — men der findes vel dem som vil trodse.\
+Dersom de evige guder har gjort ham til mester med lansen,\
+lar de ham derfor ha lov til at komme med haan og med skjeldsord?
+
+Straks tok den herlige helt Akillevs til orde og svarte:\
+«Sandelig skal man faa kalde mig feig og en ynkelig stakkar,\
+hvis jeg skal vike for dig i alt hvad du agter at nævne.\
+Andre — ja dem kan du gi dine bud; paa mig kan du spare\
+myndige vink; ti jeg agter ei mer at lyde din vilje.\
+Nu skal jeg si noget andet, og læg dig min tale paa sinde:\
+Ikke med magt eller vaaben i haand vil jeg kjæmpe om møen\
+hverken med dig eller andre, — I røver jo hvad I har git mig —;\
+men av det andet jeg har ved min letrodde tjærede snekke,\
+derav faar du nok intet, saasandt som jeg selv ikke vil det.\
+Vel, du kan komme og prøve, saa disse kan se om det nytter.\
+Da skal dit smudsige blod straks strømme for denne min lanse.»
+
+Saaledes endte den voldsomme strid og tungernes tvekamp.\
+Begge stod op, og møtet var endt ved akaiernes skibe.\
+Pelevs' søn gik bort til sit telt ved de stavnkrumme snekker\
+sammen med vennen, Menoitios' søn, og med sine svende.\
+Men Agamemnon lot sætte paa sjø et letroet langskib.\
+Rorskarler valgte han, tyve i tal, og det festlige offer\
+bragtes ombord. Selv førte han saa den skjønne Kryseïs\
+hen til et sæte. Til fører blev valgt den kloke Odyssevs.
+
+Disse gik hastig ombord og seilte paa skummende stier.\
+Men Agamemnon gav bud om at hele hans hær skulde renses.\
+Alle tok bad, og det urene vand blev skyllet i havet.\
+Derefter ofret de Foibos en lytefri festhekatombe,\
+okser og gjeter i flok langs stranden ved havet det golde.\
+Duftende offerdamp hvirvlet i røk mot himmelens hvælving.
+
+Saaledes syslet de travlt paa leirpladsen; dog Agamemnon\
+hadde ei glemt de truende ord i sin strid med Akillevs;\
+men til Taltybios talte han straks og til Evrybátes,\
+begge de raske herolder som tjente ham trofast og ivrig:
+
+«Skynd jer og gaa til Pelevs' søn, til Akillevs' leirtelt!\
+Ta saa den skjønne Briseïs ved haand og før hende til mig.\
+Dersom han ikke vil la hende gaa, skal jeg senere komme\
+mandsterk og ta hende selv; men det skal han føle bli værre.»
+
+Saa han talte og sendte dem bort med det myndige paalæg.\
+Nølende gik de avsted langs stranden ved havet det golde,\
+indtil de kom til hans telt ved myrmidonernes snekker.\
+Høvdingen fandt de sittende taus ved sit tjærede langskib\
+borte ved teltet, og ei blev Akillevs glad, da han saa dem.\
+Skjælvende stanset de begge i sky for den herlige konge.\
+Ikke et eneste ord fik de sagt eller vaaget et spørsmaal.\
+Dog, han gjettet med raadsnar kløkt deres ærend og mælte:
+
+«Hil jer, I menneskers bud og Alfaders gjæve herolder.\
+Kom kun! Ikke har I nogen skyld. Agamemnon har skylden,\
+han som sendte jer hit for at hente den skjønne Briseïs.\
+Vel da, ædle Patroklos, før jomfruen ut ifra teltet.\
+La dem faa ta hende med; men saa skal de selv være vidner,\
+vidner for mænd av dødelig æt og for evige guder\
+og for den stenhaarde konge, saafremt man i kommende dage\
+trænger mig haardt til at verne vort folk mod døden den grumme.\
+Rent som en rasende ter han sig jo i fordærvelig avsind.\
+Ikke en plan kan han lægge med fremsyn eller med omsigt,\
+saa at akaierne trygt kan kjæmpe ved skibenes leie.»
+
+Saaledes talte han. Lydig mot vennens, den elskedes paabud\
+førte Patroklos ved haand den skjønne Briseïs fra teltet,\
+gav hende saa til de tvende, og mændene vandret tilbake\
+langsmed skibenes rad; men jomfruen fulgte uvillig.\
+Graatende satte Akillevs sig ned paa den graalige havstrand\
+fjernt fra sit folk, og han skuet saa mørk over storhavets vidder.\
+Brændende bad han en bøn til sin mor med oprakte hænder:
+
+«Mor, naar du fødte din søn til et liv som snarlig skal svinde,\
+aa, saa burde dog Zevs, den olympiske tordengud, gi mig\
+ære og ry; men han hædret mig ei, nei, ikke det mindste.\
+Vit, nu har Atrevs' søn, den mægtige drot Agamemnon,\
+haanet mig frækt. Min løn har han røvet mig. Selv har han tat den.»
+
+Hulkende talte han saa, og hans mor, den høie gudinde,\
+hørte ham der hvor hun sat hos sin far paa bunden av havet,\
+Ilsomt dukket hun op av det disige hav som en taake,\
+svævet saa hen til sin graatende søn og satte sig hos ham,\
+klappet ham kjærlig med haand og spørgende tok hun til orde:
+
+«Barn, hvi graater du? Tal, hvilken sorg har knuget dit hjerte?\
+Si det og hold ei din kval for dig selv; la os vite den begge.»
+
+Sukkende tungt tok sønnen, den raske Akillevs, til orde:\
+«Aa, du vet det jo selv. Hvi si dig det alt, naar du vet det?\
+Herjende drog vi til Tebe, Eetions hellige kongsstad.\
+Byen blev styrtet i grus, og hærfanget førte vi med os.\
+Likelig delte akaiernes mænd alt godset og valgte\
+særskilt for Atrevs' søn den yndige datter av Kryses.\
+Men til akaiernes malmklædte mænd ved de letrodde snekker\
+vandret den graanede Kryses, fjerntrammeren Foibos' tjener,\
+bringende med sig umaadelig gods for at løse sin datter.\
+Fjernskytten Foibos Apollons, den mægtiges, hellige uldbaand\
+bar han paa guldsmykket stav, og han bønfaldt alle akaier,\
+mest dog Atrevs' sønner, de to som raadet for hæren.\
+Alle de andre akaier blev rørt og ropte at kongen\
+fromt burde lyde hin prest og ta hans herlige gaver.\
+Dog, det huet ei Atrevs' søn Agamemnon; men haanlig\
+jog han ham bort fra vor leir, og barskt var hans truende magtbud.\
+Harmfuld drog gubben igjen til sit hjem; men Foibos Apollon\
+hørte hans brændende bøn; ti saare han elsket sin tjener,\
+og mot argeierne sendte han straks sine smertende piler.\
+Folkene døde i mængde; ti guddommens dræpende vaaben\
+fløi overalt i akaiernes leir. Da talte en klarsynt\
+seer og tolket os sanddru og grant fjerntrammerens vrede.\
+Jeg var den første som talte og vilde vi skulde formilde\
+guden; men Atrevs' søn blev vred. Han reiste sig hastig.\
+Truende slynget han mot mig et ord som netop er fuldbragt.\
+Ti mens akaiernes klarøide mænd nu fører til Kryse\
+møen paa letroet skib og bringer sin gave til guden,\
+vandret herolder fornys fra mit telt og førte ved haanden\
+Brisevs' datter, den mø som akaiernes sønner har git mig.\
+Aa, om du kan, saa vern om din mandige søn og forsvar ham.\
+Gaa til Olympen og bønfald Zevs, saafremt du har glædet\
+engang i fremfarne dage hans sjæl i ord eller gjerning.\
+Ti i min fars palads har jeg oftere hørt dig med stolthet\
+si at du engang alene blandt alle de evige guder\
+skjermet den skyomhyllede Zevs mot skammelig voldsfærd,\
+dengang da guder paa høien Olymp vilde slåa ham i lænker,\
+Hera og dertil Poseidon, hans bror, og Pallas Atene.\
+Da kom du ham til hjælp og løste hans lænker og hentet\
+op til det høie Olymp den hundredarmede kjæmpe,\
+jætten som kaldes Aigaion blandt mænd, men av guder Briáros.\
+Selve Poseidon, hans far, har ei saa vældige kræfter.\
+Stolt tok han sæte hos Kronos' søn og brystet sig storlig.\
+Guderne irygtet hans kraft, og Alfader blev ikke lænket.\
+Sæt dig hos Zevs og favn om hans knæ og mind ham om dette.\
+Kanske han da vil laane sin hjælp til de kjæmpende troer,\
+medens akaiernes mænd blir jaget mot havet og fældes\
+her ved skibenes stavn, saa de alle faar nok av sin konge.\
+Da fik Atrevs' søn, den mægtige drot Agamemnon,\
+føle sin skyld at han krænket akaiernes tapreste fyrste.»
+
+Svarte da Tetis sin søn, mens taarerne rullet saa stride:\
+«Aa, mit barn, hvi fostret jeg dig til trængsel og vanheld?\
+Gid du fik sitte i ro ved dit skib uten taarer og sorger,\
+saasom din livstid blir kort og ikke skal vare saa længe.\
+Men du skal baade faa leve saa kort og mere end andre\
+tynges av kval. Til en sørgelig lod har jeg født dig i hallen.\
+Ja, jeg skal gaa til Olymp, til de snehvite tinder og melde\
+selv dine ord til den lynende Zevs, om han hører os naadig.\
+Bli du nu sittende her i ro ved de hurtige snekker,\
+vred paa akaiernes folk, og hold dig tilbake fra kampen.\
+Zevs er igaar til Okeanos reist, til en fest hos de bolde\
+aitiopiske mænd, og samtlige guder slog følge;\
+men naar det ellevte døgn er forbi, gaar han hjem til Olympen.\
+Da skal jeg ile til Alfaders hal over terskel av kobber.\
+Der skal jeg favne hans knæ, og jeg tror han vil føie os begge.»
+
+Saa hun talte og svandt; men ham lot hun ene tilbake\
+harmfuld i hjerte og sind for den skjøntombeltede kvinde,\
+møen de røvet ham nylig med vold. — Men helten Odyssevs\
+seilet med festhekatomben avsted og landet ved Kryse.\
+Da de med skibet var kommet i havn paa bugten den dype,\
+bjerget de seilet og lagde det ned i den tjærede snekke,\
+firet med taugene masten tildæks og lagde den skyndsomt\
+ned i dens gjemme, og frem til en ankerplads rodde de skibet.\
+Ankeret kastet de ut og fæstet de snoede landtaug.\
+Mandskapet hastet fra fartøiet ned paa den skvulpende strandbredd.\
+Ofrene bragtes fra borde til fjernskytten Foibos Apollon.\
+Sidst gik den skjønne Kryseïs iland fra den gyngende snekke.\
+Frem til alteret førtes hun straks av den kloke Odyssevs\
+hen til sin far, og hun sank i hans favn; men Odyssevs tok ordet:\
+«Hil dig Kryses! Vor mægtige drot Agamemnon har sendt mig\
+hit for at gi dig tilbake dit barn og bringe til Foibos\
+ofre til bot for danaernes folk, om guden kan mildnes,\
+han som har sendt argeiernes mænd den kvalfulde jammer.»
+
+Saa han talte og gav ham hans barn, og oldingen favnet\
+glad sin elskede datter. Men derefter stillet de skyndsomt\
+viede offerdyr frem paa rad ved det høireiste alter.\
+Hænderne tvættet de rene, og offerbygget blev hentet\
+Løftet da Kryses i inderlig bøn sine hænder mot himlen:\
+«Hør mig du gud med buen av sølv som verner om Kryse\
+og om det hellige Killa, du Tenedos' mægtige skytsgud.\
+Engang tilforn har du hørt mine ord da jeg bad dig, og naadig\
+vernet mig selv og tugtet akaierne haardt i din vrede.\
+Hør mig da ogsaa idag og la dette mit ønske bli opfyldt.\
+Skaan danaerue nu og stans den herjende farsott!»
+
+Inderlig bad han, og bønnen blev hørt av Foibos Apollon.\
+Da deres bønner var endt og de viede bygkorn var drysset,\
+trak de tilbake hvert offerdyrs hals og stak dem og flaadde.\
+Stykker av laarene snittet de ut og dækket dem dobbelt\
+til med et lag av fett. Smaa kjøtstykker lagde de øverst.\
+Oldingen tændte sit baal, og funklende vin gjød han over.\
+Svendene holdt ved hans side de femdelte spid over ilden.\
+Da deres offer var brændt, og enhver hadde smakt paa dets indmat,\
+delte de op det levnede kjøt og stak det paa spiddet,\
+stekte det skjønsomt og vel og trak det tilbake fra ilden.\
+Da deres møie var endt, og det festlige gilde var rede,\
+nød de sit maatid, og alle fik nok av de bugnende retter.\
+Men da de helt hadde stillet sin lyst til mat og til drikke,\
+fyldte de tjenende svende med vin de skummende boller.\
+Alle fik rakt sig et bæger; men først fik guden et offer.\
+Hele den utslagne dag formildet akaiernes ungdom\
+guden med viser og lek og sang til fjernskyttens ære\
+lovsangens herlige kvad, og han frydet sit hjerte ved sangen.
+
+Men da om aftenen solen gik ned og det mørknet mot natten\
+gik de til hvile paa stranden ved fartøiets utspændte landtaug;\
+men da ved tidligste gry den rosenfingrede Eos\
+straalte paa himmelen, satte de kurs mot akaiernes leirplads.\
+Fjernskytten Foibos Apollon lot blæse en strykende medbør.\
+Skibsmasten reiste de op og heiste det snehvite raaseil.\
+Kulingen fyldte det svulmende seil, og de mørkeblaa bølger\
+skvulpet om fartøiets brusende stavn, da det ilte mot hjemmet.\
+Dansende løp det paa bølgernes ryg sin vei over havet.\
+Men da de naadde i havn ved akaiernes vidtstrakte leirplads,\
+trak de det tjærede langskib pa land paa den skraanende strandbredd\
+høit paa sandet og stivet det op med mægtige støtter.\
+Derefter vandret enhver til sit telt og sin hurtige snekke.
+
+Pelevs' herlige søn, den fotrappe høvding Akillevs,\
+ruget imens over vreden og sat ved de hurtige skibe.\
+Aldrig gik helten til tinget hvor høvdinger søker sin hæder,\
+aldrig til kampen han gik, men med tærende nag i sit hjerte\
+sat han i nødtvungen ro og længtet mot kamp og mot hærskrik.
+
+Men da det dæmret av dag og morgenen kom paa den tolvte,\
+stevnet de evige guder i flok til Olympen tilbake.\
+Foran de andre gik Zevs; men sønnens formaning og paalæg\
+glemte ei Tetis. Hun dukket i hast fra bølgende havdyp.\
+Aarle ved gry steg hun op til den skyhøie top av Olympen.\
+Fandt hun da Kronos' søn, der han sat alene og skuet\
+vidt fra den høieste top av Olympos' takkede aasryg.\
+Foran ham satte hun sig og favnet hans knæ med den venstre,\
+medens hun rørte ham let over hake og kind med den høire.\
+Bedende talte hun derpaa til Zevs, til sønnen av Kronos:\
+«Alfader Zevs, saafremt jeg blandt evige guder har glædet\
+engang dit hjerte med ord eller daad, saa gjør som jeg ber dig:\
+Hædre min herlige søn som snarlig maa segne i døden\
+først av dem alle; men nu har mændenes drot Agamemnon\
+krænket ham dypt. Han røvet hans hædersløn; selv har han tat den.\
+Hædre da du ham, Zevs, du alvise drot paa Olympen.\
+La nu troerne seire i strid, til akaierne atter\
+agter og ærer min elskede søn og øker hans hæder.»
+
+Saa hun talte; men Zevs, den vældige skyernes herre,\
+svarte ei endriu paa længe. Han sat der i taushet, mens Tetis\
+klynget sig fast til hans knæ. Da talte hun atter saa bønlig:\
+«Gi mig med ord eller nik usvigelig løfte og tilsagn,\
+eller si nei; ti du kjender ei frygt, saa jeg nu kan faa vite\
+sikkert og visst at du agter mig mindst av alle gudinder.»
+
+Sukkende tungt tok Zevs, skysamleren, ordet og svarte:\
+«Sandelig, dette er slemt at du ber mig at egge end mere\
+Heras forbitrede nag, naar hun tirrer mig stadig med haansord.\
+Selv som det nu er, tar hun mig fat blandt de evige guder,\
+skjender og sier jeg hjælper i kamp de trolske stridsmænd.\
+Skynd dig nu atter tilbake, og la ikke Hera faa se dig.\
+Selv skal jeg tænke paa saken en stund, til jeg finder en utvei.\
+Vel, jeg skal love dig dette med nik, saa du føler dig sikker.\
+Dette er jo blandt guder det tryggeste tegn paa min vilje.\
+Det som jeg lover med nik, kan jeg senere ei ta tilbake.\
+Ei kan det negtes med svig, men fuldbragt vorder det altid.»
+
+Zevs hadde talt. Med de blaasorte bryn han nikket sit tilsagn.\
+Bølgende sænket sig lokkernes flom fra udødelig isse\
+ned over herskerens pande. Han rystet det høie Olympen.
+
+Derefter skiltes de straks da dette var drøftet, og hastig\
+sprang hun i storhavets dyp fra Olympos' straalende tinder.\
+Zevs skred hjem til sin hal. Men guderne reiste sig alle\
+op fra sit sæte og møtte sin far. Ei vaaget i hallen\
+nogen at sitte i ro, til han kom; men de gik ham i møte.\
+Høit paa sin tronstol satte han sig i salen; men Hera\
+kjendte hans færd; ti hun hadde jo set at han lønligen pleiet\
+raad med havgudens barn, den sølverfotede Tetis.\
+Talte hun da til Kronos' søn og tirret ham spydig:\
+«Rænkesmed, si hvilken guddom har nu pleiet raad med din høihet?\
+Altid er det dig kjært at slaa fast hvad du agter at gjøre\
+fjernt ifra mig med lønlige raad, og du kunde jo aldrig\
+bære det over dit hjerte at nævne for mig hvad du vilde.»\
+
+Da tok guders og menneskers far til orde og svarte:\
+«Hera, du maa ikke tro du har ret til stadig at vite\
+alt hvad jeg tænker. For svært vil det bli, om du end er min hustru.\
+Er det en ting som kan nævnes, ja da skal ingen blandt guder\
+eller blandt menneskers barn før dig faa vite min vilje.\
+Men naar det gjælder en sak jeg vil tænke paa fjernt fra de andre,\
+da maa du føie dig, ikke ustanselig fritte og spørre.»
+
+Straks tok den mørkøide guddom, den værdige Hera, til orde:\
+«Grusomme søn av Kronos, hvad mente du dog med din tale?\
+Ellers er det jo langtfra saa at jeg spør eller fritter.\
+Uten at plages av mig kan du pønse paa alt hvad du lyster.\
+Dennegang frygter jeg dog at den sølverfotede Tetis\
+helt har snakket dig rundt, hint barn av den graanede havgud.\
+Ti ved det tidligste gry tok hun plads ved din side og favnet\
+slesk dine knær, og det aner mig nu at du lovet at hædre\
+sønnen Akillevs og fælde ved skibene mange akaier.»
+
+Da tok den vældige skysamler Zevs til orde og svarte:\
+«Anelser har du som oftest, min ven; du vogter mig stadig.\
+Dog, det nytter dig intet dit stræv; du fjerner dig bare\
+mere end før mit hjerte; og det skal du merke blir farlig.\
+Er det nu saa som du sier, saa er det vel saa jeg vil ha det.\
+Sæt dig nu stille og kny ikke mer; men lyd min befaling.\
+Ellers kan guderne ei, saa mange som bor paa Olympen,\
+hjælpe dig, dersom jeg kommer og slaar dig med farlige næver.»
+
+Saa han talte. Da ræddedes svart den mørkøide Hera.\
+Taus gik hun atter til sæte og tvang sit harmfulde hjerte.\
+Guderne sat i hallen hos Zevs i trykkende taushet.\
+Derpaa tok først Hefaistos, den navngjetne kunstsmed, til orde,\
+blot for at trøste sin elskede mor, den armhvite Hera:\
+«Sandelig, dette blir slemt og rent umulig i længden\
+dersom I to for menneskers skyld skal trætte saa voldsomt.\
+Ufred blir her blandt guder. Skal denslags uvæsen raade,\
+faar vi jo ikke det ringeste godt av det herlige maaltid.\
+Mor, du er klok nok selv; men dog vil jeg raade dig sønlig:\
+Bøi dig for Zevs, vor elskede far, saa han ikke skal skjende\
+ogsaa idag og rent forspilde os maaltidets glæder.\
+Ja, ti han kan, hvis han vil, den olympiske lynsvinger, kaste\
+hver og en av os ned fra vor stol. Hans kraft er den største.\
+Tal nu til ham med venlige ord og si hvad han liker.\
+Da vil straks den olympiske drot vorde blid mot os alle.»
+
+Derefter reiste han sig i hast, og det funklende bæger\
+rakte han frem til sin elskede mor og endte sin tale:\
+«Taal det, min elskede mor, og tving dig, saa tungt som det falder\
+Forat jeg ei med mit øie skal se dig tugtes, du kjære.\
+Sletikke magtet jeg da, om aldrig saa harmfuld, at gi dig\
+hjælp i din nød. Den olympiske drot er farlig at trodse.\
+Sikkert jeg vet det; ti engang tilforn, da jeg fristet at hjælpe,\
+grep han min fot og slynget mig ut over himmelens terskel.\
+Hele den dag blev jeg hvirvlet avsted, og ved soleglads-tide\
+styrtet jeg ned paa Lemnos, og litet av liv var der i mig.\
+Sintiske mænd tok mig op og pleiet mig vel efter faldet.»
+
+Saa han talte. Da smilte hun blidt den armhvite Hera.\
+Smilende tok hun den blanke pokal som raktes av sønnen.\
+Derefter øste han nektaren søt fra bollen og rakte\
+bægre til alle de andre i rad fra venstre til høire.\
+Alle de salige guder brast ud i ustanselig latter\
+over Hefaistos som humpet forpustet omkring gjennem salen.
+
+Hele den utslagne dag, til solen var sunket i havet,\
+nød de sit maaltid. Ei savnet de der de deiligste retter\
+eller den klingende lyre, hvis strenger blev rørt av Apollon,\
+eller den vekslende sang av musernes sølvklare stemmer.
+
+Men da omsider den straalende sol var sunket i havet,\
+vandret de andre enhver til sin borg for at søke sit leie,\
+der hvor fordum Hefaistos den navngjetne, armsterke guddom\
+reiste med sindrigste kløkt for enhver en prangende bolig.\
+Zevs, den lynende drot paa Olymp, gik ogsaa til leiet\
+der hvor han pleide at hvile, naar søvnen den søte ham favnet.\
+Der gik guden til ro med den guldstoltronende Hera.
