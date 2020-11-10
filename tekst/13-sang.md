@@ -402,167 +402,167 @@ Priamos' fagreste datter; men lovet det vældige storverk\
 hjem fra Troja med magt at jage akaiernes sønner.\
 Oldingen Priamos gav ham sit ord og lovet at skjænke\
 [369—405]
-helten sin datter til brud, og han kjæmpet i lit til hans løfte.
-Men med det blinkende spyd tok Idomenevs sigte og rammet
-just som han stolt skred frem, og høvdingens brynje av kobber
-vernet ham ei mot fald; men spydsodden traf ham i buken.
-Drønende faldt han til jord, og Idomenevs ropte i jubel:
-«Gjæve Otryonevs! høit over alle av dødelig stamme
-priser jeg dig, hvis du holder dit ord til Dardanos' ætling
-Priamos, han som lovet dig nys sin datter til egte.
-Nu kan det hænde at vi er tilsinds at gi dig det samme
-hellige løfte og holde vort ord og hente fra Argos
-hit og gi dig som brud Agamemnons fagreste datter,
-dersom du hjælper os kjækt med at øde det velbygde Troja.
-Følg mig villig, saa enes vi nok ved de hurtige snekker
+helten sin datter til brud, og han kjæmpet i lit til hans løfte.\
+Men med det blinkende spyd tok Idomenevs sigte og rammet\
+just som han stolt skred frem, og høvdingens brynje av kobber\
+vernet ham ei mot fald; men spydsodden traf ham i buken.\
+Drønende faldt han til jord, og Idomenevs ropte i jubel:\
+«Gjæve Otryonevs! høit over alle av dødelig stamme\
+priser jeg dig, hvis du holder dit ord til Dardanos' ætling\
+Priamos, han som lovet dig nys sin datter til egte.\
+Nu kan det hænde at *vi* er tilsinds at gi dig det samme\
+hellige løfte og holde vort ord og hente fra Argos\
+hit og gi dig som brud Agamemnons fagreste datter,\
+dersom du hjælper os kjækt med at øde det velbygde Troja.\
+Følg mig villig, saa enes vi nok ved de hurtige snekker\
 snart om dit bryllup. Vi knusler jo ei med rundelig medgift.»
 
-Saaledes talte den mandige helt og trak ham ved foten
-ut av det vældige slag; men Asios kom som hans hevner,
-skridende foran sin vogn, mens væbneren styrte hans hester,
-nær saa de pustet i høvdingens ryg. Selv vilde han ramme
-kreternes mægtige drot; men Idomenevs jog ham sin lanse
-ind under haken i strupen saa malmen for ut gjennem nakken.
-Tungt han faldt som den mægtige ek eller poppelen falder
-eller en rankvokset gran som huggeren oppe i aasen
-fælder med nyslepet øks til kjøl for det toftede langskib.
-Saaledes laa han saa lang som han var ved den forspændte stridsvogn,
-skjærende tænder og knuget det blodige støv i sin næve.
-Grepet av sansesløs skræk blev hestenes styrer og vaaget
-ikke engang at vende de vælige dyr for at flygte
-bort fra fiendens haand; men helten Antilokos boret
-raskt sin lanse gjennem hans krop, og brynjen av kobber
-vernet ham ei, ti han rammet ham midt i buken med lansen.
-Rallende segnet han om og faldt fra den prægtige stridsvogn.
-Nestors mandhaftige søn Antilokos kjørte hans hester
+Saaledes talte den mandige helt og trak ham ved foten\
+ut av det vældige slag; men Asios kom som hans hevner,\
+skridende foran sin vogn, mens væbneren styrte hans hester,\
+nær saa de pustet i høvdingens ryg. Selv vilde han ramme\
+kreternes mægtige drot; men Idomenevs jog ham sin lanse\
+ind under haken i strupen saa malmen fôr ut gjennem nakken.\
+Tungt han faldt som den mægtige ek eller poppelen falder\
+eller en rankvokset gran som huggeren oppe i aasen\
+fælder med nyslepet øks til kjøl for det toftede langskib.\
+Saaledes laa han saa lang som han var ved den forspændte stridsvogn,\
+skjærende tænder og knuget det blodige støv i sin næve.\
+Grepet av sansesløs skræk blev hestenes styrer og vaaget\
+ikke engang at vende de vælige dyr for at flygte\
+bort fra fiendens haand; men helten Antilokos boret\
+raskt sin lanse gjennem hans krop, og brynjen av kobber\
+vernet ham ei, ti han rammet ham midt i buken med lansen.\
+Rallende segnet han om og faldt fra den prægtige stridsvogn.\
+Nestors mandhaftige søn Antilokos kjørte hans hester\
 bort fra troernes hær til akaiernes malmklædte fylking.
 
-Helten Deïfobos gik i sorg over Asios' skjæbne
-kjækt paa Idomenevs løs og slynget den lynende lanse.
-Dog, da Idomenevs rettet sit blik mot odden av kobber,
-slap han at rammes og gjemte sig raskt bak skjoldet som altid
+Helten Deïfobos gik i sorg over Asios' skjæbne\
+kjækt paa Idomenevs løs og slynget den lynende lanse.\
+Dog, da Idomenevs rettet sit blik mot odden av kobber,\
+slap han at rammes og gjemte sig raskt bak skjoldet som altid\
 [406—42]
-hang paa hans arm og var formet av rundskaarne oksehudsplater,
-dækket med skinnende malm. To bøiler var fæstet til platen.
-Ned bak skjoldplaten dukket han helt, og lansen fløi over.
-Malmskjoldet klirret med brakende skrald, da den mægtige spydstang
-streifet dets rand; men han slynget den ei av haanden forgjæves.
-Like i leveren traf han den mægtige høvding Hypsenor,
-Hippasos' søn, ret under hans bryst og lammet hans lemmer.
-Pralende ropte Deifobos stolt med rungende stemme:
-«Uhevnet ligger ei Asios mer. Nei, selv naar han vandrer
-ned til Hades' port med den mægtige bom, vil han frydes,
+hang paa hans arm og var formet av rundskaarne oksehudsplater,\
+dækket med skinnende malm. To bøiler var fæstet til platen.\
+Ned bak skjoldplaten dukket han helt, og lansen fløi over.\
+Malmskjoldet klirret med brakende skrald, da den mægtige spydstang\
+streifet dets rand; men han slynget den ei av haanden forgjæves.\
+Like i leveren traf han den mægtige høvding Hypsenor,\
+Hippasos' søn, ret under hans bryst og lammet hans lemmer.\
+Pralende ropte Deifobos stolt med rungende stemme:\
+«Uhevnet ligger ei Asios mer. Nei, selv naar han vandrer\
+ned til Hades' port med den mægtige bom, vil han frydes,\
 tror jeg, av hele sin sjæl; ti nu fik han følge paa færden.»
 
-Saaledes pralte han stolt og vakte akaiernes harme.
-Helten Antilokos krympet sig mest av sorg i sit hjerte.
-Dog i sin græmmelse glemte han ei sin fældede landsmand.
-Rundt om kjæmpen han gik og dækket ham varlig med skjoldet.
-To av hans staldbrødre bøide sig ned og grep om den faldne,
-helten Mekistevs, Ekios' søn, og den kjække Alastor.
+Saaledes pralte han stolt og vakte akaiernes harme.\
+Helten Antilokos krympet sig mest av sorg i sit hjerte.\
+Dog i sin græmmelse glemte han ei sin fældede landsmand.\
+Rundt om kjæmpen han gik og dækket ham varlig med skjoldet.\
+To av hans staldbrødre bøide sig ned og grep om den faldne,\
+helten Mekistevs, Ekios' søn, og den kjække Alastor.\
 Sorgfulde bar de den stønnende helt til de stavnhøie snekker.
 
-Drotten Idomenevs kjæmpet med rastløs kraft; ti han søkte
-altid at sænke i dødsmørkets nat en kjæmpende troer
-eller at frelse akaiernes mænd, om han selv skulde falde.
-Straks han fældte en søn av den høibaarne drot Aisyetes,
-helten Alkåtoos. Kjæmpen var maag av den gjæve Ankises,
-gift med Hippodameia, den ældste av høvdingens døtre.
-Ungmøens far og værdige mor i de hjemlige haller
-elsket av hjerte sin datter; ti høit over alle veninder
-stod hun i kvindelig syssel, i kløkt og i skjønnet, og derfor
-kaaret den gjæveste troiske helt hin mø til sin hustru.
-Selve Poseidon kuet ham nu med Idomenevs' lanse,
-blendet hans straalende blik og lænket de herlige lemmer.
-Hverken formaadde han længer at fly eller vike tilside;
-men som en støtte av sten eller træet med løvrike grener
-stod han urørlig, da helten Idomenevs støtte den skarpe
-lansespids midt i hans bryst og sprængte om barmen den sterke
-brynje av malm, som vernet tilforn sin eier mot døden.
-Klirrende braket den dumpt, da den brast for høvdingens lanse.
-Drønende faldt han til jord, og lansen stod fast i hans hjerte.
+Drotten Idomenevs kjæmpet med rastløs kraft; ti han søkte\
+altid at sænke i dødsmørkets nat en kjæmpende troer\
+eller at frelse akaiernes mænd, om han selv skulde falde.\
+Straks han fældte en søn av den høibaarne drot Aisyetes,\
+helten Alkátoos. Kjæmpen var maag av den gjæve Ankises,\
+gift med Hippodameia, den ældste av høvdingens døtre.\
+Ungmøens far og værdige mor i de hjemlige haller\
+elsket av hjerte sin datter; ti høit over alle veninder\
+stod hun i kvindelig syssel, i kløkt og i skjønnet, og derfor\
+kaaret den gjæveste troiske helt hin mø til sin hustru.\
+Selve Poseidon kuet ham nu med Idomenevs' lanse,\
+blendet hans straalende blik og lænket de herlige lemmer.\
+Hverken formaadde han længer at fly eller vike tilside;\
+men som en støtte av sten eller træet med løvrike grener\
+stod han urørlig, da helten Idomenevs støtte den skarpe\
+lansespids midt i hans bryst og sprængte om barmen den sterke\
+brynje av malm, som vernet tilforn sin eier mot døden.\
+Klirrende braket den dumpt, da den brast for høvdingens lanse.\
+Drønende faldt han til jord, og lansen stod fast i hans hjerte.\
 [443—80]
-Skjælvende slog det dog endnu og rystet det dirrende spydskaft,
-indtil den vældige krigsgud selv lot livskraften svinde.
-Pralende ropte Idomenevs stolt med rungende stemme:
-«Gjæve Deifobos! mon vi kan si at vor regning er opgjorti
-Tre har jeg fældet for én. Du pralte nok nys som en daare.
-Kom nu, min pralende ven, og stil dig imot mig i tvekamp,
-saa du kan se at en ætling av Zevs er kommet til striden.
-Zevs blev Minos' far, hin mægtige herskers paa Kreta.
-Minos blev far til en søn saa gjæv, Devkalion kaldet.
-Mig har Devkalion avlet som drot over talrike stridsmænd
-hist paa det vidtstrakte Kreta, og hit har jeg stevnet paa skibe
+Skjælvende slog det dog endnu og rystet det dirrende spydskaft,\
+indtil den vældige krigsgud selv lot livskraften svinde.\
+Pralende ropte Idomenevs stolt med rungende stemme:\
+«Gjæve Deifobos! mon vi kan si at vor regning er opgjort?\
+Tre har jeg fældet for én. Du pralte nok nys som en daare.\
+Kom nu, min pralende ven, og stil dig imot mig i tvekamp,\
+saa du kan se at en ætling av Zevs er kommet til striden.\
+Zevs blev Minos' far, hin mægtige herskers paa Kreta.\
+Minos blev far til en søn saa gjæv, Devkalion kaldet.\
+Mig har Devkalion avlet som drot over talrike stridsmænd\
+hist paa det vidtstrakte Kreta, og hit har jeg stevnet paa skibe\
 dig til fordærv og din far og troernes kjæmper til vanheld.»
 
-Saa han talte. Deifobos stod med tvil i sit hjerte,
-enten han straks skulde fly til de modige troer og finde
-der en hjælpende ven, eller friste en tvekamp alene.
-Kaadeligst fandt han det dog i sin tvil at gaa for at hente
-helten Aineias til hjælp, og han fandt ham staaende ledig
-bakerst i hæren; ti vred paa Priamos var han som tiest,
-eftersom drotten ei hædret ham nok for hans manddom i striden.
-Gik han da nær og talte med vingede ord til Aineias:
-«Gjæve Aineias, troernes drot!Nu maa du tilvisse
-hevne din svoger, saasandt nogen sorg kan ramme dit hjerte.
-Kom, la os hevne din maag Alkatoos, helten som fordum
-fostret dig hist paa sin hjemlige borg fra din spædeste barndom.
+Saa han talte. Deifobos stod med tvil i sit hjerte,\
+enten han straks skulde fly til de modige troer og finde\
+der en hjælpende ven, eller friste en tvekamp alene.\
+Raadeligst fandt han det dog i sin tvil at gaa for at hente\
+helten Aineias til hjælp, og han fandt ham staaende ledig\
+bakerst i hæren; ti vred paa Priamos var han som tiest,\
+eftersom drotten ei hædret ham nok for hans manddom i striden.\
+Gik han da nær og talte med vingede ord til Aineias:\
+«Gjæve Aineias, troernes drot! Nu maa du tilvisse\
+hevne din svoger, saasandt nogen sorg kan ramme dit hjerte.\
+Kom, la os hevne din maag Alkatoos, helten som fordum\
+fostret dig hist paa sin hjemlige borg fra din spædeste barndom.\
 Nu har den navngjetne helt Idomenevs dræpt ham paa valen.»
 
-Saa han talte og rørte Aineias' hjerte i barmen.
-Frem mot Idomenevs løp han og skyndte sig ivrig til kampen.
-Dog, Idomenevs følte ei frygt som en vergeløs smaagut.
-Helten holdt stand lik et vildsvin paa fjeld, som i lit til sin styrke
-trodser de larmende jægeres flok som stormer imot det,
-fjernt i den ødslige skog, og reiser de strittende hørster;
-— øinene lyser av flammende ild og det hvæsser sin hugtand,
-lysten paa kamp mot jægernes flok og hundenes kobbel —
-saaledes holdt den kjække Idomenevs stand mot Aineias,
-nu da han stormet til kamp; men til vennerne ropte han høilydt,
-da han Askalafos saa og Deipyros hist og Afårevs,
-vennen Meriones selv og Antilokos, vældige kjæmper.
-Manende lød de vingede ord, da han kaldte dem til sig:
+Saa han talte og rørte Aineias' hjerte i barmen.\
+Frem mot Idomenevs løp han og skyndte sig ivrig til kampen.\
+Dog, Idomenevs følte ei frygt som en vergeløs smaagut.\
+Helten holdt stand lik et vildsvin paa fjeld, som i lit til sin styrke\
+trodser de larmende jægeres flok som stormer imot det,\
+fjernt i den ødslige skog, og reiser de strittende børster;\
+— øinene lyser av flammende ild og det hvæsser sin hugtand,\
+lysten paa kamp mot jægernes flok og hundenes kobbel —\
+saaledes holdt den kjække Idomenevs stand mot Aineias,\
+nu da han stormet til kamp; men til vennerne ropte han høilydt,\
+da han Askalafos saa og Deipyros hist og Afárevs,\
+vennen Meriones selv og Antilokos, vældige kjæmper.\
+Manende lød de vingede ord, da han kaldte dem til sig:\
 [481—517]
-«Venner, aa kom mig- til hjælp! Her staar jeg alene og gruer
-svart for Aineias, den fotrappe helt som stormer imot mig.
-Kjæmpen er sterk og rask til at fælde en kriger paa valen.
-Endnu staar helten i ungdommens blomst, i sin kraftigste alder.
-Var vi saasandt saa like av aar som vi er det i manddom,
+«Venner, aa kom mig til hjælp! Her staar jeg alene og gruer\
+svart for Aineias, den fotrappe helt som stormer imot mig.\
+Kjæmpen er sterk og rask til at fælde en kriger paa valen.\
+Endnu staar helten i ungdommens blomst, i sin kraftigste alder.\
+Var vi saasandt saa like av aar som vi er det i manddom,\
 da skulde han eller jeg snart vinde en straalende seier.»
 
-Saa han talte, og alle som én med modige hjerter
-stillet sig hen til sin ven med skjoldene støttet mot skuldren.
-Kaldte da ogsaa Aineias til hjælp sine trofaste venner,
-da han Deifobos saa og Paris og helten Agenor.
-Førere var de som høvdingen selv, og menige troer
-fulgte i flok lik faar som følger en væder til vånding
-hjem fra de frodige beiter, og gjæteren glæder sig saare.
-Saaledes banket i jublende fryd Aineias' hjerte,
-nu da han fylkingen saa, som fulgte ham freidig i striden.
-Easende stormet de nu med vældige lanser i hænde
-frem til en kamp om den faldne Alkåtoos. Frygtelig braket
-malmen om heltenes bryst naar de rammet hverandre i tumlen.
-Fremfor de øvrige higet dog to av de tapreste kjæmper,
-helten Aineias og drotten Idomenevs, sterke som Ares,
-efter at flænge hinanden tilblods med det grusomme kobber.
-Ret mot Idomenevs slynget nu først Aineias sin lanse.
-Lynsnart saa han sig for og slap for den malmhvasse spydsodd.
-Dirrende boret Aineias' spyd sin malmodd i jorden.
-Uten at ramme sit maal for det ut av hans vældige næve.
-Men da Idomenevs traf Oinomaos like i buken,
-sprængtes den hvælvede brynje, saa spydet for ind hans indvold.
-Høvdingen segnet i støvet og grep med sin næve i jorden.
-Helten Idomenevs rykket med kraft den vældige lanse
-ut av hans krop; dog magtet han ei at rive det skjønne
-malmpanser løs fra hans skuldre; ti haardt han trængtes med spydkast.
-Ei var han længer i løp saa let paa foten som fordum,
-hverken til hastig at hente et spyd eller vike til siden.
-Kjækt i en nærkamp verget han sig mot dødsdagens jammer;
-men til at flygte i hast fra en kamp var hans føtter for tunge.
-Da han nu langsomt vek, tok Deifobos sigte og slynget
-raskt sit blinkende spyd; ti forbitrelsen naget ham stadig.
+Saa han talte, og alle som én med modige hjerter\
+stillet sig hen til sin ven med skjoldene støttet mot skuldren.\
+Kaldte da ogsaa Aineias til hjælp sine trofaste venner,\
+da han Deifobos saa og Paris og helten Agenor.\
+Førere var de som høvdingen selv, og menige troer\
+fulgte i flok lik faar som følger en væder til vanding\
+hjem fra de frodige beiter, og gjæteren glæder sig saare.\
+Saaledes banket i jublende fryd Aineias' hjerte,\
+nu da han fylkingen saa, som fulgte ham freidig i striden.\
+Rasende stormet de nu med vældige lanser i hænde\
+frem til en kamp om den faldne Alkátoos. Frygtelig braket\
+malmen om heltenes bryst naar de rammet hverandre i tumlen.\
+Fremfor de øvrige higet dog to av de tapreste kjæmper,\
+helten Aineias og drotten Idomenevs, sterke som Ares,\
+efter at flænge hinanden tilblods med det grusomme kobber.\
+Ret mot Idomenevs slynget nu først Aineias sin lanse.\
+Lynsnart saa han sig for og slap for den malmhvasse spydsodd.\
+Dirrende boret Aineias' spyd sin malmodd i jorden.\
+Uten at ramme sit maal fôr det ut av hans vældige næve.\
+Men da Idomenevs traf Oinómaos like i buken,\
+sprængtes den hvælvede brynje, saa spydet for ind hans indvold.\
+Høvdingen segnet i støvet og grep med sin næve i jorden.\
+Helten Idomenevs rykket med kraft den vældige lanse\
+ut av hans krop; dog magtet han ei at rive det skjønne\
+malmpanser løs fra hans skuldre; ti haardt han trængtes med spydkast.\
+Ei var han længer i løp saa let paa foten som fordum,\
+hverken til hastig at hente et spyd eller vike til siden.\
+Kjækt i en nærkamp verget han sig mot dødsdagens jammer;\
+men til at flygte i hast fra en kamp var hans føtter for tunge.\
+Da han nu langsomt vek, tok Deifobos sigte og slynget\
+raskt sit blinkende spyd; ti forbitrelsen naget ham stadig.\
 [618-55]
-Dog, han feilet som før; men Askålafos traf han i stedet,
+Dog, han feilet som før; men Askálafos traf han i stedet,
 Ares' søn, og det vældige spyd for gjennem hans lever.
 Høvdingen segnet i støvet og grep med sin næve i jorden.
 Endnu hadde dog ei den vældige, brølende krigsgud
