@@ -70,7 +70,7 @@ Bøielig gjorde han hvert et lem, baade føtter og armer.\
 Selv fløi havguden bort lik en falk som paa pilsnare vinger\
 stiger fra svimlende stup paa den skyhøie tinde og svæver\
 hen over sletten i jagende fart efter flygtende smaafugl.\
-[(66–102) ]{.linjenummer}Saaledes fôr den sterke Poseidon bort fra dem begge.\
+[(65–102) ]{.linjenummer}Saaledes fôr den sterke Poseidon bort fra dem begge.\
 Helten Oïlevs' fotrappe søn var den første som saa det.\
 Talte han da til Telamons søn, den vældige Aias:
 
@@ -548,7 +548,7 @@ Kjækt i en nærkamp verget han sig mot dødsdagens jammer;\
 men til at flygte i hast fra en kamp var hans føtter for tunge.\
 Da han nu langsomt vek, tok Deifobos sigte og slynget\
 raskt sit blinkende spyd; ti forbitrelsen naget ham stadig.\
-[(618–55) ]{.linjenummer}Dog, han feilet som før; men Askálafos traf han i stedet,\
+[(518–55) ]{.linjenummer}Dog, han feilet som før; men Askálafos traf han i stedet,\
 Ares' søn, og det vældige spyd fôr gjennem hans lever.\
 Høvdingen segnet i støvet og grep med sin næve i jorden.\
 Endnu hadde dog ei den vældige, brølende krigsgud\
@@ -669,7 +669,7 @@ Nu staar hele jer hu til at slynge de flammende brande\
 mot vore hurtige snekker og dræpe akaiernes helter.\
 Dog, hvor lystne I er, saa maa I nok stanse med kampen.\
 Alfader Zevs! det er sagt at *du* staar høit over alle\
-[(632–69) ]{.linjenummer}mænd og guder i visdom, og dog er det dig, som har gjort det,\
+[(632–68) ]{.linjenummer}mænd og guder i visdom, og dog er det dig, som har gjort det,\
 du som har skjænket din naadige hjælp til de grummeste voldsmænd,\
 lovløse troiske mænd som i frækkeste overmod aldrig\
 mættes av voldsdaad i krig og av grufuldt herjende kampe.\

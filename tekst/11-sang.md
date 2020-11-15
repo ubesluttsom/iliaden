@@ -225,7 +225,7 @@ Saaledes talte den stormsnare mø og hastet tilbake.\
 Svingende to malmhvæssede spyd fôr han om gjennem hæren,\
 eggende alle til strid, og han vakte det grufulde kampgny.\
 Mændene stanset og vendte sig om mot akaiernes fylking.\
-[(216–52) ]{.linjenummer}Ogsaa argeierne styrket paany de vaklende rækker.\
+[(215–52) ]{.linjenummer}Ogsaa argeierne styrket paany de vaklende rækker.\
 Atter stod kjæmperne bryst imot bryst, og forrest i striden\
 skred Agamemnon. Hans hu stod til kamp langt foran de andre.
 
@@ -350,7 +350,7 @@ Saaledes stormet de atter til mord, og hjertelig glade\
 pustet akaierne ut paa sin flugt for den herlige Hektor.
 
 Der fik de fældet paa selvsamme vogn to navngjetne kjæmper,\
-[(328–66) ]{.linjenummer}sønner av Merops, en drot fra Perkote. Kyndigst av alle\
+[(328–65) ]{.linjenummer}sønner av Merops, en drot fra Perkote. Kyndigst av alle\
 var han i spaadommens kunst og forbød sine sønner at drage\
 ut til den mandespildende kamp; men de fulgte ei budet;\
 ti de blev lokket og draget av dødsrikets mørke gudinder.\
@@ -553,7 +553,7 @@ Mangdobbelt værd mot andre har lægen som kyndig kan skjære\
 pilene ut og stille vor kval med lægende urter.»
 
 Saa han talte, og Nestor, den gamle gereniske kjæmpe,\
-[(517–84) ]{.linjenummer}fulgte hans raad og hoppet tilvogns, og helten Makaon,\
+[(517–54) ]{.linjenummer}fulgte hans raad og hoppet tilvogns, og helten Makaon,\
 lægen, den bolde Asklepios' søn, steg op ved hans side.\
 Hestene gav han et rap, og villige fløi de som vinden\
 hen til de stavnkrumme snekker; ti derhen stod al deres higen.
@@ -594,7 +594,7 @@ bølingens feteste dyr. Naar den nærmer sig, grisk efter bytte,\
 nytter det ei; ti en regn av spyd og blussende brande\
 farer imot den, slynget med kraft av modige hænder.\
 Ræd for dem maa den fly, om den end er aldrig saa lysten.\
-[(565–92) ]{.linjenummer}Motfalden lusker den nølende bort, saasnart som det dages —\
+[(555–92) ]{.linjenummer}Motfalden lusker den nølende bort, saasnart som det dages —\
 saa vek Aias motfalden bort fra troernes skare,\
 saare uvillig i sind; ti han skalv for akaiernes skibe.\
 Som naar det stridige æsel, som gaar langs bølgende aker,\

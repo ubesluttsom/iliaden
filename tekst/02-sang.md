@@ -26,7 +26,7 @@ Lignende ham tok den himmelske drøm til orde og mælte:\
 «Sover du, søn av hin vognstyrer gjæv, den kampglade Atrevs?\
 Sove fra aften til gry, slikt sømmer sig ei for en høvding,\
 en som har stridsmænd at styre og mangt og meget at skjøtte.\
-Lyt nu straks til mit ord! Fra Zevs er jeg kommet med budskap,\
+[(26–63) ]{.linjenummer}Lyt nu straks til mit ord! Fra Zevs er jeg kommet med budskap,\
 han som vil dig saa vel og ynker din nød i det fjerne.\
 Skynd dig og rust paa hans bud akaiernes haarfagre sønner.\
 Nu kan du storme hin troernes by med de prægtige gater\
@@ -67,7 +67,7 @@ Frem til mit hoved den skred og tok hastig til orde og mælte:\
 Sove fra aften til gry, slikt sømmer sig ei for en høvding,\
 en som har stridsmænd at styre og mangt og meget at skjøtte.\
 Lyt nu straks til mit ord. Fra Zevs er jeg kommet med bedskap,\
-han som vil dig saa vel og ynker din nød i det fjerne.\
+[(64–101) ]{.linjenummer}han som vil dig saa vel og ynker din nød i det fjerne.\
 Skynd dig og rust paa hans bud akaiernes haarfagre sønner.\
 Nu kan du storme hin troernes by med de prægtige gater\
 endnu idag. De eviges slegt, som bor paa Olympen,\
@@ -107,7 +107,7 @@ med sine skrik og hørte i ro paa de høibaarne konger.\
 Langt om længe kom mængden paa plads og stanset med skriket.\
 Endelig sat den i ro. Da reiste sig først Agamemnon.\
 Scepteret holdt han i haand, Hefaistos' straalende kunstverk.\
-Guden Hefaistos gav det til Zevs, til sønnen av Kronos.\
+[(102–39) ]{.linjenummer}Guden Hefaistos gav det til Zevs, til sønnen av Kronos.\
 Zevs gav staven som skjænk til gudernes lynsnare ilbud.\
 Hermes forærte den saa til den gangertumlende Pelops.\
 Pelops gav den igjen til Atrevs, folkenes hyrde.\
@@ -145,7 +145,7 @@ mens vore hustruer og vore barn i tærende længsel\
 sitter i hallen og venter os hjem; men intet er fuldbragt,\
 ikke det mindste av det som vi satte som maal for vor hærfærd.\
 Nu skal jeg gi jer et raad, og la os saa følge det alle:\
-Kom, la os fly, enhver paa sit skib, til det elskede hjemland,\
+[(140–77) ]{.linjenummer}Kom, la os fly, enhver paa sit skib, til det elskede hjemland,\
 ti det blir ikke forundt os at ta det velbygde Troja.»
 
 Saa han talte og hjertelig fryd han vakte hos mængden,\
@@ -186,7 +186,7 @@ Skal I da virkelig styrte ombord pa de toftede skibe,\
 drevet av frygt og flygte saa feigt til det elskede hjemland,\
 men la Priamos selv og troerne pralende eie\
 Hélena, kvinden fra Argos, for hvem saa mange akaier\
-segnet ved Troja og faldt saa fjernt fra de hjemlige bygder?\
+[(178–215) ]{.linjenummer}segnet ved Troja og faldt saa fjernt fra de hjemlige bygder?\
 Nei, du maa gaa til akaiernes folk, og staa ikke ledig!\
 Søk med venlige ord at stanse hver eneste kriger.\
 La det ei ske at de sætter paa sjø sine gyngende snekker!»
@@ -229,7 +229,7 @@ Taletrængt skraalte dog endnu den brautende mundhelt Tersites.\
 Mangt et smædeord gjemte han paa i mindet og trættet\
 frækt og paa høist usømmelig vis med konger og brukte\
 ord som han haabet forvisst skulde vække akaiernes latter.\
-Styggere var han end alle de mænd som var kommet til Troja.\
+[(216–53) ]{.linjenummer}Styggere var han end alle de mænd som var kommet til Troja.\
 Hjulbent var manden, ett ben var for kort. Hans skuldre var bøiet\
 frem over brystet, saa ryggen blev krum, og øverst gik issen\
 op i en spids, og lurvet og tynd var den sparsomme haarvekst.\
@@ -269,7 +269,7 @@ Derfor burde du holde din mund og ikke med haansord\
 tale om konger og skjelde dem ut og lure paa hjemfærd.\
 Endnu vet vi jo ikke forvisst, hvordan dette vil ende,\
 om vi akaier med held eller skam skal vende tilbake.\
-Her tør du sitte og haane med spottende ord Agamemnon,\
+[(254–91) ]{.linjenummer}Her tør du sitte og håane med spottende ord Agamemnon,\
 Atrevs' søn, fordi de danaiske helter har git ham\
 gaver i mængde. Du taler saa ordene stikker i hjertet.\
 Nu skal jeg si dig et ord, og det skal du ogsaa faa sande:\
@@ -308,8 +308,8 @@ dengang vi drog paa vor færd fra det hestenærende Argos,\
 først naar Troja var styrtet i grus at vende tilbake.\
 Rent som umyndige barn og enslige, vernløse kvinder\
 længes de såart efter hjemfærd med klynk og jamrende klage.\
-Vel maa man stræve mothjemkomstens dag, naar ondt man har døiet;\
-ti om man skilles fra hustru og hjem en eneste maaned,\
+Vel maa man stræve mothjemkomstens dag, naar ondtman har døiet;\
+[(292–323) ]{.linjenummer}ti om man skilles fra hustru og hjem en eneste maaned,\
 længter man saart ved sit toftede skib, naar vinterens stormer\
 velter de skummende bølger paa sjø og stænger ens veier.\
 Men for os er det niende aar jo ilet til ende,\
@@ -347,7 +347,7 @@ Likesom slangen har slukt baade spurven og alle dens unger,\
 otte i tallet, men ni med fuglen som fostret sin yngel,\
 likesaa mange henglidende aar skal vi hist maatte kjæmpe;\
 men naar det tiende kommer, skal byen, den herlige, falde.»\
-Saa han talte, og nu blir det fuldbragt alt hvad han varslet.\
+[(330-66) ]{.linjenummer}Saa han talte, og nu blir det fuldbragt alt hvad han varslet.\
 Vent da alle som én, I malmklædte mænd av Akaia,\
 til vi faar tat den mægtige by hvor Priamos hersker.»
 
@@ -385,7 +385,7 @@ saa de kan verge sig slegt for slegt og stamme for stamme.\
 Sætter du dette i verk, og akaierne lyder din vilje,\
 da faar du se hvilke flokker og førere viser sig feige,\
 eller er tapre; ti da har de ansvaret selv under kampen.\
-Da faar du se om guderne vil at du ikke skal styrte\
+[(367–404) ]{.linjenummer}Da faar du se om guderne vil at du ikke skal styrte\
 Troja i grus, eller mændenes frygt og daarskap har skylden.»
 
 Derefter talte den mægtige drot Agamemnon og svarte:\
@@ -425,7 +425,7 @@ Inderlig bad de om vern i kamp og frelse fra døden.\
 Mændenes drot Agamemnon lot ofre en velnæret okse\
 fem aar gammel til Kronos' søn, den almægtige hersker.\
 Alle akaiernes gjeveste mænd lot han byde til gilde.\
-Først gav han Nestor et vink og lot saa Idómenevs kalde,\
+[(405–42) ]{.linjenummer}Først gav han Nestor et vink og lot saa Idómenevs kalde,\
 derpaa de tvende Aianter og Tydevs' søn Diomedes,\
 og som den sjette Odyssevs, i kløkt lik selve Kronion.\
 Ubuden kom av sig selv den høimælte helt Menelaos,\
@@ -465,7 +465,7 @@ saa vi kan drive dem snarere frem til de hidsige kampe.»
 
 Saa han talte, og Atrevs' søn tok raadet til følge.\
 Straks lot han raske herolder med rungende røst kalde sammen\
-alle akaiernes haarfagre mænd og egge til striden.\
+[(443–80) ]{.linjenummer}alle akaiernes haarfagre mænd og egge til striden.\
 Lydt herolderne kaldte, og mændene samlet sig hastig.\
 Samlet i flok om Atrevs' søn drog kongerne ivrig\
 ordnende om gjennem skaren, og Pallas Atene gik med dem\
@@ -505,7 +505,7 @@ Blikket og aasynet mindet om Zevs, den lynglade hersker;\
 midjen var smal som hos Ares, og brystet var bredt som Poseidons.
 
 Likesom oksen kan sees saa let blandt alle i flokken;\
-ti over kjørne rager den op i den samlede bøling,\
+[(481–519) ]{.linjenummer}ti over kjørne rager den op i den samlede bøling,\
 saa lot Zevs paa hin dag Agamemnon hæve sig herlig\
 høit over mængden og skille sig ut fra samtlige helter.
 
@@ -547,7 +547,7 @@ Treti var skibenes tal som fulgte de tvende paa færden.
 
 Skedios gik med Epístrofos frem som fokernes fører,\
 sønner av Ifitos, Naubolos' søn, den modige høvding.\
-Helter fra Kyparissos var med og fra fjeldbyen Pyto,\
+[(520–56) ]{.linjenummer}Helter fra Kyparissos var med og fra fjeldbyen Pyto,\
 mænd fra det hellige Krisa, fra Davlis og fjernt fra Panópevs,\
 mænd som Hyámpolis hadde til hjem eller Anemoreia,\
 eller som bodde langs elven den skjønne Kefisos' bredder.\
@@ -589,7 +589,7 @@ vælige gangeres spand og mændenes skjolddækte fylking.\
 Nestor alene holdt maal; ti han hadde alderens fortrin.\
 Femti var skibenes tal som fulgte sin fører paa færden.
 
-Aias fra Salamis møtte med tolv velrustede skibe.\
+[(557–94) ]{.linjenummer}Aias fra Salamis møtte med tolv velrustede skibe.\
 Mandskapet førte hau dit, hvor atenernes rækker var fylket.
 
 Derpaa kom svende fra Argos' by og det murkranste Tiryns.\
@@ -631,7 +631,7 @@ Mænd som hadde i Pylos sit hjem og det skjønne Arene,\
 eller i Aipy og Tryon, hvor elven Alfeios kan vades,\
 krigere fra Kyparissos og mænd fra Amfigeneia,\
 Pteleos, Helos og Dorion, der hvor muserne møtte\
-trakernes sanger Tamyris og røvet ham sangen for altid,\
+[(595–632) ]{.linjenummer}trakernes sanger Tamyris og røvet ham sangen for altid,\
 dengang han kom fra Oikalias stad, hvor Evrytos hersket.\
 Pralende hadde han svoret at seire i sang, om han skulde\
 kappes med muserne selv, med aigissvingerens døtre.\
@@ -673,7 +673,7 @@ Høvdingen kom med sin hær paa firti tjærede snekker.
 
 Men Kefallenernes modige flok blev ført av Odyssevs,\
 mænd fra Itakas ø og fra Neritons løvrike lunder,\
-fra Krokyleia og fjernt fra Aigilips' daler og kløfter,\
+[(633–70) ]{.linjenummer}fra Krokyleia og fjernt fra Aigilips' daler og kløfter,\
 kjæmper som hadde sit hjem paa Zakyntos og Samos' bymark.\
 Andre var kommet fra fastlandets kyst og hinsides havet.\
 Fører for dem var Odyssevs. I kløkt var han Alfaders like.\
@@ -715,7 +715,7 @@ Der slog folket sig ned i trende forskjellige stammer,\
 elsket av Zevs, hin gudernes drot og menneskers herre.\
 Kronos' søn lot det regne med gods og gnid over landet.
 
-Nirevs var kommet fra Syme, og tre var hans skibe i tallet,\
+[(671–708) ]{.linjenummer}Nirevs var kommet fra Syme, og tre var hans skibe i tallet,\
 Nirevs, en søn av Aglaia og helten, den gjæve Karopos,\
 Nirevs, den skjønneste mand blandt alle de gjæve danaer\
 næst efter Pelevs' herlige søn, da de stevnet til Troja.\
@@ -756,7 +756,7 @@ søn av Ifiklos, den kvægrike drot som Fylakos avlet.\
 Helten var kjødelig bror av den modige Protesilaos,\
 men han var yngre; ti baade av aar og i manddom var helten\
 Protesilaos den første. Vel manglet hans krigerske svende\
-ikke en fører, men savnet dog saart sin herlige høvding.\
+[(709–45) ]{.linjenummer}ikke en fører, men savnet dog saart sin herlige høvding.\
 Firti var skibenes tal, som fulgte sin fører paa færden.
 
 Dernæst kom helter fra Ferai ved sjøen Bolbeis' bredder,\
@@ -798,7 +798,7 @@ Men for Peiritoos fødte den herlige Hippodameia\
 sønnen den dag da han tugtet de lodne Kentaurer og jog dem\
 bort til aitikernes land paa flugt fra Pelions lier.\
 Ei var han ene; ham fulgte den vældige kriger Leontevs,\
-søn av Koronos, den modige drot, en ætling av Kainevs.\
+[(746-83) ]{.linjenummer}søn av Koronos, den modige drot, en ætling av Kainevs.\
 Firti tjærede skibe var høvdingens følge paa færden.
 
 To og tyve var skibenes tal som førtes av Gunevs.\
@@ -841,7 +841,7 @@ Krigerne stormet nu frem som en herjende ild over sletten.\
 Markerne drønet og skalv, som naar Zevs, den lynglade hersker,\
 pisker i vrede med lynet den jord som dækker Tyfoevs\
 hist i arimernes land, hvor man sier at jætten skal ligge.\
-Saaledes drønet den skjælvende jord under heltenes føtter,\
+[(784–821) ]{.linjenummer}Saaledes drønet den skjælvende jord under heltenes føtter,\
 da de brøt op, og hen over markerne stormet de hurtig.
 
 Rap som den susende vind kom Iris til troernes møte,\
@@ -883,7 +883,7 @@ rustet sig der med brynjer og spyd og stundet mot kampen.
 Helten Aineias, Ankises' søn, var dardanernes fører.\
 Høvdingens mor Afrodite blev favnet av drotten Ankises\
 engang paa Ida, udødelig brud av en dødelig brudgom.\
-Helten Arkilokos fulgte og Akamas, begge de gjæve\
+[(822–59) ]{.linjenummer}Helten Arkilokos fulgte og Akamas, begge de gjæve\
 sønner av drotten Antenor. I alleslags kamp var de øvet.
 
 Derpaa kom mænd fra Zeleia som ligger ved foten av Ida,\
@@ -931,7 +931,7 @@ mænd fra det fjerne Alybe, hvor sølvgrener vokser i fjeldet.
 
 Mysernes fører var Kromis og Ennomos, kyndig i varsler.\
 Dog de varslende fugler blev ikke hans vern imot døden;\
-ti av den raske Akillevs' spyd blev han fældet i floden,\
+[(860–77) ]{.linjenummer}ti av den raske Akillevs' spyd blev han fældet i floden,\
 der hvor mangfoldige troer blev dræpt av Aiakos' ætling.
 
 Fjernt fra Askania førte Askanios, kjæk som en guddom,\
