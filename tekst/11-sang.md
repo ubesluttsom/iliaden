@@ -25,8 +25,7 @@ at det akaiiske folk vilde seile i leding til Troja,\
 og for at vinde hans gunst lot han sende hin brynje til kongen.\
 Ti av dens striper var hamret med kunst av anløpet blaastaal.\
 Tolv var av pureste guld, og av lysende tin var de tyve.\
-[26–62]
-Op imot halsen paa hver av siderne bugtet sig trende\
+[(26–62) ]{.linjenummer}Op imot halsen paa hver av siderne bugtet sig trende\
 slanger av staal med regnbuens glans, naar den lyser i skyen\
 stillet av Zevs til manende tegn for jordiske slegter.\
 Hængte da drotten om skuldre sit mægtige slagsverd, hvis nagler\
@@ -65,8 +64,7 @@ dertil av drotten Antenors tre mandhaftige sønner,\
 Polybos, Akamas, kjæk som en gud, og den gjæve Agenor.\
 Hektor gik frem med skjoldet paa arm blandt de forreste kjæmper.\
 Som naar i skyernes rift en ulykkevarslende stjerne\
-[63–100]
-blinker en stund, men atter blir gjemt av drivende skyer,\
+[(63–100) ]{.linjenummer}blinker en stund, men atter blir gjemt av drivende skyer,\
 saaledes var snart Hektor at se blandt de forreste kjæmper,\
 snart gik han bydende om blandt de bakerste. Straalende lyste\
 helten i kobberets glans som Alfaders flammende lynglimt.
@@ -106,8 +104,7 @@ Tvers gjennem høvdingens hjelm og pandeben for den, og hjernen\
 farvedes rød av blod, og han fældte ham midt i hans stormløp.\
 Disse lot mændenes drot Agamemnon tilbake paa valen,\
 begge med udækket bryst; ti han tok deres brynjer som bytte.\
-[101–38]
-Derefter stormet han frem for at fælde kong Priamos' sønner,\
+[(101–38) ]{.linjenummer}Derefter stormet han frem for at fælde kong Priamos' sønner,\
 Antifos, egte av byrd, og Isos, hans søn med en frille,\
 begge paa selvsamme vogn som Isos i kamptumlen kjørte.\
 Antifos kjæmpet fra karm. Da de vogtet sit smaafæ paa Ida,\
@@ -147,8 +144,7 @@ om han faar spurt at du sparte vort liv ved akaiernes snekker.»
 Graatende talte de saa for at mildne med angstfulde bønner\
 Argos' drot; men ubøielig haardt var svaret de hørte:\
 «Er I saasandt den stridslystne helt Antimakos' sønner,\
-[139–76]
-han som paa troernes tingplads tilforn har sagt at den bolde\
+[(139–76) ]{.linjenummer}han som paa troernes tingplads tilforn har sagt at den bolde\
 drot Menelaos som kom som bud med den gjæve Odyssevs,\
 straks skulde dræpes og ei gaa uskadt hjem til Akaia,\
 da skal I begge faa bøte forvisst for hans skjendige anslag.»
@@ -188,8 +184,7 @@ Likesom kjør, naar i mørkeste nat en glubende løve\
 jager dem alle paa flugt, men dræper en enkelt i flokken\
 — udyret knækker først halsen med vældige kjæver og slubrer\
 derefter blodet og sluker tilsidst den dampende indvold —\
-[177–214]
-saaledes fulgte nu Atrevs' søn uten rast eller hvile\
+[(177–214) ]{.linjenummer}saaledes fulgte nu Atrevs' søn uten rast eller hvile\
 altid de flyktende troer og fældte den sidste i flokken.\
 Mange faldt ned paa sit ansigt fra karm og mange paa ryggen,\
 rammet av Atrevs' søn; ti vildt han raste med lansen.
@@ -230,8 +225,7 @@ Saaledes talte den stormsnare mø og hastet tilbake.\
 Svingende to malmhvæssede spyd fôr han om gjennem hæren,\
 eggende alle til strid, og han vakte det grufulde kampgny.\
 Mændene stanset og vendte sig om mot akaiernes fylking.\
-[216–52]
-Ogsaa argeierne styrket paany de vaklende rækker.\
+[(216–52) ]{.linjenummer}Ogsaa argeierne styrket paany de vaklende rækker.\
 Atter stod kjæmperne bryst imot bryst, og forrest i striden\
 skred Agamemnon. Hans hu stod til kamp langt foran de andre.
 
@@ -272,8 +266,7 @@ Koon ved navn, fik se ham med rustningen, mørknet den sorte\
 knugende sorg hans blik, da han øinet sin bror blandt de faldne.\
 Usét av Atrevs' søn fôr han mot ham fra siden og støtte\
 spydsodden midt i hans arm litt nedenfor albueleddet.\
-[253–90]
-Spidsen av skinnende malm fôr skjærende tvers gjennem armen.\
+[(253–90) ]{.linjenummer}Spidsen av skinnende malm fôr skjærende tvers gjennem armen.\
 Gyste da mændenes drot Agamemnon i isnende smerte.\
 Dog, han undte sig ei nogen rast i kampen, men styrtet\
 rasende ind paa Koon med vindhærdet lanse i hænde.\
@@ -313,8 +306,7 @@ Borte er fiendens tapreste helt, og Zevs har forundt mig\
 herligste ry. Saa styr da nu eders travende hester\
 frem mot danaernes mænd for at vinde jer seierens hæder.»
 
-[291–328]
-Saa han talte, og kræfter og mod hos dem alle han vakte.\
+[(291–328) ]{.linjenummer}Saa han talte, og kræfter og mod hos dem alle han vakte.\
 Som naar en jæger faar hidset en flok hvittandede hunder\
 enten mot flygtende vildsvin i skog eller glubende love,\
 saaledes hidset nu Priamos' søn de modige troer\
@@ -358,8 +350,7 @@ Saaledes stormet de atter til mord, og hjertelig glade\
 pustet akaierne ut paa sin flugt for den herlige Hektor.
 
 Der fik de fældet paa selvsamme vogn to navngjetne kjæmper,\
-[328–66]
-sønner av Merops, en drot fra Perkote. Kyndigst av alle\
+[(328–66) ]{.linjenummer}sønner av Merops, en drot fra Perkote. Kyndigst av alle\
 var han i spaadommens kunst og forbød sine sønner at drage\
 ut til den mandespildende kamp; men de fulgte ei budet;\
 ti de blev lokket og draget av dødsrikets mørke gudinder.\
@@ -399,8 +390,7 @@ Efter ham fôr Diomedes med malmhvæsset lanse og ropte:\
 rammet dig. Dog, du blev frelst paany av Foibos Apollon,\
 han som du trygler om hjælp, naar du gaar mot de truende spydkast,\
 Dog, jeg skal visselig gi dig din rest, naar vi senere møtes,\
-[366–403]
-likesaa visst som ogsaa jeg selv har en guddom til hjælper.\
+[(366–403) ]{.linjenummer}likesaa visst som ogsaa jeg selv har en guddom til hjælper.\
 Nu vil jeg stevne til kamp mot enhver jeg kan naa av de andre.»
 
 Saa han talte og røvet i hast Agástrofos' rustning.\
@@ -442,8 +432,7 @@ hen til de stavnhøie snekker, ti kvalerne knuget hans hjerte.
 Nu var Odyssevs alene. Av alle danaer stod ingen\
 mer ved hans side; ti rædsel og gru hadde grepet dem alle.\
 Sukkende talte da høvdingen saa til sit mandige hjerte:\
-[404–41]
-«Ve mig! Hvad skal jeg dog gjøre? Stor skam vil det bli om jeg flygter\
+[(404–41) ]{.linjenummer}«Ve mig! Hvad skal jeg dog gjøre? Stor skam vil det bli om jeg flygter\
 ræd for fienders flok; men værre det blir om jeg fanges\
 ene blandt alle danaer, da Zevs jo har jaget de andre.\
 Dog, hvi drøfter jeg nu i min sjæl saa faafængte tanker?\
@@ -484,8 +473,7 @@ lot ikke spydsodden trænge sig ind i høvdingens indvold.\
 Men da Odyssevs forstod at han ei var dødelig saaret,\
 gik han tilbake, og truende lød til Sokos hans tale:\
 «Ve dig, arme! Forvisst skal du hente dig døden, den bratte.\
-[442–78]
-Vel har du stanset mig nu i min kamp mot troernes skare;\
+[(442–78) ]{.linjenummer}Vel har du stanset mig nu i min kamp mot troernes skare;\
 dog, jeg lover at her skal dødens den sorte gudinde\
 naa dig idag. Mit spyd skal kue dig. Mig skal du skjænke\
 glimrende ry og din sjæl til den gangertumlende Hades.»
@@ -525,8 +513,7 @@ flokkes paa fjeld om den hornede hjort som jægerne saaret\
 haardt med den smertende pil. Den flygter paa hurtige føtter,\
 medens dens blod er varmt, og knæerne bøier sig myke.\
 Naar saa den vingede pil tilsidst har kuet dens livskraft,\
-[479–516]
-fraadser paa fjeld i skyggefuld lund de griske sjakaler\
+[(479–516) ]{.linjenummer}fraadser paa fjeld i skyggefuld lund de griske sjakaler\
 graadig i dyret; men sender en gud en glubende løve,\
 spredes sjakalernes flok, og løven kan sluke sit bytte.\
 Saaledes flokkedes nu om helten, den kloke Odyssevs,\
@@ -566,8 +553,7 @@ Mangdobbelt værd mot andre har lægen som kyndig kan skjære\
 pilene ut og stille vor kval med lægende urter.»
 
 Saa han talte, og Nestor, den gamle gereniske kjæmpe,\
-[517–84]
-fulgte hans raad og hoppet tilvogns, og helten Makaon,\
+[(517–84) ]{.linjenummer}fulgte hans raad og hoppet tilvogns, og helten Makaon,\
 lægen, den bolde Asklepios' søn, steg op ved hans side.\
 Hestene gav han et rap, og villige fløi de som vinden\
 hen til de stavnkrumme snekker; ti derhen stod al deres higen.
@@ -608,8 +594,7 @@ bølingens feteste dyr. Naar den nærmer sig, grisk efter bytte,\
 nytter det ei; ti en regn av spyd og blussende brande\
 farer imot den, slynget med kraft av modige hænder.\
 Ræd for dem maa den fly, om den end er aldrig saa lysten.\
-[565–92]
-Motfalden lusker den nølende bort, saasnart som det dages —\
+[(565–92) ]{.linjenummer}Motfalden lusker den nølende bort, saasnart som det dages —\
 saa vek Aias motfalden bort fra troernes skare,\
 saare uvillig i sind; ti han skalv for akaiernes skibe.\
 Som naar det stridige æsel, som gaar langs bølgende aker,\
@@ -649,8 +634,7 @@ slipper fra kamptumlens grufulde larm. Saa stil jer da freidig\
 frem til vern for Telamons søn, den vældige Aias.»
 
 Saaledes ropte den saarede helt, og vennerne traadte\
-[693–630]
-nær til Aias med løftede spyd og støttet de sterke\
+[(693–630) ]{.linjenummer}nær til Aias med løftede spyd og støttet de sterke\
 skjold mot de mægtige skuldre; men Aias, som kom dem i møte,\
 vendte sig om og holdt stand, da han naadde de hjælpende venner.\
 Saaledes raste den hidsige strid som luende flammer.
@@ -692,8 +676,7 @@ Nestor som løn; ti i fyrsternes raad var han visest av alle.\
 Foran dem satte hun først et bord, hvis skinnende plate\
 hvilte paa føtter av anløpet staal. Paa bordet blev stillet\
 kurven av kobber med duftende løk som tilgift til drikken.\
-[631–68]
-Dertil den guldgule honning og brød av det hellige bygmel.\
+[(631–68) ]{.linjenummer}Dertil den guldgule honning og brød av det hellige bygmel.\
 Vinbollen satte hun frem, den skjønne, som oldingen førte\
 med sig fra hjemmet. Med nagler av guld var den smykket, og fire\
 skinnende hanker. Paa hver av dem stod to nebbende duer,\
@@ -733,8 +716,7 @@ har ikke hjerte for nøden. Danaerne rager ham ikke.\
 Nøler han da paa trods, til de hurtige skibe paa stranden\
 brændes i herjende ild, saa nødig akaierne vil det,\
 medens vi andre blir myrdet paa rad? Jeg selv har jo ikke\
-[669–706]
-længer den kraft som jeg eide tilforn i de smidige lemmer.\
+[(669–706) ]{.linjenummer}længer den kraft som jeg eide tilforn i de smidige lemmer.\
 Gid jeg var likesaa ung, og min arm var likesaa kraftig,\
 som da vi stevnet til strid mot kjæmper fra Elis som ranet\
 frækt vort beitende fæ, og Itymonevs faldt for min lanse,\
@@ -772,8 +754,7 @@ Egget til harm ved krænkende ord og skammelig voldsdaad,\
 tok nu den gamle ustyrtelig gods og delte det andet\
 ut, saa ingen blandt folket gik tomhændet bort ifra tinge.\
 Medens vi syslet med dette og ofret paa gudernes altre\
-[707–44]
-rundt i vor by, kom epeiernes folk tre dage derefter\
+[(707–44) ]{.linjenummer}rundt i vor by, kom epeiernes folk tre dage derefter\
 hastig imot os i talløs flok med stampende hester.\
 Ogsaa Molíones sønner var med paa toget, skjønt begge\
 endnu var gutter med liten forstand paa stormende kampfærd.\
@@ -811,8 +792,7 @@ Grant hun kjendte hver lægende urt som spirer av mulde.\
 Høvdingen traf jeg med malmhvæsset spyd, da han stevnet imot mig.\
 Ned i støvet han faldt. Da sprang jeg paa vognen og stevnet\
 ind i kjæmpernes forreste rad; men de gjæve epeier\
-[745–82]
-flygtet til hver sin kant, da de saa at helten var falden,\
+[(745–82) ]{.linjenummer}flygtet til hver sin kant, da de saa at helten var falden,\
 stridsvognkjæmpernes fører, den tapreste høvding paa valen.\
 Videre styrtet jeg frem som en storm fra natsorte skyer.\
 Femti stridsvogner tok jeg som rov, og paa hver maatte tvende\
@@ -850,8 +830,7 @@ dækket saa op med gjestebudskost som man byder en fremmed.\
 Men da vi saa hadde frydet vor sjæl med mat og med drikke,\
 nævnte jeg først vort erend og bad jer begge slaa følge.\
 Straks var I rede, og gavnlige raad fik I med av de gamle.\
-[783–819]
-Oldingen Pelevs besvor sin søn Akillevs at huske\
+[(783–819) ]{.linjenummer}Oldingen Pelevs besvor sin søn Akillevs at huske\
 altid at vise sig kjæk og helst som den bedste av alle.\
 Derpaa gav Aktors søn Menoitios *dig* en formaning:\
 «Elskede søn, av ætt og av byrd er Akillevs den første.\
@@ -889,8 +868,7 @@ Klagende talte han vingede ord til vennen og mælte:\
 Aa, saa skulde I da saa langt fra venner og hjemland\
 mætte ved Troja med fett de graadige fotrappe hunder.\
 Tal dog, Evrypylos, gudfødte helt, og svar paa et spørsmaal:\
-[820–48]
-Tror du akaiernes mænd kan stanse den herlige Hektor,\
+[(820–48) ]{.linjenummer}Tror du akaiernes mænd kan stanse den herlige Hektor,\
 eller skal alle bli kuet og dø for hans vældige lanse?»
 
 Straks tok den saarede helt Evrypylos ordet og svarte:\

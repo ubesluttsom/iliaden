@@ -154,6 +154,18 @@ span.initial {
 }
 
 
+/* Linjenummer */
+
+.linjenummer {
+  font-size: 50%;
+  margin-left: -6em;
+  padding-right: 0.8em;
+  text-align: right;
+  display: inline-block;
+  width: 5.2em;
+}
+
+
 /* Improve legibility */
 
 body {
