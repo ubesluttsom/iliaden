@@ -810,101 +810,101 @@ snart vil betale sin gjæld fra igaar med blodige renter.\
 Hist ved skibene sitter jo nu en utrættelig kriger,\
 en som forvisst ikke længer vil holde sig borte fra kampen.»
 
-Saaledes lød hans gavnlige raad, og Hektor var enig.
-Straks sprang han ned fra vognen til jord i straalende rustning.
-Bydende lød hans vingede ord, da han talte til helten:
-«Gjæve Polydamas! hold vore tapreste helter tilbake.
-Selv vil jeg skynde mig dit for at møte de sværeste stormløp.
-Hit skal jegkommetilbake, saasnartjegharmeldtdem mitbudskap.»
+Saaledes lød hans gavnlige raad, og Hektor var enig.\
+Straks sprang han ned fra vognen til jord i straalende rustning.\
+Bydende lød hans vingede ord, da han talte til helten:\
+«Gjæve Polydamas! hold vore tapreste helter tilbake.\
+Selv vil jeg skynde mig dit for at møte de sværeste stormløp.\
+Hit skal jeg komme tilbake, saasnart jeg har meldt dem mit budskap.»
 
-Saa han talte og for som et skred fra snedækket tinde
-frem under rungende rop mellem troers og hjælperes skarer.
-Hen til Polydamas, Påntoos' søn, den mandige høvding,
-strømmet de alle i hast, da de hørte hint hærskrik fra Hektor.
-Frem til de forreste rækker han gik og søkte at finde
-helten Deifobos først og Hélenos, drotten saa kraftig,
-Adamas, Asios' søn, og Asios, Hyrtakos* ætling.
-Uskadt fandt han dem dog ikke mer eller alle i live.
-Somme laa dræpt ved den bakerste stavn av akaiernes skibe.
-Der hadde heltene mistet sit liv for argeiernes hænder.
-Saaret med skud eller stik laa andre bak hjembyens mure.
-Dog paa den grufulde val til venstre i stridstumlen fandt han
-snart Aleksandros, sin bror, den haarfagre Hélenas husbond.
-Svendenes mod han styrket og egget dem ivrig til kampen.
-Traadte da Hektor ham nær, og haanende talte han til ham:
-«Uykkes-Paris, du kvindernes lyst, du fagre forfører!
-Hvor er Deifobos nu og Hélenos, drotten saa vældig,
-Adamas, Asios' søn, og Asios, Hyrtakos ætling?
-Hvor er Otryonevs? Svar! Nu ligger det kneisende Troja
+Saa han talte og fôr som et skred fra snedækket tinde\
+frem under rungende rop mellem troers og hjælperes skarer.\
+Hen til Polydamas, Pántoos' søn, den mandige høvding,\
+strømmet de alle i hast, da de hørte hint hærskrik fra Hektor.\
+Frem til de forreste rækker han gik og søkte at finde\
+helten Deifobos først og Hélenos, drotten saa kraftig,\
+Adamas, Asios' søn, og Asios, Hyrtakos' ætling.\
+Uskadt fandt han dem dog ikke mer eller alle i live.\
+Somme laa dræpt ved den bakerste stavn av akaiernes skibe.\
+Der hadde heltene mistet sit liv for argeiernes hænder.\
+Saaret med skud eller stik laa andre bak hjembyens mure.\
+Dog paa den grufulde val til venstre i stridstumlen fandt han\
+snart Aleksandros, sin bror, den haarfagre Hélenas husbond.\
+Svendenes mod han styrket og egget dem ivrig til kampen.\
+Traadte da Hektor ham nær, og haanende talte han til ham:\
+«Uykkes-Paris, du kvindernes lyst, du fagre forfører!\
+Hvor er Deifobos nu og Hélenos, drotten saa vældig,\
+Adamas, Asios' søn, og Asios, Hyrtakos ætling?\
+Hvor er Otryonevs? Svar! Nu ligger det kneisende Troja\
 styrtet i grus. Forvisst maa vi vente os døden den bratte.»
 
-Svarte da straks Aleksandros, hin helt saa skjøn som en guddom:
-«Hektor! du laster en skyldløs mand i din brændende ildhu.
-Ellers det kunde vel hænde jeg holdt mig tilbake fra kampen.
-Dog, som en usselryg fødte min mor mig ikke til verden;
-ti fra den stund du egget vor hær til at kjæmpe ved flaaten,
-færdes vi her i den blodige strid med danaernes helter
-uten et øiebliks hvil. De venner du spør om er faldne.
-Bare Deifobos frelstes og Hélenos, drotten saa kraftig.
-Herfra ilte de bort; ti begge blev saaret i haanden
-nylig med vældige spyd; men Zevs har frelst dem fra døden.
+Svarte da straks Aleksandros, hin helt saa skjøn som en guddom:\
+«Hektor! du laster en skyldløs mand i din brændende ildhu.\
+Ellers det kunde vel hænde jeg holdt mig tilbake fra kampen.\
+Dog, som en usselryg fødte min mor mig ikke til verden;\
+ti fra den stund du egget vor hær til at kjæmpe ved flaaten,\
+færdes vi her i den blodige strid med danaernes helter\
+uten et øiebliks hvil. De venner du spør om er faldne.\
+Bare Deifobos frelstes og Hélenos, drotten saa kraftig.\
+Herfra ilte de bort; ti begge blev saaret i haanden\
+nylig med vældige spyd; men Zevs har frelst dem fra døden.\
 [784—821]
-Før os nu dit, hvor det tykkes dig bedst i dit sind og dit hjerte.
-Vi skal følge dig freidig til kamp, og det tør jeg love:
-Ei skal det mangle paa manddom og mod, saa langt som vi evner.
+Før os nu dit, hvor det tykkes dig bedst i dit sind og dit hjerte.\
+*Vi* skal følge dig freidig til kamp, og det tør jeg love:\
+Ei skal det mangle paa manddom og mod, saa langt som vi evner.\
 Verge sig mer end han evner, er uraad selv for den tapre.»
 
-Saaledes svarte han freidig sin bror og mildnet hans hjerte.
-Skyndte da begge sig dit hvor kampen og striden var hetest,
-der hvor Kebriones stod og Polydamas, helten saa mandig,
-Falkes, Ortaios og Palmys og drotten saa gjæv Polyfetes,
-og hvor Askanios kjæmpet og Morys, Hippotions sønner.
-Dagen tilforn ved det tidligste gry var de kommet med stridsmænd
+Saaledes svarte han freidig sin bror og mildnet hans hjerte.\
+Skyndte da begge sig dit hvor kampen og striden var hetest,\
+der hvor Kebríones stod og Polydamas, helten saa mandig,\
+Falkes, Ortaios og Palmys og drotten saa gjæv Polyfetes,\
+og hvor Askanios kjæmpet og Morys, Hippótions sønner.\
+Dagen tilforn ved det tidligste gry var de kommet med stridsmænd\
 fjernt fra Askaniens land, og nu drev Zevs dem til kampen.
 
-Heltene styrtet nu frem lik stormens ustyrlige byger
-naar de med Alfaders brakende skrald slaar nedover marken. —
-— Havdypet røres med frygtelig larm og talløse bølger
-velter sig vide i brott og brand med skumhvite kammer
-rullende hen over brusende sjø i endeløs række.—
-Saaledes fulgte i skinnende malm de fylkede troer,
-somme i spidsen, mens andre gik bak, sine drotter til kampen.
-Forrest gik Hektor, Priamos' søn, saa kampgrisk som Ares.
-Foran sig holdt han det kredsrunde skjold av talrike tætte
-oksehudslag og dækket av kobberets hamrede plate.
-Truende nikket den straalende hjelm om høvdingens tinding1.
-Frygtløs stormet han frem langs fiendens fylking og fristet
-om de maaske vilde fly, naar han møtte dem dækket av skjoldet.
-Dog, han rokket ei manddom og mod i akaiernes hjerter.
-Aias gik frem med vældige skridt og æsket til tvekamp:
-«Kom mig dog nær, min ven! Hvi søker du faafængt at skræmme
-Argos' mænd. Vær tryg! vi er slet ikke ukjendt med krigen;
-men det er Zevs som har tugtet os nu med sin sviende svepe.
-Nu har du sagtens et haab om at herje med ild vore snekker.
-Dog, du skal føle at ogsaa hos os er der hænder til forsvar.
-Nei, langt før kan det ske at byen, hvor selv I er hjemme,
-tages av os med stormende haand og jevnes med jorden.
-Trygt tør jeg si at stunden er nær, da du selv i din rædsel
-flygter og ber til Zevs og alle de evige guder,
-at dine hester maa ile forbi de vingede falker,
+Heltene styrtet nu frem lik stormens ustyrlige byger\
+naar de med Alfaders brakende skrald slaar nedover marken. —\
+— Havdypet røres med frygtelig larm og talløse bølger\
+velter sig vide i brott og brand med skumhvite kammer\
+rullende hen over brusende sjø i endeløs række.—\
+Saaledes fulgte i skinnende malm de fylkede troer,\
+somme i spidsen, mens andre gik bak, sine drotter til kampen.\
+Forrest gik Hektor, Priamos' søn, saa kampgrisk som Ares.\
+Foran sig holdt han det kredsrunde skjold av talrike tætte\
+oksehudslag og dækket av kobberets hamrede plate.\
+Truende nikket den straalende hjelm om høvdingens tinding.\
+Frygtløs stormet han frem langs fiendens fylking og fristet\
+om de maaske vilde fly, naar han møtte dem dækket av skjoldet.\
+Dog, han rokket ei manddom og mod i akaiernes hjerter.\
+Aias gik frem med vældige skridt og æsket til tvekamp:\
+«Kom mig dog nær, min ven! Hvi søker du faafængt at skræmme\
+Argos' mænd. Vær tryg! vi er slet ikke ukjendt med krigen;\
+men det er Zevs som har tugtet os nu med sin sviende svepe.\
+Nu har du sagtens et haab om at herje med ild vore snekker.\
+Dog, du skal føle at ogsaa hos os er der hænder til forsvar.\
+Nei, langt før kan det ske at byen, hvor selv I er hjemme,\
+tages av os med stormende haand og jevnes med jorden.\
+Trygt tør jeg si at stunden er nær, da du selv i din rædsel\
+flygter og ber til Zevs og alle de evige guder,\
+at dine hester maa ile forbi de vingede falker,\
 naar de i hvirvlende støv skal føre dig hjem over sletten.»
 
-Neppe var ordene talt, da svævet til høire for helten
+Neppe var ordene talt, da svævet til høire for helten\
 [822—37]
-ned fra det høie en ørn, og akaierne jublet av glæde,
-styrket ved tegnet; men Hektor, den straalende helt, tok til orde:
-«Aias, hvad var det du kom til at si, du brautende mundhelt?
-Gid jeg saasandt var udødelig selv og en søn av den høie
-aigissvingende Zevs, og min mor var den værdige Hera!
-Gid jeg saasandt var hædret saa høit som Apollon og Pallas,
-som det er sikkert at dagen idag skal bringe jer vanheld,
-alle som én, og selv skal du dø saasandt som du dristig
-vaager at staa for mit spyd, som skal flænge dig huden den hvite.
-Da skal troernes hunder og graadige rovfugler mættes
+ned fra det høie en ørn, og akaierne jublet av glæde,\
+styrket ved tegnet; men Hektor, den straalende helt, tok til orde:\
+«Aias, hvad var det du kom til at si, du brautende mundhelt?\
+Gid jeg saasandt var udødelig selv og en søn av den høie\
+aigissvingende Zevs, og min mor var den værdige Hera!\
+Gid jeg saasandt var hædret saa høit som Apollon og Pallas,\
+som det er sikkert at dagen idag skal bringe jer vanheld,\
+alle som én, og selv skal du dø saasandt som du dristig\
+vaager at staa for mit spyd, som skal flænge dig huden den hvite.\
+Da skal troernes hunder og graadige rovfugler mættes\
 her ved akaiernes leir med fett og med kjøt av dit aatsel.»
 
-Saaledes ropte han stolt, og selv gik han frem, og de andre
-fulgte med frygtelig larm, og bak ham jublet hans svende.
-Ogsaa argeierne skrek og mistet saavisst ikke modet.
-Kjækt holdt fylkingen stand mot de stormende troiske helter.
-Larmen fra begge steg op til Zevs i hans straalende æter.
+Saaledes ropte han stolt, og selv gik han frem, og de andre\
+fulgte med frygtelig larm, og bak ham jublet hans svende.\
+Ogsaa argeierne skrek og mistet saavisst ikke modet.\
+Kjækt holdt fylkingen stand mot de stormende troiske helter.\
+Larmen fra begge steg op til Zevs i hans straalende æter.\
