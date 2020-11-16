@@ -29,7 +29,7 @@
 }
 
 body {
-  font-family: Junicode;
+  font-family: Junicode, Garamond, serif;
   font-kerning: normal;
   font-variant: common-ligatures oldstyle-nums proportional-nums;
   font-feature-settings: "kern", "liga", "clig", "onum", "pnum";
@@ -158,12 +158,23 @@ span.initial {
 
 .linjenummer {
   font-size: 50%;
+  /*
   margin-left: -6em;
   padding-right: 0.8em;
+  width: 5.2em; 
+  */
+  padding-left: 0.5em;
+  padding-top: 0.5em;
   text-align: right;
   display: inline-block;
-  width: 5.2em;
+  float: right;
 }
+
+/*
+div.sang p {
+  margin-left: 3em;
+}
+*/
 
 
 /* Improve legibility */
