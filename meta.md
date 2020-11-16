@@ -26,6 +26,6 @@ førsteutgaven av P. Østbyes oversettelse fra 1920. Teksten er etter beste evne
 transkribert tegn for tegn fra orginalen. Oversettelsen, og denne eboken,
 tilfaller allmannseie, og kan deles og endres fritt.
 
-—[M.M.]{.smallcaps}
+[—M.M.]{.smallcaps .right}
 
 ![](bilder/tittelside.png)
