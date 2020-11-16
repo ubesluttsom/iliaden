@@ -26,7 +26,7 @@ hastet gudinden i møte; ti troerne undte han seiren.\
 Like ved eken kom begge hinanden i møte, og drotten,\
 Alfaders herlige søn, Apollon tok ordet og mælte:\
 «Barn av den vældige Zevs, hvi kommer du atter tilbake\
-ned fra det høie Olymp i umættelig higende kamplyst?\
+[(25–62) ]{.linjenummer}ned fra det høie Olymp i umættelig higende kamplyst?\
 Vel for at skjænke danaernes folk en endelig seier?\
 Ja, for du ynkes jo ei, naar troerne segner i døden.\
 Dog, om du nu vilde lyde mit raad, var det visselig bedre.\
@@ -68,7 +68,7 @@ skapte sig om og satte sig ned som vingede fugler\
 oppe i Alfader Zevs' ek med den mægtige krone\
 frydende sig over mændenes færd; ti rækkerne sat der\
 tætte og strittet av hjelmer og skjold og blinkende lanser.\
-Likesom Zefyros straks, naar han reiser sig, kruser det blanke\
+[(63–100) ]{.linjenummer}Likesom Zefyros straks, naar han reiser sig, kruser det blanke\
 speilklare hav med sit pust og havflaten sortner for brisen,\
 saaledes sat nu akaier og troiske mænd over sletten\
 ordnet i række og rad; men Hektor tok ordet og mælte:\
@@ -107,7 +107,7 @@ Visselig blir det en skam, og værre end værst vil den vorde,\
 dersom ei nogen danaer tør vaage sig Hektor imøte.\
 Gid I maa vorde til jord og til vand hver eneste usling\
 alle som sitter saa modløse her uten tanke paa hæder.\
-Vel, jeg skal ruste mig selv mot høvdingen. Hvem der skal seire\
+[(101–38) ]{.linjenummer}Vel, jeg skal ruste mig selv mot høvdingen. Hvem der skal seire\
 ligger i gudernes haand, de eviges hist i det høie.»
 
 Saa han talte og akslet i hast sin skinnende rustning.\
@@ -147,7 +147,7 @@ kjæmpet om Feia, den murkranste by ved lardanos' strømme.\
 Frem iblandt dem Erevtalion skred, saa sterk som en guddom.\
 Om sine skuldre han bar Areïtoos' straalende rustning,\
 drottens som samtlige mænd og skjøntombeltede kvinder\
-nævnte som stridskøllekjæmpen. Saa kaldtes han saasom han aldrig\
+[(139–76) ]{.linjenummer}nævnte som stridskøllekjæmpen. Saa kaldtes han saasom han aldrig\
 stevnet til kampen med bue, ei heller med langskaftet lanse,\
 men med en kølle av jern brøt vei gjennem fienders rækker.\
 Kjæmpen blev dræpt av Lykurgos med svig og ikke med styrke\
@@ -187,7 +187,7 @@ fri og frelst ifra fiendens vold og den farlige kamplek.»
 
 Saa han talte. Da ridset enhver sit merke paa loddet.\
 Derpaa i kong Agamemnons hjelm de kastet dem alle.\
-Mændene bad og løftet mot gliderne op sine hænder.\
+[(177–214) ]{.linjenummer}Mændene bad og løftet mot gliderne op sine hænder.\
 Mælte da mange med øinene vendt mot himlen den vide:\
 «Zevs, la det falde paa Tydevs' søn eller ogsaa paa Aias,\
 eller ham selv, Mykenes, den guldrike kongestads hersker.»
@@ -228,7 +228,7 @@ Saaledes stormet nu frem med et smil paa det truende aasyn\
 Aias, akaiernes mægtige vern, og føtterne hastet\
 fremad med vældige skridt, mens han svang sin mægtige lanse.\
 Hjertelig glædet akaiernes mænd sig alle ved synet.\
-Troerne bævet i gru, og lemmerne rystet av rædsel.\
+[(215–52) ]{.linjenummer}Troerne bævet i gru, og lemmerne rystet av rædsel.\
 Ogsaa i Hektors mandige bryst slog hjertet urolig.\
 Fly for ham kunde han nu ikke mer eller vike tilbake\
 til sine landsmænds flok, da han selv hadde æsket til kampen.\
@@ -268,7 +268,7 @@ Aias, den herlige helt, sin vældige lanse og rammet\
 midt i det kredsrunde skjold som dækket den straalende Hektor.\
 Tvers gjennem høvdingens skinnende skjold gik lansen, den sterke\
 og gjennem panserets hamrede malm blev den drevet med vælde.\
-Spydsodden snittet en flænge i kjortelen like ved lysken.\
+[(253–90) ]{.linjenummer}Spydsodden snittet en flænge i kjortelen like ved lysken.\
 Dog han bøide sig raskt og undgik døden den sorte.\
 Rykkende ut sine vældige spyd med de kraftige næver\
 styrtet de ind paa hinanden saa vildt som blodgriske løver\
@@ -308,7 +308,7 @@ Hektor, den hjelmbuskvaiende helt, tok ordet og svarte:\
 «Aias, saa visst som en gud har skjænket dig vældige lemmer,\
 styrke og kløkt, og du bedst av akaierne svinger din lanse,\
 la os da nu for idag holde op med kampen og striden.\
-Efterpaa kan vi jo møtes og kjæmpe paany, til en guddom\
+[(291–328) ]{.linjenummer}Efterpaa kan vi jo møtes og kjæmpe paany, til en guddom\
 skiller os to og vil unde det ene av folkene seier.\
 Natten er nær, og at lyde dens bud er bedst for os alle,\
 forat du selv kan glæde akaiernes haarfagre sønner\
@@ -348,7 +348,7 @@ gubben som ogsaa tilforn hadde raadet til det som var tjenligst.\
 Venlig tilsinds mot dem alle tok drotten til orde og mælte:\
 «Hør mig Atrevs' søn og I andre akaiernes fyrster!\
 Faldne er mange paa val av akaiernes haarfagre sønner,\
-helter hvis strømmende blod den kampgriske Ares lot flyte\
+[(329–66) ]{.linjenummer}helter hvis strømmende blod den kampgriske Ares lot flyte\
 her ved Skamandros' strøm, og hvis sjæl maatte vandre til Hades\
 Stans da imorgen ved gryende dag akaiernes kampe.\
 La os saa samle os her og kjøre med okser og muldyr\
@@ -389,7 +389,7 @@ det skal jeg gi og gjerne som bot lægge til av mit eget.»
 
 Saa han talte og satte sig ned. Da reiste sig blandt dem\
 Priamos, Dardanos' søn. I kløkt var han gudernes like.\
-Venlig tilsinds mot dem alle, tok gubben til orde iblandt dem:\
+[(367–405) ]{.linjenummer}Venlig tilsinds mot dem alle, tok gubben til orde iblandt dem:\
 «Hør mig, troer, dardaniske mænd og hjælpere gjæve,\
 for at jeg nu kan faa sagt hvad mit hjerte har lyst til at nævne.\
 Nu skal I stevne til byen og faa eders kveldsmat som vanlig.\
@@ -431,7 +431,7 @@ grant at timen er nær og troerne viet til døden.»
 Saa han talte. Da skrek akaiernes sønner, og alle\
 priste den hestetumlende helt Diomedes' tale.\
 Men til Idaios talte den mægtige drot Agamemnon:\
-«Gjæve Idaios! Selv har du jo hørt akaiernes mening,\
+[(406–44) ]{.linjenummer}«Gjæve Idaios! Selv har du jo hørt akaiernes mening,\
 hørt hvad de gir dig til svar, og dette er ogsaa min vilje.\
 Dog, jeg har intet imot at I brænder paa likbaal de faldne.\
 Ei skal man negte en helt som segner paa valen, den naade\
@@ -474,7 +474,7 @@ langstrakt og bred og fæstet en rad av pæler i bunden.
 Medens de strævet saa haardt de akaiske haarfagre svende.\
 sat hos tordneren Zevs de evige guder og skuet\
 alle med undrende blik paa akaiernes mægtige storverk.\
-Talte da først Poseidon, hin gud som ryster al jorden:\
+[(445–82) ]{.linjenummer}Talte da først Poseidon, hin gud som ryster al jorden:\
 «Alfader Zevs! si, findes der vel paa jorden den vide\
 endnu en mand som vil nævne for os sine lønlige planer.\
 Ser du da ei at nu har akaiernes haarfagre svende\

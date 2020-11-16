@@ -26,7 +26,7 @@ visselig ei kunnet frelse sig selv for døden den sorte.\
 Dog, han blev frelst av Hefaistos som rykket ham bort i en taake\
 forat hans graanede far ei helt skulde kues av sorgen.\
 Tydevs' modige søn drev hestene bort og befalte\
-svendene straks at føre dem hen til de stavnkrumme snekker.\
+[(26–63) ]{.linjenummer}svendene straks at føre dem hen til de stavnkrumme snekker.\
 Men da nu troerne saa den ene av Dares' sønner\
 jaget paa vildeste flugt, mens den anden var dræpt ved sin stridsvogn,\
 skalv deres hjerter av gru; men den blaaøide Pallas Atene\
@@ -67,7 +67,7 @@ søn av kunstneren Harmon, en mester i alt som med hænder\
 virkes av skjønt; ti han elskedes høit av Pallas Atene.\
 Høvdingen tømret tilforn for Paris de gyngende skibe,\
 ulykkens ophav. De voldte ham selv og alle hans landsmænd\
-vanheld og sorg; ti han gav ikke agt paa gudernes jertegn.\
+[(64–100) ]{.linjenummer}vanheld og sorg; ti han gav ikke agt paa gudernes jertegn.\
 Da nu Meriones jaget ham skarpt og kom ham paa skudhold,\
 rammet hans malmhvasse spyd i sætet til høire, og odden\
 boret sig gjennem hans krop og tvers gjennem benet ved blæren.\
@@ -108,7 +108,7 @@ sigtet han straks paa Tydevs' søn med sin krummede bue.\
 Midt i hans skulder til høire han traf i den hvælvede plate,\
 just som han stormet til kamp, og tvers gjennem skulderen trængte\
 pilen den bitre med kraft, og blodstrømmen farvet hans brynje.\
-Pralende ropte den herlige søn av den gjæve Lykaon:\
+[(101–38) ]{.linjenummer}Pralende ropte den herlige søn av den gjæve Lykaon:\
 «Fremad, I mandige troer, I vældige helter paa stridsvogn.\
 Nu er han rammet akaiernes helt, og ei vil han længe\
 taale min kraftige pil, saasandt jeg fra Lykien stevnet,\
@@ -151,7 +151,7 @@ Higet han end tilforn til en dyst mot troernes skare,\
 trefold større var nu hans mod. Han sprang som en løve,\
 en som en gjæter, som vogter paa vang de uldrike sauer,\
 streifer, men ikke faar dræpt, naar den hopper i sprang over gjærdet.\
-Saaret forøker dens vildhet, og gjæterens vern er forgjæves.\
+[(139–76) ]{.linjenummer}Saaret forøker dens vildhet, og gjæterens vern er forgjæves.\
 Ind gjennem kveen den haster, og dyrene flygter i rædsel.\
 Snart er dyrene dræpt og ligger i dynger, og løven\
 hopper i fnysende kraft over fægaardens mandshøie gjærde.\
@@ -192,7 +192,7 @@ Selv i Lykien kalder jo ei nogen skytte sig bedre.\
 Løft dine hænder til Zevs og skyt en pil efter manden,\
 hvem han nu er som raser saa vildt og har øvet saa mangen\
 udaad mot troernes folk og sendt saa mange i døden.\
-Bare han ei er en gud som tugter de troiske helter,\
+[(177–214) ]{.linjenummer}Bare han ei er en gud som tugter de troiske helter,\
 vred for et offer vi glemte; ti farlig er gudernes vrede.»
 
 Straks tok den herlige søn av Lykaon til orde og svarte:\
@@ -231,7 +231,7 @@ hit til Ilions by til hjælp for den straalende Hektor.\
 Kommer jeg engang tilbake og atter faar skue mit kjære\
 fædrene hjem, min mægtige hal og min elskede hustru,\
 gid da en fiendehaand maatte skille mit hode fra kroppen,\
-hvis jeg ei knækker med denne min haand min bue og kaster\
+[(215–52) ]{.linjenummer}hvis jeg ei knækker med denne min haand min bue og kaster\
 stumperne hen paa et baal; ti jeg bærer den ganske forgjæves.
 
 Troernes fører Aineias tok atter til orde og svarte:\
@@ -273,7 +273,7 @@ forrest i kjæmpernes rad; ti ellers vil døden dig ramme.»
 
 Harmfuld med rynkede bryn, tok straks Diomedes til orde:\
 «Raad mig dog ikke til flugt, ti jeg føier dig visselig ikke.\
-Ei er jeg slik at jeg agter at fly som en usling fra kampen\
+[(253–90) ]{.linjenummer}Ei er jeg slik at jeg agter at fly som en usling fra kampen\
 eller at krype i skjul. Min kraft er jo endnu den samme.\
 Nødig jeg stiger tilvogns; men tilfots som jeg er, skal jeg trøstig\
 møte dem begge i strid. Atene forbyr mig at skjælve.\
@@ -314,7 +314,7 @@ Dog, den vældige helt Diomedes svarte ham frygtløs:\
 ender forvisst ikke godt for jer to; ti én skal tilvisse\
 falde og mætte med blod den utrættelig kjæmpende Ares.»\
 Saa han talte og slynget sit spyd, og Atene det rettet\
-like mot næsen ved øiet, og tændernes skinnende række\
+[(291–328) ]{.linjenummer}like mot næsen ved øiet, og tændernes skinnende række\
 knækkedes brat, og den hærdede malmspids kløvde hans tunge\
 inderst ved roten, og odden for frem under høvdingens hake.\
 Ned ifra vognen han faldt, og rustningens straalende plater\
@@ -355,7 +355,7 @@ Tøilerne rakte han helten Deïpylos, ham som han hædret\
 høiest i vennernes kreds; ti i tanker og sind var de like.\
 Hen til de gyngende snekker han bød ham at kjøre og hoppet\
 selv paa sin prægtige vogn og grep om de skinnende tøiler.\
-Raskt han styrte de kraftige dyr til sin ven Diomedes,\
+[(329–66) ]{.linjenummer}Raskt han styrte de kraftige dyr til sin ven Diomedes,\
 som med det grusomme spyd for frem mot den kypriske guddom,\
 saasom han visste saa vel hun var svak, ei en av de barske\
 krigens gudinder som tumler sig vildt i mændenes kampe,\
@@ -394,7 +394,7 @@ Saa hun talte, og krigsguden gav hende straks sine hester.\
 Op paa hans stridsvogn steg hun med nagende kval i sit hjerte.\
 Ved hendes side steg Iris tilvogns og fattet om teilen,\
 svang saa den smidige pisk, og hestene fløi som en stormvind.\
-Snart kom de op til gudernes hjem, til det høie Olympen.\
+[(367–404) ]{.linjenummer}Snart kom de op til gudernes hjem, til det høie Olympen.\
 Der lot den stormsnare Iris de fotrappe gangere stanse,\
 spændte dem fra og la den himmelske næring i krybben.\
 Men Afrodite gik hen til sin mor og sank i Diones\
@@ -434,7 +434,7 @@ Dog Paiéon fik lindret hans kval med urter og lægte\
 saaret i hast; ti han var ikke født som en dødelig skabning.\
 Ja, han var fræk, hin kjæmpe, ustyrlig og rede til voldsdaad.\
 Grumt med sin bue han martret de eviges slegt paa Olympen.\
-Nu har gudinden Atene, den blaaøide, egget imot dig\
+[(405–42) ]{.linjenummer}Nu har gudinden Atene, den blaaøide, egget imot dig\
 Tydevs' søn, den daare! Han visste jo ikke at længe\
 times det ingen at leve som kjæmper mot evige guder.\
 Ei skal barnene kalde ham far og klynge sig kjærlig\
@@ -476,7 +476,7 @@ truet Apollon, den rammende gud, ham barskt i sin vrede:\
 frækt at bryste dig her som en gud; ti de evige guder\
 er ei av dødelig æt som menneskers jordbundne slegter.»
 
-Saa han talte, og Tydevs' søn trak foten tilbake\
+[(443–80) ]{.linjenummer}Saa han talte, og Tydevs' søn trak foten tilbake\
 slagen av gru for Apollons, den vældige fjernskyttes vrede.\
 Derefter bragte Apollon i hast Aineias til sæte\
 fjernt paa Pergamos' hellige borg i sit straalende tempel.\
@@ -516,7 +516,7 @@ Nu er det os, eders hjælperes flok, som maa kjæmpe alene.\
 Hit har jeg stevnet saa langt fra mit hjem og er kommet som hjælper\
 fjernt ifra Lykiens land, fra Ksantos' hvirvlende strømme.\
 Der har jeg latt tilbake min søn og min elskede hustru,\
-dertil mangfoldige skatte som trængende mænd kunde attraa.\
+[(481–516) ]{.linjenummer}dertil mangfoldige skatte som trængende mænd kunde attraa.\
 Dog, jeg egger til dyst mine lykiske stridsmænd og modig\
 stevner jeg selv mot fienden frem, skjønt her jeg tilvisse\
 ingenting eier av gods som akaier kan røve og plyndre.\
@@ -554,7 +554,7 @@ helten Aineias og fyldte med mod hans mandige hjerte.\
 Atter gik kjæmpen blandt vennerne frem, og de glædet sig saare,\
 da de fik se ham i live og usaaret ile til kampen\
 modig og kjæk som tilforn. De spurte ham ikke; ti endnu\
-raste den hidsige strid som sølvbueguden Apollon\
+[(517–54) ]{.linjenummer}raste den hidsige strid som sølvbueguden Apollon\
 vakte og Ares den blodige gud og den fnysende Erís.
 
 Men Diomedes, Aianternes par og helten Odyssevs\
@@ -596,7 +596,7 @@ med blandt argeierne frem til det hestenærende Troja,\
 fristende hæder at vinde for Atrevs' søn Agamemnon\
 og for hans bror Menelaos; men dødslodden rammet dem begge,\
 Likesom løvernes par som fjernt paa fjeldenes tinder\
-fostredes op av sin mor dypt inde i skogenes tykning —\
+[(555–92) ]{.linjenummer}fostredes op av sin mor dypt inde i skogenes tykning —\
 Viden de vanker paa rov efter okser og trivelig smaafæ,\
 herjende bøndernes fjøs og hegnede kve, til de begge\
 falder for jægerens haand og dræpes med skjærende kobber —\
@@ -637,7 +637,7 @@ Helten Antilokos drev til akaiernes fylking hans hester.
 Hektor fik se dem i kjæmpernes rad og skyndte sig mot dem.\
 Frygtelig runget hans rop, og vældige rækker av troer\
 tulgte ham. Foran gik krigsguden selv og den vilde Enyo.\
-Skræmmende fulgte i skjoldmøens spor det rasende kampgny.\
+[(593–629) ]{.linjenummer}Skræmmende fulgte i skjoldmøens spor det rasende kampgny.\
 Ares, den mordlystne, svang i sin haand en kjæmpestor lanse.\
 Snart gik han foran, hvor Hektor for frem, og snart gik han efter.
 
@@ -677,7 +677,7 @@ drev de ham bort, og de trængte ham haardt, da han trak sig tilbake.
 Saaledes stred de og kjæmpet med kraft i det vældige stevne.\
 Helten Tlepolemos, modig og sterk, en søn av Herakles,\
 hidset den mægtige skjæbne til kamp mot den gjæve Sarpedon.\
-Da de var kommet paa nærmeste hold og møtte hinanden,\
+[(630–67) ]{.linjenummer}Da de var kommet paa nærmeste hold og møtte hinanden,\
 her en sønnesøn, hist en søn av skyernes hersker,\
 talte Tlepolemos først med spottende ord til sin frænde:\
 «Si mig, Sarpedon, du Lykiens drot, hvad tvang dig at komme\
@@ -718,7 +718,7 @@ slæpte i støvet, og ingen gav agt eller sanset at rykke\
 spydstangen ut av hans laar, saa han selv kunde træde paa foten.\
 Skynde sig maatte de jo, og med nød fik de verget sin høvding.
 
-Hist bar akaiernes malmklædte mænd Tlepolemos varsomt\
+[(668–705) ]{.linjenummer}Hist bar akaiernes malmklædte mænd Tlepolemos varsomt\
 bort fra den larmende strid; men helten, den djerve Odyssevs,\
 merket hans fald, og hans hjerte blev fyldt av rasende harme.\
 Tankerne tumlet sig vildt i hans sjael i tvil om han skulde\
@@ -759,7 +759,7 @@ nu da de hørte at Ares var med blandt troernes stridsmænd.
 Hvo var den første av alle, og hvo var den sidste som segnet,\
 fældet av Hektor, Priamos' søn, og den malmsterke Ares?\
 Tevtras, kjæk som en gud, og Orestes, stridsvognens styrer,\
-Trekos, den spydvante helt, og drotten Oinomaos dræptes,\
+[(706–43) ]{.linjenummer}Trekos, den spydvante helt, og drotten Oinomaos dræptes,\
 Hélenos, Oinops' søn, og Oresbios, klædt i de blanke\
 glitrende plater. Paa gods var han rik og bodde i Hyle\
 nær ved Kefisos' rolige strøm, og rundt i hans hjembygd\
@@ -800,7 +800,7 @@ Der er tvedragtens guddom og forsvar og isnende stormgang,\
 der er Gorgos, det grufulde utyskes, stivnede ansigt,\
 rædsomt, ustyggelig stygt, hint jertegn paa Zevs' aigide.\
 Hjelmen med skjærmer og bøiler av guld paa sit hode hun satte,\
-smykket med rækker av kjæmper tilfots fra hundrede byer.\
+[(744–81) ]{.linjenummer}smykket med rækker av kjæmper tilfots fra hundrede byer.\
 Steg hun saa op paa den luende vogn og fattet om lansen,\
 tung og vældig og sterk. Med den kan hun kue de sterke\
 rækker av mænd som hun hater, den vældige Alfaders datter.\
@@ -841,7 +841,7 @@ Listet nu begge sig frem saa stilt som frygtsomme duer\
 stundende efter at verne de kjække danaiske helter.\
 Men da de begge kom dit hvor de fleste og gjæveste kjæmper\
 stod i en kreds om den hestetumlende helt Diomedes,\
-samlet i tætteste flok som glubende, blodgriske løver\
+[(782–819) ]{.linjenummer}samlet i tætteste flok som glubende, blodgriske løver\
 eller lik skummende vildsvin som eier ubændige kræfter,\
 stanset den armhvite Hera sin gang og skrek, saa det runget,\
 skuffende lik den modige Stentor, helten hvis malmrøst\
@@ -881,7 +881,7 @@ Sandheten vil jeg da melde dig frit og intet fordølge.\
 Ei er jeg grepet av frygt eller kvier mig svart for at kjæmpe.\
 Nei, men jeg kommer i hu det bud som du strengelig gav mig,\
 dengang du bød mig ikke at gaa til en kamp med de andre\
-evige guder; men dersom hin datter av Zevs, Afrodite,\
+[(820–57) ]{.linjenummer}evige guder; men dersom hin datter av Zevs, Afrodite,\
 stevnet til kamp, da straks at slaa til med det hvæssede kobber.\
 Derfor, gudinde, viker jeg selv, og de andre argeier\
 bød jeg, hver eneste mand, at samle sig her hvor jeg dvæler;\
@@ -921,7 +921,7 @@ spydstangen bort saa den for under stridsvognen uten at ramme.\
 Derefter stormet i hast den høimælte helt Diomedes\
 frem med sit malmhvasse spyd, som Pallas med vældige kræfter\
 rettet mot lysken hvor beltet av malm var spændt om hans midje.\
-Der traf helten og flænget hans herlige hud, og tilbake\
+[(858–95) ]{.linjenummer}Der traf helten og flænget hans herlige hud, og tilbake\
 trak han sit vældige spyd. Da brølte den malmsterke Ares\
 vildt som naar ni, ja ti ganger tusinde vældige helter\
 løfter sit hærskrik paa val, naar de stormer til rasende kampe.\
@@ -961,7 +961,7 @@ Heras, din mors, ustyrlige sind har du visselig arvet,\
 hun som jeg neppe kan kue med ord og som aldrig vil vike.\
 Hun har vel raadet dig nu og voldt dig de kvaler du lider.\
 Dog, jeg kan ikke taale at se dine smerter i længden;\
-ti som min søn er du født av din mor; av mig selv er du avlet.\
+[(896–909) ]{.linjenummer}ti som min søn er du født av din mor; av mig selv er du avlet.\
 Dersom du hadde en anden til far blandt guder, du frække,\
 laa du forlængst i en dypere grav end Uranos' avkom.»
 

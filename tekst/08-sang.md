@@ -25,7 +25,7 @@ Zevs, den høieste hersker, om aldrig saa meget I strævet.\
 Men naar jeg selv med hele min kraft vilde trække i lænken,\
 skulde jeg løfte jer op med jordskiven selv og med havet.\
 Derefter skulde jeg slaa om Olympos' høieste tinde\
-lænken og gjøre den fast, saa alt maatte svæve i luften.\
+[(28–63) ]{.linjenummer}lænken og gjøre den fast, saa alt maatte svæve i luften.\
 Saa meget større er min end guders og menneskers styrke.»
 
 Saa han talte, og alle som en blev tause og stille\
@@ -67,7 +67,7 @@ Da de omsider kom frem og møtte hverandre paa valen,\
 tørnet de modige pansrede mænd med skjoldene sammen.\
 Lanserne slyngedes ut, og de vældige buklede skjolde\
 støttes mot skjolde med kraft, og stridslarmen drønet saa vide.\
-Jamrende stønnen blev hørt og pralende rop av de mange\
+[(64–101) ]{.linjenummer}Jamrende stønnen blev hørt og pralende rop av de mange\
 kjæmper som fældte og faldt, og blodstrømme flommet paa jorden.
 
 Mens det var rødmende gry, og den hellige dag var i stigen,\
@@ -107,7 +107,7 @@ vilde ei høre, men fôr ham forbi til akaiernes skibe.\
 Ene var Tydevs' søn; men ind blandt de forreste kjæmper\
 kastet han sig og stillet sig frem ved den graanede Nestors\
 skrækslagne tvespand og talte med vingede ord til den gamle:\
-«Gubbe, nu trænges du haardt av kjæmper med ungdommens kræfter.\
+[(102–39) ]{.linjenummer}«Gubbe, nu trænges du haardt av kjæmper med ungdommens kræfter.\
 Lammet er fordums kraft, og du følges av alderens plager.\
 Mat er din vognstyrer nu, og langsomme er dine hester.\
 Kom, stig op paa min vogn og prøv mine troiske hester.\
@@ -147,7 +147,7 @@ Hestene rystet av skræk og segnet i knæ under aaket,\
 Tøilerne for med et ryk den graanede Nestor av hænde.\
 Skrækslagen talte han saa til den herlige helt Diomedes:\
 «Tydevs' søn, styr atter paa flugt dine fotrappe hester!\
-Skjønner du ikke at Zevs ei under dig kraft til at seire?\
+[(140–78) ]{.linjenummer}Skjønner du ikke at Zevs ei under dig kraft til at seire?\
 Visst er det Hektor hvem Kronos' søn gir seierens hæder\
 nu for idag; men er det hans agt, saa skjænker han siden\
 prisen til os. Ei stanser en mand hvad Zevs har i sinde,\
@@ -189,7 +189,7 @@ Tydelig skjønner jeg nu at Kronos' søn i sin naade\
 lover mig seier og ry, men akaierne jammer og vanheld.\
 Aa, de daarer, som bygget med stræv hin kneisende ringmur!\
 Svak er den, ingenting værd. Min kraft skal den ei kunne stanse.\
-Grøften de nylig har gravet, skal hestene let hoppe over.\
+[(179–217) ]{.linjenummer}Grøften de nylig har gravet, skal hestene let hoppe over.\
 Men naar jeg kommer tilsidst helt frem til de tjærede skibe,\
 gjælder det ret i betids at tænke paa blus og paa brande,\
 saa jeg faar brændt deres skibe og dræpt de argeiiske stridsmænd,\
@@ -232,7 +232,7 @@ fyldt i myldrende trængsel av hester og skjolddækte kjæmper.\
 Hektor, Priamos' søn, saa kjæk som den stormende Ares,\
 trængte dem haardt; ti Zevs hadde skjænket ham seierens hæder.\
 Nu hadde høvdingen brændt med flammende ild deres snekker,\
-hvis ikke Hera i hast hadde lagt Agamemnon paa sinde\
+[(218–55) ]{.linjenummer}hvis ikke Hera i hast hadde lagt Agamemnon paa sinde\
 selv at ile til kamp og hidse akaiernes stridsmænd.\
 Raskt han ilte avsted til akaiernes telter og snekker.\
 Kappen av straalende purpur bar helten i haand, og han stanset\
@@ -272,7 +272,7 @@ gik de mot troerne djervere frem og tænkte paa kampen.
 Der kunde ikke en mand blandt alle de mange danaer\
 rose sig av at han styrte sit spand av fotrappe hester\
 frem over graven til kamp før Tydevs' søn Diomedes;\
-ti langt foran de andre han vog en velrustet troer,\
+[(256–93) ]{.linjenummer}ti langt foran de andre han vog en velrustet troer,\
 helten Agélaos, Fradmons søn. Han vendte sit tvespand\
 raskt for at fly; men Tydevs' søn jog hastig sin lanse\
 midt mellem skuldrene ind i hans ryg og ut gjennem brystet.\
@@ -313,7 +313,7 @@ eller en mø som kan bo i dit hjem og dele dit leie.»
 
 Straks tok Tevkros, den mandige helt, til orde og svarte:\
 «Atrevs' søn, hvi egger du mig som brænder av iver?\
-Ei kan jeg ta mig et øiebliks hvil, saa længe jeg eier\
+[(294–331) ]{.linjenummer}Ei kan jeg ta mig et øiebliks hvil, saa længe jeg eier\
 kraft i min arm; men siden vi jog dem tilbake mot Troja,\
 tar jeg mit sigte og fælder dem, mand efter mand, med min bue.\
 Sylhvasse piler, ja otte paa rad, har jeg sendt, og de fæstet\
@@ -353,7 +353,7 @@ sprængte hans streng og lammet hans arm fra skulder til haandled.\
 Mat han segnet i knæ, og ut av hans hænder faldt buen.\
 Aias svigtet dog ikke sin bror, da han faldt; men han ilte\
 hastig derhen og dækket ham rundt med skjoldet det sterke.\
-Ekios' søn Mekistevs og helten, den kjække Alastor,\
+[(332–69) ]{.linjenummer}Ekios' søn Mekistevs og helten, den kjække Alastor,\
 Tevkros' staldbrødre, bøide sig ned, og i sine arme\
 bar de den stønnende kjæmpe avsted til de tjærede snekker.
 
@@ -393,7 +393,7 @@ Hadde jeg været saa klok at tænke mig sligt, da Evrystevs\
 sendte til Hades' lukkede port hin helt for at hente\
 op fra Erebos' dyp den grufulde Hades' vakthund,\
 aldrig var han da frelst over Stykselvens fossende vande.\
-Nu er det mig som Alfader skyr; nu føier han Tetis,\
+[(370–407) ]{.linjenummer}Nu er det mig som Alfader skyr; nu føier han Tetis,\
 hun som har kysset hans knær og slesk har tat ham om haken,\
 medens om hæder hun bad for sin søn, den grumme Akillevs.\
 Men — bare vent! Snart er jeg igjen hans «blaaøide elskling».\
@@ -433,7 +433,7 @@ Selv naar ti henglidende aar har sluttet sit kredsløp,\
 lækes ei helt de saar som lynstraalen slaar, naar den rammer.\
 Kjæmper den blaaøide mø mot sin far, skal hun mindes det længe.\
 Ei kan jeg føle slik harm eller undre mig saa over Hera.\
-Hun har jo stadig for vane at trodse mot alt hvad jeg sier.»
+[(408–445) ]{.linjenummer}Hun har jo stadig for vane at trodse mot alt hvad jeg sier.»
 
 Saa han talte, og Iris drog hastig avsted med hans budskap.\
 Stormsnart for hun til høien Olymp fra det kneisende Ida.\
@@ -475,7 +475,7 @@ Selv tok tordneren Zevs paa guldtronen plads, og Olympens\
 vældige fjeld blev rokket og skalv under herskerens føtter.\
 Hver paa sin side og helt for sig selv sat Pallas og Hera\
 langt ifra Zevs. Ei fik han av dem et ord eller spørsmaal.\
-Dog, han skjønte saa godt deres lønlige tanker og mælte:\
+[(446–83) ]{.linjenummer}Dog, han skjønte saa godt deres lønlige tanker og mælte:\
 «Si, hvorfor sitter I her saa modfaldne, Pallas og Hera?\
 Utmattet blev I da visst ikke nu av at fælde i kampen\
 troernes mænd som I lægger for hat og plager saa grusomt.\
@@ -516,7 +516,7 @@ eller ved svalende vinde. I Tartaros' dyp er de lænket.\
 Dit kan du vandre paa vildsom fot; jeg ænser dog ikke\
 dig og din harm; ti værre end dig er ingen i frækhet.»
 
-Saa han talte. Da svarte hun ei, den armhvite Hera.
+[(484–520) ]{.linjenummer}Saa han talte. Da svarte hun ei, den armhvite Hera.
 
 Solskivens straalende lys gik ned i Okeanos' vande,\
 dragende natmulmets skyggende slør over frugtbare marker.\
@@ -555,7 +555,7 @@ Zevs' herolder skal haste omkring i byen og byde\
 halvvoksne gutter og graanede mænd at samles og drage\
 ut til sin vakt paa de mægtige taarn som guder har bygget.\
 Vernløse kvinder skal tænde, enhver i de hjemlige haller,\
-mægtige baal, og omhyggelig vakt maa der holdes, saa ikke\
+[(521–58) ]{.linjenummer}mægtige baal, og omhyggelig vakt maa der holdes, saa ikke\
 bakhold skal snike sig ind i vor by, mens hæren er borte.\
 La det da ske, som jeg nu har forkyndt jer, mandige troer!\
 Nok har jeg sagt jer om alt, som baader os nu; men imorgen\
@@ -595,7 +595,7 @@ Likesom stjerner som blinker saa klart om den lysende maane\
 høit paa himmelens hvælv, naar luften er blikkende stille —\
 — samtlige varder og skar og fjeldenes høieste tinder\
 tegner sig klart imot himmelens blaa i den svimlende æter;\
-hver en stjerne kan sees, og gjæteren glæder sig saare —\
+[(559–65) ]{.linjenummer}hver en stjerne kan sees, og gjæteren glæder sig saare —\
 likesaa mange var troernes baal foran Ilions mure,\
 midt mellem Ksantos' blinkende strøm og akaiernes skibe.\
 Tusen i tal var de brændende baal over sletten, og femti\

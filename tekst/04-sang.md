@@ -25,7 +25,7 @@ Nær ved hinanden de sat, og troerne ønsket de vanheld.\
 Dog, Atene sat taus og mælte slet intet, skjønt argest\
 hatskhet hun følte mot Zevs, sin far, og den vildeste vrede.\
 Hera var ikke istand til at tøile sin harme, men svarte:\
-«Grusomme søn av Kronos! hvad mente du dog med din tale?\
+[(25–61) ]{.linjenummer}«Grusomme søn av Kronos! hvad mente du dog med din tale?\
 Vil du da spilde mit stræv, og skal jeg ha svedet forgjæves,\
 dengang jeg trættet mit vælige spand for at samle de mange\
 stridsmænd mot Priamos' stad til fordærv for ham selv og hans sønner?\
@@ -64,7 +64,7 @@ Selv er jeg ogsaa en guddom; av selvsamme byrd er vi begge.\
 Jeg er den første i rang av den listige Kronos' døtre,\
 baade som ældst av aar og fordi jeg blir nævnt som din hustru,\
 viet til dig som alle de evige guder maa lyde.\
-La os da føie hinanden og villig gi efter i dette,\
+[(62–99) ]{.linjenummer}La os da føie hinanden og villig gi efter i dette,\
 du for mit ønske, og jeg for dit bud, saa vil nok de andre\
 evige guder slaa følge med os. Saa byd da Atene\
 straks at gaa til akaiers og troers forfærdende kampe.\
@@ -106,7 +106,7 @@ mest dog tilvisse hos helten av kongelig byrd, Aleksandros.\
 Særlig av ham vil du visselig faa de herligste gaver,\
 dersom han ser Menelaos, den krigerske ætling av Atrevs,\
 fældet av dig med den dræpende pil bli baaret paa likbaal.\
-Skyt nu en rammende pil mot den navngjetne drot Menelaos.\
+[(100–37) ]{.linjenummer}Skyt nu en rammende pil mot den navngjetne drot Menelaos.\
 Lov den lysfødte gud, den bueberømte Apollon,\
 herlige ofre av talrike lam, de første i kuldet,\
 naar du har naadd til dit hjem, den hellige kongsstad Zeleia.»\
@@ -146,7 +146,7 @@ Pilen den smertende rammet ham midt i det fastspændte belte.\
 Tvers gjennem beltets forsirede rem blev den drevet med vælde.\
 Derefter skar den igjennem det kunstfuldt hamrede panser\
 og gjennem platen som inderst han bar til vern imot spydkast.\
-Den var hans tryggeste vern; men pilen fik boret sig gjennem.\
+[(138–75) ]{.linjenummer}Den var hans tryggeste vern; men pilen fik boret sig gjennem.\
 Ytterst i høvdingens hud den ridset en rift, og det mørke\
 dampende blod sprang frem og strømmet i hast fra hans vunde.\
 Som naar en mø fra Maioniens land eller Kariens egne\
@@ -186,7 +186,7 @@ Straks vil akaierne mindes det elskede fædrene hjemland\
 og la Priamos selv og troerne pralende eie\
 Hélena, kvinden fra Argos, og selv vil du raatne i jorden\
 her ved Troja, og intet av det som du vilde, er fuldført\
-Saa vil vel mangen en mand blandt de overmodige troer\
+[(176–213) ]{.linjenummer}Saa vil vel mangen en mand blandt de overmodige troer\
 si, naar han tramper med haan Menelaos' enslige gravhaug:\
 «Gid Agamemnon altid som nu maatte mætte sin vrede,\
 nu da han førte forgjæves en hær av akaier mot byen\
@@ -230,7 +230,7 @@ stod med sit blødende saar i en ring av de gjæveste fyrster\
 midt i den samlede kreds, hvor han stod saa skjøn som en guddom,\
 rykket han straks den smertende pil fra det fastspændte belte.\
 Begge de hvæssede mothaker brast, da han trak den tilbake.\
-Varsomt løste han saa det prægtige belte og dernæst\
+[(214–51) ]{.linjenummer}Varsomt løste han saa det prægtige belte og dernæst\
 brynjen og platen som smeden tilforn saa kunstfærdig hamret.\
 Da han fik se hans saar, hvor den smertende pil hadde rammet\
 suget han blodet av saaret og strødde paa vunden de milde\
@@ -271,7 +271,7 @@ saa I kan se om Kronos' søn vil verne jer naadig.»\
 
 Saaledes ilte han ordnende om gjennem mændenes rækker.\
 Hen til kreterne stevnet han først gjennem kjæmpernes vrimmel.\
-Samlet i kreds om sin drot Idomenevs rustet sig folket.\
+[(252–89) ]{.linjenummer}Samlet i kreds om sin drot Idomenevs rustet sig folket.\
 Selv stod han modig og sterk som et vildsvin forrest i skaren,\
 medens Meríones egget til kamp de bakerste rækker.\
 Men Agamemnon, den mægtige drot, blev glad, da han saa dem.\
@@ -311,7 +311,7 @@ Jer har jeg intet at byde. Det sømmer sig ikke at hidse\
 helter som egger saa mandig til kamp sine kraftige svende.\
 Aa, maatte Zevs, vor far, og Apollon og Pallas Atene\
 skape i hvermands bryst et sind saa tappert og trofast!\
-Da skulde herskeren Priamos' by inden kort vorde bøiet\
+[(290–327) ]{.linjenummer}Da skulde herskeren Priamos' by inden kort vorde bøiet\
 dypt i støvet med stormende haand og jevnes med jorden.»\
 
 Saa han talte og ilte fra dem til andre i skaren.\
@@ -353,7 +353,7 @@ færre av aar end jeg og forlater sig trygt paa sin styrke.»\
 
 Saa han talte, og glad var Atrevs' søn, da de skiltes.\
 Derefter øinet han Peteos' søn, den raske Menestevs.\
-Stille han stod i en kreds av atenere, vældige kjæmper.\
+[(328–65) ]{.linjenummer}Stille han stod i en kreds av atenere, vældige kjæmper.\
 Nærmest ved ham stod helten, den kløktige kriger Odyssevs,\
 ledig midt i de tro kefalleneres mægtige rækker.\
 End hadde stridslarmens gny ei lydt for mændenes ører;\
@@ -394,7 +394,7 @@ prøve at gjøre det godt. Maatte guderne gjøre det usagt!»\
 
 Saa han talte. De skiltes i hast, og han ilte til andre.\
 Traf han saa Tydevs' søn, den modige helt Diomedes,\
-staaende høit paa sin prægtige vogn med forspændte hester.\
+[(366–403) ]{.linjenummer}staaende høit paa sin prægtige vogn med forspændte hester.\
 Stenelos, Kapanevs' herlige søn, stod like ved siden.\
 Refset da mændenes drot Agamemnon ham haardt, da han saa ham.\
 Spottende lød hans vingede ord, da han talte til helten:\
@@ -433,7 +433,7 @@ ringere langt i kamp; men rappere bruker han tungen.»\
 Saaledes talte han barsk. Diomedes svarte ham ikke.\
 Skamfuld bar han de refsende ord fra den værdige konge.\
 Da tok den navngjetne Kapanevs' søn til orde og svarte:\
-«Lyv ikke, Atrevs' søn, naar du godt kunde sige det sande.\
+[(404–41) ]{.linjenummer}«Lyv ikke, Atrevs' søn, naar du godt kunde sige det sande.\
 Trygt tør vi rose os selv som gjævere end vore fædre.\
 Teben, den mægtige stad med portene syv, har vi stormet,\
 skjønt med en ringere hær vi drog mot de trodsige mure.\
@@ -474,7 +474,7 @@ Blandet var mændenes maal; fra mangfoldige land var de budsendt\
 Krigsguden egget nu disse til kamp, men Pallas de andre\
 sammen med Deimos og Fobos og møen, den stridslystne Eris,\
 søster av Ares, den blodgriske gud, og hans trofaste fælle.\
-Først er hun liten av vekst, naar hun aksler sin rustning; men siden\
+[(442–79) ]{.linjenummer}Først er hun liten av vekst, naar hun aksler sin rustning; men siden\
 støtter hun issen mot himlen, mens frem over valen hun skrider.\
 Nu gik hun ogsaa omkring i de vrimlende hære og saadde\
 likelig ufredens sæd og øket de kjæmpendes møie.\
@@ -515,7 +515,7 @@ Begge forældrene fulgte hun dit, da de saa til sit smaafæ.\
 Derfor fik sønnen sit navn Simoeisios; men hans forældre\
 fik ikke løn for at fostre sit barn; ti kort blev hans livsvei,\
 nu da han segnet for Aias' spyd blandt de forreste kjæmper.\
-Like i brystbenet traf han ham haardt ved vorten til høire.\
+[(480–517) ]{.linjenummer}Like i brystbenet traf han ham haardt ved vorten til høire.\
 Tvers gjennem skuldren trængte den malmhvasse lanse, og helten\
 styrtet i støvet til jord saa tungt som en segnende poppel\
 hist paa den lavlændte grund, hvor den vokste ved fugtige myrer,\
@@ -555,7 +555,7 @@ Alfaders herlige barn, gik om i akaiernes fylking,\
 eggende alle til kamp hvor hun saa dem slappe i striden.\
 
 Rammet av skjæbnen blev først Amarynkevs' ætling, Diores;\
-ti over læggen til høire ved ankelens led blev han truffet\
+[(518–44) ]{.linjenummer}ti over læggen til høire ved ankelens led blev han truffet\
 haardt med en skarpkantet sten. Det var trakernes fører som traf ham,\
 Peiroos, Imbrasos' søn, som var kommet til Troja fra Ainos.\
 Begge hans sener og ankelens ben blev knust av den haarde\
