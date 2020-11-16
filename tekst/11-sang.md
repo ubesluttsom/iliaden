@@ -1,4 +1,6 @@
-# Ellevte sang. *Agamemnons heltegjerninger.*
+# Ellevte sang. *Agamemnons heltegjerninger.* {epub:type=chapter}
+
+::: {.sang}
 
 [E]{.initial}os steg op ved gry fra den fagre Titonos' leie,\
 bringende lys til menneskers barn og til evige guder.\
@@ -109,7 +111,7 @@ Antifos, egte av byrd, og Isos, hans søn med en frille,\
 begge paa selvsamme vogn som Isos i kamptumlen kjørte.\
 Antifos kjæmpet fra karm. Da de vogtet sit smaafæ paa Ida,\
 fanget Akillevs dem fordum og bandt dem med smidige vidjer\
-begge paa haand og paa fot, men slåp dem mot rikelig løsning.\
+begge paa haand og paa fot, men slap dem mot rikelig løsning.\
 Atrevs' mandige søn, den mægtige drot Agamemnon,\
 rammet den ene med malmhvæsset spyd i brystet ved vorten.\
 Antifos styrtet han ned fra hans vogn med et sverdhugg ved øret,\
@@ -483,7 +485,7 @@ Dog, da han vendte sig, traf han ham haardt i ryggen med lansen\
 midt mellem begge hans skuldre og støtte den ut gjennem brystet.\
 Drønende faldt han til jord, og pralende ropte Odyssevs:\
 «Sokos, Hippasos' søn, den hestetumlende krigers!\
-Døden den sorte har rammet dig først; du slåp ikke fra den.\
+Døden den sorte har rammet dig først; du slap ikke fra den.\
 Ve dig, arme! Din far og din mor skal ikke faa lukke\
 nu dine øine i døden; men snart skal ravner og gribber\
 flokkes paa flaksende vinger og graadig fortære dit aatsel.\
@@ -861,7 +863,7 @@ vaklet den høibaarne drot Evrypylos, søn av Evaimon,\
 helten imøte; ti rammet fornys i laaret av pilen\
 hinket han hjem fra kampen, mens sveden i draapevis haglet\
 ned over skuldre og ansigt og blodstrømmen mørkerød rislet\
-ut av det sviende såar. Dog hadde han endnu sin samling.\
+ut av det sviende saar. Dog hadde han endnu sin samling.\
 Inderlig ynk grep helten den sterke Patroklos ved synet.\
 Klagende talte han vingede ord til vennen og mælte:\
 «Stakkars jer som i raad og daad er akaiernes formænd!\
@@ -900,3 +902,5 @@ ut av laaret den sviende pil og vasket det sorte\
 blod fra hans saar med det kuldslaatte vand og knuste den bitre\
 smertestillende rot og strødde den paa, og den lindret\
 al hans pine. Hans saar blev tørt, og blodet blev stanset.
+
+:::

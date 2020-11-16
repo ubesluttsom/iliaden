@@ -1,4 +1,6 @@
-# Tiende sang. *Sangen om Dolon.*
+# Tiende sang. *Sangen om Dolon.* {epub:type=chapter}
+
+::: {.sang}
 
 [V]{.initial}ed sine langskibe sov de andre akaiiske stormænd\
 natten igjennem, og lindt var de lagt i slummerens lænker\
@@ -628,3 +630,5 @@ steg de til styrkende bad i karrene skinnende blanke,\
 og da de begge var tvættet i bad og salvet med olje,\
 satte de sig til sit maaltid og øste av bollen den fulde\
 honningsøt vin og bragte til tak Atene et offer.
+
+:::

@@ -1,4 +1,6 @@
-# Trettende sang. *Kampen ved skibene.*
+# Trettende sang. *Kampen ved skibene.* {epub:type=chapter}
+
+::: {.sang}
 
 [N]{.initial}u da Zevs hadde hjulpet de kjæmpende troer og Hektor\
 frem til skibene, lot han dem der ustanselig døie\
@@ -886,3 +888,5 @@ fulgte med frygtelig larm, og bak ham jublet hans svende.\
 Ogsaa argeierne skrek og mistet saavisst ikke modet.\
 Kjækt holdt fylkingen stand mot de stormende troiske helter.\
 Larmen fra begge steg op til Zevs i hans straalende æter.\
+
+:::

@@ -1,4 +1,6 @@
-# Sjette sang. *Møtet mellem Hektor og Andromake.*
+# Sjette sang. *Møtet mellem Hektor og Andromake.* {epub:type=chapter}
+
+::: {.sang}
 
 [G]{.initial}uderne svandt fra akaiernes strid med troernes helter.\
 Kampene raste dog vildt over slagmarken frem og tilbake,\
@@ -569,3 +571,5 @@ Kom, la os gaa. Den sak kan vi efterpaa broderlig drøfte,\
 dersom da Zevs os under at sætte i hjemlige haller\
 frihetens bolle paa bord som skjænk til de evige guder,\
 naar vi har jaget fra Troja akaiernes malmklædte skarer.»
+
+:::

@@ -1,4 +1,6 @@
-# Ottende sang. *Den avbrutte kamp.*
+# Ottende sang. *Den avbrutte kamp.* {epub:type=chapter}
+
+::: {.sang}
 
 [E]{.initial}os spredte i gyldent gevandt sit lys over lande.\
 Da lot den lynglade Zevs de evige guder gi møte\
@@ -200,7 +202,7 @@ Saa han talte og egget med manende ord sine hester:\
 Løn mig nu ivrig for omhu og røkt og den nærende hvete,\
 den som Andromake selv, den bolde Eétions datter,\
 gav jer i rikeste maal, og den liflige vin som hun altid\
-blandet i våndet for jer, saa ofte I lystet at drikke,\
+blandet i vandet for jer, saa ofte I lystet at drikke,\
 førend jeg selv, hendes blomstrende mand, fik gaa til mit maaltid.\
 Stræk nu ut, saa vi tar dem igjen og kan gjøre til bytte\
 Nestors herlige skjold som til skyerne hæves av rygtet.\
@@ -602,3 +604,5 @@ Tusen i tal var de brændende baal over sletten, og femti\
 stridsmænd var leiret om hvert i flammernes luende lysskjær.\
 Hestene stod og tygget sit spelt og bygget det hvite,\
 bundet til vognen og ventet den herlige Eos paa guldkarm.
+
+:::

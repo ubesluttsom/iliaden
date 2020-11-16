@@ -50,7 +50,7 @@ vordende taler særlig at studere. Han begynder denne korte oversigt saaledes:
 
 > «Likesom Aratos mener at han maa begynde med Zevs, saaledes forekommer det
 > mig at jeg gjør ret i at begynde med Homer. Ti som han selv sier at alle
-> elver og bækker har sit utspring frå Okeanosstrømmen, saaledes har han git
+> elver og bækker har sit utspring fra Okeanosstrømmen, saaledes har han git
 > mønstre for og først ut formet alle grener av veltalenheten. Ham kan ingen
 > overgaa i høihet, naar emnet er stort, eller i træffende naturlighet, naar
 > det er litet. Hans fremstilling er snart bugnende rik, snart sammentrængt,
@@ -81,7 +81,7 @@ vordende taler særlig at studere. Han begynder denne korte oversigt saaledes:
 > ([xxiv]{.smallcaps}. v. 486 ff.)? Og ser vi paa ordvalg, fyndsprog, billeder
 > og hele verkets anlæg, hæver han sig ikke da over menneskeaandens maal, saa
 > det skal stor begavelse til, ikke for at kappes med hans fortrin; ti det er
-> umulig, men bare for helt at for ståadem.»
+> umulig, men bare for helt at forstaa dem.»
 
 Denne dom er blit underskrevet av de største literaturkjendere like ned til vor
 egen tid.

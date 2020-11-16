@@ -1,4 +1,6 @@
-# Femte sang. *Diomedes' heltegjerninger.*
+# Femte sang. *Diomedes' heltegjerninger.* {epub:type=chapter}
+
+::: {.sang}
 
 [N]{.initial}u gav Pallas Atene den vældige helt Diomedes,\
 Tydevs' søn, baade kræfter og mod, saahan straalte blandt alle\
@@ -388,7 +390,7 @@ Jamrende faldt hun paa knæ i sin nød og tryglet og bønfaldt\
 ydmyg sin elskede bror om at laane hans guldsmykte hester:\
 «Hjælp mig, min elskede bror og gi mig tillaans dine hester,\
 saa jeg kan naa til Olymp, hvor de evige guder har hjemme.\
-Svart blir jeg pint av et såar som en dødelig kjæmpe har voldt mig,\
+Svart blir jeg pint av et saar som en dødelig kjæmpe har voldt mig,\
 Tydevs' søn, som løfter vel snart mot Zevs sine vaaben.»\
 Saa hun talte, og krigsguden gav hende straks sine hester.\
 Op paa hans stridsvogn steg hun med nagende kval i sit hjerte.\
@@ -977,3 +979,5 @@ og hos den tordnende Zevs han satte sig stolt av sin hæder.
 Men da nu Hera fra Argos og Pallas fra Alalkomene\
 helt hadde stanset den blodige krigsguds grusomme manddrap,\
 kom de tilbake paany til den vældige Alfaders haller.
+
+:::

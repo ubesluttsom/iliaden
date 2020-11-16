@@ -1,5 +1,7 @@
 # Anden sang. *Drømmen. Opregning av skibene.* {epub:type=chapter}
 
+::: {.sang}
+
 [S]{.initial}amtlige guder og kjæmper paa stridsvogn hvilte i søvnen\
 natten til ende. Kun Zevs fik ei en blund paa sit øie,\
 men i sit sind var han plaget av tvil om hvordan han skulde\
@@ -269,7 +271,7 @@ Derfor burde du holde din mund og ikke med haansord\
 tale om konger og skjelde dem ut og lure paa hjemfærd.\
 Endnu vet vi jo ikke forvisst, hvordan dette vil ende,\
 om vi akaier med held eller skam skal vende tilbake.\
-[(254–91) ]{.linjenummer}Her tør du sitte og håane med spottende ord Agamemnon,\
+[(254–91) ]{.linjenummer}Her tør du sitte og haane med spottende ord Agamemnon,\
 Atrevs' søn, fordi de danaiske helter har git ham\
 gaver i mængde. Du taler saa ordene stikker i hjertet.\
 Nu skal jeg si dig et ord, og det skal du ogsaa faa sande:\
@@ -307,7 +309,7 @@ Ei vil de holde som ærlige mænd det ord som de gav dig,\
 dengang vi drog paa vor færd fra det hestenærende Argos,\
 først naar Troja var styrtet i grus at vende tilbake.\
 Rent som umyndige barn og enslige, vernløse kvinder\
-længes de såart efter hjemfærd med klynk og jamrende klage.\
+længes de saart efter hjemfærd med klynk og jamrende klage.\
 Vel maa man stræve mothjemkomstens dag, naar ondtman har døiet;\
 [(292–323) ]{.linjenummer}ti om man skilles fra hustru og hjem en eneste maaned,\
 længter man saart ved sit toftede skib, naar vinterens stormer\
@@ -572,7 +574,7 @@ helter fra Dion paa svimlende skrent og Kerintos ved havet,\
 mænd fra Karystos og stridsmænd som hadde sin hjemstavn i Styra\
 Fører for dem var en helt Elefénor, krigsgudens ætling,\
 Chalkodons søn, den høibaarne drot for de tapre abanter.\
-Raske abanter med uklippet håar var førerens følge,\
+Raske abanter med uklippet haar var førerens følge,\
 stridsmænd øvet med spyd og higende efter at flænge\
 fienders brynjer om bryst med de fremstrakte asketræs lanser.\
 Høvdingen kom med sit folk paa firti tjærede skibe.
@@ -953,3 +955,5 @@ fældet i floden. Hans guld blev den kjække Akillevs' bytte.
 
 Drotten Sarpedon og Glavkos gik frem med de lykiske stridsmænd.\
 Fjerntfra kom de, fra Lykiens land, fra den hvirvlende Ksantos.
+
+:::

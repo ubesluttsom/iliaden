@@ -1,5 +1,7 @@
 # Tredje sang. *Edspakten. Utsigten fra muren. Tvekampen mellem Aleksandros og Menelaos.* {epub:type=chapter}
 
+::: {.sang}
+
 [D]{.initial}a de var fylket til kamp, hvert folk av de førende fyrster,\
 stormet de larmende troer avsted som skrikende fugler.\
 Saaledes lyder en tranefloks skrik fra himmelens høider\
@@ -318,7 +320,7 @@ Men hvis den mægtige Priamos selv og Priamos' sønner\
 da skal jeg visselig bli hvor jeg er og kjæmpe om boten,\
 indtil jeg faar hvad jeg kræver og krigen er kjæmpet til ende.»
 
-Saa han talte og ståk gjennem lammenes struper det grumme\
+Saa han talte og stak gjennem lammenes struper det grumme\
 knivblad av kobber og la de sprællende kropper paa jorden.\
 Livet var sluknet i hast, ti kobberet røvet dem kraften.\
 Derefter øste de vin fra bollen i bægre og heldte\
@@ -445,7 +447,7 @@ Nei, la ham aldrig faa ro, men vogt ham i klagende elskov,\
 indtil han fører dig hjem som sin viv, eller gjør dig til frille.\
 Selv vil jeg ikke gaa dit — foragtelig vilde det være —\
 blot for at dele hans leie; ti da vilde troernes kvinder\
-håane mig alle som én, og av sorg har jeg nok i mit hjerte.»
+haane mig alle som én, og av sorg har jeg nok i mit hjerte.»
 
 Derefter svarte paany Afrodite i flammende vrede:\
 «Tir mig ikke, du frække! Jeg kunde vel ellers i vrede\
@@ -501,3 +503,5 @@ Saa skal I ogsaa betale en bot som rimelig tykkes,\
 en som selv av den kommende slegt kan mindes for altid.»
 
 Saaledes talte Atreiden, og alle akaierne jublet.
+
+:::

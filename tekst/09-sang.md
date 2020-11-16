@@ -1,4 +1,6 @@
-# Niende sang. *Sendefærden til Akillevs. Bønfaldelsen.*
+# Niende sang. *Sendefærden til Akillevs. Bønfaldelsen.* {epub:type=chapter}
+
+::: {.sang}
 
 [S]{.initial}aaledes holdt nu troerne vakt; men den navnløse rædsel,\
 søster av isnende flugt, tok bo i akaiernes hjerter.\
@@ -218,7 +220,7 @@ Selv satte høvdingen frem i skinnet fra baalet en mægtig\
 kjøtbænk og lagde paa den en lammeryg fet og den lækre\
 ryg av en gjet og av velnæret svin det feteste stykke.\
 Saa holdt Antomedon stykkerne fast, mens den gjæve Akillevs\
-hugget dem over, skar kjøttet i smaat og ståk det paa spiddet.\
+hugget dem over, skar kjøttet i smaat og stak det paa spiddet.\
 Helten, den herlige søn av Menoitios, tændte et vældig\
 flammende baal, og da dette var brændt og luen var sluknet,\
 raket Akillevs glørne ut og holdt over bukker\
@@ -732,3 +734,5 @@ Saaledes faldt hans ord, og alle de høibaarne konger\
 priste den hestetumlende helt Diomedes' tale.\
 Derefter ofret de vin, og enhver gik hjem til sit leirtelt.\
 Der gik de alle til ro og nød den kvægende slummer.
+
+:::

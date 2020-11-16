@@ -1,4 +1,6 @@
-# Tolvte sang. *Kampen om muren.*
+# Tolvte sang. *Kampen om muren.* {epub:type=chapter}
+
+::: {.sang}
 
 [S]{.initial}aaledes pleiet Menoitios søn den saarede høvding,\
 helten Evrypylos, nu i hans telt; men fylking mot fylking'\
@@ -377,7 +379,7 @@ Lykiske førere trykker dem haardt, de helter som altid\
 stormer imot os med knusende kraft i slagenes tummel.\
 Men hvis I ogsaa hos jer maa kjæmpe og stride med møie,\
 la da ialfald Telamons søn, den vældige Aias,\
-komme til hjælp, og Tevkros, den navngjetne skytter, slåa følge.»
+komme til hjælp, og Tevkros, den navngjetne skytter, slaa følge.»
 
 Saa han talte, og kjæmpen, den vældige Aias, var villig.\
 Straks til Oïlevs' søn med vingede ord han sig vendte:\
@@ -408,7 +410,7 @@ Glavkos, Hippolokos' kraftige søn, fôr frem for at storme\
 op paa den kneisende mur; men Tevkros traf helten med pilen\
 midt i hans arm, hvor han saa den var bar, og stagget hans kamplyst.\
 Ned fra ringmuren sprang han i løn, forat ingen akaier\
-skulde faa se hans saar og pralende håane hans vanheld.\
+skulde faa se hans saar og pralende haane hans vanheld.\
 Men da Sarpedon fik se at Glavkos gik hastig tilbake,\
 svulmet hans hjerte av harm. Dog glemte han ikke at kjæmpe.\
 Stak han da Testors søn, den gjæve Alkmaion, med lansen,\
@@ -421,7 +423,7 @@ Aias og Tevkros gik straks imot ham side om side.\
 Tevkros' pil traf remmen saa blank som holdt over brystet\
 fast det dækkende skjold; men Zevs jog dødens gudinder\
 bort, forat ikke hans søn skulde falde ved skibenes bakstavn.\
-Frem for Aias og ståk med den vældige lanse; men odden\
+Frem for Aias og stak med den vældige lanse; men odden\
 [(405–41) ]{.linjenummer}trængte ei gjennem hans skjold; men han stanset ham dog i hans stormløp.\
 Bort fra brystvernet tumlet han brat; men vike tilbake\
 vilde han ei; ti han haabet jo trygt paa seierens hæder.\
@@ -491,3 +493,5 @@ straks at gaa over muren, og krigerne lystret hans tilrop.\
 Stormet da somme i hast over ringmuren; alle de andre\
 sprang gjennem selve den hvælvede port; men akaierne flygtet\
 hen til de stavnhøie snekker, mens larmen ustanselig gjaldet.
+
+:::

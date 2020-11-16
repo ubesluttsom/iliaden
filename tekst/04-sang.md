@@ -1,4 +1,6 @@
-# Fjerde sang. *Pakten blir brutt. Agamemnon mønstrer hæren.*
+# Fjerde sang. *Pakten blir brutt. Agamemnon mønstrer hæren.* {epub:type=chapter}
+
+::: {.sang}
 
 [G]{.initial}uderne sat i den guldsmykte hal hos Zevs i det høie,\
 alle forsamlet til raad, og gudinden den værdige Hebe\
@@ -583,3 +585,5 @@ færdedes blandt dem i tumlen, og Pallas Atene ham førte\
 venlig ved haanden og vernet ham trygt mot lanser og piler;\
 ti paa hin ulykkesdag blev mange akaier og troer\
 strakt paa sit ansigt i støvet og laa der side om side.\
+
+:::

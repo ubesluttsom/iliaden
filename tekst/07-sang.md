@@ -1,4 +1,6 @@
-# Syvende sang. *Tvekampen mellem Hektor og Aias. De faldne blir jordet.*
+# Syvende sang. *Tvekampen mellem Hektor og Aias. De faldne blir jordet.* {epub:type=chapter}
+
+::: {.sang}
 
 [S]{.initial}aaledes talte den straalende helt, og ut gjennem porten\
 ilte han straks, og sammen med ham gik hans bror Aleksandros.\
@@ -245,7 +247,7 @@ helten som bryter en fylking av mænd med mod som en løve.\
 Harmfuld sitter han nu i ro ved de gyngende skibe,\
 rasende vred i hu paa mændenes drot Agamemnon.\
 Dog, iblandt os er der mangen en mand, som nok turde vaage\
-modig at møte din kraft. Slåa løs! La kampen begynde!»
+modig at møte din kraft. Slaa løs! La kampen begynde!»
 
 Derefter svarte igjen den hjelmbuskvaiende Hektor:\
 «Aias, Telamons søn, du folkenes høibaarne hersker.\
@@ -514,3 +516,5 @@ varslende ondt for dem alle og slog dem med bleknende rædsel.\
 Vin fra bægrene heldte de ut paa jorden, og ingen\
 vaaget at drikke, før Zevs hadde faat det skyldige offer.\
 Derpaa gik alle til ro og hvilte i kvægende slummer.
+
+:::
