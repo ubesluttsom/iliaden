@@ -17,7 +17,7 @@ rights: Allemannseie
 cover-image: bilder/cover.png
 ...
 
-# Iliaden. {epub:type=title}
+# Iliaden. {.title epub:type=title}
 
 *Til leseren av eboken,*
 

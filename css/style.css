@@ -63,6 +63,11 @@ h1 em:before {
   white-space: pre-wrap;
 }
 
+h1.title {
+  margin-top: 6em;
+  font-size: 2em;
+}
+
 h1.main {
   font-size: 2em;
 }

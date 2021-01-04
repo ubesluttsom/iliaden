@@ -1,0 +1,19 @@
+- [x] Linjenummer for
+  - [x] Sang 1, dobbelsjekket
+  - [x] Sang 2, dobbelsjekket
+  - [x] Sang 3, dobbelsjekket
+  - [x] Sang 4, dobbelsjekket
+  - [x] Sang 5, dobbelsjekket
+  - [x] Sang 6, dobbelsjekket
+  - [x] Sang 7, dobbelsjekket
+  - [x] Sang 8, dobbelsjekket
+  - [x] Sang 9, dobbelsjekket
+  - [x] Sang 10, dobbelsjekket
+  - [x] Sang 11, dobbelsjekket
+  - [x] Sang 12, dobbelsjekket
+  - [x] Sang 13, dobbelsjekket
+
+- [ ] Fikse utforming i Moon Reader.
+  - [x] Innrykk til linjenummer?
+  - [ ] Fonter?
+  - [ ] Fikse TOC. Gah!

@@ -1,4 +1,4 @@
-# Tredje sang. *Edspakten. Utsigten fra muren. Tvekampen mellem Aleksandros og Menelaos.* {epub:type=chapter}
+# Tredje sang. *Edspakten. Utsigten fra muren. Tvekampen* *mellem Aleksandros og Menelaos.* {epub:type=chapter}
 
 ::: {.sang}
 
