@@ -2,407 +2,408 @@
 
 ::: {.sang}
 
-[M]{.initial}en da de kom paa sin flugt over pælenes række og graven
-og for danaernes haand mangfoldige helter var faldne,
-stanset de op og slog sig til ro ved de forspændte vogner,
-bleke av lammende skræk. Da vaagnet paa toppen av Ida
-Zevs av sin kvægende søvn hos den guldstoltronende Hera.
-Straks stod han op og saa for sit blik akaier og troer,
-disse i sansesløs flugt, mens Argos' mænd og Poseidon,
-havdypets hersker, forfulgte dem haardt i vildeste tummel.
-Saa han da Hektor som laa i en kreds av trofaste venner
-ute paa sletten. Hans bryst gik tungt, og i lammende dvale
-brækket han blod; ti svak var han ei den kjæmpe som traf ham.
-Guders og mennekers far blev grepen av ynk, da han saa ham.
-Truende rynket han barsk sine bryn og talte til Hera:
-«Hera, forvisst er det dig som lumsk og listig har stanset
-Hektor med svig i hans kamp og jaget hans svende paa flugten.
-Ja, jeg vet ikke ret; men jeg burde vel først la dig smake
-atter min svepe og gi dig din løn for din listige ondskap.
-Mindes du ei da du svævet saa høit og jeg hængte de tvende
-ambolters vegt ved føtterne fast og bandt dine hænder
-sammen med lænker av guld. Da hang du i himmelens skyer.
-Guderne fnyste av harm paa det høie Olympos; men ingen
-magtet at komme dig nær og løse dig. Den jeg fik fat paa,
-grep jeg og kastet ham ut over terskelen, indtil han styrtet
-halvdød til jorden; men end ikke da vilde smerten den grumme
-slippe min sjæl for min herlige søn den gjæve Herakles,
+[M]{.initial}en da de kom paa sin flugt over pælenes række og graven,\
+og for danaernes haand mangfoldige helter var faldne,\
+stanset de op og slog sig til ro ved de forspændte vogner,\
+bleke av lammende skræk. Da vaagnet paa toppen av Ida\
+Zevs av sin kvægende søvn hos den guldstoltronende Hera.\
+Straks stod han op og saa for sit blik akaier og troer,\
+disse i sansesløs flugt, mens Argos' mænd og Poseidon,\
+havdypets hersker, forfulgte dem haardt i vildeste tummel.\
+Saa han da Hektor som laa i en kreds av trofaste venner\
+ute paa sletten. Hans bryst gik tungt, og i lammende dvale\
+brækket han blod; ti svak var han ei den kjæmpe som traf ham.\
+Guders og mennekers far blev grepen av ynk, da han saa ham.\
+Truende rynket han barsk sine bryn og talte til Hera:\
+«Hera, forvisst er det dig som lumsk og listig har stanset\
+Hektor med svig i hans kamp og jaget hans svende paa flugten.\
+Ja, jeg vet ikke ret; men jeg burde vel først la dig smake\
+atter min svepe og gi dig din løn for din listige ondskap.\
+Mindes du ei da du svævet saa høit og jeg hængte de tvende\
+ambolters vegt ved føtterne fast og bandt dine hænder\
+sammen med lænker av guld. Da hang du i himmelens skyer.\
+Guderne fnyste av harm paa det høie Olympos; men ingen\
+magtet at komme dig nær og løse dig. Den jeg fik fat paa,\
+grep jeg og kastet ham ut over terskelen, indtil han styrtet\
+halvdød til jorden; men end ikke da vilde smerten den grumme\
+slippe min sjæl for min herlige søn den gjæve Herakles,\
 [(26–63) ]{.linjenummer}
-han som du jog over vildene hav, da du lumskelig lokket
-vindenes lydige hær og Boreas hjalp dig at drive
-ædlingen over til Kos, hin ø med de velbygde byer.
-Derfra frelste jeg selv min søn og førte ham atter
-hjem til Argos, til gangernes land, da han mangt hadde døiet.
-Slikt vil jeg minde dig om for at selv du kan stanse med svigen,
-og kan faa se om du gavnet din sak ved elskov og favntak
+han som du jog over vildene hav, da du lumskelig lokket\
+vindenes lydige hær og Boreas hjalp dig at drive\
+ædlingen over til Kôs, hin ø med de velbygde byer.\
+Derfra frelste jeg selv min søn og førte ham atter\
+hjem til Argos, til gangernes land, da han mangt hadde døiet.\
+Slikt vil jeg minde dig om for at selv du kan stanse med svigen,\
+og kan faa se om du gavnet din sak ved elskov og favntak\
 nu da du snek dig fra guderne bort og daaret mig listig.»
 
-Saa han talte, da skalv den mørkøide, værdige Hera.
-Straks gav hun svar og talte med vingede ord til sin husbond:
-«Jorden skal være mit vidne og himmelens mægtige hvælving,
-Styks, som strømmer i dypet, hin elv som de salige guder
-nævner med hemmelig gru, naar de sverger de dyreste eder.
-Ja, ved dit hellige hode, ved leiet hvor engang jeg hvilte
-først som din brud, — og ved det vil jeg ei kunne sverge en mened:
-Jeg har ei egget Poseidon, hin jordryster sterk, til at volde
-Hektor og troerne jammer og nød og hjælpe de andre.
-Nei, men han drives vel frem av sin harm og er grepet av medynk,
-nu naar han ser akaiernes nød ved de hurtige snekker.
-Selv skal jeg gjerne gi guden et raad og be ham at drage
+Saa han talte, da skalv den mørkøide, værdige Hera.\
+Straks gav hun svar og talte med vingede ord til sin husbond:\
+«Jorden skal være mit vidne og himmelens mægtige hvælving,\
+Styks, som strømmer i dypet, hin elv som de salige guder\
+nævner med hemmelig gru, naar de sverger de dyreste eder.\
+Ja, ved dit hellige hode, ved leiet hvor engang jeg hvilte\
+først som din brud, — og ved det vil jeg ei kunne sverge en mened:\
+Jeg har ei egget Poseidon, hin jordryster sterk, til at volde\
+Hektor og troerne jammer og nød og hjælpe de andre.\
+Nei, men han drives vel frem av sin harm og er grepet av medynk,\
+nu naar han ser akaiernes nød ved de hurtige snekker.\
+Selv skal jeg gjerne gi guden et raad og be ham at drage\
 dit hvor du leder hans gang, du drot for de sortnende skyer.»
 
-Saa hun talte, og guders og menneskers far maatte smile.
-Talte han da med vingede ord til sin hustru og mælte:
-«Aa, om du nu fra idag, du mørkøide, værdige Hera
-tænkte og vilde som jeg, naar du sat blandt de evige guder,
-da maatte havguden straks, om det end var saare uvillig,
-ændre sit sind og gjøre som du og jeg maatte ønske.
-Er det nu virkelig saa at du taler den skjæreste sandhet,
-gaa da i hast til gudernes kreds og sørg for at kalde
-hit baade Iris og Foibos, min søn, hin mester med buen.
-Hen til akaiernes malmklædte hær skal den fotrappe Iris
-gaa for at melde Poseidon, den mægtige drot, som min vilje
-at han skal stanse med kamp og skynde sig hjem til sin bolig.
-Foibos Apollon skal egge til kamp den straalende Hektor,
-og i hans barm skal han indblæse mod, saa han glemmer de grumme
-smerter som piner ham nu i hans sjæl, og saa skal han drive
-alle akaier tilbake og slåa dem med lammende rædsel.
-Da skal de ty paa sin flugt til Akillevs' toftede snekker.
+Saa hun talte, og guders og menneskers far maatte smile.\
+Talte han da med vingede ord til sin hustru og mælte:\
+«Aa, om du nu fra idag, du mørkøide, værdige Hera\
+tænkte og vilde som jeg, naar du sat blandt de evige guder,\
+da maatte havguden straks, om det end var saare uvillig,\
+ændre sit sind og gjøre som du og jeg maatte ønske.\
+Er det nu virkelig saa at du taler den skjæreste sandhet,\
+gaa da i hast til gudernes kreds og sørg for at kalde\
+hit baade Iris og Foibos, min søn, hin mester med buen.\
+Hen til akaiernes malmklædte hær skal den fotrappe Iris\
+gaa for at melde Poseidon, den mægtige drot, som min vilje\
+at han skal stanse med kamp og skynde sig hjem til sin bolig.\
+Foibos Apollon skal egge til kamp den straalende Hektor,\
+og i hans barm skal han indblæse mod, saa han glemmer de grumme\
+smerter som piner ham nu i hans sjæl, og saa skal han drive\
+alle akaier tilbake og slaa dem med lammende rædsel.\
+Da skal de ty paa sin flugt til Akillevs' toftede snekker.\
 [(64–101) ]{.linjenummer}
-Pelevs' søn skal sende sin ven Patroklos til striden.
-Ham skal den straalende Hektor i kamp ta av dage med lansen
-utenfor Ilions mur, naar han først har fældet en mængde
-kraftige mænd og min herlige søn, den gjæve Sarpedon.
-Hektor skal dø for Akillevs' haand til hevn for Patroklos.
-Men i den kommende tid vil jeg styre det saa at de stadig
-drives fra skibene bort, til akaierne engang kan storme
-Ilions kneisende by ved et raad av den høie Atene.
-Før vil jeg ei kunne dæmpe min harm eller taale at andre
-evige guder skal laane sin hjælp til danaernes stridsmænd,
-førend Akillevs, Pelevs' søn, har faat hvad han ønsker,
-det som jeg fordum har lovet ham dyrt med et nik av mit hode,
-dengang da Tetis tok fat om mit knæ og den skjønne gudinde
+Pelevs' søn skal sende sin ven Patroklos til striden.\
+Ham skal den straalende Hektor i kamp ta av dage med lansen\
+utenfor Ilions mur, naar han først har fældet en mængde\
+kraftige mænd og min herlige søn, den gjæve Sarpedon.\
+Hektor skal dø for Akillevs' haand til hevn for Patroklos.\
+Men i den kommende tid vil jeg styre det saa at de stadig\
+drives fra skibene bort, til akaierne engang kan storme\
+Ilions kneisende by ved et raad av den høie Atene.\
+Før vil jeg ei kunne dæmpe min harm eller taale at andre\
+evige guder skal laane sin hjælp til danaernes stridsmænd,\
+førend Akillevs, Pelevs' søn, har faat hvad han ønsker,\
+det som jeg fordum har lovet ham dyrt med et nik av mit hode,\
+dengang da Tetis tok fat om mit knæ og den skjønne gudinde\
 bad mig saa bønlig at hædre hin stadomstyrter Akillevs.»
 
-Saaledes lød hans bud, og den armhvite Hera var lydig.
-Fôr hun da op til det høie Olymp fra toppen av Ida.
-Likesaa rask som tankernes flugt hos en mand som har vanket
-vidt over jorderigs kreds og lønlig i hjertet sig ønsker:
-«Gid jeg var der eller der!» naar minderne vækker hans længsel;
-likesaa ivrig og rask fløi Hera, den høie gudinde.
-Snart kom hun hjem til det høie Olymp, og de evige guder
-traf hun forsamlet i Alfaders hal, og de reiste sig alle,
-straks da de saa hende komme, og hilste med funklende bægre.
-Dog, de øvrige ænset hun ei, men av Temis' hænder
-tok hun et bæger; ti hun løp først gudinden i møte.
-Talte hun da med vingede ord til den værdige Hera:
-«Hera, hvi kommer du hit? Du tykkes mig ganske forstyrret.
+Saaledes lød hans bud, og den armhvite Hera var lydig.\
+Fôr hun da op til det høie Olymp fra toppen av Ida.\
+Likesaa rask som tankernes flugt hos en mand som har vanket\
+vidt over jorderigs kreds og lønlig i hjertet sig ønsker:\
+«Gid jeg var der eller der!» naar minderne vækker hans længsel;\
+likesaa ivrig og rask fløi Hera, den høie gudinde.\
+Snart kom hun hjem til det høie Olymp, og de evige guder\
+traf hun forsamlet i Alfaders hal, og de reiste sig alle,\
+straks da de saa hende komme, og hilste med funklende bægre.\
+Dog, de øvrige ænset hun ei, men av Temis' hænder\
+tok hun et bæger; ti hun løp først gudinden i møte.\
+Talte hun da med vingede ord til den værdige Hera:\
+«Hera, hvi kommer du hit? Du tykkes mig ganske forstyrret.\
 Aa, nu har Kronos' søn, din husbond, visselig skræmt dig.»
 
-Talte da straks gudinden, den armhvite Hera, og svarte:
-«Spar mig, Temis, og spør ikke saa; ti selv maa du vite
-hvordan hans sindelag er, hvor voldsom og haard han kan være.
-Gaa du blandt guderne først til det herlige maaltid i hallen.
-Snart skal baade du selv og samtlige guder faa høre
-alt hvad Zevs lar os vite av skjendige planer, og neppe
-tror jeg at alle vil glædes derved, hverken mænd eller guder,
+Talte da straks gudinden, den armhvite Hera, og svarte:\
+«Spar mig, Temis, og spør ikke saa; ti selv maa du vite\
+hvordan hans sindelag er, hvor voldsom og haard han kan være.\
+Gaa du blandt guderne først til det herlige maaltid i hallen.\
+Snart skal baade du selv og samtlige guder faa høre\
+alt hvad Zevs lar os vite av skjendige planer, og neppe\
+tror jeg at alle vil glædes derved, hverken mænd eller guder,\
 selv om der endnu er dem som kan frydes ved maaltidets glæder.»
 
-Saaledes lød hendes ord, og den værdige Hera tok sæte.
-Guderne fnyste i Alfaders hal, og om hendes læber
+Saaledes lød hendes ord, og den værdige Hera tok sæte.\
+Guderne fnyste i Alfaders hal, og om hendes læber\
 [(102–39) ]{.linjenummer}
-«pillet et haanende smil; dog glattedes ei hendes pande
-over de blaasorte bryn, men vred tok grudinden til orde:
-«Aa, vi er barnslige taaper, som vredes paa Zevs i vor daarskap
-og som har lyst til at stanse hans færd og gaa ham paa livet
-enten med ord eller vold. Han ænser os ikke det mindste
-hist hvor han sitter; ti svimlende høit over alle os andre
-evige guder tror han at staa i magt og i vælde.
-Hver faar da føielig finde sig i det onde han sender.
-Ja, jeg maa tro at ulykken alt har rammet vor krigsgud.
-Nys er Askålafos fældet i strid, hin helt som den sterke
+spillet et haanende smil; dog glattedes ei hendes pande\
+over de blaasorte bryn, men vred tok gudinden til orde:\
+«Aa, vi er barnslige taaper, som vredes paa Zevs i vor daarskap\
+og som har lyst til at stanse hans færd og gaa ham paa livet\
+enten med ord eller vold. Han ænser os ikke det mindste\
+hist hvor han sitter; ti svimlende høit over alle os andre\
+evige guder tror han at staa i magt og i vælde.\
+Hver faar da føielig finde sig i det onde han sender.\
+Ja, jeg maa tro at ulykken alt har rammet vor krigsgud.\
+Nys er Askálafos fældet i strid, hin helt som den sterke\
 Ares har nævnt som sin søn og har elsket blandt mennesker høiest.»
 
-Saaledes talte gudinden. Da slog den vældige Ares
-hænderne haardt mot de kraftige laar og skrek i sin vaande:
-«Guder som bor i olympiske hjem! I maa ikke harmes,
-om jeg vil gaa for at hevne min søn til akaiernes snekker,
-skulde jeg end bli rammet av Zevs med lynet og ligge
+Saaledes talte gudinden. Da slog den vældige Ares\
+hænderne haardt mot de kraftige laar og skrek i sin vaande:\
+«Guder som bor i olympiske hjem! I maa ikke harmes,\
+om jeg vil gaa for at hevne min søn til akaiernes snekker,\
+skulde jeg end bli rammet av Zevs med lynet og ligge\
 midt i en dynge av lik paa det blodige leie i støvet.»
 
-Saa han talte, og Flugten og Rædselen bød han at spænde
+Saa han talte, og Flugten og Rædselen bød han at spænde\
 hestene for og akslet i hast sin straalende rustning.
 
-Nu vilde visselig Zevs end mer ustyrlig ha raset
-vildt i utæmmelig vrede og harm mot de evige guder,
-hvis ikke Pallas Atene i angst for gudernes skjæbne
-straks hadde reist sig fra stolen og ilet i hast gjennem døren.
-Rev hun da raskt fra hans hodehanshjelmogfraskuldreneskjoldet.
-Ut av hans vældige haand hun vristet den malmtunge lanse,
-satte den bort og skjendte med fynd paa den stormende Ares:
-«Rasende galning, det blir dit fordærv. Si, har du da ikke
-ører at høre med? Gaar du da rent fra sans og fra samling"?
-Hører du ei hvad hun sier, gudinden, den armhvite Hera,
-hun som jo netop er kommet fra Zevs, den olympiske hersker?
-Vil du da tømme tilbunds dit ulykkes bæger og vende
-tvungen og skamfuld i sind til Olympen tilbake og volde
-alle os andre, saa mange vi er, utallige kvaler?
-Ja, ti straks vil han skynde sig bort fra akaier og troer.
-Hjem vil han gaa til Olymp forat tumle os om i sin vrede.
-En efter en vil han gripe os fat, uskyldig og skyldig.
-Lyd da mit raad og la fare din harm for sønnen, den gjæve.
-Mangen en helt som var bedre end han i armenens kræfter,
+Nu vilde visselig Zevs end mer ustyrlig ha raset\
+vildt i utæmmelig vrede og harm mot de evige guder,\
+hvis ikke Pallas Atene i angst for gudernes skjæbne\
+straks hadde reist sig fra stolen og ilet i hast gjennem døren.\
+Rev hun da raskt fra hans hode hans hjelm og fra skuldrene skjoldet.\
+Ut av hans vældige haand hun vristet den malmtunge lanse,\
+satte den bort og skjendte med fynd paa den stormende Ares:\
+«Rasende galning, det blir dit fordærv. Si, har du da ikke\
+ører at høre med? Gaar du da rent fra sans og fra samling?\
+Hører du ei hvad hun sier, gudinden, den armhvite Hera,\
+hun som jo netop er kommet fra Zevs, den olympiske hersker?\
+Vil du da tømme tilbunds dit ulykkes bæger og vende\
+tvungen og skamfuld i sind til Olympen tilbake og volde\
+alle os andre, saa mange vi er, utallige kvaler?\
+Ja, ti straks vil han skynde sig bort fra akaier og troer.\
+Hjem vil han gaa til Olymp forat tumle os om i sin vrede.\
+En efter en vil han gripe os fat, uskyldig og skyldig.\
+Lyd da mit raad og la fare din harm for sønnen, den gjæve.\
+Mangen en helt som var bedre end han i armenens kræfter,\
 [(140–77) ]{.linjenummer}
-faldt jo tilforn, eller falder tilsidst; for svært vil det vorde
-altid at frelse hver dødelig1 mand som blandt mennesker fødtes.»
+faldt jo tilforn, eller falder tilsidst; for svært vil det vorde\
+altid at frelse hver dødelig mand som blandt mennesker fødtes.»
 
-Saa hun talte og bragte den stormende Ares til sæte.
-Nu lot den værdige Hera Apollon kalde fra hallen
-sammen med Iris, som iler med bud mellem salige guder.
-Derefter talte hun saa med vingede ord til dem begge:
-«Vit, det er Alfaders bud at I straks skal ile til Ida.
-Men naar I kommer derhen og stedes for Alfaders aasyn,
+Saa hun talte og bragte den stormende Ares til sæte.\
+Nu lot den værdige Hera Apollon kalde fra hallen\
+sammen med Iris, som iler med bud mellem salige guder.\
+Derefter talte hun saa med vingede ord til dem begge:\
+«Vit, det er Alfaders bud at I straks skal ile til Ida.\
+Men naar I kommer derhen og stedes for Alfaders aasyn,\
 gjør ham da begge tillags i alt hvad han ønsker og byder.»
 
-Da hendes tale var endt, gik den værdige Hera tilbake.
-Atter til sæte hun gik; men hine fløi bort fra Olympen.
-Oppe paa Ida, hvor bækkene gaar og vilddyr har hjemme,
-fandt de paa Gargarostinden den viden skuende hersker,
-Kronos' søn, og han sat i et slør av duftende skyer.
-Da de var fremme og kom for den mægtige skysamlers aasyn,
-stanset de brat, og han vrededes ei i sit sind, da han saa dem,
-saasom de straks hadde lystret et bud fra hans elskede hustru.
-Først lød herskerens vingede ord til den fotrappe Iris:
-«Skynd dig, hurtige Iris, og meld til drotten Poseidon
-alt hvad jeg sier, og ta ikke feil naar du bringer mit budskap.
-Byd ham at stanse den blodige kamp og ile fra striden
-enten til gudemes kreds eller ned i det herlige havdyp.
-Dersom han ikke vil lyde mit bud, men trodser min vilje,
-da faar han efterpaa tænke sig om i sit sind og sit hjerte,
-om han, saa sterk som han er, tør vaage at staa, naar jeg kommer.
-Jeg er den ældste av aar, og jeg tror at jeg ogsaa i styrke
-mestrer ham let; men han drister sig til i sit hjerte at tro sig
+Da hendes tale var endt, gik den værdige Hera tilbake.\
+Atter til sæte hun gik; men hine fløi bort fra Olympen.\
+Oppe paa Ida, hvor bækkene gaar og vilddyr har hjemme,\
+fandt de paa Gargarostinden den viden skuende hersker,\
+Kronos' søn, og han sat i et slør av duftende skyer.\
+Da de var fremme og kom for den mægtige skysamlers aasyn,\
+stanset de brat, og han vrededes ei i sit sind, da han saa dem,\
+saasom de straks hadde lystret et bud fra hans elskede hustru.\
+Først lød herskerens vingede ord til den fotrappe Iris:\
+«Skynd dig, hurtige Iris, og meld til drotten Poseidon\
+alt hvad jeg sier, og ta ikke feil naar du bringer mit budskap.\
+Byd ham at stanse den blodige kamp og ile fra striden\
+enten til gudernes kreds eller ned i det herlige havdyp.\
+Dersom han ikke vil lyde mit bud, men trodser min vilje,\
+da faar han efterpaa tænke sig om i sit sind og sit hjerte,\
+om han, saa sterk som han er, tør vaage at staa, naar jeg kommer.\
+Jeg er den ældste av aar, og jeg tror at jeg ogsaa i styrke\
+mestrer ham let; men han drister sig til i sit hjerte at tro sig\
 like i kræfter med mig, for hvem ogsaa andre maa ræddes.»
 
-Saaledes talte han barsk, og den stormsnare Iris var lydig.
-Ned til det hellige Troja hun fôr fra toppen av Ida.
-Som naar fra skyen den fykende sne eller iskolde hagel
-farer for vældige kast av Boreas' klarnende byger,
-likesaa stormsnart fôr hun avsted, den vingede Iris.
-Trædende nær til den herlige jordryster tok hun til orde:
-«Hersker som favner vor jord, du drot med de kulsorte lokker!
-Hit fra den aigissvingende Zevs er jeg kommet med budskap.
-Alfader bød dig at stanse med kamp og ile fra striden
-enten til gudernes kreds eller ned i det herlige havdyp.
+Saaledes talte han barsk, og den stormsnare Iris var lydig.\
+Ned til det hellige Troja hun fôr fra toppen av Ida.\
+Som naar fra skyen den fykende sne eller iskolde hagel\
+farer for vældige kast av Boreas' klarnende byger,\
+likesaa stormsnart fôr hun avsted, den vingede Iris.\
+Trædende nær til den herlige jordryster tok hun til orde:\
+«Hersker som favner vor jord, du drot med de kulsorte lokker!\
+Hit fra den aigissvingende Zevs er jeg kommet med budskap.\
+Alfader bød dig at stanse med kamp og ile fra striden\
+enten til gudernes kreds eller ned i det herlige havdyp.\
 [(178–215) ]{.linjenummer}
-Dersom du ikke vil lyde hans bud, men trodser hans vilje,
-truet han med at ogsaa han selv skulde komme og kjæmpe
-ansigt til ansigt. Han raader dig dog til at fly for hans nævei
-Han er den ældste av aar og tror at han ogsaa i styrke
-mestrer dig let; men du drister dig til i dit hjerte at tro dig
+Dersom du ikke vil lyde hans bud, men trodser hans vilje,\
+truet han med at ogsaa han selv skulde komme og kjæmpe\
+ansigt til ansigt. Han raader dig dog til at fly for hans næver.\
+Han er den ældste av aar og tror at han ogsaa i styrke\
+mestrer dig let; men du drister dig til i dit hjerte at tro dig\
 like i kræfter med ham, for hvem ogsaa andre maa ræddes.»
 
-Da tok den herlige jordryster vred til orde og svarte:
-«Sandelig, sterk som han er, tar han munden for fuld, hvis han agter,
-skjønt vi er like i ret, med vold at tvinge min vilje.
-Ti vi er tiende i tal, vi sønner av Kronos og Keia,
-Zevs og jeg selv og Hades som hersker blandt skygger i dypet.
-Tredelt blev alt som er til, og hver fik sin værdighet tilmaalt.
-Jeg fik det graalige hav til evindelig odel og eie,
-da vi trak lod, men Hades blev drot i det taakede mørke.
-Zevs fik himmelens hvælv blandt skyer som æterens hersker.
-Hittil har jorden og høien Olymp været fælles for alle.
-Derfor staar ikke min hu til at vike for Zevs. La ham rolig
-bli paa den del som han fik, om han end er aldrig saa mægtig.
-La ham ei skræmme med nævernes kraft, som var jeg en usling!
-Snarere sømmet det sig om han skræmte med voldsomme trusler
-alle de guder hvis ophav han er, sine døtre og sønner.
-De maa jo lystre hans bud og hans vink; ti dem kan han tvingo
+Da tok den herlige jordryster vred til orde og svarte:\
+«Sandelig, sterk som han er, tar han munden for fuld, hvis han agter,\
+skjønt vi er like i ret, med vold at tvinge min vilje.\
+Ti vi er trende i tal, vi sønner av Kronos og Reia,\
+Zevs og jeg selv og Hades som hersker blandt skygger i dypet.\
+Tredelt blev alt som er til, og hver fik sin værdighet tilmaalt.\
+Jeg fik det graalige hav til evindelig odel og eie,\
+da vi trak lod, men Hades blev drot i det taakede mørke.\
+Zevs fik himmelens hvælv blandt skyer som æterens hersker.\
+Hittil har jorden og høien Olymp været fælles for alle.\
+Derfor staar ikke min hu til at vike for Zevs. La ham rolig\
+bli paa den del som han fik, om han end er aldrig saa mægtig.\
+La ham ei skræmme med nævernes kraft, som var jeg en usling!\
+Snarere sømmet det sig om han skræmte med voldsomme trusler\
+alle de guder hvis ophav han er, sine døtre og sønner.\
+De maa jo lystre hans bud og hans vink; ti dem kan han tvinge.»
 
-Straks tok Iris, den stormsnare mø, til orde og spurte:
-«Hersker, som favner vor jord, du drot med de kulsorte lokker!
-Skal jeg da melde til Zevs saa barsk og voldsom en tale,
-eller vil svaret du ændre? De ædlestes sind kan jo ændres.
+Straks tok Iris, den stormsnare mø, til orde og spurte:\
+«Hersker, som favner vor jord, du drot med de kulsorte lokker!\
+Skal jeg da melde til Zevs saa barsk og voldsom en tale,\
+eller vil svaret du ændre? De ædlestes sind kan jo ændres.\
 Husk at hevnens gudinder bestandig vil følge den ældste.»
 
-Da tok den sterke Poseidon paany til orde og svarte:
-«Iris, du raske gudinde! nu talte du meget forstandig.
-Ja, det er godt, naar et sendebud vet at træffe det rette;
-men i mit hjerte og sind blir jeg pint av nagende harme,
-hvergang han følger sin lyst til at håane med truende tale
-mig som av skjæbnen fik likelig lod og selvsamme vilkaar.
-Dog, saa bittert det harmer min sjæl, vil jeg dennegang gi mig.
-En ting vil jeg dog si, og nu vil jeg true for alvor:
-Dersom han, uten at høre paa mig eller Pallas Atene,
-eller paa Hera og Hermes og drotten Hefaistos, vil skaane
-Ilions kneisende by og ikke vil lægge den øde
+Da tok den sterke Poseidon paany til orde og svarte:\
+«Iris, du raske gudinde! nu talte du meget forstandig.\
+Ja, det er godt, naar et sendebud vet at træffe det rette;\
+men i mit hjerte og sind blir jeg pint av nagende harme,\
+hvergang han følger sin lyst til at haane med truende tale\
+mig som av skjæbnen fik likelig lod og selvsamme vilkaar.\
+Dog, saa bittert det harmer min sjæl, vil jeg dennegang gi mig.\
+En ting vil jeg dog si, og nu vil jeg true for alvor:\
+Dersom han, uten at høre paa mig eller Pallas Atene,\
+eller paa Hera og Hermes og drotten Hefaistos, vil skaane\
+Ilions kneisende by og ikke vil lægge den øde\
 [(216–52) ]{.linjenummer}
-slik at han skjænker akaiernes mænd en straalende seier, jp
+slik at han skjænker akaiernes mænd en straalende seier,\
 da skal han vite forvisst at han aldrig kan sone vor vrede.»
 
-Saa han talte, og guden gik bort fra akaiernes fylking.
-Ned i havdypet steg han, og heltene savnet ham saare.
-Men til Apollon tok Zevs, hin skyernes herre til orde:
-«Kjæreste Foibos! gaa straks avsted til den malmklædte Hektor;
-gaa, ti Poseidon, min bror, som favner og ryster al jorden,
-dukket nu ned i det herlige hav for at fly for min vrede.
-Visselig hadde en kamp mellem os maattet meldes av rygtet
-endog i Kronos' kreds, blandt guderne nede i dypet
-Baade for mig og for havguden selv var dog dette en vinding
-at han, saa harmfuld han var, paa forhaand trak sig tilbake
-for mine næver; ti ei uten sved var vi kommet fra kampen.
-Nu skal du løfte min Aigis paa arm med de hundrede kvaster.
-Ryst den av ytterste magt, og skræm de akaiiske helter.
-Sørg saa selv, fjerntrammende gud, for den straalende Hektor.
-Væk du hans mod og mandige kraft, til akaiernes sønner
-jages paa flugten til skibene frem og til Hellespontos.
-Derefter agter jeg selv at drøfte i ord og i gjerning,
+Saa han talte, og guden gik bort fra akaiernes fylking.\
+Ned i havdypet steg han, og heltene savnet ham saare.\
+Men til Apollon tok Zevs, hin skyernes herre til orde:\
+«Kjæreste Foibos! gaa straks avsted til den malmklædte Hektor;\
+gaa, ti Poseidon, min bror, som favner og ryster al jorden,\
+dukket nu ned i det herlige hav for at fly for min vrede.\
+Visselig hadde en kamp mellem os maattet meldes av rygtet\
+endog i Kronos' kreds, blandt guderne nede i dypet\
+Baade for mig og for havguden selv var dog dette en vinding\
+at han, saa harmfuld han var, paa forhaand trak sig tilbake\
+for mine næver; ti ei uten sved var vi kommet fra kampen.\
+Nu skal du løfte min Aigis paa arm med de hundrede kvaster.\
+Ryst den av ytterste magt, og skræm de akaiiske helter.\
+Sørg saa selv, fjerntrammende gud, for den straalende Hektor.\
+Væk du hans mod og mandige kraft, til akaiernes sønner\
+jages paa flugten til skibene frem og til Hellespontos.\
+Derefter agter jeg selv at drøfte i ord og i gjerning,\
 hvordan akaierne atter skal faa en hvil efter kampen.»
 
-Saaledes talte hans far, og Apollon var villig og lystret.
-Ned ifra toppen av Ida han fôr saa hurtig som høken,
-duernes morder, den rappeste fugl blandt vingede skarer.
-Fandt han da Hektor, Priamos' søn. Han laa ikke længer.
-Nys var han kommet til sæte, og samlende tungt sine tanker
-kjendte han vennernes flok. Ei strømmet hans sved, og han aandet
-rolig paany. Skjoldsvingeren Zevs hadde kaldt ham tillive.
-Foibos Apollon gik nær og stanset og talte til helten:
-«Hektor, Priamos' søn! hvi sitter du fjernt fra de andre
+Saaledes talte hans far, og Apollon var villig og lystret.\
+Ned ifra toppen av Ida han fôr saa hurtig som høken,\
+duernes morder, den rappeste fugl blandt vingede skarer.\
+Fandt han da Hektor, Priamos' søn. Han laa ikke længer.\
+Nys var han kommet til sæte, og samlende tungt sine tanker\
+kjendte han vennernes flok. Ei strømmet hans sved, og han aandet\
+rolig paany. Skjoldsvingeren Zevs hadde kaldt ham tillive.\
+Foibos Apollon gik nær og stanset og talte til helten:\
+«Hektor, Priamos' søn! hvi sitter du fjernt fra de andre\
 kraftløs og mat? Er du rammet fornys av et sørgelig vanheld?»
 
-Svarte da, lammet av træthet, den hjelmbuskvaiende Hektor:
-«Si hvem er du, du naadige gud som spør mig om dette?
-Hørte du ei at Aias, den vældige stridsroper, nylig
-rammet mig haardt med en sten i mit bryst, da jeg dræpte hans venner
-hist ved skibenes stavn, og lammet mit stormende kampmodl
-Visselig trodde jeg nu at jeg endnu idag skulde gjeste
+Svarte da, lammet av træthet, den hjelmbuskvaiende Hektor:\
+«Si hvem er du, du naadige gud som spør mig om dette?\
+Hørte du ei at Aias, den vældige stridsroper, nylig\
+rammet mig haardt med en sten i mit bryst, da jeg dræpte hans venner\
+hist ved skibenes stavn, og lammet mit stormende kampmod?\
+Visselig trodde jeg nu at jeg endnu idag skulde gjeste\
 Hades og skyggernes hjem; ti min aand var jeg nær ved at opgi.»
 
 [(253–91) ]{.linjenummer}
-Atter tok fjernskytten Foibos, den mægtige hersker, til orde:
-«Fat nu mod; ti Kronos' søn har sendt dig fra Ida
-hjælperen sterk, som skal verne dig trygt og staa ved din side.
-Vit, jeg er Foibos Apollon, hin gud med sverdet det gyldne,
-han som hittil har verget dig selv og det kneisende Troja.
-Gaa nu avsted og byd dine vognkjæmpers skare at drive
-freidig de fotrappe gangeres spand mot de stavnhøie snekker.
-Selv skal jeg gaa som den første og jevne for hestene veien
+Atter tok fjernskytten Foibos, den mægtige hersker, til orde:\
+«Fat nu mod; ti Kronos' søn har sendt dig fra Ida\
+hjælperen sterk, som skal verne dig trygt og staa ved din side.\
+Vit, jeg er Foibos Apollon, hin gud med sverdet det gyldne,\
+han som hittil har verget dig selv og det kneisende Troja.\
+Gaa nu avsted og byd dine vognkjæmpers skare at drive\
+freidig de fotrappe gangeres spand mot de stavnhøie snekker.\
+Selv skal jeg gaa som den første og jevne for hestene veien\
 like til maalet og jage paa flugt akaiernes helter.»
 
-Saa han talte og fyldte med mod hin folkenes hyrde.
-Likesom hingsten som æter sit byg fra krybben i stalden,
-sliter sit baand og stormer i dundrende trav over sletten,
-vant til det kjølende bad i de speilklare vande i elven —
-stolt den løfter sit hode og kaster med nakken. I løpet
-vifter om bogen den flagrende man, og kry av sin skjønhet
-farer den let paa foten til hoppernes velkjendte beiter —
-likesaa myke var Hektors knær og rappe hans føtter,
-da han paa Foibos' bud løp hen for at egge sin fylking.
-Som naar de halsende hunder og kraftige svende fra bygden
-jager den springende bukk eller hjorten med grenede takker —
-dog, det undes dem ei at fselde sit bytte; ti vildtet
-frelses paa svimlende skrænt eller inde i skogenes skygger.
-Kommer da, lokket ved larmen, en langskjegget løve paa veien,
-skræmmer den straks de modigste mænd og jager dem alle —
-saaledes fulgte en stund danaernes flokker de slagne
-haardt under sverdhugg og stik av de dobbelthvæssede lanser.
-Men da de saa at Hektor fôr om i mændenes rækker,
+Saa han talte og fyldte med mod hin folkenes hyrde.\
+Likesom hingsten som æter sit byg fra krybben i stalden,\
+sliter sit baand og stormer i dundrende trav over sletten,\
+vant til det kjølende bad i de speilklare vande i elven —\
+stolt den løfter sit hode og kaster med nakken. I løpet\
+vifter om bogen den flagrende man, og kry av sin skjønhet\
+farer den let paa foten til hoppernes velkjendte beiter —\
+likesaa myke var Hektors knær og rappe hans føtter,\
+da han paa Foibos' bud løp hen for at egge sin fylking.\
+Som naar de halsende hunder og kraftige svende fra bygden\
+jager den springende bukk eller hjorten med grenede takker —\
+dog, det undes dem ei at fæelde sit bytte; ti vildtet\
+frelses paa svimlende skrænt eller inde i skogenes skygger.\
+Kommer da, lokket ved larmen, en langskjegget løve paa veien,\
+skræmmer den straks de modigste mænd og jager dem alle —\
+saaledes fulgte en stund danaernes flokker de slagne\
+haardt under sverdhugg og stik av de dobbelthvæssede lanser.\
+Men da de saa at Hektor fôr om i mændenes rækker,\
 gyste de alle, og modet sank ned i de skjælvende føtter.
 
-Toas, en søn av Andraimon, aitolernes gjæveste høvding,
-tok nu til orde iblandt dem, en mester med spyd, og i nærkamp
-likesaa kyndig og kjæk. Kun faa av de yngre akaier
-maalbandt paa tinge den sindige helt, naar det kom til en ordstrid.
-Saare forstandig og klokt tok han ordet iblandt dem og mælte:
-«Aa, for et syn! Hist skuer mit blik et merkelig under.
-Se hvordan Hektor har reist sig paany og er reddet fra døden!
-Visselig haabet enhver av os nys i sit inderste hjerte
-at han var falden for Telamons søn, for Aias' hænder.
-Saa har da atter en hjælpende gud villet verne og frelse
-Hektor som lammet saa mangt et knæ i danaernes rækker.
+Toas, en søn av Andraimon, aitolernes gjæveste høvding,\
+tok nu til orde iblandt dem, en mester med spyd, og i nærkamp\
+likesaa kyndig og kjæk. Kun faa av de yngre akaier\
+maalbandt paa tinge den sindige helt, naar det kom til en ordstrid.\
+Saare forstandig og klokt tok han ordet iblandt dem og mælte:\
+«Aa, for et syn! Hist skuer mit blik et merkelig under.\
+Se hvordan Hektor har reist sig paany og er reddet fra døden!\
+Visselig haabet enhver av os nys i sit inderste hjerte\
+at han var falden for Telamons søn, for Aias' hænder.\
+Saa har da atter en hjælpende gud villet verne og frelse\
+Hektor som lammet saa mangt et knæ i danaernes rækker.\
 [(292–329) ]{.linjenummer}
-Slik maa jeg tro det vil gaa ogsaa nu; ii mot tordnerens vilje
-træder han ei saa seiersviss frem i forreste række.
-Vel, jeg skal nævne mit raad, og la os saa følge det alle:
-Menige stridsmænd sender vi straks tilbake til flaaten;
-men la os selv, som kalder os stolt de bedste i hæren,
-kjækt holde stand, om vi da med løftede spyd kunde møte
-helten og holde ham væk; ti med alt sit mod vil han sagtens
+Slik maa jeg tro det vil gaa ogsaa nu; ti mot tordnerens vilje\
+træder han ei saa seiersviss frem i forreste række.\
+Vel, jeg skal nævne mit raad, og la os saa følge det alle:\
+Menige stridsmænd sender vi straks tilbake til flaaten;\
+men la os selv, som kalder os stolt de bedste i hæren,\
+kjækt holde stand, om vi da med løftede spyd kunde møte\
+helten og holde ham væk; ti med alt sit mod vil han sagtens\
 gripes av gru for at kaste sig ind i danaernes skare.»
 
-Saa han talte: De lød hans ord og fulgte det villig,
-og om Idomenevs, kreternes drot, og de tvende Aianter,
-helten Meriones, Tevkros og Meges, modig som Ares,
-ordnet de flokken til strid og kaldte de tapreste helter
-frem til kamp mot Hektor og troerne. Bakenfor disse
+Saa han talte: De lød hans ord og fulgte det villig,\
+og om Idómenevs, kreternes drot, og de tvende Aianter,\
+helten Meriones, Tevkros og Meges, modig som Ares,\
+ordnet de flokken til strid og kaldte de tapreste helter\
+frem til kamp mot Hektor og troerne. Bakenfor disse\
 stevnet de menige krigere bort til akaiernes snekker.
 
-Frem gik troernes kjæmper i flok, og forrest gik Hektor
-raskt med vældige skridt; men Foibos Apollon skred foran
-hyllet om skuldre i sky, og den grufulde, skræmmende aigis
-bar han, det frynsede, straalende skjold som smeden Hefaistos
-skjænket som gave til Zevs, at bæres til mændenes rædsel.
+Frem gik troernes kjæmper i flok, og forrest gik Hektor\
+raskt med vældige skridt; men Foibos Apollon skred foran\
+hyllet om skuldre i sky, og den grufulde, skræmmende aigis\
+bar han, det frynsede, straalende skjold som smeden Hefaistos\
+skjænket som gave til Zevs, at bæres til mændenes rædsel.\
 Bærende dette paa arm gik han frem foran krigernes skare.
-Kjækt holdt argeierne stand, og fra begge de kjæmpende hære
-gjaldet de skingrende rop, og pilene fløi ifra strengen.
-Mangen en lanse som slyngedes ut av modige hænder,
-rammet og fæstet sig dypt i krigernes kraftige kropper.
-Mange blev fæstet i muld underveis og stanset i farten,
+
+Kjækt holdt argeierne stand, og fra begge de kjæmpende hære\
+gjaldet de skingrende rop, og pilene fløi ifra strengen.\
+Mangen en lanse som slyngedes ut av modige hænder,\
+rammet og fæstet sig dypt i krigernes kraftige kropper.\
+Mange blev fæstet i muld underveis og stanset i farten,\
 førend de naadde den skinnende hud som de grisk vilde smake.
 
-Medens Apollon urokkelig holdt aigiden paa armen,
-traf de fra begge de kjæmpende hold, og mændene segnet;
-men da han rettet sit blik mot danaernes aasyn og rystet
-skjoldet og skrek med rungende røst, da lammet han ganske
-modet i heltenes bryst, og de glemte at verge sig kraftig.
-Som naar i natmørkets dypeste mulm to glubende vilddyr
-styrter sig frem og spreder en flok av beitende okser
-eller av talrike faar, naar dyrenes gjæter er borte,
-saaledes flygtet i angst akaiernes mænd; ti Apollon
-slog dem med gru; men Hektor og troerne skjænket han hæder.
-Spredt var striden, og mand vog mand i blodige kampe.
-Stikios segnet for Hektors spyd og Arkesilaos.
+Medens Apollon urokkelig holdt aigiden paa armen,\
+traf de fra begge de kjæmpende hold, og mændene segnet;\
+men da han rettet sit blik mot danaernes aasyn og rystet\
+skjoldet og skrek med rungende røst, da lammet han ganske\
+modet i heltenes bryst, og de glemte at verge sig kraftig.\
+Som naar i natmørkets dypeste mulm to glubende vilddyr\
+styrter sig frem og spreder en flok av beitende okser\
+eller av talrike faar, naar dyrenes gjæter er borte,\
+saaledes flygtet i angst akaiernes mænd; ti Apollon\
+slog dem med gru; men Hektor og troerne skjænket han hæder.\
+Spredt var striden, og mand vog mand i blodige kampe.\
+Stikios segnet for Hektors spyd og Arkesilaos.\
 [(330–67) ]{.linjenummer}
-Denne var fører og drot for boioternes malmklædte stridsmænd;
-hin var den krigerske helt Menestevs' trofaste væbner.
-Drotten Aineias fik tat baade Medons og lasos' rustning.
-Medon var drotten Oilevs' søn. Hans mor var en frille.
-Halvbror var han av Aias. I Fylake var han til huse,
-fjernt fra sit land og sit fædrenehjem, fordi han i vrede
-dræpte en kjødelig bror av Oilevs' viv Eriopis.
-Iåsos var blandt atenernes mænd en høibaaren fører.
-Bukolos' sønnesøn, Sfelos' søn, han kaldtes med hæder.
-Helten Polydamas fældte i forreste række Mekistevs.
-Ekios sank for Polites, og Klonios faldt for Agenor.
-Paris fik ram paa den flygtende helt Deiokos bakfra
-nederstiskuldrenogdrevhamdetmalmhvassespydgjennemkroppen.
-Medens nu troerne røvet i hast de fældedes rustning,
-styrtet akaierne ned mot pælenes række og graven,
-flygtende hit og dit og blev jaget med vold over muren.
-Ropte da Hektor med rungende røst til troernes fylking:
-«Skynd jer mot skibene frem! La de blodige rustninger ligge!
-Træffer jeg en som holder sig fjernt fra de stavnhøie snekker,
-da skal jeg volde ham bane i selvsamme stund, og hans frænder,
-mænd eller kvinder, skal ei kunne reise ham hædrende dødsbaal.
+Denne var fører og drot for boioternes malmklædte stridsmænd;\
+hin var den krigerske helt Menestevs' trofaste væbner.\
+Drotten Aineias fik tat baade Medons og Iasos' rustning.\
+Medon var drotten Oilevs' søn. Hans mor var en frille.\
+Halvbror var han av Aias. I Fylake var han til huse,\
+fjernt fra sit land og sit fædrenehjem, fordi han i vrede\
+dræpte en kjødelig bror av Oilevs' viv Eriopis.\
+Iasos var blandt atenernes mænd en høibaaren fører.\
+Bukolos' sønnesøn, Sfelos' søn, han kaldtes med hæder.\
+Helten Polydamas fældte i forreste række Mekistevs.\
+Ekios sank for Polites, og Klonios faldt for Agenor.\
+Paris fik ram paa den flygtende helt Deiokos bakfra\
+nederst i skuldren og drev ham det malmhvasse spyd gjennem kroppen.\
+Medens nu troerne røvet i hast de fældedes rustning,\
+styrtet akaierne ned mot pælenes række og graven,\
+flygtende hit og dit og blev jaget med vold over muren.\
+Ropte da Hektor med rungende røst til troernes fylking:\
+«Skynd jer mot skibene frem! La de blodige rustninger ligge!\
+Træffer jeg en som holder sig fjernt fra de stavnhøie snekker,\
+da skal jeg volde ham bane i selvsamme stund, og hans frænder,\
+mænd eller kvinder, skal ei kunne reise ham hædrende dødsbaal.\
 Nei, men hunder skal flænge hans lik her utenfor byen.»
 
-Saa han talte og pisket om bog sine hester med svøpen,
-eggende troernes rækker med rop, og i høvdingens følge
-styrte de alle med gjaldende skrik de forspændte hester
-frem med usigelig larm, og Foibos Apollon som stevnet
-foran dem, sparket med føtterne let den mægtige jordvold
-ned i voldgravens midterste dyp og banet en veibro
-lang og tillike saa bred som en utkastet lanse kan flyve,
-naar den blir slynget avsted av en mand som vil prøve sin styrke.
-Der fôr de frem i række og rad, og Foibos gik foran
-bærende aigis paa arm, og han sprængte akaiernes ringmur
-let som et barn, naar det jevner paa strand en opdynget sandhaug;
-ti naar det først i sin barnslige lek har bygget sin sandborg,
-jevner det lekende haugen paany med føtter og hænder.
-Saaledes spredte den herlige helt hvad akaierne nylig
+Saa han talte og pisket om bog sine hester med svøpen,\
+eggende troernes rækker med rop, og i høvdingens følge\
+styrte de alle med gjaldende skrik de forspændte hester\
+frem med usigelig larm, og Foibos Apollon som stevnet\
+foran dem, sparket med føtterne let den mægtige jordvold\
+ned i voldgravens midterste dyp og banet en veibro\
+lang og tillike saa bred som en utkastet lanse kan flyve,\
+naar den blir slynget avsted av en mand som vil prøve sin styrke.\
+Der fôr de frem i række og rad, og Foibos gik foran\
+bærende aigis paa arm, og han sprængte akaiernes ringmur\
+let som et barn, naar det jevner paa strand en opdynget sandhaug;\
+ti naar det først i sin barnslige lek har bygget sin sandborg,\
+jevner det lekende haugen paany med føtter og hænder.\
+Saaledes spredte den herlige helt hvad akaierne nylig\
 bygget med møie og stræv, og slog dem med gru, saa de flygtet.
 
-Fremme ved skibene søkte de ly og stanset med flugten.
+Fremme ved skibene søkte de ly og stanset med flugten.\
 [(368–405) ]{.linjenummer}
 Hver mand egget den anden til strid, og med løftede hænder
 tryglet de samtlige guder om hjælp i brændende bønner.
@@ -432,7 +433,7 @@ Mens nu akaiernes mænd og troerne kjæmpet om muren
 utenfor pladsen hvor skibenes rad var trukket paa stranden,
 sat Patroklos i ro i Evrypylos' telt, og han frydet
 helten med venlige ord og strødde de lægende urter
-lindt paa det verkende såar for at stille de sviende smerter.
+lindt paa det verkende saar for at stille de sviende smerter.
 Men da han merket at troernes mænd fôr frem imot muren,
 medens danaernes hær under angstrop flygtet tilbake,
 drog han et stønnende suk og slog sig med hændernes flater
@@ -499,7 +500,7 @@ ti med den sviende pil blev han bakfra rammet i nakken.
 Ned fra stridsvognen faldt han, og hestene steilet og tumlet
 vildt avsted med den raslende vogn; men Polydamas merket
 snarlig hans fald og kastet sig først mot de flygtende hester.
-Dem lot han nu Protiåons søn, Astynoos, holde,
+Dem lot han nu Protiáons søn, Astynoos, holde,
 bød ham med iver at speide omkring og holde hans hester
 nær ham, og kastet sig ind paany blandt de forreste helter.
 
@@ -598,7 +599,7 @@ bakfra i skuldren, og gjennem hans bryst sig boret det grumme,
 fremover higende spyd, og han faldt paa sit ansigt til jorden.
 Begge sprang frem for at rive i hast fra høvdingens skuldre
 rustningens malm; da egget til kamp den straalende Hektor
-brødrenes skare; men først Hiketåons søn Melanippos
+brødrenes skare; men først Hiketáons søn Melanippos
 lastet han strengt, hin helt som vogtet de langsomme okser
 hist i Perkote, saa længe som fienden var i det fjerne;
 men da danaernes hær var kommet paa stavnhøie snekker,
@@ -611,7 +612,7 @@ Ser du da ei, hvor travelt de hai' med Dolops' rustning!
 Kom og gaa med! At kjæmpe mot Argos' helter paa avstand
 [(557–94) ]{.linjenummer}
 gaar ikke længer; ti nu maa de selv bli dræpt eller styrte
-Ilions kneisende by og slåa ned vore landsmænd for fote.»
+Ilions kneisende by og slaa ned vore landsmænd for fote.»
 
 Saa han talte og gik. Ham fulgte den herlige høvding.
 
@@ -633,7 +634,7 @@ Saa han talte og skyndte sig bort, da han hin hadde egget.
 Frem fra de forreste rækker han fôr og slynget sin lanse,
 speidende rundt, og troerne vek, da høvdingen sigtet.
 Dog, han slynget ei ut sin blinkende lanse forgjæves;
-ti Hiketåons søn, den modige helt Melanippos
+ti Hiketáons søn, den modige helt Melanippos
 rammet han, just som han stevnet til kamp, i brystet ved vorten.
 Drønende faldt han til jord, og dødsmørket slørte hans øine.
 Kask sprang Antilokos frem lik en hund som glubende styrter
@@ -782,7 +783,7 @@ eller med vældige sverd og dobbelthvæssede lanser.
 Talrike prægtige sverd med sortomviklede hefter
 slængtes i støvet fra heltenes haand eller fra deres skuldre
 midt under kampen, og blodstrømmer fløt paa jorden den sorte.
-Hektor slåp ikke sit tak i fartøiets kneisende bakstavn.
+Hektor slap ikke sit tak i fartøiets kneisende bakstavn.
 Stavnspidsen holdt han i haand og egget de troiske svende:
 «Hit med en brand! Løft alle som én et gjaldende hærskrik!
 Nu har Zevs forundt os en dag som lønner vor møie.
