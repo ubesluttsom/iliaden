@@ -405,89 +405,90 @@ bygget med møie og stræv, og slog dem med gru, saa de flygtet.
 
 Fremme ved skibene søkte de ly og stanset med flugten.\
 [(368–405) ]{.linjenummer}
-Hver mand egget den anden til strid, og med løftede hænder
-tryglet de samtlige guder om hjælp i brændende bønner.
-Inderligst bad akaiernes vern, den gereniske Nestor,
-løftende hænderne op mot den stjerneglitrende himmel.
-«Alfader Zevs! saasandt i det kornrike Argos saa mange
-bad dig om hjemfærd og ofret dig fromt av faar eller okser
-laarstykker fete og fik av dig selv usvigelig tilsagn,
-kom da, olympier, dette i hu og frels os fra jammer!
+Hver mand egget den anden til strid, og med løftede hænder\
+tryglet de samtlige guder om hjælp i brændende bønner.\
+Inderligst bad akaiernes vern, den gereniske Nestor,\
+løftende hænderne op mot den stjerneglitrende himmel.\
+«Alfader Zevs! saasandt i det kornrike Argos saa mange\
+bad dig om hjemfærd og ofret dig fromt av faar eller okser\
+laarstykker fete og fik av dig selv usvigelig tilsagn,\
+kom da, olympier, dette i hu og frels os fra jammer!\
 La ei akaierne kues saa haardt av de seirende troer!»
 
-Saaledes bad han, og Zevs, den alvise himmeldrot tordnet
-liøit, da han hørte den brændende bøn fra den graanede Nestor.
-Men da nu troerne hørte at aigissvingeren tordnet,
-stormet de ind paa argeiernes mænd og tænkte paa kampen.
-Som naar paa storhavets alfare vei den mægtige bølge
-slaar over rælingen ind, naar stormvindens vældige kræfter
-jager den frem; ti den løfter mot sky de brusende bølger,
-saa fôr troernes mænd med rungende rop over muren.
-Hestene pisket de frem, og med dobbelthvæssede lanser
-kjæmpet de mand mot mand ved skibenes bakstavn fra stridsvogn,
-medens akaierne steg paa de tjærede snekker og kjæmpet
-høit fra skansen med vældige spær, som laa der til sjøslag,
+Saaledes bad han, og Zevs, den alvise himmeldrot tordnet\
+høit, da han hørte den brændende bøn fra den graanede Nestor.
+
+Men da nu troerne hørte at aigissvingeren tordnet,\
+stormet de ind paa argeiernes mænd og tænkte paa kampen.\
+Som naar paa storhavets alfare vei den mægtige bølge\
+slaar over rælingen ind, naar stormvindens vældige kræfter\
+jager den frem; ti den løfter mot sky de brusende bølger,\
+saa fôr troernes mænd med rungende rop over muren.\
+Hestene pisket de frem, og med dobbelthvæssede lanser\
+kjæmpet de mand mot mand ved skibenes bakstavn fra stridsvogn,\
+medens akaierne steg paa de tjærede snekker og kjæmpet\
+høit fra skansen med vældige spær, som laa der til sjøslag,\
 lange, med sterke beslag og med spidser av skinnende kobber.
 
-Mens nu akaiernes mænd og troerne kjæmpet om muren
-utenfor pladsen hvor skibenes rad var trukket paa stranden,
-sat Patroklos i ro i Evrypylos' telt, og han frydet
-helten med venlige ord og strødde de lægende urter
-lindt paa det verkende saar for at stille de sviende smerter.
-Men da han merket at troernes mænd fôr frem imot muren,
-medens danaernes hær under angstrop flygtet tilbake,
-drog han et stønnende suk og slog sig med hændernes flater
-haardt paa de kraftige laar, og jamrende tok han til orde:
-«Kjære Evrypylos! nu kan jeg ei, skjønt du trænger det høilig,
-være her længer i ro; ti frygtelig raser jo striden.
-Nu faar din svend ta vare paa dig; men selv vil jeg ile
-hen til Akillevs i hast og vække hans lyst til at kjæmpe;
-ti hvem vet om jeg ei med gudernes hjælp kunde røre
+Mens nu akaiernes mænd og troerne kjæmpet om muren\
+utenfor pladsen hvor skibenes rad var trukket paa stranden,\
+sat Patroklos i ro i Evrypylos' telt, og han frydet\
+helten med venlige ord og strødde de lægende urter\
+lindt paa det verkende saar for at stille de sviende smerter.\
+Men da han merket at troernes mænd fôr frem imot muren,\
+medens danaernes hær under angstrop flygtet tilbake,\
+drog han et stønnende suk og slog sig med hændernes flater\
+haardt paa de kraftige laar, og jamrende tok han til orde:\
+«Kjære Evrypylos! nu kan jeg ei, skjønt du trænger det høilig,\
+være her længer i ro; ti frygtelig raser jo striden.\
+Nu faar din svend ta vare paa dig; men selv vil jeg ile\
+hen til Akillevs i hast og vække hans lyst til at kjæmpe;\
+ti hvem vet om jeg ei med gudernes hjælp kunde røre\
 endnu hans hjerte? Et raad av en ven er altid en vinding.»
 
-Saa han talte og hastet avsted; men akaiernes helter
+Saa han talte og hastet avsted; men akaiernes helter\
 [(406–43) ]{.linjenummer}
-stod som en mur mot troernes storm; men skjønt de var færre,
-magtet de ei at drive dem bort fra de stavnhøie snekker.
-Likesaa litt var troernes mænd istand til at bryte
-fiendens rækker og trænge sig frem til telter og skibe;
-men som den mægtige kjøl til et skib blir rettet med snoren,
-naar den blir strammet med haand av den kyndige mester som kjender
-hele sit haandverk tilbunds og har lært sin kunst av Atene,
+stod som en mur mot troernes storm; men skjønt de var færre,\
+magtet de ei at drive dem bort fra de stavnhøie snekker.\
+Likesaa litt var troernes mænd istand til at bryte\
+fiendens rækker og trænge sig frem til telter og skibe;\
+men som den mægtige kjøl til et skib blir rettet med snoren,\
+naar den blir strammet med haand av den kyndige mester som kjender\
+hele sit haandverk tilbunds og har lært sin kunst av Atene,\
 saaledes stod som efter en snor de kjæmpendes rækker.
 
-Kjæmpet da andre sin kamp ved de øvrige snekker; men Hektor
-gik til en tvekamp mand imot mand med den navngjetne Aias.
-Haardt gik de paa og stred om et skib; men ei kunde Hektor
-drive ham ut og faa det i brand, og ei kunde Aias
-jage sin fiende bort; ti en gud hadde drevet ham fremad.
-Slynget da Aias sit spyd og rammet i brystet Kalétor,
-Klytios' søn, da han kom med en luende brand imot skibet.
-Drønende sank han til jord, og branden faldt ut av hans næve.
-Men da den straalende Hektor blev var at hans mandige frænde
-sank ved den tjærede snekke til jord og segnet i støvet,
-skrek han med rungende rop til troers og lykiers skare:
-«Troer og lykiske mænd og kjække dardaniske kjæmper!
-Vik ikke nu, mine venner, fra kamptumlens larmende trængsel.
-Kom forat bjerge hin Klytios' søn, saa akaierne ikke
+Kjæmpet da andre sin kamp ved de øvrige snekker; men Hektor\
+gik til en tvekamp mand imot mand med den navngjetne Aias.\
+Haardt gik de paa og stred om et skib; men ei kunde Hektor\
+drive ham ut og faa det i brand, og ei kunde Aias\
+jage sin fiende bort; ti en gud hadde drevet ham fremad.\
+Slynget da Aias sit spyd og rammet i brystet Kalétor,\
+Klytios' søn, da han kom med en luende brand imot skibet.\
+Drønende sank han til jord, og branden faldt ut av hans næve.\
+Men da den straalende Hektor blev var at hans mandige frænde\
+sank ved den tjærede snekke til jord og segnet i støvet,\
+skrek han med rungende rop til troers og lykiers skare:\
+«Troer og lykiske mænd og kjække dardaniske kjæmper!\
+Vik ikke nu, mine venner, fra kamptumlens larmende trængsel.\
+Kom forat bjerge hin Klytios' søn, saa akaierne ikke\
 røver ham rustningen her hvor han faldt ved skibenes leie.»
 
-Saa han talte og slynget sin blinkende lanse mot Aias.
-Spydet gik feil og rammet Lykofron, Aias' væbner,
-Mastors søn fra Kytera, som bodde hos Aias som flygtning,
-siden han hist paa den hellige ø hadde fældet en uven.
-Ovenfor øret traf høvdingen nu med den hvæssede lanse
-svenden ved Aias' side, og baklængs til jorden i støvet
-faldt han fra fartøiets stavn, og alle hans lemmer blev lammet,
-Aias fôr sammen i gru og ropte til Tevkros, sin halvbror:
-«Tevkros, min elskede bror, nu faldt vor trofaste fælle,
-Mastors søn fra Kytera, vor ven som vi huset og hædret
-hist paa vor hjemlige borg saa høit som de kjære forældre.
-Hektor, den vældige, vog ham. Hvor er dine dødssvangre piler?
+Saa han talte og slynget sin blinkende lanse mot Aias.\
+Spydet gik feil og rammet Lykofron, Aias' væbner,\
+Mastors søn fra Kytera, som bodde hos Aias som flygtning,\
+siden han hist paa den hellige ø hadde fældet en uven.\
+Ovenfor øret traf høvdingen nu med den hvæssede lanse\
+svenden ved Aias' side, og baklængs til jorden i støvet\
+faldt han fra fartøiets stavn, og alle hans lemmer blev lammet.\
+Aias fôr sammen i gru og ropte til Tevkros, sin halvbror:\
+«Tevkros, min elskede bror, nu faldt vor trofaste fælle,\
+Mastors søn fra Kytera, vor ven som vi huset og hædret\
+hist paa vor hjemlige borg saa høit som de kjære forældre.\
+Hektor, den vældige, vog ham. Hvor er dine dødssvangre piler?\
 Hvor er din bue, det vaaben du fik av Foibos Apollon?»
 
-Hørte da Tevkros hans ord og nærmet sig ilsomt I haanden
-holdt han den spænstige bue og koggerets pilfyldte gjemme.
+Hørte da Tevkros hans ord og nærmet sig ilsomt. I haanden\
+holdt han den spænstige bue og koggerets pilfyldte gjemme.\
 [(444–81) ]{.linjenummer}
 Lynsnart sendte han pil efter pil mot troernes rækker.
 Kleitos rammet han først, den herlige søn av Peisenor,
