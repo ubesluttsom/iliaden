@@ -185,7 +185,7 @@ da er det dig som faar mest; med en kjær, men ringere gave\
 gaar jeg, naar armen er trættet av kamp, tilbake til flaaten.\
 Nu vil jeg stevne til Ftia; ti sandelig er det dog bedre\
 straks at vende med skibene hjem. Jeg vil ikke dvæle\
-længer med utak og sanke for dig ustyrtelig rigdom.»
+længer med utak og sanke for *dig* ustyrtelig rigdom.»
 
 Straks tok den mægtige drot Agamemnon til orde og svarte:\
 «Fly kun, dersom det huer dig bedst. Jeg skal ikke be dig\
@@ -436,12 +436,12 @@ si at du engang alene blandt alle de evige guder\
 skjermet den skyomhyllede Zevs mot skammelig voldsfærd,\
 dengang da guder paa høien Olymp vilde slaa ham i lænker,\
 Hera og dertil Poseidon, hans bror, og Pallas Atene.\
-Da kom du ham til hjælp og løste hans lænker og hentet\
+Da kom *du* ham til hjælp og løste hans lænker og hentet\
 op til det høie Olymp den hundredarmede kjæmpe,\
 jætten som kaldes Aigaion blandt mænd, men av guder Briáros.\
 Selve Poseidon, hans far, har ei saa vældige kræfter.\
 Stolt tok han sæte hos Kronos' søn og brystet sig storlig.\
-[(406–43) ]{.linjenummer}Guderne irygtet hans kraft, og Alfader blev ikke lænket.\
+[(406–43) ]{.linjenummer}Guderne frygtet hans kraft, og Alfader blev ikke lænket.\
 Sæt dig hos Zevs og favn om hans knæ og mind ham om dette.\
 Kanske han da vil laane sin hjælp til de kjæmpende troer,\
 medens akaiernes mænd blir jaget mot havet og fældes\
@@ -494,7 +494,7 @@ og om det hellige Killa, du Tenedos' mægtige skytsgud.\
 Engang tilforn har du hørt mine ord da jeg bad dig, og naadig\
 vernet mig selv og tugtet akaierne haardt i din vrede.\
 Hør mig da ogsaa idag og la dette mit ønske bli opfyldt.\
-Skaan danaerue nu og stans den herjende farsott!»
+Skaan danaerne nu og stans den herjende farsott!»
 
 Inderlig bad han, og bønnen blev hørt av Foibos Apollon.\
 Da deres bønner var endt og de viede bygkorn var drysset,\
@@ -555,7 +555,7 @@ La nu troerne seire i strid, til akaierne atter\
 agter og ærer min elskede søn og øker hans hæder.»
 
 Saa hun talte; men Zevs, den vældige skyernes herre,\
-svarte ei endriu paa længe. Han sat der i taushet, mens Tetis\
+svarte ei endnu paa længe. Han sat der i taushet, mens Tetis\
 klynget sig fast til hans knæ. Da talte hun atter saa bønlig:\
 «Gi mig med ord eller nik usvigelig løfte og tilsagn,\
 eller si nei; ti du kjender ei frygt, saa jeg nu kan faa vite\
@@ -612,7 +612,7 @@ sønnen Akillevs og fælde ved skibene mange akaier.»
 Da tok den vældige skysamler Zevs til orde og svarte:\
 «Anelser har du som oftest, min ven; du vogter mig stadig.\
 Dog, det nytter dig intet dit stræv; du fjerner dig bare\
-mere end før mit hjerte; og det skal du merke blir farlig.\
+mere end før mit hjerte; og *det* skal du merke blir farlig.\
 Er det nu saa som du sier, saa er det vel saa jeg vil ha det.\
 Sæt dig nu stille og kny ikke mer; men lyd min befaling.\
 Ellers kan guderne ei, saa mange som bor paa Olympen,\

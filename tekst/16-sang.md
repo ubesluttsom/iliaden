@@ -1,6 +1,6 @@
 # Sekstende sang. *Sangen om Patroklos.* {epub:type=chapter}
 
-- [ ] Sjekk linjenummere.
+- [ ] Sjekk linjenummer.
 - [x] Erstatt «for» med «fôr».
 - [x] Erstatt «å» med «á» hvor aktuelt.
 - [x] Gjennomgått alle egennavn.
@@ -34,7 +34,7 @@ Alle de høibaarne mænd, som fordum blev nævnt blandt de bedste,
 ligger ved skibene saaret av spyd eller rammet av sverdhugg.
 Saaret er Tydevs' søn, den vældige helt Diomedes;
 [(26–63) ]{.linjenummer}
-helten Odyssevs er saaret og niændenes drot Agamemnon,
+helten Odyssevs er saaret og mændenes drot Agamemnon,
 og av en pil blev fornys Evrypylos rammet i laaret
 Lægerne søker nu travlt med dulmende urter at hele
 kjæmpernes saar; men du er ubøielig, stolte Akillevs.
