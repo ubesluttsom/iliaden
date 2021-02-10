@@ -1,4 +1,4 @@
-personal_ws-1.1 nb 1014 utf-8
+personal_ws-1.1 nb 1098 utf-8
 Agamemnon
 Agamemnons
 Aianter
@@ -8,6 +8,7 @@ Aigevs
 Akillevs
 Alfader
 Alfaders
+Anemoreia
 Antédon
 Aratos
 Ares
@@ -24,6 +25,7 @@ Azevs
 Brisevs
 Briseïs
 Briáros
+Davlis
 Diomedes
 Dryas
 Eetions
@@ -51,6 +53,7 @@ Hera
 Heras
 Hypotébai
 Hyria
+Hyámpolis
 Hélena
 Hélenas
 Idómenevs
@@ -61,6 +64,7 @@ Iálmenos
 Kainevs
 Kalkas
 Kaystrios
+Kefisos
 Killa
 Klonios
 Klytaimnestra
@@ -78,6 +82,7 @@ Lemnos
 Leo
 Leto
 Leïtos
+Lilaias
 Lunnerne
 Medeons
 Menelaos
@@ -86,6 +91,7 @@ Midéia
 Mykaléssos
 Naubolos
 Nelevs
+Nestors
 Nisa
 Notos
 Odyssevs
@@ -97,7 +103,9 @@ Olympen
 Olympos
 Onkéstos
 Orkómenos
+Oïlevs
 Pallas
+Panópevs
 Patroklos
 Peleiden
 Pelevs
@@ -111,12 +119,16 @@ Poseidons
 Priamos
 Protoénor
 Pylos
+Pyto
 Quintilian
 Schoinos
+Skamandros
 Skedios
+Skolos
 Smintevs
 Taltybios
 Tebe
+Telamons
 Telemakos
 Tenedos
 Tersites
@@ -148,6 +160,7 @@ agter
 agtet
 aigide
 aigis
+aigissvingende
 aigissvingeren
 aigissvingerens
 aitiopiske
@@ -157,6 +170,7 @@ akaiernes
 akaiske
 aker
 aldrig
+alfader
 almuen
 almuens
 almægtige
@@ -168,6 +182,7 @@ ankerplads
 anlæg
 ansigt
 antike
+argeier
 argeierne
 argeiernes
 armhvite
@@ -211,6 +226,7 @@ brændofre
 brændt
 brændte
 bugten
+bugtet
 byd
 bygkorn
 bæger
@@ -225,12 +241,14 @@ bølgernes
 bøn
 bønfald
 bønfaldt
+bønhørte
 bønlig
 chapter
 daad
 daare
 daarende
 daarskap
+dagverk
 danaer
 danaerne
 danaernes
@@ -244,6 +262,7 @@ digterverk
 digtning
 drot
 drots
+druernes
 dræpende
 dræpes
 dræpt
@@ -261,6 +280,8 @@ edspakten
 efterpaa
 elskedes
 endnu
+endsige
+endskjønt
 epub
 eviges
 faa
@@ -277,7 +298,11 @@ festhekatombe
 festhekatomben
 finde
 findes
+firti
 fjeld
+fjeldbyen
+fjeldenes
+fjeldkranste
 fjeldvæg
 fjernskytten
 fjernskyttens
@@ -289,6 +314,7 @@ flaaten
 fler
 flermandsstyre
 flok
+fluernes
 flugt
 flygte
 flygtende
@@ -297,6 +323,8 @@ flængende
 flænget
 fløi
 fokernes
+fokiske
+foragtet
 forat
 forbandede
 fordærv
@@ -304,14 +332,18 @@ fordærvelig
 foreword
 forfærdende
 forfærdet
+forgaar
 forgjæves
 forinden
 forlængst
+formaar
+formænd
 fornys
 forpustet
 forspilde
 forstaa
 fortrin
+fortæl
 fortælle
 fortæller
 forunde
@@ -320,6 +352,7 @@ forundt
 forvandt
 forvisst
 fotrappe
+fotslag
 fraraadet
 fremfarne
 frugtesløs
@@ -377,6 +410,7 @@ grufulde
 græs
 græsk
 græske
+græsset
 guderne
 gudernes
 gudesendt
@@ -392,6 +426,7 @@ haabet
 haan
 haand
 haanden
+haandslag
 haane
 haanet
 haanlig
@@ -403,6 +438,7 @@ haardeste
 haardt
 haarede
 haarfagre
+haarvekst
 hal
 harmfuld
 harmfulde
@@ -412,8 +448,11 @@ hatskest
 held
 heltesjæl
 hendes
+henglidende
 herned
 herolderne
+hestenærende
+hestetumlende
 hidsige
 himlen
 hjemad
@@ -425,13 +464,16 @@ hovedindholdet
 huet
 hundredarmede
 hvad
+hvergang
 hvi
+hvilet
 hvirvlet
 hvælving
 hvæsse
 hæder
 hædersløn
 hædre
+hædredes
 hædrende
 hædret
 hænde
@@ -439,6 +481,7 @@ hænder
 hænderne
 hængte
 hærfanget
+hærfærd
 hærklædt
 hærklædte
 hærskrik
@@ -452,8 +495,11 @@ høibaarne
 høide
 høie
 høien
+høienloftskammer
 høieste
 høihet
+høilydt
+høimælte
 høire
 høireiste
 høist
@@ -469,9 +515,11 @@ inde
 inderst
 indlæggene
 indmat
+indmaten
 indtil
 ix
 jer
+jertegn
 jog
 jætten
 kaldes
@@ -498,6 +546,7 @@ klarøide
 klædt
 klædte
 kløvede
+kløvende
 knaphet
 knæ
 kongerne
@@ -505,6 +554,7 @@ kongsgaard
 kongsstad
 kreds
 kredsen
+krigsgudens
 kræfter
 krænkende
 krænket
@@ -513,6 +563,8 @@ krævet
 kvalfulde
 kve
 kvinde
+kvinden
+kvinder
 kvindfolk
 kvægende
 laa
@@ -539,7 +591,10 @@ litet
 lod
 lokkede
 lokkernes
+lokrernes
 luerne
+lundenes
+lynglade
 lynsvinger
 lyt
 læber
@@ -559,6 +614,7 @@ lænker
 lænket
 løftebrud
 løn
+løndom
 lønlige
 lønligen
 maa
@@ -567,6 +623,7 @@ maalte
 maaltid
 maaltidet
 maaltidets
+maaned
 maatte
 magt
 magtbud
@@ -575,6 +632,7 @@ magtet
 magtstjaalet
 malmklædte
 mand
+manden
 mandskap
 mandskapet
 mandsterk
@@ -586,6 +644,7 @@ mig
 mind
 minde
 mindes
+mindet
 mindst
 mindste
 minyernes
@@ -623,6 +682,7 @@ naar
 nar
 nat
 nationalliteratur
+natmulmet
 natsorte
 navne
 negtes
@@ -658,6 +718,7 @@ oprørte
 optændt
 opveiet
 ordforraad
+overgaar
 overmod
 oversigt
 oversættelse
@@ -676,6 +737,7 @@ plads
 plag
 plat
 platan
+platanen
 præget
 prægtig
 prægtige
@@ -686,6 +748,7 @@ raade
 raadet
 raadighet
 raadsnar
+raadsnare
 raadvild
 raaseil
 raatne
@@ -698,6 +761,7 @@ riksmaalets
 rorskarler
 rosenfingrede
 ryg
+rygtet
 rynkede
 ræddedes
 rædsomme
@@ -710,6 +774,7 @@ saadanne
 saafremt
 saaledes
 saalænge
+saamange
 saare
 saart
 saasandt
@@ -727,6 +792,7 @@ sandt
 sat
 scepter
 scepteret
+scepterførende
 sendemændenes
 set
 sidst
@@ -755,6 +821,7 @@ skibsmasten
 skjelde
 skjeldsord
 skjeldte
+skjendegjest
 skjæbne
 skjælvende
 skjænk
@@ -778,12 +845,15 @@ skytsgud
 slaa
 slaar
 slaat
+slagtet
 slegt
 slegter
 slegtled
 sletikke
 slog
 smaa
+smaafugl
+smaafuglens
 smudsige
 smædeord
 snartænkte
@@ -796,6 +866,7 @@ spaadd
 spaadom
 spaamand
 spandene
+sparet
 spid
 spids
 spilde
@@ -813,6 +884,7 @@ spørsmaals
 staa
 staaende
 staar
+stadødelægger
 stak
 stenhaarde
 stod
@@ -822,6 +894,8 @@ straalende
 straalte
 straf
 stridsmænd
+stridsrop
+stridsvante
 stræv
 stræve
 studsende
@@ -860,12 +934,17 @@ talløse
 tat
 taugene
 tilbage
+tilbords
 tilbudte
 tildæks
 tilforn
 tilfælder
 tilkjende
+tilsidst
 tilsinds
+tilsyne
+tilvenstre
+tilvisse
 timandstrop
 tir
 tjærede
@@ -919,6 +998,7 @@ tænke
 tænker
 tæt
 tætte
+tætteste
 ubetonet
 ubøielig
 ud
@@ -974,9 +1054,13 @@ vilde
 vildledte
 vildskap
 vildt
+vindende
 vingede
+visnede
 vog
+vognkjæmpe
 vogter
+voldsdaad
 voldsfærd
 voldsmand
 vor

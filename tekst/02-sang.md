@@ -68,7 +68,7 @@ Frem til mit hoved den skred og tok hastig til orde og mælte:\
 «Sover du, søn av hin vognkjæmpe gjæv, den kampglade Atrevs?\
 Sove fra aften til gry, slikt sømmer sig ei for en høvding,\
 en som har stridsmænd at styre og mangt og meget at skjøtte.\
-Lyt nu straks til mit ord. Fra Zevs er jeg kommet med bedskap,\
+Lyt nu straks til mit ord. Fra Zevs er jeg kommet med budskap,\
 [(64–101) ]{.linjenummer}han som vil dig saa vel og ynker din nød i det fjerne.\
 Skynd dig og rust paa hans bud akaiernes haarfagre sønner.\
 Nu kan du storme hin troernes by med de prægtige gater\
@@ -263,7 +263,7 @@ Ellers, Atreide, blev denne din voldsdaad ogsaa den sidste.»
 Saaledes haante han frækt den mægtige drot Agamemnon.\
 Da stod den herlige helt Odyssevs brat ved hans side,\
 maalte ham barsk med sit blik og gav ham en myndig formaning:\
-«Styr dig, Tersites, du mundkaate nar med den klingende stemme\
+«Styr dig, Tersites, du mundkaate nar med den klingende stemme.\
 Prøv ikke mere alene at yppe en ordstrid med konger.\
 Uslere stymper end dig, det sier jeg trygt, kan vi ikke\
 finde blandt alle som kom med Atrevs' sønner til Troja.\
