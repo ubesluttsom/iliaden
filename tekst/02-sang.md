@@ -196,7 +196,7 @@ La det ei ske at de sætter paa sjø sine gyngende snekker!»
 Saaledes talte gudinden, og budet forstod han og kastet\
 kappen i ilende løp. Herolden Evrybates tok den,\
 han som paa Itaka hadde sit hjem og fulgte sin herre.\
-Selv han skyndte sig hen til Atrevs' søn Agarnemnon,\
+Selv han skyndte sig hen til Atrevs' søn Agamemnon,\
 fik saa av ham den fædrene stav, det urgamle scepter.\
 Derefter løp han med det i sin haand til akaiernes skibe.
 
@@ -310,7 +310,7 @@ dengang vi drog paa vor færd fra det hestenærende Argos,\
 først naar Troja var styrtet i grus at vende tilbake.\
 Rent som umyndige barn og enslige, vernløse kvinder\
 længes de saart efter hjemfærd med klynk og jamrende klage.\
-Vel maa man stræve mothjemkomstens dag, naar ondtman har døiet;\
+Vel maa man stræve mot hjemkomstens dag, naar ondt man har døiet;\
 [(292–323) ]{.linjenummer}ti om man skilles fra hustru og hjem en eneste maaned,\
 længter man saart ved sit toftede skib, naar vinterens stormer\
 velter de skummende bølger paa sjø og stænger ens veier.\

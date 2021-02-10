@@ -507,7 +507,7 @@ Da deres offer var brændt, og enhver hadde smakt paa dets indmat,\
 delte de op det levnede kjøt og stak det paa spiddet,\
 stekte det skjønsomt og vel og trak det tilbake fra ilden.\
 Da deres møie var endt, og det festlige gilde var rede,\
-nød de sit maatid, og alle fik nok av de bugnende retter.\
+nød de sit maaltid, og alle fik nok av de bugnende retter.\
 Men da de helt hadde stillet sin lyst til mat og til drikke,\
 fyldte de tjenende svende med vin de skummende boller.\
 Alle fik rakt sig et bæger; men først fik guden et offer.\
@@ -645,7 +645,7 @@ Sikkert jeg vet det; ti engang tilforn, da jeg fristet at hjælpe,\
 grep han min fot og slynget mig ut over himmelens terskel.\
 Hele den dag blev jeg hvirvlet avsted, og ved soleglads-tide\
 styrtet jeg ned paa Lemnos, og litet av liv var der i mig.\
-Sintiske mænd tok mig op og pleiet mig vel efter faldet.»
+sintiske mænd tok mig op og pleiet mig vel efter faldet.»
 
 [(596–611) ]{.linjenummer}Saa han talte. Da smilte hun blidt den armhvite Hera.\
 Smilende tok hun den blanke pokal som raktes av sønnen.\
