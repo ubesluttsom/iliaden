@@ -592,7 +592,7 @@ Nestor alene holdt maal; ti han hadde alderens fortrin.\
 Femti var skibenes tal som fulgte sin fører paa færden.
 
 [(557–94) ]{.linjenummer}Aias fra Salamis møtte med tolv velrustede skibe.\
-Mandskapet førte hau dit, hvor atenernes rækker var fylket.
+Mandskapet førte han dit, hvor atenernes rækker var fylket.
 
 Derpaa kom svende fra Argos' by og det murkranste Tiryns.\
 Inde fra fjorden kom mænd fra Asine og fra Hermione,\
@@ -715,7 +715,7 @@ sønner og sønnernes sønner av kjæmpen den sterke Herakles.\
 Flakkende om fik han døie saa mangt, til han landet paa Rodos.\
 Der slog folket sig ned i trende forskjellige stammer,\
 elsket av Zevs, hin gudernes drot og menneskers herre.\
-Kronos' søn lot det regne med gods og gnid over landet.
+Kronos' søn lot det regne med gods og guld over landet.
 
 [(671–708) ]{.linjenummer}Nirevs var kommet fra Syme, og tre var hans skibe i tallet,\
 Nirevs, en søn av Aglaia og helten, den gjæve Karopos,\
@@ -762,7 +762,7 @@ Protesilaos den første. Vel manglet hans krigerske svende\
 Firti var skibenes tal, som fulgte sin fører paa færden.
 
 Dernæst kom helter fra Ferai ved sjøen Bolbeis' bredder,\
-mænd fra lolkos, den velbygde stad, fra Glafyrai og Bolbe.\
+mænd fra Iolkos, den velbygde stad, fra Glafyrai og Bolbe.\
 Elleve var deres skibe i tal, og Admetos' ætling\
 Evmelos var deres fører, en helt som den fagre Alkestis\
 fødte Admetos, den skjønneste mø blandt Pelias' døtre.
@@ -893,7 +893,7 @@ troiske helter som drikker den sorte Aisepos' vande,\
 rike paa gods. Den straalende Pandaros var deres fører,\
 søn av Lykaon. Apollon selv hadde skjænket ham buen.
 
-Fra Adresteia kom andre og hist fra Apaisos' bygder,\
+Fra Adresteía kom andre og hist fra Apaisos' bygder,\
 fra Pityeia og mænd fra den kneisende fjeldby Tereia.\
 Fører var Amfios, pansret i lin, og den gjæve Adrastos,\
 sønner av Merops, en drot fra Perkote. Kyndigst av alle\
@@ -924,9 +924,9 @@ Aksios spreder saa viden om land sine speilklare strømme.
 
 Men paflagonerne førte Pylaimenes, laadden paa brystet,\
 fjernt fra eneternes land, hvor mulæsler færdes i frihet.\
-Krigerne kom fra Kytoros og fjernt fra Sésamos' bymark.\
+Krigerne kom fra Kytóros og fjernt fra Sésamos' bymark.\
 Andre var bosat i herlige hjem ved Partenios' bredder\
-og i Aigialos, Kromne og fjeldene rundt Erytínoi.
+og i Aigíalos, Kromne og fjeldene rundt Erytínoi.
 
 Odios selv, halizonernes drot, og Epistrofos førte\
 mænd fra det fjerne Alybe, hvor sølvgrener vokser i fjeldet.
