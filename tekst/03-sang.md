@@ -197,7 +197,7 @@ Dog det skulde ei ske, og nu maa jeg smelte i taarer.\
 Ja jeg skal svare paa alt hvad du spør om og gjerne vil vite.\
 Dette er Atrevs' søn, den mægtige drot Agamemnon,\
 baade en ypperlig konge og dertil den tapreste spydhelt.\
-Fræk som jeger, har han været min maag — saa sandt han da var det.»
+Fræk som jeg er, har han været min maag — saa sandt han da var det.»
 
 Saa hun talte, og gubben beundret ham storlig og mælte:\
 «Atrevs' søn, til held er du født, velsignet av guder.\
@@ -329,7 +329,7 @@ Mangen akaier talte da saa og mangen en troer:\
 «Zevs, høilovet og stor, og alle I evige guder!\
 Maatte det troløse folk som først monne bryte vor edspakt,\
 rammes saa hjernerne sprøiter paa jord som vinen vi ofrer,\
-faedres og barns; maatte fremmede mænd deres hustruer skjende.»
+fædres og barns; maatte fremmede mænd deres hustruer skjende.»
 
 Saa de talte; men Kronos' søn bønhørte dem ikke.\
 Derefter talte iblandt dem kong Priamos, Dardanos' ætling:\

@@ -6,8 +6,8 @@ FONT   = fonter/*.ttf
 META   = meta.md
 TEKST  = tekst/*.md
 BILDER = bilder/*.png
-ASPELL = --encoding=utf-8 --home-dir=./ordliste --personal=ordliste.utf-8.add --lang=no-nb --mode=markdown --run-together --run-together-limit=3
-CHECK  = tekst/00-forord.md tekst/01-sang.md tekst/02-sang.md
+ASPELL = --encoding=utf-8 --home-dir=./ordliste --personal=ordliste.utf-8.add --lang=no-nb --mode=markdown # --run-together --run-together-limit=3
+CHECK  = tekst/00-forord.md tekst/01-sang.md tekst/02-sang.md tekst/03-sang.md
 
 default: epub
 
