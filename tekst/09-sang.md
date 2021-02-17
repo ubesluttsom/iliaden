@@ -469,7 +469,7 @@ Endelig føiet jeg hende; men straks fik min far det at vite.\
 Haardt han bandet mig selv, og til hevnens forfærdende vætter\
 skrek han og bad at jeg aldrig paa knæ maatte vugge en elsket\
 søn som jeg selv hadde avlet, og guderne hørte hans bønner,\
-underverdenens Zevs og den grusomme Persefoneia,\
+underverdenens Zevs og den grusomme Persefoneia.\
 Rasende pønset jeg da paa at dræpe min far med det skarpe\
 slagsverd av kobber. Da dæmpet en gud min harm, og i hjertet\
 vakte han rædsel for landsmænds dom og menneskers haansord,\
