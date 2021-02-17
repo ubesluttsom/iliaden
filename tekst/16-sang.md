@@ -7,80 +7,80 @@
 
 ::: {.sang}
 
-[S]{.initial}aaledes kjæmpet de der i en strid om den toftede snekke.
-Men Patroklos gik frem for folkenes hyrde Akillevs.
-Taarerne strømmet saa hete og stridt lik bækken som risler
-ned med sit blaasorte strømmende vand over styrtbratte fjeldvæg.
-Medynk følte den fotrappe helt Akillevs ved synet.
-Trøstende lød hans vingede ord, da han talte til helten:
-«Kjære Patroklos! hvi graater du slik som en hjælpeløs pike
-liten og spæd, som gaar med sin mor og napper i kjolen
-stadig og stanser den ilendes hast og vil bæres paa armen.
-Graatende stirrer hun op paa sin mor, til hun løfter den lille.
-Saaledes graater du nu dine modige taarer, Patroklos.
-Har du til myrmidonernes folk nogen melding at bringe,
-eller til mig, eller hørte du selv et budskap fra Ftia?
-Baade Menoitios, Aktors søn, og den værdige Pelevs
-lever jo endnu i hjemmet som før, som rygtet fortæller,
-og det er disse, hvis død vilde volde os sorgen den tunge.
-Kanske du jamrer dig saa for argeiernes helter som straffes
-nu for sin brøde og finder sin død ved de stavnhøie snekker?
+[S]{.initial}aaledes kjæmpet de der i en strid om den toftede snekke.\
+Men Patroklos gik frem for folkenes hyrde Akillevs.\
+Taarerne strømmet saa hete og stridt lik bækken som risler\
+ned med sit blaasorte strømmende vand over styrtbratte fjeldvæg.\
+Medynk følte den fotrappe helt Akillevs ved synet.\
+Trøstende lød hans vingede ord, da han talte til helten:\
+«Kjære Patroklos! hvi graater du slik som en hjælpeløs pike\
+liten og spæd, som gaar med sin mor og napper i kjolen\
+stadig og stanser den ilendes hast og vil bæres paa armen.\
+Graatende stirrer hun op paa sin mor, til hun løfter den lille.\
+Saaledes graater du nu dine modige taarer, Patroklos.\
+Har du til myrmidonernes folk nogen melding at bringe,\
+eller til mig, eller hørte du selv et budskap fra Ftia?\
+Baade Menoitios, Aktors søn, og den værdige Pelevs\
+lever jo endnu i hjemmet som før, som rygtet fortæller,\
+og det er disse, hvis død vilde volde os sorgen den tunge.\
+Kanske du jamrer dig saa for argeiernes helter som straffes\
+nu for sin brøde og finder sin død ved de stavnhøie snekker?\
 Si det, og rug ikke over din kval. La os vite den begge.»
 
-Sukkende svarte du da, du hestetumler Patroklos:
-'Pelevs' søn, Akillevs, akaiernes ypperste høvding!
-Vær ikke vred; ti akaiernes mænd er kuet av kvaler.
-Alle de høibaarne mænd, som fordum blev nævnt blandt de bedste,
-ligger ved skibene saaret av spyd eller rammet av sverdhugg.
-Saaret er Tydevs' søn, den vældige helt Diomedes;
+Sukkende svarte du da, du hestetumler Patroklos:\
+«Pelevs' søn, Akillevs, akaiernes ypperste høvding!\
+Vær ikke vred; ti akaiernes mænd er kuet av kvaler.\
+Alle de høibaarne mænd, som fordum blev nævnt blandt de bedste,\
+ligger ved skibene saaret av spyd eller rammet av sverdhugg.\
+Saaret er Tydevs' søn, den vældige helt Diomedes;\
 [(26–63) ]{.linjenummer}
-helten Odyssevs er saaret og mændenes drot Agamemnon,
-og av en pil blev fornys Evrypylos rammet i laaret
-Lægerne søker nu travlt med dulmende urter at hele
-kjæmpernes saar; men du er ubøielig, stolte Akillevs.
-Maatte dog aldrig en vrede som din, du mester i vanheld,
-gripe mig selv! Hvem fryder din daad blandt kommende slegter,
-dersom du ikke vil verne mot skjendsel og død dine landsmænd?
-Grusomme! Ikke er Pelevs, den frygtløse vognhelt, dit ophav.
-Ikke er Tetis din mor. Dig avlet det blaanende havdyp
-eller det styrtbratte fjeld; ti haardt er dit hjerte som stenen.
-Dersom dit hjerte nu bæver i gru for et varsel fra guder,
-og din ærværdige mor fra Zevs har bragt dig et budskap,
-da faar du sende mig selv og med mig myrmidonernes fylking
-samlet til hjælp, om jeg kunde vorde danaernes redning.
-La mig saa ogsaa faa bære din herlige rustning om skuldre.
-Kanske vil troerne narres og tro, det er dig, og i rædsel
-holde sig borte fra kamp, saa akaierne nu i sin vaande
-kunde faa hvile en stund og komme sig litt efter kampen.
-Er vi saa uthvilt, saa kunde vi let i kampen faa jaget
+helten Odyssevs er saaret og mændenes drot Agamemnon,\
+og av en pil blev fornys Evrypylos rammet i laaret.\
+Lægerne søker nu travlt med dulmende urter at hele\
+kjæmpernes saar; men *du* er ubøielig, stolte Akillevs.\
+Maatte dog aldrig en vrede som din, du mester i vanheld,\
+gripe mig selv! Hvem fryder din daad blandt kommende slegter,\
+dersom du ikke vil verne mot skjendsel og død dine landsmænd?\
+Grusomme! Ikke er Pelevs, den frygtløse vognhelt, dit ophav.\
+Ikke er Tetis din mor. Dig avlet det blaanende havdyp\
+eller det styrtbratte fjeld; ti haardt er dit hjerte som stenen.\
+Dersom dit hjerte nu bæver i gru for et varsel fra guder,\
+og din ærværdige mor fra Zevs har bragt dig et budskap,\
+da faar du sende mig selv og med mig myrmidonernes fylking\
+samlet til hjælp, om *jeg* kunde vorde danaernes redning.\
+La mig saa ogsaa faa bære din herlige rustning om skuldre.\
+Kanske vil troerne narres og tro, det er *dig*, og i rædsel\
+holde sig borte fra kamp, saa akaierne nu i sin vaande\
+kunde faa hvile en stund og komme sig litt efter kampen.\
+Er vi saa uthvilt, saa kunde vi let i kampen faa jaget\
 mødige mænd til byen paa flugt fra skibe og telter.»
 
-Bedende talte han saa; men han bad som den blindeste daare;
+Bedende talte han saa; men han bad som den blindeste daare;\
 ti det var død og fordærv for sig selv han tryglende bad om.
 
-Sukkende tungt tok straks den raske Akillevs til orde:
-«Aa, Patroklos, du høibaarne helt, hvad er det du sier"?
-Nei, jeg ængster mig ei for et guddomsord som jeg hørte,
-og fra Zevs har min værdige mor ei bragt noget budskap;
-men i mit hjerte og sind blir jeg pint av nagende kvaler,
-naar for at føie sin lyst en mand vil plyndre sin like
-og ta fra ham hans hædrende løn, fordi han har magten.
-Tungsind trykker mig haardt; ti bitreste kval har jeg døiet.
-Møen, min hædrende løn, som akaierne selv hadde git mig,
-hun som jeg vandt med mit spyd, dajegstyrtetigrus hendeshjemby,
-hende har Atrevs' søn, den mægtige drot Agamemnon,
-røvet mig frækt, som var jeg en landstryker, retløs paa tinge.
-Dog la gjort være gjort. At vredes til evige tider
-var jo ei heller mit hjertes begjær. Jeg lovet jo dengang
-ikke at glemme min harm, før kamp og gjaldende hærskrik
-kom mig paa nærmeste hold og raste omkring mine snekker.
+Sukkende tungt tok straks den raske Akillevs til orde:\
+«Aa, Patroklos, du høibaarne helt, hvad er det du sier?\
+Nei, jeg ængster mig ei for et guddomsord som jeg hørte,\
+og fra Zevs har min værdige mor ei bragt noget budskap;\
+men i mit hjerte og sind blir jeg pint av nagende kvaler,\
+naar for at føie sin lyst en mand vil plyndre sin like\
+og ta fra ham hans hædrende løn, fordi han har magten.\
+Tungsind trykker mig haardt; ti bitreste kval har jeg døiet.\
+Møen, min hædrende løn, som akaierne selv hadde git mig,\
+hun som jeg vandt med mit spyd, da jeg styrtet i grus hendes hjemby,\
+hende har Atrevs' søn, den mægtige drot Agamemnon,\
+røvet mig frækt, som var jeg en landstryker, retløs paa tinge.\
+Dog la gjort være gjort. At vredes til evige tider\
+var jo ei heller mit hjertes begjær. Jeg lovet jo dengang\
+ikke at glemme min harm, før kamp og gjaldende hærskrik\
+kom mig paa nærmeste hold og raste omkring mine snekker.\
 [(64–101) ]{.linjenummer}
-gSpænd da du om skuldre og bryst min herlige rustning.
-Før til den herjende kamp myrmidonernes krigerske skarer,
-eftersom troerne flokker sig alt som en mørknende stormsky
-om vore snekker med seirende kraft, og akaierne trænges
-sammen paa stranden, hvor pladsen er knap som deendnukanverge.
-Troernes samlede by er rykket imot dem og kjæmper
+Spænd da *du* om skuldre og bryst min herlige rustning.\
+Før til den herjende kamp myrmidonernes krigerske skarer,\
+eftersom troerne flokker sig alt som en mørknende stormsky\
+om vore snekker med seirende kraft, og akaierne trænges\
+sammen paa stranden, hvor pladsen er knap som de endnu kan verge.\
+Troernes samlede by er rykket imot dem og kjæmper\
 trodsig og kjækt; ti de ser ikke mer min luende stridshjelm
 blinke saa truende nær; da tok de nok flugten og fyldte
 graven med dynger av lik, hvis mændenes drot Agamemnon
