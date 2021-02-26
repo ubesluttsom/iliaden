@@ -361,222 +361,222 @@ kjække med lansen, den mægtige drot Amisódoros' sønner,\
 drottens som fostret, saa mangen til men, den grumme Kimaira.
 [(330–67) ]{.linjenummer}
 
-Aias, Oilevs' søn, sprang frem og tok Kleobulos
-levende fangen; ti høvdingen faldt, da han snublet i vrimlen.
-Dog, han røvet ham hastig hans liv med sit mægtige slagsverd.
-Sverdet blev varmt av det strømmende blod, og over hans øine
-sænket sig døden, den sorte. Han faldt for den mægtige skjæbne.
-Nu fôr Penéleos frem og møttes med Lykon; ti begge
-feilet hinanden med spyd og kastet sin lanse forgjæves.
-Derefter gik de hverandre tillivs med sverdet, og Lykon
-rammet den haaromflagrede hjelm i kammen; men klingen
-brast overtvers ved heftet; men helten Penéleos traf ham
-ret under øret i halsen, og klingen fôr ind, saa hans hode
-segnet og hang i en strimmel av hud, og hans lemmer blev lammet.
-Helten Meriones naadde paa hurtige føtter og rammet
-Akamas just som han steg paa sin vogn, i skuldren til høire.
-Ned fra stridsvognen faldt han, og dødstaaken slørte hans øine.
-Drotten Idomenevs traf med det grusomme kobber i munden
-høvdingen Erymas. Ut gjennem nakken og under hans hjerne
-trængte det malmhvasse spyd og knuste de skinnende knokler.
-Tænderne løsnet fra kjæven, og begge hans øine blev blodsprængt.
-Blodstrømmen stod ham av næse og mund, da han gapende snappet
+Aias, Oilevs' søn, sprang frem og tok Kleobulos\
+levende fangen; ti høvdingen faldt, da han snublet i vrimlen.\
+Dog, han røvet ham hastig hans liv med sit mægtige slagsverd.\
+Sverdet blev varmt av det strømmende blod, og over hans øine\
+sænket sig døden, den sorte. Han faldt for den mægtige skjæbne.\
+Nu fôr Penéleos frem og møttes med Lykon; ti begge\
+feilet hinanden med spyd og kastet sin lanse forgjæves.\
+Derefter gik de hverandre tillivs med sverdet, og Lykon\
+rammet den haaromflagrede hjelm i kammen; men klingen\
+brast overtvers ved heftet; men helten Penéleos traf ham\
+ret under øret i halsen, og klingen fôr ind, saa hans hode\
+segnet og hang i en strimmel av hud, og hans lemmer blev lammet.\
+Helten Meriones naadde paa hurtige føtter og rammet\
+Akamas just som han steg paa sin vogn, i skuldren til høire.\
+Ned fra stridsvognen faldt han, og dødstaaken slørte hans øine.\
+Drotten Idomenevs traf med det grusomme kobber i munden\
+høvdingen Erymas. Ut gjennem nakken og under hans hjerne\
+trængte det malmhvasse spyd og knuste de skinnende knokler.\
+Tænderne løsnet fra kjæven, og begge hans øine blev blodsprængt.\
+Blodstrømmen stod ham av næse og mund, da han gapende snappet\
 efter sit veir, og hans øine blev slørt av den sortnende dødssky.
 
-Disse danaiske høvdinger vog hver enkelt en stridsmand.
-Som naar de glubende ulver gaar løs paa lam eller smaakid,
-snappende ett efter ett fra smaafæets flokker, som streifer
-spredt med en uøvet gjæter paa fjeld; ti straks, naar de ser det,
-myrder de rasende ulver i flæng det modløse smaafæ,
-slik fôr danaerne løs paa troernes stridsmænd, som tænkte
+Disse danaiske høvdinger vog hver enkelt en stridsmand.\
+Som naar de glubende ulver gaar løs paa lam eller smaakid,\
+snappende ett efter ett fra smaafæets flokker, som streifer\
+spredt med en uøvet gjæter paa fjeld; ti straks, naar de ser det,\
+myrder de rasende ulver i flæng det modløse smaafæ,\
+slik fôr danaerne løs paa troernes stridsmænd, som tænkte\
 bare paa larmende flugt og glemte det stormende kampmod.
 
-Aias, den vældige, fristet med spyd ihærdig at ramme
-Hektor, den malmklædte helt; men kyndig i krigeres idræt,
-speidet han, dækket om skuldre og bryst av oksehudsskjoldet,
-skarpt efter hver en svirrende pil eller hvinende lanse.
-Vistnok merket han nu at seiren var nærved at skifte;
-dog, han stod hvor han stod og frelste de trofaste venner.
-Som naar en sky fra det høie Olymp over himmelen jager
-efter en klarveirsdag, naar Zevs vil sende et regnskyl,
-saaledes fôr de fra skibene bort i skrikende rædsel.
-Flugten tilbake var tugtløs og vild. De fotrappe hester
+Aias, den vældige, fristet med spyd ihærdig at ramme\
+Hektor, den malmklædte helt; men kyndig i krigeres idræt,\
+speidet han, dækket om skuldre og bryst av oksehudsskjoldet,\
+skarpt efter hver en svirrende pil eller hvinende lanse.\
+Vistnok merket han nu at seiren var nærved at skifte;\
+dog, han stod hvor han stod og frelste de trofaste venner.\
+Som naar en sky fra det høie Olymp over himmelen jager\
+efter en klarveirsdag, naar Zevs vil sende et regnskyl,\
+saaledes fôr de fra skibene bort i skrikende rædsel.\
+Flugten tilbake var tugtløs og vild. De fotrappe hester\
 [(368–405) ]{.linjenummer}
-fôr med den malmklædte Hektor avsted; men de troiske stridsmænd
-lot han tilbake; ti veien var stængt av den mægtige voldgrav.
-Mangt et travende spand lor høvdingers rullende stridsvogn
-knækket i graven den kraftige stang og lot vognen tilbake.
-Efter dem stormet Patroklos og egget danaerne ivrig
-ønskende troerne død og fordærv, og i larmende rædsel
-fyldte de spredt hver eneste vei, og høit under himlen
-spredte sig skyer av støv, mens skarer av trampende hester
-stormet i ilende løp fra skibe og telter mot byen.
-Der hvor Patroklos blev var den tætteste vrimmel av stridsmænd,
-styrte han selv sine hester med rop. Fra vognene tumlet
-hodekulds mænd under akslerne ned, og vognene veltet.
-Henover voldgraven hoppet saa let de fotrappe hester,
-født av udødelig byrd, hin gudernes gave til Pelevs,
-ilende fremad i storm; ti hans kamplyst drev ham mot Hektor.
-Ham vilde høvdingen ramme; men hestenes raskhet fik frelst ham.
-Som naar den mørknende jord blir knuget av stormenes vælde
-sent i de høstlige dage, naar Zevs lar plaskende regnskyl
-strømme fra sky i nidkjær harm mot mænd som vil bøie
-retten med vold og fælder übillige domme paa tinge,
-jagende retfærd paa dør og trodsende gudernes vilje —
-svulmende stiger hver strømmende elv og fyldes til randen.
-Flomvandet skjærer sig ind og flytter saa mangen en jordskrænt.
-Ut i det blaanende hav med larmende brusen de strømmer
-ned fra det styrtbratte fjeld og øder hvad mennesker dyrket —
+fôr med den malmklædte Hektor avsted; men de troiske stridsmænd\
+lot han tilbake; ti veien var stængt av den mægtige voldgrav.\
+Mangt et travende spand for høvdingers rullende stridsvogn\
+knækket i graven den kraftige stang og lot vognen tilbake.\
+Efter dem stormet Patroklos og egget danaerne ivrig\
+ønskende troerne død og fordærv, og i larmende rædsel\
+fyldte de spredt hver eneste vei, og høit under himlen\
+spredte sig skyer av støv, mens skarer av trampende hester\
+stormet i ilende løp fra skibe og telter mot byen.\
+Der hvor Patroklos blev var den tætteste vrimmel av stridsmænd,\
+styrte han selv sine hester med rop. Fra vognene tumlet\
+hodekulds mænd under akslerne ned, og vognene veltet.\
+Henover voldgraven hoppet saa let de fotrappe hester,\
+født av udødelig byrd, hin gudernes gave til Pelevs,\
+ilende fremad i storm; ti hans kamplyst drev ham mot Hektor.\
+Ham vilde høvdingen ramme; men hestenes raskhet fik frelst ham.\
+Som naar den mørknende jord blir knuget av stormenes vælde\
+sent i de høstlige dage, naar Zevs lar plaskende regnskyl\
+strømme fra sky i nidkjær harm mot mænd som vil bøie\
+retten med vold og fælder ubillige domme paa tinge,\
+jagende retfærd paa dør og trodsende gudernes vilje —\
+svulmende stiger hver strømmende elv og fyldes til randen.\
+Flomvandet skjærer sig ind og flytter saa mangen en jordskrænt.\
+Ut i det blaanende hav med larmende brusen de strømmer\
+ned fra det styrtbratte fjeld og øder hvad mennesker dyrket —\
 saaledes løp i larmende hast de troiske hester.
 
-Men da Patroklos fik hugget sig vei blandt de forreste flokker,
-stængte han veien og drev dem igjen tilbake til flaaten.
-Ei lot han nogen faa naa, som de inderlig ønsket, til byen;
-men mellem elven og snekkernes rad og den kneisende ringmur
-stormet han mot dem, og mangen en helt maatte bøte med livet.
-Pronoos rammet han først med den blinkende lanse, da helten
-blottet bak skjoldet sit mandige bryst, og lammet hans lemmer.
-Drønende faldt han til jord, og derefter stormet Patroklos
-frem imot Testor, Enops' søn. Han sat paa sin stridsvogn
-knuget i knæ av lammende gru, og hestenes tøiler
-slap han av hænde. Da traadte han nær og støtte sin lanse
-ind i hans kjæve tilhøire, og ind mellem tænderne fôr den.
+Men da Patroklos fik hugget sig vei blandt de forreste flokker,\
+stængte han veien og drev dem igjen tilbake til flaaten.\
+Ei lot han nogen faa naa, som de inderlig ønsket, til byen;\
+men mellem elven og snekkernes rad og den kneisende ringmur\
+stormet han mot dem, og mangen en helt maatte bøte med livet.\
+Pronoos rammet han først med den blinkende lanse, da helten\
+blottet bak skjoldet sit mandige bryst, og lammet hans lemmer.\
+Drønende faldt han til jord, og derefter stormet Patroklos\
+frem imot Testor, Enops' søn. Han sat paa sin stridsvogn\
+knuget i knæ av lammende gru, og hestenes tøiler\
+slap han av hænde. Da traadte han nær og støtte sin lanse\
+ind i hans kjæve tilhøire, og ind mellem tænderne fôr den.\
 [(406–43) ]{.linjenummer}
-Derefter trak han ham frem med sit spyd over kanten av vognen.
-Ret som en fisker som sitter paa skrænt og trækker fra dypet
-fisken den tunge i land med snøre og skinnende malmkrok,
-saaledes trak han med lansen den gapende høvding fra vognen,
-kastet ham hodekulds ned, og livet forlot ham i faldet.
-Helten Erýlaos ilte til hjælp; men han traf ham i panden
-haardt med en sten, og hele hans hodeskal knustes i splinter
-indenfor hjelmen, den tunge. Han faldt paa sit ansigt til jordei;.
-Livskraften lammedes brat av døden som sænket sig om ham.
-Derefter fældte han Erymas, Pyris, Epaltes og Ifevs.
-Evippos faldt og helten Tlepolemos, søn av Damastor.
-Ekios segnet tilsidst og Argeas' søn Polymelos.
+Derefter trak han ham frem med sit spyd over kanten av vognen.\
+Ret som en fisker som sitter paa skrænt og trækker fra dypet\
+fisken den tunge i land med snøre og skinnende malmkrok,\
+saaledes trak han med lansen den gapende høvding fra vognen,\
+kastet ham hodekulds ned, og livet forlot ham i faldet.\
+Helten Erýlaos ilte til hjælp; men han traf ham i panden\
+haardt med en sten, og hele hans hodeskal knustes i splinter\
+indenfor hjelmen, den tunge. Han faldt paa sit ansigt til jorden.\
+Livskraften lammedes brat av døden som sænket sig om ham.\
+Derefter fældte han Erymas, Pyris, Epaltes og Ifevs.\
+Evippos faldt og helten Tlepolemos, søn av Damastor.\
+Ekios segnet tilsidst og Argeas' søn Polymelos.\
 Høvdingen styrtet dem alle til jord i rad og i række.
 
-Men da Sarpedon blev var at hans belteløst kjæmpende svende
-faldt for Menoitios' søn, for Patroklos' vældige næver,
-ropte han strengt til Lykiens mænd, de herlige kjæmper:
-«Skam jer! Hvor flygter I hen? Kom, rap jer, lykiske svende!
-Ja, ti jeg agter nu selv at møte hin helt og faa vite,
-hvem det kan være som raser saa vildt og har voldt vore troer
+Men da Sarpedon blev var at hans belteløst kjæmpende svende\
+faldt for Menoitios' søn, for Patroklos' vældige næver,\
+ropte han strengt til Lykiens mænd, de herlige kjæmper:\
+«Skam jer! Hvor flygter I hen? Kom, rap jer, lykiske svende!\
+Ja, ti jeg agter nu selv at møte hin helt og faa vite,\
+hvem det kan være som raser saa vildt og har voldt vore troer\
 ulykker nok; ti saa mangen en helt har han lamslaat og fældet.»
 
-Saa han talte og hoppet til jord i sin skinnende rustning.
-Ogsaa den sterkePatroklos sprangned frasin vogn, dahan saaham.
-Som naar med krummede klør og neb to graadige gribber
-rives med skingrende skrik paa høifjeldets svimlende tinde,
-saaledes gik de hinanden tillivs med gjaldende hærskrik.
-Grepet av ynk blev den. raadsnilde Kronos' søn, da han saa dem.
-Mælte han da til Hera, sin værdige søster og hustru:
-«Aa, for en sorg, om min kjæreste helt Sarpedon maa falde
-nu for Patroklos, Menoitios' søn, efter skjæbnens beslutning.
-Tvilende banker mit hjerte i barm, naar tankerne drøfter
-om jeg skal rive ham bort fra de graatsvangre kampe og føre
-høvdingen levende hjem til Lykiens frugtbare egne,
-eller jeg nu skal volde hans fald for Patroklos' hænder.
+Saa han talte og hoppet til jord i sin skinnende rustning.\
+Ogsaa den sterke Patroklos sprang ned fra sin vogn, da han saa ham.\
+Som naar med krummede klør og neb to graadige gribber\
+rives med skingrende skrik paa høifjeldets svimlende tinde,\
+saaledes gik de hinanden tillivs med gjaldende hærskrik.\
+Grepet av ynk blev den raadsnilde Kronos' søn, da han saa dem.\
+Mælte han da til Hera, sin værdige søster og hustru:\
+«Aa, for en sorg, om min kjæreste helt Sarpedon maa falde\
+nu for Patroklos, Menoitios' søn, efter skjæbnens beslutning.\
+Tvilende banker mit hjerte i barm, naar tankerne drøfter\
+om jeg skal rive ham bort fra de graatsvangre kampe og føre\
+høvdingen levende hjem til Lykiens frugtbare egne,\
+eller jeg nu skal volde hans fald for Patroklos' hænder.»
 
-Harmfuld svarte ham da den mørkøide værdige Hera:
-«Kronos' søn, du vældige gud, hvad er det du sier?
-Vil du da frelse en dødelig mand, som skjæbnen, den grumme,
-kaaret forlængst, fraen jammerfulddødpaaden larmende valplads?
-Gjør det; men ei vil din gjerning bli rost av samtlige guder.
+Harmfuld svarte ham da den mørkøide værdige Hera:\
+«Kronos' søn, du vældige gud, hvad er det du sier?\
+Vil du da frelse en dødelig mand, som skjæbnen, den grumme,\
+kaaret forlængst, fra en jammerfuld død paa den larmende valplads?\
+Gjør det; men ei vil din gjerning bli rost av samtlige guder.\
 [(444–81) ]{.linjenummer}
-Nu vil jeg si noget andet, og læg dig inin tale paa sinde:
-Dersom du frelser Sarpedon idag til hans hjem i det fjerne,
-da faar du ta dig iagt, at ikke en anden blandt guder
-ogsaa vil sende sin elskede søn fra de grufulde kampe;
-ti rundt Priamos' mægtige by maa kjæmpe saa mange
-sønner av guder, og frygtelig harm vil du vække hos alle.
-Men naar du har ham saa kjær og ynker ham saa i dit hjerte,
-find dig da i at Menoitios' søn, den sterke Patroklos,
-fælder ham nu i det larmende slag med de vældige næver.
-Naar saa hans sjæl er flygtet, og aande og liv har forlatt ham,
-send da den kvægende Søvn og Døden avsted for at bære
-helten saa varlig til Lykiens land med de vidtstrakte marker.
-Der skal han lægges i haug av brødre og venner, og bauta
+Nu vil jeg si noget andet, og læg dig min tale paa sinde:\
+Dersom du frelser Sarpedon idag til hans hjem i det fjerne,\
+da faar du ta dig iagt, at ikke en anden blandt guder\
+ogsaa vil sende sin elskede søn fra de grufulde kampe;\
+ti rundt Priamos' mægtige by maa kjæmpe saa mange\
+sønner av guder, og frygtelig harm vil du vække hos alle.\
+Men naar du har ham saa kjær og ynker ham saa i dit hjerte,\
+find dig da i at Menoitios' søn, den sterke Patroklos,\
+fælder ham nu i det larmende slag med de vældige næver.\
+Naar saa hans sjæl er flygtet, og aande og liv har forlatt ham,\
+send da den kvægende Søvn og Døden avsted for at bære\
+helten saa varlig til Lykiens land med de vidtstrakte marker.\
+Der skal han lægges i haug av brødre og venner, og bauta\
 reises paa høvdingens grav. Saa hædrer man jo sine døde.»
 
-Saa hun talte, og guders og menneskers far lot sig raade.
-Blodige dugdraaper stænket han ned over jorderig vide,
-hædrende høit sin elskede søn, som den sterke Patroklos
+Saa hun talte, og guders og menneskers far lot sig raade.\
+Blodige dugdraaper stænket han ned over jorderig vide,\
+hædrende høit sin elskede søn, som den sterke Patroklos\
 snart skulde fælde paa Ilions mark, saa fjernt fra hans hjemland.
 
-Men da de møttes paa val og var kommet hinanden paa skudhold,
-rammet Patroklos' spyd den herlige helt Trasymelos,
-drotten Sarpedons trofaste ven og kraftige væbner.
-Nederst i buken han rammet ham haardt og lammet hans lemmer.
-Helten Sarpedon, som derpaa fôr frem med den blinkende lanse,
-traf ikke høvdingen selv med sit spyd; men i bogen tilhøire
-rammet han gangeren Pedasos haardt, og med skrikende vrinsken
-segnet den om i det blodige støv, og livskraften flygtet.
-Tvespandet rykket til hver sin kant, saa det knaket i aaket.
-Tømmerne viklet sig fast, da løshesten styrtet i støvet.
-Dog, den spydvante helt Avtomedon fandt paa en utvei.
-Raskt fra de kraftige lænder han rev sit mægtige slagsverd,
-styrtet saa til og hugg løshesten fra med et rammende sverdhugg.
-Hestene rettet sig ind og trak i de strammede remmer.
+Men da de møttes paa val og var kommet hinanden paa skudhold,\
+rammet Patroklos' spyd den herlige helt Trasymelos,\
+drotten Sarpedons trofaste ven og kraftige væbner.\
+Nederst i buken han rammet ham haardt og lammet hans lemmer.\
+Helten Sarpedon, som derpaa fôr frem med den blinkende lanse,\
+traf ikke høvdingen selv med sit spyd; men i bogen tilhøire\
+rammet han gangeren Pedasos haardt, og med skrikende vrinsken\
+segnet den om i det blodige støv, og livskraften flygtet.\
+Tvespandet rykket til hver sin kant, saa det knaket i aaket.\
+Tømmerne viklet sig fast, da løshesten styrtet i støvet.\
+Dog, den spydvante helt Avtomedon fandt paa en utvei.\
+Raskt fra de kraftige lænder han rev sit mægtige slagsverd,\
+styrtet saa til og hugg løshesten fra med et rammende sverdhugg.\
+Hestene rettet sig ind og trak i de strammede remmer.\
 Atter gik begge hinanden tillivs i en dødssvanger tvekamp.
 
-Feilet da drotten Sarpedon paany med den blinkende lanse.
-Spydsodden suste Patroklos forbi over skuldren tilvenstre
-uten at ramme; men derefter svang den sterke Patroklos
-lansen og slynget den ei forgjæves fra haanden, men rammet
-der hvor mellemgulvshinden er spændt som et dække om hjertet.
+Feilet da drotten Sarpedon paany med den blinkende lanse.\
+Spydsodden suste Patroklos forbi over skuldren tilvenstre\
+uten at ramme; men derefter svang den sterke Patroklos\
+lansen og slynget den ei forgjæves fra haanden, men rammet\
+der hvor mellemgulvshinden er spændt som et dække om hjertet.\
 [(482–519) ]{.linjenummer}
-Tungt han faldt som den mægtige ek eller poppelen falder
-eller en rankvoksen gran, som huggerne oppe i aasen
-fælder med nyslepne økser til kjøl for den ilende snekke.
-Saaledeslaahansaalangsomhanvarvedden forspændtestridsvogn,
-skjærende tænder og knuget det blodige støv i sin næve.
-Som naar en løve gaar ind i en bøling og dræper den stolte
-brunrøde okse som modig gaar om blandt de langsomme kvier —
-brølende aander den ut under udyrets knasende kjæver —
-saaledes harmedes nu, da han faldt for Patroklos, de kjække
-skjolddækte lykiers fører og kaldte ved navn paa sin staldbror:
-«Kjæreste Glavkos, du kjæmpe blandt mænd! nu er det paa tide
-spydet at svinge med kraft og vise dit mandsmod som kriger.
-Er du en helt, saa la stridslarmens gru være hele din higen.
-Først maa du ile omkring overalt og egge de tapre
-lykiers førende mænd til en kamp om den faldne Sarpedon.
-Ogsaa du selv maa verne din ven med den malmhvasse lanse;
-ti min usalige lod vil vorde til evige tider
-stadig en skam og en skjendsel for dig, hvis akaiernes sønner
-røver mig rustningen her hvor jeg faldt ved skibenes leie.
-Selv maa du kjæmpe med kraft, og hele vor hær maa du egge.
+Tungt han faldt som den mægtige ek eller poppelen falder\
+eller en rankvoksen gran, som huggerne oppe i aasen\
+fælder med nyslepne økser til kjøl for den ilende snekke.\
+Saaledes laa han saa lang som han var ved den forspændte stridsvogn,\
+skjærende tænder og knuget det blodige støv i sin næve.\
+Som naar en løve gaar ind i en bøling og dræper den stolte\
+brunrøde okse som modig gaar om blandt de langsomme kvier —\
+brølende aander den ut under udyrets knasende kjæver —\
+saaledes harmedes nu, da han faldt for Patroklos, de kjække\
+skjolddækte lykiers fører og kaldte ved navn paa sin staldbror:\
+«Kjæreste Glavkos, du kjæmpe blandt mænd! nu er det paa tide\
+spydet at svinge med kraft og vise dit mandsmod som kriger.\
+Er du en helt, saa la stridslarmens gru være hele din higen.\
+Først maa du ile omkring overalt og egge de tapre\
+lykiers førende mænd til en kamp om den faldne Sarpedon.\
+Ogsaa du selv maa verne din ven med den malmhvasse lanse;\
+ti min usalige lod vil vorde til evige tider\
+stadig en skam og en skjendsel for dig, hvis akaiernes sønner\
+røver mig rustningen her hvor jeg faldt ved skibenes leie.\
+Selv maa du kjæmpe med kraft, og hele vor hær maa du egge.»
 
-Saa han talte. Da sænket sig brat over øine og ansigt
-døden tilsidst. Straks satte hin helt sin hæl paa hans bringe.
-Spydsodden rykket han ut, og hans mellemgulv fulgte med spydet.
-Sammen med spydsodden rykket han ut hanssjæloghanslivskraft.
-Men myrmidonerne holdt den fældedes prustende hester
+Saa han talte. Da sænket sig brat over øine og ansigt\
+døden tilsidst. Straks satte hin helt sin hæl paa hans bringe.\
+Spydsodden rykket han ut, og hans mellemgulv fulgte med spydet.\
+Sammen med spydsodden rykket han ut hans sjæl og hans livskraft.\
+Men myrmidonerne holdt den fældedes prustende hester\
 fast; ti de søkte at fly, da de savnet sin herre paa vognen.
 
-Glavkos blev grepet av pinende sorg, da han hørte hans stemme.
-Hjertet blev rørt i hans barm; men at hjælpe ham magtet han ikke.
-Haardt han grep om sin arm; ti han piutes av saaret som Tevkros
-slog med sin pil, da han ilte til kamp, og hin med sin bue
+Glavkos blev grepet av pinende sorg, da han hørte hans stemme.\
+Hjertet blev rørt i hans barm; men at hjælpe ham magtet han ikke.\
+Haardt han grep om sin arm; ti han pintes av saaret som Tevkros\
+slog med sin pil, da han ilte til kamp, og hin med sin bue\
 verget fra kneisende mur sine kjæmpende venner i nøden.
 
-Bedende talte han saa til skytten, den sterke Apollon:
-«Hør mig, hersker, hvad enten i Lykiens frugtbare egne
-eller i Troja du dvæler; ti allestedsfra kan du høre
-bønner fra den som maa klage sin nød, som selv jeg maa klage;
-ti jeg maa gaa med det pinende saar, og de skjærende smerter
-farer igjennem min haand, og blodstrømmen kan ikke stanses.
-Skulderen føles saa tung av den verkende vunde, og lansen
+Bedende talte han saa til skytten, den sterke Apollon:\
+«Hør mig, hersker, hvad enten i Lykiens frugtbare egne\
+eller i Troja du dvæler; ti allestedsfra kan du høre\
+bønner fra den som maa klage sin nød, som selv jeg maa klage;\
+ti jeg maa gaa med det pinende saar, og de skjærende smerter\
+farer igjennem min haand, og blodstrømmen kan ikke stanses.\
+Skulderen føles saa tung av den verkende vunde, og lansen\
 [(520–67) ]{.linjenummer}
-gmagter jeg ikke at holde med kraft eller stevne til kampen
-mot vore fiender. Falden er nu den tapre Sarpedon,
-Alfaders søn; ti end ikke ham forsvarer han længer.
-Himmelske drot, helbred da du min verkende vunde.
-Stil mine sviende smerter og und mig dog kraft til at egge
-Lykiens mænd med rop og drive dem frem til at kjæmpe,
+magter jeg ikke at holde med kraft eller stevne til kampen\
+mot vore fiender. Falden er nu den tapre Sarpedon,\
+Alfaders søn; ti end ikke ham forsvarer han længer.\
+Himmelske drot, helbred da du min verkende vunde.\
+Stil mine sviende smerter og und mig dog kraft til at egge\
+Lykiens mænd med rop og drive dem frem til at kjæmpe,\
 og la mig selv faa stevne til kamp for den fældede høvding.»
 
-Saaledes bad han, og bønnen blev hørt av Foibos Apollon.
+Saaledes bad han, og bønnen blev hørt av Foibos Apollon.\
 Smerterne stillet han straks, og bort fra den verkende vunde
 tørret han blodet det sorte og pustet ham mod i hans bringe.
 Følte da Glavkos det grant i sin sjæl, at den mægtige guddom
