@@ -1,10 +1,5 @@
 # Sekstende sang. *Sangen om Patroklos.* {epub:type=chapter}
 
-- [ ] Sjekk linjenummer.
-- [x] Erstatt «for» med «fôr».
-- [x] Erstatt «å» med «á» hvor aktuelt.
-- [x] Gjennomgått alle egennavn.
-
 ::: {.sang}
 
 [S]{.initial}aaledes kjæmpet de der i en strid om den toftede snekke.\
@@ -197,7 +192,7 @@ funklende malm, Sperkeios' søn, den himmelske flodguds.\
 Pelevs' datter, hans yndige mor Polydora, blev lønlig\
 favnet, skjønt dødelig mø, av guden, den sterke Sperkeios.\
 Men efter navnet var Boros hans far, Periéres' ætling;\
-[(78–215) ]{.linjenummer}
+[(178–215) ]{.linjenummer}
 ti for umaadelig skjænk blev møen hans viede hustru.\
 Jomfrusønnen, den fremdjerve Evdoros, førte den anden.\
 Fylas' barn Polymele, den yndigste kvinde i dansen,\
@@ -237,7 +232,7 @@ Som naar en murer med lag paa lag av fugede stener\
 reiser en mur i det høie palads for at lune mot stormen,\
 saaledes sluttet de tæt de buklede skjolde og hjelmer.\
 Krigernes skjold var støttet mot skjold og hjelmer mot hjelmer.\
-[(216–63) ]{.linjenummer}
+[(216–53) ]{.linjenummer}
 Kjæmperne stod saa tæt at de hestehaarsmykkede hjelmer\
 møttes med skjermenes straalende malm, naar de rørte sit hode.\
 Foran de øvrige klædte sig to i det skinnende panser,\
@@ -567,7 +562,7 @@ bønner fra den som maa klage sin nød, som selv jeg maa klage;\
 ti jeg maa gaa med det pinende saar, og de skjærende smerter\
 farer igjennem min haand, og blodstrømmen kan ikke stanses.\
 Skulderen føles saa tung av den verkende vunde, og lansen\
-[(520–67) ]{.linjenummer}
+[(520–57) ]{.linjenummer}
 magter jeg ikke at holde med kraft eller stevne til kampen\
 mot vore fiender. Falden er nu den tapre Sarpedon,\
 Alfaders søn; ti end ikke ham forsvarer han længer.\
@@ -577,373 +572,372 @@ Lykiens mænd med rop og drive dem frem til at kjæmpe,\
 og la mig selv faa stevne til kamp for den fældede høvding.»
 
 Saaledes bad han, og bønnen blev hørt av Foibos Apollon.\
-Smerterne stillet han straks, og bort fra den verkende vunde
-tørret han blodet det sorte og pustet ham mod i hans bringe.
-Følte da Glavkos det grant i sin sjæl, at den mægtige guddom
-straks hadde hørt hans brændende bøn, og han frydet sig saare.
-Først gik høvdingen om overalt og egget de tapre
-lykiers førende mænd til kamp for den faldne Sarpedon.
-Derefter gik han med vældige skridt til troernes skarer
-lien til Polydamas, Pantoos' søn, og den kjække Agenor,
-derpaa til helten Aineias og sidst til den nialmklædte Hektor.
-Trædende nær med vingede ord han talte til helten:
-cHektor, nu har du nok glemt dine hjælpere ganske i striden,
-mænd som fjernt fra sin fædrenejord og fra trofaste venner
-ofrer for dig sit liv, skjønt du ikke vil bringe dem frelse.
-Helten Sarpedon er dræpt, de skjolddækte lykiers fører,
-han som har raadet i Lykiens land med retfærd og styrke.
-Under Patroklos' spyd har den malmsterke Ares ham kuet.
-Venner! aa, kom os da hastig til hjælp og harmes i hjertet.
-La ikke myrmidonerne nu faa røvet hans rustning
-eller faa skjendet hans lik i harm for de faldne danaer,
+Smerterne stillet han straks, og bort fra den verkende vunde\
+tørret han blodet det sorte og pustet ham mod i hans bringe.\
+Følte da Glavkos det grant i sin sjæl, at den mægtige guddom\
+straks hadde hørt hans brændende bøn, og han frydet sig saare.\
+Først gik høvdingen om overalt og egget de tapre\
+lykiers førende mænd til kamp for den faldne Sarpedon.\
+Derefter gik han med vældige skridt til troernes skarer\
+hen til Polydamas, Pantoos' søn, og den kjække Agenor,\
+derpaa til helten Aineias og sidst til den malmklædte Hektor.\
+Trædende nær med vingede ord han talte til helten:\
+«Hektor, nu har du nok glemt dine hjælpere ganske i striden,\
+mænd som fjernt fra sin fædrenejord og fra trofaste venner\
+ofrer for dig sit liv, skjønt du ikke vil bringe dem frelse.\
+Helten Sarpedon er dræpt, de skjolddækte lykiers fører,\
+han som har raadet i Lykiens land med retfærd og styrke.\
+Under Patroklos' spyd har den malmsterke Ares ham kuet.\
+Venner! aa, kom os da hastig til hjælp og harmes i hjertet.\
+La ikke myrmidonerne nu faa røvet hans rustning\
+eller faa skjendet hans lik i harm for de faldne danaer,\
 alle de mange vi dræpte med spyd ved de hurtige snekker.»
 
-Saa han talte. Den bitreste sorg og ulidelig smerte
-lammet fra isse til fot de troiske kjæmper, da helten
-vernet, skjønt fremmed, med kraft deres by; ti talrike stridsmænd
-fulgte ham tro, og tapper som han var ingen iblandt dem.
-Rasende stormet de ind paa danaernes kjæmper, og Hektor
-førte dem, vred for Sarpedon, sin fældede ven; men Patroklos
-egget med mod i det mandige bryst akaiernes sønner.
-Begge Aianterne nævnte han først, de kamplystne helter:
-<Hør mig, Aianter, og kjæmp, som var det jer kjæreste syssel,
-slik som I kjæmpet tilforn blandt mænd, eller bedre end fordum.
+Saa han talte. Den bitreste sorg og ulidelig smerte\
+lammet fra isse til fot de troiske kjæmper, da helten\
+vernet, skjønt fremmed, med kraft deres by; ti talrike stridsmænd\
+fulgte ham tro, og tapper som han var ingen iblandt dem.\
+Rasende stormet de ind paa danaernes kjæmper, og Hektor\
+førte dem, vred for Sarpedon, sin fældede ven; men Patroklos\
+egget med mod i det mandige bryst akaiernes sønner.\
+Begge Aianterne nævnte han først, de kamplystne helter:\
+«Hør mig, Aianter, og kjæmp, som var det jer kjæreste syssel,\
+slik som I kjæmpet tilforn blandt mænd, eller bedre end fordum.\
 [(558–95) ]{.linjenummer}
-Fældet er nu Sarpedon, hin helt som sprang som den første
-over akaiernes mur. Aa, kunde vi skjende den faldne,
-rive hans rustning fra skuldrene løs og med malmen den grumme
+Fældet er nu Sarpedon, hin helt som sprang som den første\
+over akaiernes mur. Aa, kunde vi skjende den faldne,\
+rive hans rustning fra skuldrene løs og med malmen den grumme\
 kue saa mangen en ven, som verger hans lik med sin lanse!»
 
-Saa han talte, og lystne paa kamp var de begge paa forhaand.
-Men da nu begge de kjæmpende folk hadde styrket sin fylking,
-troer og lykiske mænd, myrmidoner og tapre akaier,
-tørnet de sammen i rasende kamp om liket, og grufuldt
-lød deres skrik, og det klirret og klang i heltenes rustning.
-Zevs lot falde uhyggelig nat over kampenes tummel,
+Saa han talte, og lystne paa kamp var de begge paa forhaand.\
+Men da nu begge de kjæmpende folk hadde styrket sin fylking,\
+troer og lykiske mænd, myrmidoner og tapre akaier,\
+tørnet de sammen i rasende kamp om liket, og grufuldt\
+lød deres skrik, og det klirret og klang i heltenes rustning.\
+Zevs lot falde uhyggelig nat over kampenes tummel,\
 forat en rædselsfuld strid skulde rase om sønnen, den kjære.
 
-Først jog troernes mænd akaiernes blaaøide sønner.
-Truffen blev helten Epeigevs, en søn av den tapre Agakles,
-langtfra den ringeste mand blandt myrmidonernes kjæmper.
-Fjernt i Budeion, den velbygde by, hadde fordum han hersket;
-men da han engang i kamp hadde fældet en høibaaren frænde,
-fandt han hos Pelevs et ly og den sølverfotede Tetis.
-Disse lot høvdingen følge som ven den tapre Akillevs,
-frem til Ilions hestrike by, til kampen mot Troja.
-Da han nu grep efter liket, da kastet den straalende Hektor
-midt i hans pande en sten, og hele hans hode blev splintret
-under den malmtunge hjelm, og henover liket han segnet
-om paa sit ansigt, og dræpende dødsnat sænket sig om ham.
-Helten Patroklos blev grepet av sorg for sin fældede staldbror.
-Mellem de forreste kjæmper han fôr saa hurtig som høken,
-naar den forfølger en flygtende sværm av stær eller skjærer.
-Saaledes styrtet du nu, du herlige vognhelt Patroklos,
-harmfuld i sind for din ven, mot troers og lykiers skarer.
-Rammet han da Itaimenes' søn, Stenelaos, i nakken
-haardt med en hvirvlende sten og sprængte de kraftige sener.
-Hektor, den straalende helt, og de forreste mænd maatte vike.
-Likesaa langt som et langskaftet spyd kan flyve i farten,
-slynget av manden som prøver sin kraft i den festlige kamplek
-eller i krig mot fienders flok som vil røve ham livet,
-likesaa langt vek troernes mænd for akaiernes fremstøt
-Glavkos, de skjolddækte lykiers drot, var den første som atter
-vendte sig om og fældte den mandige høvding Batykles,
-Chalkons søn, som bodde paa fædrenegaarden i Hellas
+Først jog troernes mænd akaiernes blaaøide sønner.\
+Truffen blev helten Epeigevs, en søn av den tapre Agakles,\
+langtfra den ringeste mand blandt myrmidonernes kjæmper.\
+Fjernt i Budeion, den velbygde by, hadde fordum han hersket;\
+men da han engang i kamp hadde fældet en høibaaren frænde,\
+fandt han hos Pelevs et ly og den sølverfotede Tetis.\
+Disse lot høvdingen følge som ven den tapre Akillevs,\
+frem til Ilions hestrike by, til kampen mot Troja.\
+Da han nu grep efter liket, da kastet den straalende Hektor\
+midt i hans pande en sten, og hele hans hode blev splintret\
+under den malmtunge hjelm, og henover liket han segnet\
+om paa sit ansigt, og dræpende dødsnat sænket sig om ham.\
+Helten Patroklos blev grepet av sorg for sin fældede staldbror.\
+Mellem de forreste kjæmper han fôr saa hurtig som høken,\
+naar den forfølger en flygtende sværm av stær eller skjærer.\
+Saaledes styrtet du nu, du herlige vognhelt Patroklos,\
+harmfuld i sind for din ven, mot troers og lykiers skarer.\
+Rammet han da Itaimenes' søn, Stenelaos, i nakken\
+haardt med en hvirvlende sten og sprængte de kraftige sener.\
+Hektor, den straalende helt, og de forreste mænd maatte vike.\
+Likesaa langt som et langskaftet spyd kan flyve i farten,\
+slynget av manden som prøver sin kraft i den festlige kamplek\
+eller i krig mot fienders flok som vil røve ham livet,\
+likesaa langt vek troernes mænd for akaiernes fremstøt.\
+Glavkos, de skjolddækte lykiers drot, var den første som atter\
+vendte sig om og fældte den mandige høvding Batykles,\
+Chalkons søn, som bodde paa fædrenegaarden i Hellas\
 [(596–633) ]{.linjenummer}
-grikt velsignet med gods og med gnid som faa myrmidoner.
-Glavkos vendte sig hastig omkring og traf ham med lansen
-midt i hans bryst, da han jaget ham selv og kom ham paa skudhold.
-Drønende faldt han til jord, og akaierne harmedes saare
-over den herlige høvding som faldt; men troerne jublet.
-Flokkevis stimlet de om ham; dog glemte de kjække akaier
-ikke sit mod, men stormet av ytterste evne imot dem.
-Der fik Meriones fældet en kjæk og velrustet troer,
-helten Laogonos, søn av en prest, Onetor, som tjente
-Zevs, den idæiske hersker, med ry som en guddom blandt folket.
-Midt under kjæven og øret han traf, og livskraften flygtet
-brat fra hans lemmer, og mørket, det grufulde, sænket sig om ham.
-Men mot Meriones slynget Aineias sit spyd; ti han haabet
-sikkert at ramme sit maal, da han gik ham i møte bak skjoldet.
-Dog, han vogtet sig vel og undgik den malmhvasse spydsod.
-Forover bøiet han sig, og bak ham boret den lange
-lanse sig ned i jorden med kraft saa dopskoen dirret.
-Ares, den vældige, stanset dog snart dens spænstige svingkraft.
-Dirrende boret Aineias' spyd sin malmodd i jorden.
-Uten at ramme sit maal fôr det ut av hans vældige næve.
-Grepet blev da Aineias av harm i sit hjerte og mælte:
-«Gjæve Meriones, vel er du mester i dans; men for altid
+rikt velsignet med gods og med guld som faa myrmidoner.\
+Glavkos vendte sig hastig omkring og traf ham med lansen\
+midt i hans bryst, da han jaget ham selv og kom ham paa skudhold.\
+Drønende faldt han til jord, og akaierne harmedes saare\
+over den herlige høvding som faldt; men troerne jublet.\
+Flokkevis stimlet de om ham; dog glemte de kjække akaier\
+ikke sit mod, men stormet av ytterste evne imot dem.\
+Der fik Meriones fældet en kjæk og velrustet troer,\
+helten Laogonos, søn av en prest, Onetor, som tjente\
+Zevs, den idæiske hersker, med ry som en guddom blandt folket.\
+Midt under kjæven og øret han traf, og livskraften flygtet\
+brat fra hans lemmer, og mørket, det grufulde, sænket sig om ham.\
+Men mot Meriones slynget Aineias sit spyd; ti han haabet\
+sikkert at ramme sit maal, da han gik ham i møte bak skjoldet.\
+Dog, han vogtet sig vel og undgik den malmhvasse spydsod.\
+Forover bøiet han sig, og bak ham boret den lange\
+lanse sig ned i jorden med kraft saa dopskoen dirret.\
+Ares, den vældige, stanset dog snart dens spænstige svingkraft.\
+Dirrende boret Aineias' spyd sin malmodd i jorden.\
+Uten at ramme sit maal fôr det ut av hans vældige næve.\
+Grepet blev da Aineias av harm i sit hjerte og mælte:\
+«Gjæve Meriones, vel er du mester i dans; men for altid\
 hadde nok spydsodden bragt dig til ro, om jeg nu hadde rammet.»
 
-Straks tok den spydvante helt Meriones ordet og svarte:
-«Vel er du sterk, Aineias; men svært vil det bli dig at knække
-kraften hos alle de modige mænd som gaar dig i møte
-her til en kamp; ti ogsaa du selv er en dødelig skabning.
-Kunde jeg bare faa jaget dig nu mit spyd gjennem livet,
-skjænket du straks, hvor stolt du end er av armenes styrke,
+Straks tok den spydvante helt Meriones ordet og svarte:\
+«Vel er du sterk, Aineias; men svært vil det bli dig at knække\
+kraften hos alle de modige mænd som gaar dig i møte\
+her til en kamp; ti ogsaa du selv er en dødelig skabning.\
+Kunde jeg bare faa jaget dig nu mit spyd gjennem livet,\
+skjænket du straks, hvor stolt du end er av armenes styrke,\
 hæder til mig og din sjæl til den gangertumlende Hades.»
 
-Saa han ropte. Da talte Menoitios' søn ham til rette:
-«Hvorfor, Meriones, snakker du slik? Du er da en kriger.
-Troerne viker nok ikke, min ven, for spottende haansord
-bort fra den faldne; men først naar mange er segnet til jorden.
-Kraftige arme gjør utslag i krig, men tungen i raadet.
+Saa han ropte. Da talte Menoitios' søn ham til rette:\
+«Hvorfor, Meriones, snakker du slik? Du er da en kriger.\
+Troerne viker nok ikke, min ven, for spottende haansord\
+bort fra den faldne; men først naar mange er segnet til jorden.\
+Kraftige arme gjør utslag i krig, men tungen i raadet.\
 Nu bør du ikke ta munden for fuld, men tænke paa kampen.»
 
-Derefter stormet han foran, og helten, den herlige, fulgte.
-Som naar i kløfter paa fjeld for huggernes klingende økser
+Derefter stormet han foran, og helten, den herlige, fulgte.\
+Som naar i kløfter paa fjeld for huggernes klingende økser\
 [(634–71) ]{.linjenummer}
-286
-trærne segner med brak, og larmen kan høres saa vide,
-saaledes steg fra den drønende jord med veiene brede
-larmen av klingende malm og av mægtige oksehudsskjolde,
-naar de blev rammet av sverd og av dobbethvæssede lanser.
-Nu skulde visselig ei den gløggeste mand kunne kjende
-længer Sarpedon, den herlige helt; ti nu var han dækket
-likefra isse til fot av blod og av støv og av vaaben.
-Stadig fôr heltene rundt hans lik som summende fluer
-sværmer i fjøset om kopper og kar som fyldes av melken
-tidlig om vaaren, naar skummende melk i spandene flyter.
-Saaledes stimlet de tæt om hans lik, og Alfader vendte
-aldrig det straalende øienpar bort fra de vældige kampe;
-men paa de kjæmpende skuet han ned, og dypt i sit hjerte
-drøftet han nu Patroklos' død i tvilende grublen,
-enten nu hist i den vældige kamp den straalende Hektor
-straks over helten Sarpedons lik skulde fælde med lansen
-ogsaa Patroklos og rive som rov hans rustning fra skuldre,
-eller han endnu for fler skulde øke den dødssvangre møie.
-Raadeligst fandt han det dog i sit sind, da han grublet paa dettt
-at Peleiden Akillevs' ven og mandige væbner
-skulde faa jage de troiske mænd og den malmklædte Hektor
-atter til byen paa flugt og røve mangfoldige livet.
-Først lot han Hektor bli lammet av skræk i det modige hjerte.
-Op paa stridsvognen steg han til flugt og bød sine troer
-hastig at fly; ti han skjønte at Zevs hadde veiet hans skjæbne.
-End ikke Lykiens kraftige mænd holdt stand; men de flygtet
-alle som en, da de saa at høvdingen, rammet i hjertet,
-laa i en dynge av lik; ti over ham segnet saa mange,
-nu da Kronos' søn lot striden, den vældige, strenges.
-Rustningens straalende malm fra Sarpedons mægtige skuldre
-rev de i hast, og Menoitios' søn, den vældige kjæmpe,
-lot sine landsmænd bære den bort til de rumstore snekker.
-Talte da Zevs, hin skyernes drot, et ord til Apollon:
-«Skynd dig, elskede Foibos, avsted til Sarpedon og løft ham
-bort fra spydenes kast og rens ham for blodet det sorte.
-Bær ham saa langt fra den blodige val og bad ham i elven.
-Salv med ambrosia liket og svøp det i himmelske klæder.
-Send ham saa bort og la tvillingbrødrene Søvnen og Døden
+trærne segner med brak, og larmen kan høres saa vide,\
+saaledes steg fra den drønende jord med veiene brede\
+larmen av klingende malm og av mægtige oksehudsskjolde,\
+naar de blev rammet av sverd og av dobbethvæssede lanser.\
+Nu skulde visselig ei den gløggeste mand kunne kjende\
+længer Sarpedon, den herlige helt; ti nu var han dækket\
+likefra isse til fot av blod og av støv og av vaaben.\
+Stadig fôr heltene rundt hans lik som summende fluer\
+sværmer i fjøset om kopper og kar som fyldes av melken\
+tidlig om vaaren, naar skummende melk i spandene flyter.\
+Saaledes stimlet de tæt om hans lik, og Alfader vendte\
+aldrig det straalende øienpar bort fra de vældige kampe;\
+men paa de kjæmpende skuet han ned, og dypt i sit hjerte\
+drøftet han nu Patroklos' død i tvilende grublen,\
+enten nu hist i den vældige kamp den straalende Hektor\
+straks over helten Sarpedons lik skulde fælde med lansen\
+ogsaa Patroklos og rive som rov hans rustning fra skuldre,\
+eller han endnu for fler skulde øke den dødssvangre møie.\
+Raadeligst fandt han det dog i sit sind, da han grublet paa dette,\
+at Peleiden Akillevs' ven og mandige væbner\
+skulde faa jage de troiske mænd og den malmklædte Hektor\
+atter til byen paa flugt og røve mangfoldige livet.\
+Først lot han Hektor bli lammet av skræk i det modige hjerte.\
+Op paa stridsvognen steg han til flugt og bød sine troer\
+hastig at fly; ti han skjønte at Zevs hadde veiet hans skjæbne.\
+End ikke Lykiens kraftige mænd holdt stand; men de flygtet\
+alle som en, da de saa at høvdingen, rammet i hjertet,\
+laa i en dynge av lik; ti over ham segnet saa mange,\
+nu da Kronos' søn lot striden, den vældige, strenges.\
+Rustningens straalende malm fra Sarpedons mægtige skuldre\
+rev de i hast, og Menoitios' søn, den vældige kjæmpe,\
+lot sine landsmænd bære den bort til de rumstore snekker.\
+Talte da Zevs, hin skyernes drot, et ord til Apollon:\
+«Skynd dig, elskede Foibos, avsted til Sarpedon og løft ham\
+bort fra spydenes kast og rens ham for blodet det sorte.\
+Bær ham saa langt fra den blodige val og bad ham i elven.\
+Salv med ambrosia liket og svøp det i himmelske klæder.\
+Send ham saa bort og la tvillingbrødrene Søvnen og Døden\
 [(672–709) ]{.linjenummer}
-gvære hans ilsomme følge og vakt og bringe ham snarlig
-hjem til Lykiens vidtstrakte land med de frugtbare marker.
-Der skal han lægges i haug av brødre og venner, og bauta
+være hans ilsomme følge og vakt og bringe ham snarlig\
+hjem til Lykiens vidtstrakte land med de frugtbare marker.\
+Der skal han lægges i haug av brødre og venner, og bauta\
 reises paa høvdingens grav. Saa hædrer man jo sine døde.»
 
-Saaledes talte hans far, og ei var Apollon uvillig.
-Ned ifra toppen av Ida han fôr til det grufulde feltslag.
-Fjernt fra de rammende spyd bar guden den ædle Sarpedon,
-badet i elven hans lik, og med himmelsk ambrosia salvet
-guden hans lemmer og svøpte ham ind i himmelske klæder.
-Derefter lot han det fotrappe par, de tvillinger bolde,
-Søvnen og Døden faa følge ham frem, og de bragte ham snarlig
+Saaledes talte hans far, og ei var Apollon uvillig.\
+Ned ifra toppen av Ida han fôr til det grufulde feltslag.\
+Fjernt fra de rammende spyd bar guden den ædle Sarpedon,\
+badet i elven hans lik, og med himmelsk ambrosia salvet\
+guden hans lemmer og svøpte ham ind i himmelske klæder.\
+Derefter lot han det fotrappe par, de tvillinger bolde,\
+Søvnen og Døden faa følge ham frem, og de bragte ham snarlig\
 hjem til Lykiens vidtstrakte land med de frugtbare marker.
 
-Eggende ivrig sit spand og Avtomedon stormet Patroklos
-frem mot troers og lykiers hær som den blindeste daare.
-Hadde han fulgt det raad som Pelevs' søn hadde git ham,
-hadde han sluppet forvisst den sorte, den grufulde dødslod.
-Sterkere dog er Alfaders raad end menneskers vilje.
-Selv den modigste slaar han med gru og røver ham seiren
-uten besvær og egger ham saa paany til at kjæmpe.
+Eggende ivrig sit spand og Avtomedon stormet Patroklos\
+frem mot troers og lykiers hær som den blindeste daare.\
+Hadde han fulgt det raad som Pelevs' søn hadde git ham,\
+hadde han sluppet forvisst den sorte, den grufulde dødslod.\
+Sterkere dog er Alfaders raad end menneskers vilje.\
+Selv den modigste slaar han med gru og røver ham seiren\
+uten besvær og egger ham saa paany til at kjæmpe.\
 Dennegang vakte han ogsaa det freidigste mod i hans bringe.
 
-Hvem var den første, Patroklos, og hvem varden sidste du fældte,
-nu da de evige selv hadde viet dig, høvding, til døden?
-Først Adrastos han vog og Avtonoos, dernæst Ekeklos,
-Perimos, Megas' søn, Epistor og saa Melanippos.
-Elasos segnet og Mulios faldt og den gjæve Pylartes.
-Dette var dem som han fældte. Paa flugt kun tænkte de andre.
-Visst hadde Argos' mænd kunnet kue det kneisende Troja
-nu ved Patroklos' haand; ti vældig med lansen han raste,
-hadde ei Foibos Apollon som troernes hjælper i nøden
-stillet sig op paa den vældige mur for at volde hans bane.
-Treganger satte Patroklos sin fot paa murkransens tinde;
-treganger drev Apollon med magi ham atter tilbake,
-støtende haardt med udødelig haand mot det blinkende malmskjold.
-Men da han fjerde gang trængte sig frem saa sterk somenguddom,
-ropte med truende røst den rammende skytte Apollon:
-«Vik, høibaarne Patroklos! At øde de navngjetne troers
-by med dit spyd blir ikke din lod. End ikke Akillevs,
-han som i tapperhet mestrer dig let, slik hæder skal vinde. >
+Hvem var den første, Patroklos, og hvem var den sidste du fældte,\
+nu da de evige selv hadde viet dig, høvding, til døden?\
+Først Adrastos han vog og Avtonoos, dernæst Ekeklos,\
+Perimos, Megas' søn, Epistor og saa Melanippos.\
+Elasos segnet og Mulios faldt og den gjæve Pylartes.\
+Dette var dem som han fældte. Paa flugt kun tænkte de andre.\
+Visst hadde Argos' mænd kunnet kue det kneisende Troja\
+nu ved Patroklos' haand; ti vældig med lansen han raste,\
+hadde ei Foibos Apollon som troernes hjælper i nøden\
+stillet sig op paa den vældige mur for at volde hans bane.\
+Treganger satte Patroklos sin fot paa murkransens tinde;\
+treganger drev Apollon med magt ham atter tilbake,\
+støtende haardt med udødelig haand mot det blinkende malmskjold.\
+Men da han fjerde gang trængte sig frem saa sterk som en guddom,\
+ropte med truende røst den rammende skytte Apollon:\
+«Vik, høibaarne Patroklos! At øde de navngjetne troers\
+by med dit spyd blir ikke din lod. End ikke Akillevs,\
+han som i tapperhet mestrer dig let, slik hæder skal vinde.»
 [(710–47) ]{.linjenummer}
 
-Saa han talte, og langt vek helten Patroklos tilbake,
+Saa han talte, og langt vek helten Patroklos tilbake,\
 slagen av gru for Apollons, den rammende fjernskyttes vrede.
 
-Men ved den skaiiske port holdt Hektor sit tvespand tilbake,
-tvilende om han paany skulde stevne til feltslagets tummel,
-eller gi hæren besked om at trænge sig sammen bak muren.
-Foibos Apollon gik høvdingen nær, da han grublet paa dette,
-lignende grant en ypperlig helt, den kraftige fyrste
-Asios, morbror av Hektor, den vældige kjæmpe paa stridsvogn.
-Drotten var Hékabes bror, og søn av Dymas, som bodde
-fjernt i Frygiens land ved elven Sangarios' strømme.
-Lignende ham tok Alfaders søn Apollon til orde:
-«Hektor, hvi kjæmper du slet ikke mer? Slikt klæder dig ilde.
-Var jeg din mester i kraft, saavisst som du er min mester,
-kom det dig dyrt at staa at du viker tilbake fra kampen.
-Rap dig og styr dit vælige spand mot den raske Patroklos.
-Kanske du volder hans fald, og Apollon vil skjænke dig hæder.>;
+Men ved den skaiiske port holdt Hektor sit tvespand tilbake,\
+tvilende om han paany skulde stevne til feltslagets tummel,\
+eller gi hæren besked om at trænge sig sammen bak muren.\
+Foibos Apollon gik høvdingen nær, da han grublet paa dette,\
+lignende grant en ypperlig helt, den kraftige fyrste\
+Asios, morbror av Hektor, den vældige kjæmpe paa stridsvogn.\
+Drotten var Hékabes bror, og søn av Dymas, som bodde\
+fjernt i Frygiens land ved elven Sangarios' strømme.\
+Lignende ham tok Alfaders søn Apollon til orde:\
+«Hektor, hvi kjæmper du slet ikke mer? Slikt klæder dig ilde.\
+Var jeg din mester i kraft, saavisst som _du_ er _min_ mester,\
+kom det dig dyrt at staa at du viker tilbake fra kampen.\
+Rap dig og styr dit vælige spand mot den raske Patroklos.\
+Kanske du volder hans fald, og Apollon vil skjænke dig hæder.»
 
-Derpaa gik guden paany til mændenes møisomme kampe.
-Bød da Hektor sin svend, den kjække Kebriones, piske
-hestene ind i de kjæmpendes kreds; men Foibos Apollon
-trængte sig frem i stimlen og voldte blandt Argos' stridsmænd
+Derpaa gik guden paany til mændenes møisomme kampe.\
+Bød da Hektor sin svend, den kjække Kebriones, piske\
+hestene ind i de kjæmpendes kreds; men Foibos Apollon\
+trængte sig frem i stimlen og voldte blandt Argos' stridsmænd\
 vild forvirring; men Hektor og troerne skjænket han seier.
 
-Ei var Hektor tilsinds at dræpe de andre danaer;
-men mot Patroklos styrte han raskt de stampende hester.
-Sprang da Patroklos ned fra sin vogn og fôr ham i møte.
-Lansen han holdt i sin venstre og grep med den høire en stenblok
-skarpkantet, skinnende hvit, saastor somhanshaandkunde rumme,
-kastet den saa med kraft og gruet ei længe for manden.
-Ei var hans kast forgjæves; ti Priamos' søn med en frille,
-helten Kebriones, rammet han haardt med stenen i panden,
-Hektors mandhaftige kusk, da han holdt i hestenes tøiler.
-Stenen slog flænger i begge hans bryn, og hovedets knokler
-holdt ikke sammen. Hans øine faldt ned paa jorden i støvet
-ret for hans føtter, og ut av den prægtige vogn som en dykker
-stupte han brat paa sit hode, oglivskraften svandtfrahansknokler.
-Haanende ropte du da, du hestetumler Patroklos:
-«Aa for en mand saa letvindt og rask. Nei, se hvor han dykker!
-Kom han saasandt tilsjøs, hvor fiskene stimer paa dypet,
-mættet nok manden saa mangen en mund medskjælsomhansanket,
-[(748–86) ]{.linjenummer}
-ghoppende ut av sin baat, om sjøen var aldrig1 saa oprørt,
-slik som han stuper paa val saa let fra den rullende stridsvogn.
+Ei var Hektor tilsinds at dræpe de andre danaer;\
+men mot Patroklos styrte han raskt de stampende hester.\
+Sprang da Patroklos ned fra sin vogn og fôr ham i møte.\
+Lansen han holdt i sin venstre og grep med den høire en stenblok\
+skarpkantet, skinnende hvit, saa stor som hans haand kunde rumme,\
+kastet den saa med kraft og gruet ei længe for manden.\
+Ei var hans kast forgjæves; ti Priamos' søn med en frille,\
+helten Kebriones, rammet han haardt med stenen i panden,\
+Hektors mandhaftige kusk, da han holdt i hestenes tøiler.\
+Stenen slog flænger i begge hans bryn, og hovedets knokler\
+holdt ikke sammen. Hans øine faldt ned paa jorden i støvet\
+ret for hans føtter, og ut av den prægtige vogn som en dykker\
+stupte han brat paa sit hode, og livskraften svandt fra hans knokler.\
+Haanende ropte du da, du hestetumler Patroklos:\
+«Aa for en mand saa letvindt og rask. Nei, se hvor han dykker!\
+Kom han saasandt tilsjøs, hvor fiskene stimer paa dypet,\
+mættet nok manden saa mangen en mund med skjæl som han sanket,\
+[(748–85) ]{.linjenummer}
+hoppende ut av sin baat, om sjøen var aldrig saa oprørt,\
+slik som han stuper paa val saa let fra den rullende stridsvogn.\
 Sandelig, ogsaa i troernes hær er der folk som kan dykke.»
 
-Saaledes talte han spotsk, og mot helten Kebriones fôr han
-frem som en glubende løve, som medens den herjer paa kveen,
-selv blir rammet i brystet, saa kampmodet koster den livet.
-Likesaa vildt fôr du frem mot Kebriones, stolte Patroklos.
-Hektor sprang ogsaa fra vognen til jord og fôr ham i møte.
-Heltene stred om Kebriones' lik som glubende løver,
-som naar de begge er plaget av sult, med rasende vildskap
-kjæmper om hjorten de netop har dræpt paa toppen av fjeldet.
-Saaledes stred om Kebriones' lik de vældige kjæmper,
-helten Patroklos, Menoitios' søn, og den straalende Hektor.
-Flænge hinanden med skjærende malm var al deres higen.
-Hektor den faldne ved hodet holdt fast og slap ikke taket,
-medens Patroklos grep fat i hans fot, og alle de andre
-troer og gjæve danaer fôr frem til en frygtelig nærkamp.
-Ret som naar Evros og Notos i susende kappestrid møtes
-rystende storskogens mægtige trær i fjeldenes kløfter,
-eken og rankvoksen ask og kornelen med barken, den seige
-— haardt mot hinanden i stormen de slaar sine svaiende grener
-under usigelig larm, og det braker naar stammerne knækkes —
-saaledes stormet i hatefuld strid akaier og troer
-løs paa hverandre. Fordærvelig flugt kom ingen i tanker.
-Rundt Kebriones fæstet sin odd saa mangen en lanse,
-dertil saa mangen en pil som ilte paa vinger fra strengen.
-Mangen en drabelig sten slog haardt mot de buklede skjolde,
-medens de kjæmpet omkring ham. Han laa i enhvirvlende støvsky,
+Saaledes talte han spotsk, og mot helten Kebriones fôr han\
+frem som en glubende løve, som medens den herjer paa kveen,\
+selv blir rammet i brystet, saa kampmodet koster den livet.\
+Likesaa vildt fôr du frem mot Kebriones, stolte Patroklos.\
+Hektor sprang ogsaa fra vognen til jord og fôr ham i møte.\
+Heltene stred om Kebriones' lik som glubende løver,\
+som naar de begge er plaget av sult, med rasende vildskap\
+kjæmper om hjorten de netop har dræpt paa toppen av fjeldet.\
+Saaledes stred om Kebriones' lik de vældige kjæmper,\
+helten Patroklos, Menoitios' søn, og den straalende Hektor.\
+Flænge hinanden med skjærende malm var al deres higen.\
+Hektor den faldne ved hodet holdt fast og slap ikke taket,\
+medens Patroklos grep fat i hans fot, og alle de andre\
+troer og gjæve danaer fôr frem til en frygtelig nærkamp.\
+Ret som naar Evros og Notos i susende kappestrid møtes\
+rystende storskogens mægtige trær i fjeldenes kløfter,\
+eken og rankvoksen ask og kornelen med barken, den seige\
+— haardt mot hinanden i stormen de slaar sine svaiende grener\
+under usigelig larm, og det braker naar stammerne knækkes —\
+saaledes stormet i hatefuld strid akaier og troer\
+løs paa hverandre. Fordærvelig flugt kom ingen i tanker.\
+Rundt Kebriones fæstet sin odd saa mangen en lanse,\
+dertil saa mangen en pil som ilte paa vinger fra strengen.\
+Mangen en drabelig sten slog haardt mot de buklede skjolde,\
+medens de kjæmpet omkring ham. Han laa i en hvirvlende støvsky,\
 svær som en jætte. Hans vognstyrerkunst var gaat ham av minde.
 
-Mens nu solskiven steg til midt paa himmelens bue,
-rammet de jevnt med de hvæssede spyd, og mændene segnet;
-men ved solefaldstid, naar okserne spændes fra plogen,
-da gik akaierne frem til seier mot skjæbnens beslutning.
-Helten Kebriones slæpte de ut fra den tætteste spydregn,
-bort fra de larmende troer og røvet fra skuldre hans rustning.
-Nu fôr Patroklos paa troerne løs i rasende vildskap.
-Treganger fôr han med truende rop som den stormende Ares
-fremad, og hvergang dræpte han ni av troernes stridsmænd;
+Mens nu solskiven steg til midt paa himmelens bue,\
+rammet de jevnt med de hvæssede spyd, og mændene segnet;\
+men ved solefaldstid, naar okserne spændes fra plogen,\
+da gik akaierne frem til seier mot skjæbnens beslutning.\
+Helten Kebriones slæpte de ut fra den tætteste spydregn,\
+bort fra de larmende troer og røvet fra skuldre hans rustning.\
+Nu fôr Patroklos paa troerne løs i rasende vildskap.\
+Treganger fôr han med truende rop som den stormende Ares\
+fremad, og hvergang dræpte han ni av troernes stridsmænd;\
 [(786–822) ]{.linjenummer}
-men da han ijerdegang kastet sig frem saa sterk som en guddom,
-da blev det klart at dit livsløp var endt, du kjække Patroklos!
-Ti i det vældige slag gik Foibos Apollon imot ham
-truende barsk; men han merket ham ei, da han skred gjennem vrimlen,
-saasom den møtende gud hadde hyllet sig tæt i en taake.
-Bak ham han stanset og slog paa hans ryg mellem skuldrene brede,
-haardt med den knyttede haand; da svimlet det brat for hans øine.
-Foibos Apollon slog væk den prægtige hjelm fra hans hode.
-Klirrende trillet den malmtunge hjelm med skjermer og gitter
-ind mellem hestenes føtter, og nu blev den vaiende hjelmbusk
-smudset av blod og av støv; tilforn hadde guderne aldrig
-taalt at den haaromflagrede hjelm skulde smudses av støvet;
-ti en guddommelig helts, Akillevs' hode og pande
-skjermet den da; men nu hadde Zevs undt Hektor at bære
-høvdingenshjelmpaasithode. Dog snart var hans dødstime kommet.
-Derefter brast i Patroklos' haand den mægtige lanse
-tung og vældig og sterk med malmhvæsset spids, og fra skuldren
-gled efter remmen til jorden hans skjold med de talrike kvaster.
-Løste da Alfaders søn, den sterke Apollon hans brynje.
-Vildsomt flakket hans sind, og hans straalendelemmerblev lammet.
-Haandfalden stod han. Da traf en dardaner ham bakfra i ryggen
-mellem hans skuldre paa nærmeste hold med den hvæssede lanse,
-Pantoos' søn Evforbos, den første i ungdommens rækker
-baade i spydkast og vognstyrerkunst og i føtternes raphet.
-Tyve i tal var de modige mænd som han styrtet fra stridsvogn,
-endda han førstegang kjæmpet tilvogns og var lærling i krigskunst.
-Han var den første som traf dig med spyd, du vognhelt Patroklos,
-uten at volde din død. Av saaret han rykket sin lanse
-og gjennem stimlen tilbake han for; ti staa mot Patroklos
-vaaget han ei i en kamp, skjønt helten var blottet for vaaben.
-Lammet av guddommens slag og av spydstikket hastet Patroklos
-atter tilbake til vennernes flok og flygtet for døden.
-Dog, da Hektor blev var at den modige høvding Patroklos,
-rammet tilblods av det hvæssede spyd, maatte vike tilbake,
-gik han i rækkerne helten tillivs og traf ham med lansen
-nederst i lysken og støtte ham spydsodden tvers gjennem buken
-Drønende faldt han til jord til sorg for akaiernes stridsmænd.
+men da han fjerdegang kastet sig frem saa sterk som en guddom,\
+da blev det klart at dit livsløp var endt, du kjække Patroklos!\
+Ti i det vældige slag gik Foibos Apollon imot ham\
+truende barsk; men han merket ham ei, da han skred gjennem vrimlen,\
+saasom den møtende gud hadde hyllet sig tæt i en taake.\
+Bak ham han stanset og slog paa hans ryg mellem skuldrene brede,\
+haardt med den knyttede haand; da svimlet det brat for hans øine.\
+Foibos Apollon slog væk den prægtige hjelm fra hans hode.\
+Klirrende trillet den malmtunge hjelm med skjermer og gitter\
+ind mellem hestenes føtter, og nu blev den vaiende hjelmbusk\
+smudset av blod og av støv; tilforn hadde guderne aldrig\
+taalt at den haaromflagrede hjelm skulde smudses av støvet;\
+ti en guddommelig helts, Akillevs' hode og pande\
+skjermet den da; men nu hadde Zevs undt Hektor at bære\
+høvdingens hjelm paa sit hode. Dog snart var hans dødstime kommet.\
+Derefter brast i Patroklos' haand den mægtige lanse\
+tung og vældig og sterk med malmhvæsset spids, og fra skuldren\
+gled efter remmen til jorden hans skjold med de talrike kvaster.\
+Løste da Alfaders søn, den sterke Apollon hans brynje.\
+Vildsomt flakket hans sind, og hans straalende lemmer blev lammet.\
+Haandfalden stod han. Da traf en dardaner ham bakfra i ryggen\
+mellem hans skuldre paa nærmeste hold med den hvæssede lanse,\
+Pantoos' søn Evforbos, den første i ungdommens rækker\
+baade i spydkast og vognstyrerkunst og i føtternes raphet.\
+Tyve i tal var de modige mænd som han styrtet fra stridsvogn,\
+endda han førstegang kjæmpet tilvogns og var lærling i krigskunst.\
+Han var den første som traf dig med spyd, du vognhelt Patroklos,\
+uten at volde din død. Av saaret han rykket sin lanse\
+og gjennem stimlen tilbake han fôr; ti staa mot Patroklos\
+vaaget han ei i en kamp, skjønt helten var blottet for vaaben.\
+Lammet av guddommens slag og av spydstikket hastet Patroklos\
+atter tilbake til vennernes flok og flygtet for døden.\
+Dog, da Hektor blev var at den modige høvding Patroklos,\
+rammet tilblods av det hvæssede spyd, maatte vike tilbake,\
+gik han i rækkerne helten tillivs og traf ham med lansen\
+nederst i lysken og støtte ham spydsodden tvers gjennem buken\
+Drønende faldt han til jord til sorg for akaiernes stridsmænd.\
 [(823–59) ]{.linjenummer}
-Som naar en løve beseirer i strid et utrættelig vildsvin,
-aaar de paa toppen av kneisende fjeld i rasende vildskap
-slaas om en pyt i den halvtørre bæk; ti begge vil drikke, —
-Indtil den vældige løve faar bugt med det pæsende udyr;
-saa vog Hektor, Priamos' søn, med lansen i nærkamp
-helten, Menoitios' søn, som fældte saa mangen en kriger.
-Pralende lød hans vingede ord til den fældede kjæmpe:
-«Bolde Patroklos! du haabet jo nu at øde vor hjemby,
-og naar de troiske kvinder du frihetens dag hadde røvet,
-skulde du føre dem bort til den elskede hjemstavn paa flaaten.
-Daare! Til kvindernes vern har nu mine fotrappe hester
-rørt sine føtter til kamp, og selv jeg svinger min lanse
-vældigst blandt krigerske troer og verner dem trygt mot den tunge
-trældommens dag; men her skal gribbene flænge dit aatsel.
-Stakkar! Saa sterk som han er, Akillevs hjalp dig dog ikke.
-Selv blev hanhjemmeogbøddigvel strengtdadustevnettilstriden:
-«Kom mig nu ikke tilbake, du mandige vognhelt Patroklos,
-til vore rumstore snekker, før selv du faar flænget i laser
-brynjen som Hektor bærer om bryst, og farvet den blodig.»
+Som naar en løve beseirer i strid et utrættelig vildsvin,\
+naar de paa toppen av kneisende fjeld i rasende vildskap\
+slaas om en pyt i den halvtørre bæk; ti begge vil drikke, —\
+indtil den vældige løve faar bugt med det pæsende udyr;\
+saa vog Hektor, Priamos' søn, med lansen i nærkamp\
+helten, Menoitios' søn, som fældte saa mangen en kriger.\
+Pralende lød hans vingede ord til den fældede kjæmpe:\
+«Bolde Patroklos! du haabet jo nu at øde vor hjemby,\
+og naar de troiske kvinder du frihetens dag hadde røvet,\
+skulde du føre dem bort til den elskede hjemstavn paa flaaten.\
+Daare! Til kvindernes vern har nu mine fotrappe hester\
+rørt sine føtter til kamp, og selv jeg svinger min lanse\
+vældigst blandt krigerske troer og verner dem trygt mot den tunge\
+trældommens dag; men her skal gribbene flænge dit aatsel.\
+Stakkar! Saa sterk som han er, Akillevs hjalp dig dog ikke.\
+Selv blev han hjemme og bød dig vel strengt da du stevnet til striden:\
+«Kom mig nu ikke tilbake, du mandige vognhelt Patroklos,\
+til vore rumstore snekker, før selv du faar flænget i laser\
+brynjen som Hektor bærer om bryst, og farvet den blodig.»\
 Saaledes talte han vel, og en daare som dig fik han fristet.»
 
-Dødstræt svarte du da, du mandige vognhelt Patroklos:
-«Hektor, ja nu kan du prale saa stolt; ti Zevs og Apollon
-skjænket jo seiren til dig, og mig har de lettelig kuet.
-Selv har de revet fra skulderen løs min skjermende rustning.
-Men om et snes av kjæmper som du hadde gaat mig i møte,
-skulde nok alle ha segnet og fundet sin død for min lanse.
-Nu er det skjæbnen, den grumme, og Letos søn som har dræpt mig;
-dertil Evforbos av mænd, og du kommer først som den tredje.
-Nu vil jeg si noget andet, og læg dig min tale paa hjerte:
-Ogsaa dit liv er snarlig forbi; ti nær ved din side
-staar alt den truende død og den mægtige skjæbnegudinde.
+Dødstræt svarte du da, du mandige vognhelt Patroklos:\
+«Hektor, ja nu kan du prale saa stolt; ti Zevs og Apollon\
+skjænket jo seiren til dig, og mig har de lettelig kuet.\
+Selv har de revet fra skulderen løs min skjermende rustning.\
+Men om et snes av kjæmper som du hadde gaat mig i møte,\
+skulde nok alle ha segnet og fundet sin død for min lanse.\
+Nu er det skjæbnen, den grumme, og Letos søn som har dræpt mig;\
+dertil Evforbos av mænd, og du kommer først som den tredje.\
+Nu vil jeg si noget andet, og læg dig min tale paa hjerte:\
+Ogsaa dit liv er snarlig forbi; ti nær ved din side\
+staar alt den truende død og den mægtige skjæbnegudinde.\
 Snart skal du dø for Akillevs' haand, den bolde Peleides.»
 
-Saa han talte og over ham gled den evige dødssøvn.
-Bort fra lemmerne svævet hans sjæl og vandret til Hades,
-jamrende over sin lod, at skilles fra mandskraft og ungdom.
-Selv til den avsjælte talte paany den straalende Hektor:
-«Hvorfor, Patroklos, varsler du mig min snarlige helfærd?
-[(860–87) ]{.linjenummer}
-Hvo av os vet om Akillevs, hin søn av den haarfagre Tetis,
+Saa han talte og over ham gled den evige dødssøvn.\
+Bort fra lemmerne svævet hans sjæl og vandret til Hades,\
+jamrende over sin lod, at skilles fra mandskraft og ungdom.\
+Selv til den avsjælte talte paany den straalende Hektor:\
+«Hvorfor, Patroklos, varsler du mig min snarlige helfærd?\
+[(860–67) ]{.linjenummer}
+Hvo av os vet om Akillevs, hin søn av den haarfagre Tetis,\
 ei blir den første som mister sit liv for denne min lanse?»
 
-Saa han talte og satte sin hæl paa den faldne og rykket
-malmodden ut av hans saar og støtte ham baklængs med lansen,
-fôr saa med spydet i haand mot Avtomedon, helten den bolde,
-væbner hos drotten Akillevs, den fotrappe Aiakosætling.
-Ham vilde høvdingen naa; men han frelstes av gangernes rappe
+Saa han talte og satte sin hæl paa den faldne og rykket\
+malmodden ut av hans saar og støtte ham baklængs med lansen,\
+fôr saa med spydet i haand mot Avtomedon, helten den bolde,\
+væbner hos drotten Akillevs, den fotrappe Aiakosætling.\
+Ham vilde høvdingen naa; men han frelstes av gangernes rappe\
 himmelske spand som guderne selv hadde skjænket til Pelevs.
 
 :::
