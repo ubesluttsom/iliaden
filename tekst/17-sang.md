@@ -199,212 +199,224 @@ Se om jeg viser mig feig, som du paastaar, dagen tilende,\
 eller om snart jeg faar stanset saa mangen en kraftig danaer,\
 naar han med vildeste mod vil verne den faldne Patroklos.»
 
-Saa han talte og egget med rop de troiske stridsmænd.
-«Troer og lykiske mænd og tapre dardaniske kjæmper!
-Te jer sommænd,minevenner,ogtænkpaadetstormendekampmod,
-medens jeg spænder om bryst den bolde Akillevs' rustning,
+Saa han talte og egget med rop de troiske stridsmænd.\
+«Troer og lykiske mænd og tapre dardaniske kjæmper!\
+Te jer som mænd, mine venner,og tænk paa det stormende kampmod,\
+medens jeg spænder om bryst den bolde Akillevs' rustning,\
 kostelig bytte jeg vandt, da jeg vog den sterke Patroklos.»
-Saa han talte, og helten, den hjelmbuskvaiende Hektor,
-ilte fra kampenes gny og fulgte paa lynrappe føtter
-raskt sine svende og naadde dem snart, før langt de var kommet,
-medens de førte til byen Akillevs' herlige vaabeu.
-Stansende fjernt fra den graatsvangre val sin rustning han byttet,
-rakte saa troernes kamplystne mænd sin egen at bære
-hjem til det hellige Troja og akslet Akillevs' skjønne
-himmelske skrud, som Uranos' æt, de evige guder,
-skjænket til Pelevs, hans far, og den aldrende gubbe til sønnen.
+
+Saa han talte, og helten, den hjelmbuskvaiende Hektor,\
+ilte fra kampenes gny og fulgte paa lynrappe føtter\
+raskt sine svende og naadde dem snart, før langt de var kommet,\
+medens de førte til byen Akillevs' herlige vaaben.\
+Stansende fjernt fra den graatsvangre val sin rustning han byttet,\
+rakte saa troernes kamplystne mænd sin egen at bære\
+hjem til det hellige Troja og akslet Akillevs' skjønne\
+himmelske skrud, som Uranos' æt, de evige guder,\
+skjænket til Pelevs, hans far, og den aldrende gubbe til sønnen.\
 Ei skulde søn efter far faa graane i rustningens plater.
-Men da den mægtige skysamler Zevs fik se i det fjerne
-helten som spændte om bryst den stolte Akillevs' rustning,
-talte han saa til sit hjerte og rystet i medynk sit hode:
-«Stakkar! du huser visst ei i din sjæl nogen tanke paa døden,
-skjønt den er nær. Du spænder om bryst det himmelske panser,
-tat fra den tapreste helt, for hvem ogsaa andre maa grue.
-Nys har du fældet hans ven, en kraftig og vennesæl høvding.
-Ham har du revet med haau fra hode og skuldre hans rustning.
-Dog, jeg skal skjænke dig seirende kraft for at bøte dit vanheld;
-ti du skal ei vende hjem fra din strid, og Andromake løser
+
+Men da den mægtige skysamler Zevs fik se i det fjerne\
+helten som spændte om bryst den stolte Akillevs' rustning,\
+talte han saa til sit hjerte og rystet i medynk sit hode:\
+«Stakkar! du huser visst ei i din sjæl nogen tanke paa døden,\
+skjønt den er nær. Du spænder om bryst det himmelske panser,\
+tat fra den tapreste helt, for hvem ogsaa andre maa grue.\
+Nys har du fældet hans ven, en kraftig og vennesæl høvding.\
+Ham har du revet med haan fra hode og skuldre hans rustning.\
+Dog, jeg skal skjænke dig seirende kraft for at bøte dit vanheld;\
+ti du skal ei vende hjem fra din strid, og Andromake løser\
 aldrig fra husbondens bryst Akillevs' herlige brynje.»
-Kronos' søn hadde talt og nikket med brynene sorte.
-Rustningen passet ora Hektors bryst, og den mordlystne krigsgud
-Ares tok bo i hans sjæl og fyldte med kjækhet og styrke
-alle hans lemmer, og ind blandt de herlige hjælperes fylking
-skred han med rungende rop, og klædt i det skinnende panser
-tyktes han alle grandgivelig lik den tapre Peleide.
-Eask gik han om til enhver og egget dem alle til kampen,
+
+Kronos' søn hadde talt og nikket med brynene sorte.\
+Rustningen passet om Hektors bryst, og den mordlystne krigsgud\
+Ares tok bo i hans sjæl og fyldte med kjækhet og styrke\
+alle hans lemmer, og ind blandt de herlige hjælperes fylking\
+skred han med rungende rop, og klædt i det skinnende panser\
+tyktes han alle grandgivelig lik den tapre Peleide.\
+Rask gik han om til enhver og egget dem alle til kampen,\
 [(216–53) ]{.linjenummer}
-Mestles og helten, den gjæve Tersilokos, Glavkos og Medon,
-Kromios, drotten Hippotoos bold og Asteropaios,
-Forkys, Deisenor og Ennomos, kyndig i fuglenes varsler.
-Manende talte lian vingede ord og egget dem alle:
-«Hør mig, hjælpende mænd fra talløse naboers stammer.
-Ikke fordi det var mængder av mænd jeg søkte og trængte,
-samlet jeg jer og stevnet jer hit, enhver fra hans hjemby,
-men for at alle med freidigste mod skulde skjerme mot ufærd
-troernes kvinder og vernløse barn mot de grumme akaier.
-Derefter higer jeg nu, naar jeg trykker mit folk med de tunge
-skatter til gaver og kost for at øke jert freidige kampmod.
-Derfor mot fienden frem hver niand! hvad enten os times
-fald eller frelse. I leken paa val er det slik det maa ende.
-Den som kan slæpe det avsjælte lik av den dræpte Patroklos
-hen til de troiske vognkjæmpers flok, saa Aias maa vike,
-ham skal jeg gi som hans del det halve av byttet og eie
+Mestles og helten, den gjæve Tersilokos, Glavkos og Medon,\
+Kromios, drotten Hippotoos bold og Asteropaios,\
+Forkys, Deisenor og Ennomos, kyndig i fuglenes varsler.\
+Manende talte han vingede ord og egget dem alle:\
+«Hør mig, hjælpende mænd fra talløse naboers stammer.\
+Ikke fordi det var _mængder_ av mænd jeg søkte og trængte,\
+samlet jeg jer og stevnet jer hit, enhver fra hans hjemby,\
+men for at alle med freidigste mod skulde skjerme mot ufærd\
+troernes kvinder og vernløse barn mot de grumme akaier.\
+Derefter higer jeg nu, naar jeg trykker mit folk med de tunge\
+skatter til gaver og kost for at øke jert freidige kampmod.\
+Derfor mot fienden frem hver mand! hvad enten os times\
+fald eller frelse. I leken paa val er det slik det maa ende.\
+Den som kan slæpe det avsjælte lik av den dræpte Patroklos\
+hen til de troiske vognkjæmpers flok, saa Aias maa vike,\
+ham skal jeg gi som hans del det halve av byttet og eie\
 halvdelen selv; da vinder han seiersry stort som mit eget.»
-Saa han talte. Da trængte de haardt med løftede lanser
-frem mot danaernes hær og haabet saa sikkert at trække
-bort fra Aias, Telamons søn, den fældede kjæmpe.
-Daarer de var; ti ved liket han vog mangfoldige stridsmænd.
-Ropte da Aias i hast til den høimælte helt Menelaos:
-Aa, Menelaos, min høibaarne ven, nu tror jeg det neppe
-mere vil times os to at vende tilbake fra kampen.
-Dog, jeg gruer ei saa i min sjæl for den faldne Patroklos,
-han som vel snart skal mætte de troiske hunder og fugler,
-som for mig selv og for dig jeg bæver i angst, at en ufærd
-rammer os snart; ti vidt over slagmarken sænker jo Hektor
-krigsskyen mørk. Nu trues vi to av døden, den bratte.
+
+Saa han talte. Da trængte de haardt med løftede lanser\
+frem mot danaernes hær og haabet saa sikkert at trække\
+bort fra Aias, Telamons søn, den fældede kjæmpe.\
+Daarer de var; ti ved liket han vog mangfoldige stridsmænd.\
+Ropte da Aias i hast til den høimælte helt Menelaos:\
+«Aa, Menelaos, min høibaarne ven, nu tror jeg det neppe\
+mere vil times os to at vende tilbake fra kampen.\
+Dog, jeg gruer ei saa i min sjæl for den faldne Patroklos,\
+han som vel snart skal mætte de troiske hunder og fugler,\
+som for mig selv og for dig jeg bæver i angst, at en ufærd\
+rammer os snart; ti vidt over slagmarken sænker jo Hektor\
+krigsskyen mørk. Nu trues vi to av døden, den bratte.\
 Kald da de bedste danaer med rop, om nogen kan høre.»
-Saa han talte, og drotten, den høimælte helt Menelaos,
-lød ham og ropte med rungende røst til danaernes helter:
-«Venner, argeiernes drotter i kamp og formænd i raadet,
-I som hos kong Agamemnon og mig, hos Atrevs' sønner,
-drikker paa folkets bekostning den ædleste vin, og som byder
-hver over stridsmænd; ti Zevs forlener jer hæder og ære.
-Vanskelig falder det mig, saa vildt som krigsluen flammer,
-nøie at skjelne hver eneste drot blandt de førende fyrster.
+
+Saa han talte, og drotten, den høimælte helt Menelaos,\
+lød ham og ropte med rungende røst til danaernes helter:\
+«Venner, argeiernes drotter i kamp og formænd i raadet,\
+I som hos kong Agamemnon og mig, hos Atrevs' sønner,\
+drikker paa folkets bekostning den ædleste vin, og som byder\
+hver over stridsmænd; ti Zevs forlener jer hæder og ære.\
+Vanskelig falder det mig, saa vildt som krigsluen flammer,\
+nøie at skjelne hver eneste drot blandt de førende fyrster.\
 [(254–91) ]{.linjenummer}
-Kom da, enhver av sig selv, og hannes av inderste hjerte,
-dersom Patroklos «kal vorde til lek for de troiske hunder.»
-Hørte da grant Oilevs' søn, den fotrappe Aias,
-høvdingens ord og ilte ham først i møte i striden.
-Dernæst Idomenevs selv og Idomenevs' kraftige væbner,
-helten Meriones, modig og sterk som den mordlystne Ares.
-Dog, hvo eide vel kraft i sin sjæl til at nævne de andre,
+Kom da, enhver av sig selv, og harmes av inderste hjerte,\
+dersom Patroklos skal vorde til lek for de troiske hunder.»
+
+Hørte da grant Oilevs' søn, den fotrappe Aias,\
+høvdingens ord og ilte ham først i møte i striden.\
+Dernæst Idomenevs selv og Idomenevs' kraftige væbner,\
+helten Meriones, modig og sterk som den mordlystne Ares.\
+Dog, hvo eide vel kraft i sin sjæl til at nævne de andre,\
 alle som derefter samlet til strid akaiernes sønner?
-Frem gik troernes kjæmper i flok, og forrest gik Hektor.
-Som naar ved munding av flommende elv den vældige bølge
-bryter mot strømmen med brusende larm og ute fra havet
-brottsjøer droner mot kneisende kyst med fraadende skumsprøit,
-«lik gik troerne larmende frem; men akaiernes stridsmænd
-stod som en mur om Menoitios' søn med enige hjerter,
-dækket med gjærde av malmtunge skjold, mens Alfader sænket
-over de blinkende hjelmer et slør av den tætteste taake,
-«aasom han aldrig tilforn Menoitios' søn hadde hatet,
-medens han levet og fulgte som ven den gjæve Akillevs.
-Derfor han taalte ei nu at troiske hunder fik flænge
+
+Frem gik troernes kjæmper i flok, og forrest gik Hektor.\
+Som naar ved munding av flommende elv den vældige bølge\
+bryter mot strømmen med brusende larm og ute fra havet\
+brottsjøer droner mot kneisende kyst med fraadende skumsprøit,\
+slik gik troerne larmende frem; men akaiernes stridsmænd\
+stod som en mur om Menoitios' søn med enige hjerter,\
+dækket med gjærde av malmtunge skjold, mens Alfader sænket\
+over de blinkende hjelmer et slør av den tætteste taake,\
+saasom han aldrig tilforn Menoitios' søn hadde hatet,\
+medens han levet og fulgte som ven den gjæve Akillevs.\
+Derfor han taalte ei nu at troiske hunder fik flænge\
 høvdingens lik, men egget til vern hans trofaste venner.
-Først jog troerne bort akaiernes blaaøide sønner.
-Liket forlot de og flygtet i hast; men de modige troer
-fældte dog ikke en mand, hvor vildt de end raste med lansen.
-Dog, de trak med sig hans lik; men akaierne skulde ei længe
-holde sig fjernt; ti de vendte sig snart, formanet av Aias,
-kjæmpen som baade i skabning og vekst og i daadskraft bar prisen
-fremfor de andre danaer næst efter den bolde Peleide.
-Gjennem de forreste rækker han skred med kraft som det sterke
-vildsvin som vender sig gang efter gang og lettelig splitter
-hunders og kraftige jægeres flok i fjeldenes kløfter.
-Saaledes fôr nu Telamons søn, den vældige Aias,
-ind mellem troernes rækker og splittet dem let, da de stormet
-rundt om Patroklos' lik og trodde saa trygt at de snarlig
-«kulde faa trukket ham hjem til sin by og vinde sig hæder.
-Helten Hippotoos var det, en søn av pelasgeren Letos,
-som efter foten trak liket avsted med en rem som var knyttet
-fast om hans sener ved anklen; ti Hektors og troernes yndest
-haabet han sikkert at vinde; men skjæbnen, den grufulde, rammet
+
+Først jog troerne bort akaiernes blaaøide sønner.\
+Liket forlot de og flygtet i hast; men de modige troer\
+fældte dog ikke en mand, hvor vildt de end raste med lansen.\
+Dog, de trak med sig hans lik; men akaierne skulde ei længe\
+holde sig fjernt; ti de vendte sig snart, formanet av Aias,\
+kjæmpen som baade i skabning og vekst og i daadskraft bar prisen\
+fremfor de andre danaer næst efter den bolde Peleide.\
+Gjennem de forreste rækker han skred med kraft som det sterke\
+vildsvin som vender sig gang efter gang og lettelig splitter\
+hunders og kraftige jægeres flok i fjeldenes kløfter.\
+Saaledes fôr nu Telamons søn, den vældige Aias,\
+ind mellem troernes rækker og splittet dem let, da de stormet\
+rundt om Patroklos' lik og trodde saa trygt at de snarlig\
+skulde faa trukket ham hjem til sin by og vinde sig hæder.\
+Helten Hippotoos var det, en søn av pelasgeren Letos,\
+som efter foten trak liket avsted med en rem som var knyttet\
+fast om hans sener ved anklen; ti Hektors og troernes yndest\
+haabet han sikkert at vinde; men skjæbnen, den grufulde, rammet\
 [(292–329) ]{.linjenummer}
-snarlig ham selv, og ingen ham hjalp, saa gjerne de vilde.
-Telamons søn fôr ind paa ham straks gjennem vrimlen og traf ham
-like i malmhjelmens bøiede skjerm som dækket hans kinder.
-Rammet med kraft av det vældige spyd i den kraftige næve,
-revnet den hestehaarsmykkede hjelm for det hvæssede kobber.
-Langs efter spydsodden sprøitet fra gapende vunde hans hjerne
-blandet med blod. Brat løstes hans kraft, og fra lammede hsender
-slåp han den tapre Patroklos' fot, og den segnet til jorden.
-Nær ved styrtet han selv paa ansigtet hen over liket
-fjernt fra Larissas velsignede jord. Sine kjære forældre
-lønnet han ei for pleie og tugt; ti kort blev hans livsvei,
-nu da han segnet paa val for den modige Aias' lanse.
-Hektor tok sigte paa Aias og slynget det blinkende malmspycL
-Lynsnart saa han sig for og slåp med nød for at rammes.
-Skedios, Ifitos' kraftige søn, traf helten i stedet, *
-fokernes ypperste helt, som fjernt i det stolte Panopevs
-hadde sit hjem og hersket som drot over talrike stridsmæncL
-Under hans nøkleben rammet han ham, og tvers gjennem manden
-trængte det skjærende spyd med malmodden nederst ved skuldren.
-Drønende faldt han til jord, og rustningen klirret om helten.
-Kammet da Aias Fainops' søn, den kampglade Forkys
-midt i hans buk, da Hippotoos' lik han søkte at verne.
-Panserets plater han brøt, saa spydet fôr ind i hans indvold.
-Ned i støvet han faldt og grep med sin næve i jorden.
-Vek da de forreste kjæmper og selve den straalende Hektor.
-Høit argeierne skrek, og Hippotoos slæpte de med sig
-sammen med Forkys' lik og rev deres rustning av skuldre.
-Atter var troernes hær av akaiernes krigerske fylking
-drevet i hast paa feigeste flugt bak Ilions mure.
-Nu hadde Argos' mænd trods Alfaders bud kunnet vinde
-hæder ved egen umaadelig kraft; men selve Apollon
-egget Aineias, av skikkelse lik herolden, den gjæve
-Perifas, Epytos' søn som op i de graanende dage
-tjente hans aldrende far som herold og raadet ham trofast.
-Lignende ham tok Alfaders søn, Apollon, til orde:
-«Hvordan, Aineias, kunde vel I paa trods av en guddom
-verne det kneisende Troja? Jeg saa dog fordum at andre
-hærmænd stolte saa trygt paa sin vældige kraft og sin manddom
+snarlig ham selv, og ingen ham hjalp, saa gjerne de vilde.\
+Telamons søn fôr ind paa ham straks gjennem vrimlen og traf ham\
+like i malmhjelmens bøiede skjerm som dækket hans kinder.\
+Rammet med kraft av det vældige spyd i den kraftige næve,\
+revnet den hestehaarsmykkede hjelm for det hvæssede kobber.\
+Langs efter spydsodden sprøitet fra gapende vunde hans hjerne\
+blandet med blod. Brat løstes hans kraft, og fra lammede hænder\
+slap han den tapre Patroklos' fot, og den segnet til jorden.\
+Nær ved styrtet han selv paa ansigtet hen over liket\
+fjernt fra Larissas velsignede jord. Sine kjære forældre\
+lønnet han ei for pleie og tugt; ti kort blev hans livsvei,\
+nu da han segnet paa val for den modige Aias' lanse.\
+Hektor tok sigte paa Aias og slynget det blinkende malmspyd\
+Lynsnart saa han sig for og slap med nød for at rammes.\
+Skedios, Ifitos' kraftige søn, traf helten i stedet,\
+fokernes ypperste helt, som fjernt i det stolte Panopevs\
+hadde sit hjem og hersket som drot over talrike stridsmænd.\
+Under hans nøkleben rammet han ham, og tvers gjennem manden\
+trængte det skjærende spyd med malmodden nederst ved skuldren.\
+Drønende faldt han til jord, og rustningen klirret om helten.\
+Rammet da Aias Fainops' søn, den kampglade Forkys\
+midt i hans buk, da Hippotoos' lik han søkte at verne.\
+Panserets plater han brøt, saa spydet fôr ind i hans indvold.\
+Ned i støvet han faldt og grep med sin næve i jorden.\
+Vek da de forreste kjæmper og selve den straalende Hektor.\
+Høit argeierne skrek, og Hippotoos slæpte de med sig\
+sammen med Forkys' lik og rev deres rustning av skuldre.\
+Atter var troernes hær av akaiernes krigerske fylking\
+drevet i hast paa feigeste flugt bak Ilions mure.\
+Nu hadde Argos' mænd trods Alfaders bud kunnet vinde\
+hæder ved egen umaadelig kraft; men selve Apollon\
+egget Aineias, av skikkelse lik herolden, den gjæve\
+Perifas, Epytos' søn som op i de graanende dage\
+tjente hans aldrende far som herold og raadet ham trofast.\
+Lignende ham tok Alfaders søn, Apollon, til orde:\
+«Hvordan, Aineias, kunde vel I paa trods av en guddom\
+verne det kneisende Troja? Jeg saa dog fordum at andre\
+hærmænd stolte saa trygt paa sin vældige kraft og sin manddom\
 [(330–67) ]{.linjenummer}
-og paa de skarer de selv hadde reist, skjønt folket var litet.
-Zevs forunder jo os langt mer end danaernes helter
-seierens pris; men I skjælver jo feigt og gruer for kampen.
-Saa han talte; men straks da Aineias saa ham i øiet,
-kjendte han fjernskytten Foibos og skrek over valen til Hektor
-«Hektor og I som gaar foran i troers og hjælperes fylking1,
-visselig blir det en skam om vi slagne av feighet skal jages
-atter til Ilios hjem av akaiernes krigerske helter;
-men da en gud som traadte mig nær, har sagt mig at endnu
-Zevs, den høieste hersker, vil hjælpe os naadig i striden,
-la os da gaa mot danaerne frem, saa de ei skal faa slæpe
+og paa de skarer de selv hadde reist, skjønt folket var litet.\
+Zevs forunder jo os langt mer end danaernes helter\
+seierens pris; men I skjælver jo feigt og gruer for kampen.»
+
+Saa han talte; men straks da Aineias saa ham i øiet,\
+kjendte han fjernskytten Foibos og skrek over valen til Hektor:\
+«Hektor og I som gaar foran i troers og hjælperes fylking,\
+visselig blir det en skam om vi slagne av feighet skal jages\
+atter til Ilios hjem av akaiernes krigerske helter;\
+men da en gud som traadte mig nær, har sagt mig at endnu\
+Zevs, den høieste hersker, vil hjælpe os naadig i striden,\
+la os da gaa mot danaerne frem, saa de ei skal faa slæpe\
 helten, den faldne Patroklos, i mak til de hurtige snekker.»
-Saa han talte og ilte forbi de forreste kjæmper.
-Mændene stanset og vendte sig om mot akaiernes fylking.
-Drotten Aineias fik fældet med spyd Lykomedes' kjække
-væbner og ven, den gjæve Leiokritos, søn av Arisbas.
-Men Lykomedes, den kampglade helt, skred frem til den faldne
-grepet av medynk, og slyngende kjækt sin blinkende lanse,
-rammet han Hippasos' søn, den mægtige drot Apisaon,
-like i leveren under hans bryst og lammet hans lemmer.
-Fjernt fra Paioniens muldrike land var høvdingen kommet,
-og næst Asteropaios var han den tapreste kjæmpe.
-Asteropaios, den krigerske helt, maatte ynke den faldne.
-Selv fôr han frem for at prøve en dyst mot danaernes helter.
-Dog, hans møie var spildt; ti tæt omgjærdet av skjolde
-stod de om helten Patroklos' lik med fremstrakte lanser.
-Aias gik om til hver eneste mand og egget dem ivrig.
-Ingen akaier fik lov til at vike tilbake fra liket,
-eller at gaa til en dyst som forkjæmper, foran de andre.
-Kjæmpe i nærkamp skulde enhver og verne om liket.
-Saa var den vældige Aias' bud. Da farvedes jorden
-rød av det strømmende blod, og rækkevis sank de i døden
-baade fra troernes flok og fra modige hjælperes skarer
-og fra danaer; ti ogsaa blandt dem fløt blodet i strømme.
-Dog, langt færre av disse der faldt; ti de glemte dog aldrig
+
+Saa han talte og ilte forbi de forreste kjæmper.\
+Mændene stanset og vendte sig om mot akaiernes fylking.\
+Drotten Aineias fik fældet med spyd Lykomedes' kjække\
+væbner og ven, den gjæve Leiókritos, søn av Arisbas.\
+Men Lykomedes, den kampglade helt, skred frem til den faldne,\
+grepet av medynk, og slyngende kjækt sin blinkende lanse,\
+rammet han Hippasos' søn, den mægtige drot Apisaon,\
+like i leveren under hans bryst og lammet hans lemmer.\
+Fjernt fra Paioniens muldrike land var høvdingen kommet,\
+og næst Asteropaios var han den tapreste kjæmpe.\
+Asteropaios, den krigerske helt, maatte ynke den faldne.\
+Selv fôr han frem for at prøve en dyst mot danaernes helter.\
+Dog, hans møie var spildt; ti tæt omgjærdet av skjolde\
+stod de om helten Patroklos' lik med fremstrakte lanser.\
+Aias gik om til hver eneste mand og egget dem ivrig.\
+Ingen akaier fik lov til at vike tilbake fra liket,\
+eller at gaa til en dyst som forkjæmper, foran de andre.\
+Kjæmpe i nærkamp skulde enhver og verne om liket.\
+Saa var den vældige Aias' bud. Da farvedes jorden\
+rød av det strømmende blod, og rækkevis sank de i døden\
+baade fra troernes flok og fra modige hjælperes skarer\
+og fra danaer; ti ogsaa blandt dem fløt blodet i strømme.\
+Dog, langt færre av disse der faldt; ti de glemte dog aldrig\
 midt i den vildeste strid at verge hverandre mot døden.
-Saaledes raste som ild deres kamp, og ei kunde nogen
-tro at sol eller maane sit lys over jorderig spredte;
+
+Saaledes raste som ild deres kamp, og ei kunde nogen\
+tro at sol eller maane sit lys over jorderig spredte;\
 [(368–405) ]{.linjenummer}
-ti av det tætteste mulm var alle de tapreste helter
-dækket paa val, saa mange som stod om den faldne Patroklos.
-Alle de øvrige troer og benskinneklædte akaier
-kjæmpet i mak under himmelens blaa, mens blendende solskin
-bredte sig vide, og hverken paa fjeld eller vidt over sletten
-saa man en sky, og skiftevis lik de en hvil under kampen
-vikende let til siden for spyd og for smertende piler,
-spredt som de stod, mens derimot alle de tapreste kjæmper
-hist i den midterste kreds maatte kjæmpe med møie i taaken,
-pint av det grusomme kobber; men to av de herligste helter,
-drotten Antilokos, Nestors søn, og hans bror Trasymedes
-visste ei endnu Patroklos' fald, men trodde at helten
-end var i live og stred mot troernes forreste fylking.
-Fjernt stod begge i kampen og vogtet de trofaste venner
-ivrig mot fald og mot flugt, som Nestor fornys hadde budt dem,
+ti av det tætteste mulm var alle de tapreste helter\
+dækket paa val, saa mange som stod om den faldne Patroklos.\
+Alle de øvrige troer og benskinneklædte akaier\
+kjæmpet i mak under himmelens blaa, mens blendende solskin\
+bredte sig vide, og hverken paa fjeld eller vidt over sletten\
+saa man en sky, og skiftevis fik de en hvil under kampen\
+vikende let til siden for spyd og for smertende piler,\
+spredt som de stod, mens derimot alle de tapreste kjæmper\
+hist i den midterste kreds maatte kjæmpe med møie i taaken,\
+pint av det grusomme kobber; men to av de herligste helter,\
+drotten Antilokos, Nestors søn, og hans bror Trasymedes\
+visste ei endnu Patroklos' fald, men trodde at helten\
+end var i live og stred mot troernes forreste fylking.\
+Fjernt stod begge i kampen og vogtet de trofaste venner\
+ivrig mot fald og mot flugt, som Nestor fornys hadde budt dem,\
 dengang han sendte dem begge til kamp fra de tjærede snekker.
+
 Frygtelig raste den vældige strid og det grufulde kampgny
 dagen tilende. Hver eneste mand var lammet av træthet.
 Nedover knær og lægger og føtter og hænder og øine
