@@ -191,7 +191,6 @@ naar du kan si at jeg ikke tør staa mot den vældige Aias.\
 Nei, jeg gruer nok ikke for kamp eller stampende hester.\
 Dog, det er altid den tordnende Zevs, hvis vilje er mægtigst,\
 han som skræmmer den sterkeste mand og røver ham seiren
-
 [(178–215) ]{.linjenummer}
 lekende let og egger ham snart paany til at kjæmpe.\
 Kjære, saa nærm dig da nu! Kom hit og se paa min kampfærd.\
@@ -257,7 +256,8 @@ halvdelen selv; da vinder han seiersry stort som mit eget.»
 Saa han talte. Da trængte de haardt med løftede lanser\
 frem mot danaernes hær og haabet saa sikkert at trække\
 bort fra Aias, Telamons søn, den fældede kjæmpe.\
-Daarer de var; ti ved liket han vog mangfoldige stridsmænd.\
+Daarer de var; ti ved liket han vog mangfoldige stridsmænd.
+
 Ropte da Aias i hast til den høimælte helt Menelaos:\
 «Aa, Menelaos, min høibaarne ven, nu tror jeg det neppe\
 mere vil times os to at vende tilbake fra kampen.\
@@ -735,7 +735,8 @@ Tryglet han dog Meriones først og begge Aianter:\
 Mindes nu alle som en den arme Patroklos' mildhet.\
 [(671–708) ]{.linjenummer}
 Vennesæl var han og visste saa vel at tækkes os alle,\
-medens han levet; men nu er han død, og skjæbnen har naadd ham.»\
+medens han levet; men nu er han død, og skjæbnen har naadd ham.»
+
 Saaledes talte den lyslette helt Menelaos og ilte\
 speidende om overalt lik ørnen som sies at eie\
 skarpeste syn av alle de vingede himmelens fugler.\
