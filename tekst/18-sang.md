@@ -2,116 +2,116 @@
 
 ::: {.sang}
 
-[H]{.initial}elten Antilokos ilte imens med bud til Akillevs.
-Saaledes raste som flammende ild deres kampe paa valen.
-Høvdingen fandt han staaende hist ved de stavnhøie snekker
-taus; ti han ante med gru i sin sjæl hvad der nylig var fuldbragt
-Trykket av tungsind talte han saa til sit mandige hjerte:
-«Aa, hvi jages saa vildt akaiernes haarfagre sønner
-atter til skibene hen i sansesløs flugt over sletten?
-Bare nu guderne ei hin sjælekval volder mit hjerte,
-den som tilforn min mor har varslet mig, dengang hun meldte,
-at myrmidonernes kjækkeste helt, mens jeg end var i live,
-skulde for troernes haand gaa bort fra det straalende sollys.
-Ja, Menoitios' kraftige søn er visselig falden.
-Slemme Patroklos! Naar branden var slukt og fienden jaget,
-bød jeg dig komme til flaaten og sky en tvekamp med Hektor.
+[S]{.initial}aaledes raste som flammende ild deres kampe paa valen.\
+Helten Antilokos ilte imens med bud til Akillevs.\
+Høvdingen fandt han staaende hist ved de stavnhøie snekker\
+taus; ti han ante med gru i sin sjæl hvad der nylig var fuldbragt.\
+Trykket av tungsind talte han saa til sit mandige hjerte:\
+«Aa, hvi jages saa vildt akaiernes haarfagre sønner\
+atter til skibene hen i sansesløs flugt over sletten?\
+Bare nu guderne ei hin sjælekval volder mit hjerte,\
+den som tilforn min mor har varslet mig, dengang hun meldte,\
+at myrmidonernes kjækkeste helt, mens jeg end var i live,\
+skulde for troernes haand gaa bort fra det straalende sollys.\
+Ja, Menoitios' kraftige søn er visselig falden.\
+Slemme Patroklos! Naar branden var slukt og fienden jaget,\
+bød jeg dig komme til flaaten og sky en tvekamp med Hektor.»
 
-Medens han tumlet i hjerte og sind med saadanne tanker,
-se, da nærmet sig raskt hin søn av den herlige Nestor.
-Brændende strømmet hans taarer, mens budet, dettunge,hanmeldte:
-«Søn av den kampglade Pelevs! Tilvisse et sørgelig budskap
-maa du faa høre. Aa, gid det var saa at det ikke var hændt os!
-Falden er helten Patroklos, og nu staar kampen om liket
+Medens han tumlet i hjerte og sind med saadanne tanker,\
+se, da nærmet sig raskt hin søn av den herlige Nestor.\
+Brændende strømmet hans taarer, mens budet, det tunge, han meldte:\
+«Søn av den kampglade Pelevs! Tilvisse et sørgelig budskap\
+maa du faa høre. Aa, gid det var saa at det ikke var hændt os!\
+Falden er helten Patroklos, og nu staar kampen om liket\
 blottet og bart; ti hans rustning er tat av den straalende Hektor.»
 
-Saa han talte. Da sortnet en sky av sjælekval om ham.
-Hænderne fyldte han begge med sværtende støv som han strødde
-over sit håar, og han skjæmmet med smuds sit deilige aasyn.
-Kjortlen, den prægtige, dækkedes helt av den graasorte aske.
-Selv lot helten sig falde og laa med de vældige lemmer
+Saa han talte. Da sortnet en sky av sjælekval om ham.\
+Hænderne fyldte han begge med sværtende støv som han strødde\
+over sit haar, og han skjæmmet med smuds sit deilige aasyn.\
+Kjortlen, den prægtige, dækkedes helt av den graasorte aske.\
+Selv lot helten sig falde og laa med de vældige lemmer\
 [(27–64) ]{.linjenummer}
-utstrakt i støvet og slet i sit håar med famlende hænder.
-Alle de terner han selv og Patroklos tilforn hadde vundet,
-jamret sig høit med fortvilede skrik. De styrtet fra teltet
-rundt om den tapre Akillevs, og: alle med knyttede hænder
-slog sig for barm, og de vaklende knær var nær ved at segne.
-Ogsaa Antilokos hulket i sorg. Med strømmende taarer
-holdt han, mens sukke fra hjertet sig stjal, Akillevs* hænder,
-ræd at han selv med det skjærende staal vilde snitte sin strupe.
-Frygtelig skrek han, og Tetis, hans mor, den høie gudinde,
-hørte det hist hvor hun sat hos sin far paa bunden av havet.
-Hulkende brast hun i graat. Da flokkedes alle gudinder,
-døtre av Nerevs, saa mange som var i dypet til huse.
-Glauke kom til. Kymodoke kom og den skjønne Taleia,
-Speio, Nesaia, Halia, med deilige øine, og Toe.
-Ogsaa Kymotoe kom med Limnoreia og med Aktaia,
-Doto og Mélite var der, og laira kom med Agave.
-Dernæst Amfitoe, Proto, Dynomene, Ferusa, Doris.
-Snart kom Deksåmene til, Amfinome, Kallianeira,
-Maira, Panope, Nemertes og navngjeten mø Galateia.
-Kallianåssa kom til og Apsevdes og snart laneira.
-Der var Klyméne, og sammen med søsteren kom lanassa,
-saa Oreitya og skjønlokket mø Amateia og alle
-døtre av Nerevs saa mange som var i dypet til huse.
-Grotten, som skinnet lik lysende sølv, blev fyldt, og i jammer
-slog de sig alle for barm, og Tetis begyndte sin klage:
-«Søstre, aa, lyt til mit ord, I døtre av Nerevs, saa alle
-hører og vet hvad knugende sorg mit hjerte maa rumme.
-Ve mig, som fødte den herligste helt, men bare til vanheld,
-jeg som har født den gjæveste søn, den vældigste kjæmpe,
-ypperst blandt helter. I veiret han skjøtsomenrankvoksenstikling.
-Da han var pleiet saa ømt, som man pleier en blomst i sin have,
-sendte jeg ham til Ilions by paa stavnkrumme snekker,
-frem til kampen mot troernes mænd. Dog, favne til velkomst
-hjemkommen elskling i Pelevs' hal forundes mig aldrig.
-Nei, og saa længe han lever og skuer det straalende sollys,
-knuger ham sorg, og det nytter jo ei, om jeg gaar for at hjælpe.
-Dog, nu maa jeg avsted til mit barn for at se ham og høre
-sorgen som rammethamnu,skjønthanholdersigbortefrakampen.»
+utstrakt i støvet og slet i sit haar med famlende hænder.\
+Alle de terner han selv og Patroklos tilforn hadde vundet,\
+jamret sig høit med fortvilede skrik. De styrtet fra teltet\
+rundt om den tapre Akillevs, og alle med knyttede hænder\
+slog sig for barm, og de vaklende knær var nær ved at segne.\
+Ogsaa Antilokos hulket i sorg. Med strømmende taarer\
+holdt han, mens sukke fra hjertet sig stjal, Akillevs' hænder,\
+ræd at han selv med det skjærende staal vilde snitte sin strupe.\
+Frygtelig skrek han, og Tetis, hans mor, den høie gudinde,\
+hørte det hist hvor hun sat hos sin far paa bunden av havet.\
+Hulkende brast hun i graat. Da flokkedes alle gudinder,\
+døtre av Nerevs, saa mange som var i dypet til huse.\
+Glauke kom til. Kymódoke kom og den skjønne Taleia,\
+Speio, Nesaia, Halía, med deilige øine, og Toe.\
+Ogsaa Kymôtoe kom med Limnóreia og med Aktaia,\
+Doto og Mélite var der, og Iaira kom med Agave.\
+Dernæst Amfítoe, Proto, Dynómene, Férusa, Doris.\
+Snart kom Deksámene til, Amfínome, Kallianeíra,\
+Maira, Panope, Nemertes og navngjeten mø Galateía.\
+Kallianássa kom til og Apsevdes og snart Ianeíra.\
+Der var Klyméne, og sammen med søsteren kom Ianassa,\
+saa Oreitya og skjønlokket mø Amateía og alle\
+døtre av Nerevs saa mange som var i dypet til huse.\
+Grotten, som skinnet lik lysende sølv, blev fyldt, og i jammer\
+slog de sig alle for barm, og Tetis begyndte sin klage:\
+«Søstre, aa, lyt til mit ord, I døtre av Nerevs, saa alle\
+hører og vet hvad knugende sorg mit hjerte maa rumme.\
+Ve mig, som fødte den herligste helt, men bare til vanheld,\
+jeg som har født den gjæveste søn, den vældigste kjæmpe,\
+ypperst blandt helter. I veiret han skjøt som en rankvoksen stikling.\
+Da han var pleiet saa ømt, som man pleier en blomst i sin have,\
+sendte jeg ham til Ilions by paa stavnkrumme snekker,\
+frem til kampen mot troernes mænd. Dog, favne til velkomst\
+hjemkommen elskling i Pelevs' hal forundes mig aldrig.\
+Nei, og saa længe han lever og skuer det straalende sollys,\
+knuger ham sorg, og det nytter jo ei, om jeg gaar for at hjælpe.\
+Dog, nu maa jeg avsted til mit barn for at se ham og høre\
+sorgen som rammet ham nu, skjønt han holder sig borte fra kampen.»
 
 [(65–102) ]{.linjenummer}
-Saa hun talte og ilte avsted fra grotten. De andre
-fulgte i hulkende graat, og rundt dem kløvde sig havets
-glitrende bølger, og da de kom frem til det muldrike Troja,
-steg de paa land i rad hvor nu myrmidonernes snekker
-laa langs havstranden, trukket paa land ved Akillevs' leirplads.
-Hjerteskjærende hulket den værdige mor, da hun traadte
-hen til sin sukkende søn og lagde sin haand paa hans hode.
-Klagende lød hendes vingede ord, da hun talte til helten:
-«Barn ,hvi graater du saa? Hvilken sorg har rammet dit hjerte?
-Si det, og dølg ikke længer din kval. Av Zevs er jo fuldbragt
-det som du tigget ham om tilforn med oprakte hænder,
-at de danaiske mænd skulde savne dig haardt, naar de trængtes
+Saa hun talte og ilte avsted fra grotten. De andre\
+fulgte i hulkende graat, og rundt dem kløvde sig havets\
+glitrende bølger, og da de kom frem til det muldrike Troja,\
+steg de paa land i rad hvor nu myrmidonernes snekker\
+laa langs havstranden, trukket paa land ved Akillevs' leirplads.\
+Hjerteskjærende hulket den værdige mor, da hun traadte\
+hen til sin sukkende søn og lagde sin haand paa hans hode.\
+Klagende lød hendes vingede ord, da hun talte til helten:\
+«Barn, hvi graater du saa? Hvilken sorg har rammet dit hjerte?\
+Si det, og dølg ikke længer din kval. Av Zevs er jo fuldbragt\
+det som du tigget ham om tilforn med oprakte hænder,\
+at de danaiske mænd skulde savne dig haardt, naar de trængtes\
 sammen ved skibenes stavn, og lide en skammelig medfart.»
 
-Sukkende tungt tok helten, den raske Akillevs, til orde:
-«Visselig, elskede mor, har Olymperen fuldbyrdet dette;
-men hvad glæde for mig, naar min elskede staldbror Patroklos
-segnet i døden, den ven som høiest jeg skattet av alle,
-likesaa høit som mig selv. Ham mistet jeg. Hektor, som vog ham,
-røvet ham rustningen, vældig og skjøn, et under at skue,
-kostelig gave som guderne selv lot bringe til Pelevs,
-just paa den dag da de tvang dig i seng hos en dødelig brudgom.
-Aa, om du bare var blit i dit hjem blandt havets gudinder
-dengang, og Pelevs, min far, hadde fæstet en dødelig kvinde!
-Kanske det var forat ogsaa du selv i din sjæl skulde lide
-endeløs kval, naar du mistet en søn, som du aldrig skal favne
-glad ved hans hjemkomst; ti selv om jeg kunde det, vilde jeg ikke
-bjerge mit liv og færdes blandt mænd, saasandt ikke Hektor
-først skulde miste sit liv for mit spyd og dyrt faa betale
+Sukkende tungt tok helten, den raske Akillevs, til orde:\
+«Visselig, elskede mor, har Olymperen fuldbyrdet dette;\
+men hvad glæde for mig, naar min elskede staldbror Patroklos\
+segnet i døden, den ven som høiest jeg skattet av alle,\
+likesaa høit som mig selv. Ham mistet jeg. Hektor, som vog ham,\
+røvet ham rustningen, vældig og skjøn, et under at skue,\
+kostelig gave som guderne selv lot bringe til Pelevs,\
+just paa den dag da de tvang dig i seng hos en dødelig brudgom.\
+Aa, om du bare var blit i dit hjem blandt havets gudinder\
+dengang, og Pelevs, min far, hadde fæstet en dødelig kvinde!\
+Kanske det var forat ogsaa du selv i din sjæl skulde lide\
+endeløs kval, naar du mistet en søn, som du aldrig skal favne\
+glad ved hans hjemkomst; ti selv om jeg kunde det, vilde jeg ikke\
+bjerge mit liv og færdes blandt mænd, saasandt ikke Hektor\
+først skulde miste sit liv for mit spyd og dyrt faa betale\
 byttet han tok fra Menaitios' søn, den ædle Patroklos.»
 
-Svarte da Tetis sin søn, mens taarerne strømmet saa stride:
-«Snarlig vil døden dig times, mit barn, om det gaar som du sier.
+Svarte da Tetis sin søn, mens taarerne strømmet saa stride:\
+«Snarlig vil døden dig times, mit barn, om det gaar som du sier.\
 Straks efter Hektors fald er det dig som loddet skal ramme.»
 
-Sukkende tungt tok atter den raske Akillevs til orde:
-«La mig kun straks maatte dø, da jeg ei kunde verne min kjære
-fældede ven, som mistet sit liv saa fjernt fra sit hjemland
-og maatte savne saa såart min hjælp mot skjæbnen, den grumme
-Nu faar det gaa som det vil, naar jeg ei skal faa komme tilbake,
-hjem til mit elskede land og ei fik frelse Patroklos
+Sukkende tungt tok atter den raske Akillevs til orde:\
+«La mig kun straks maatte dø, da jeg ei kunde verne min kjære\
+fældede ven, som mistet sit liv saa fjernt fra sit hjemland\
+og maatte savne saa saart min hjælp mot skjæbnen, den grumme.\
+Nu faar det gaa som det vil, naar jeg ei skal faa komme tilbake,\
+hjem til mit elskede land og ei fik frelse Patroklos\
 [(103–40) ]{.linjenummer}
 eller de andre, saa mangen en ven som dræptes av Hektor,
 men maa sitte ved flaaten som ørkesløs byrde for jorden,
