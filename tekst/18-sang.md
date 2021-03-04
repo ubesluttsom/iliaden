@@ -113,51 +113,51 @@ og maatte savne saa saart min hjælp mot skjæbnen, den grumme.\
 Nu faar det gaa som det vil, naar jeg ei skal faa komme tilbake,\
 hjem til mit elskede land og ei fik frelse Patroklos\
 [(103–40) ]{.linjenummer}
-eller de andre, saa mangen en ven som dræptes av Hektor,
-men maa sitte ved flaaten som ørkesløs byrde for jorden,
-skjønt ikke en blandt alle akaiernes pansrede helter
-veier mig op i en kamp, mens andre er bedre paa tinge.
-Maatte der dog blandt guder og msend bli ende paa bitter
-vrede og kiv som volder at selv den sindigste raser,
-den som saa tidt med søtere smak end dryppende honning
-vokser og vokser i menneskers bryst som en rykende flamme,
-slik som han vakte min vrede fornys, hin drot Agamemnon.
-Dog, la mig glemme hvad fordumerhændt,saatungtsomdetfalder,
-nødt som jeg er til at kue i barm den flammende vrede.
-Ku vil jeg gaa for at møtes med ham, med Hektor som myrdet
-Vennen jeg elsket, og efterpaa — vel, da tar jeg min dødslod
-trøstig den dag det skal ske efter Zevs' og gudernes vilje.
-Ikke Herakles engang, den vældige, flygtet for døden,
-skjønt han var elsket som ingen av Zevs, den sterke Kronide,
-men han blev kuet av skjæbnen og Heras ustyrlige vrede.
-Saaledes skal ogsaa jeg, dersom lignende lod skal mig times,
-hvile i ro efter døden, men la mig dog først vinde hæder.
-La nu saa mangen en midjesmal mø blandt dardaner og troer
-tørre fra dunbløt kind med skjælvende hænder de stride
-strømmende taarer og sukke saa tungt for den nød som jeg voldte.
-La dem nu merke forvisst, at jeg hvilte mig længe fra kampen.
-Stans mig nu ikke med kjærlige ord, Du bøier mig ikke.»
+eller de andre, saa mangen en ven som dræptes av Hektor,\
+men maa sitte ved flaaten som ørkesløs byrde for jorden,\
+skjønt ikke en blandt alle akaiernes pansrede helter\
+veier mig op i en kamp, mens andre er bedre paa tinge.\
+Maatte der dog blandt guder og mænd bli ende paa bitter\
+vrede og kiv som volder at selv den sindigste raser,\
+den som saa tidt med søtere smak end dryppende honning\
+vokser og vokser i menneskers bryst som en rykende flamme,\
+slik som han vakte min vrede fornys, hin drot Agamemnon.\
+Dog, la mig glemme hvad fordum er hændt, saa tungt som det falder,\
+nødt som jeg er til at kue i barm den flammende vrede.\
+Nu vil jeg gaa for at møtes med ham, med Hektor som myrdet\
+Vennen jeg elsket, og efterpaa — vel, da tar jeg min dødslod\
+trøstig den dag det skal ske efter Zevs' og gudernes vilje.\
+Ikke Herakles engang, den vældige, flygtet for døden,\
+skjønt han var elsket som ingen av Zevs, den sterke Kronide,\
+men han blev kuet av skjæbnen og Heras ustyrlige vrede.\
+Saaledes skal ogsaa jeg, dersom lignende lod skal mig times,\
+hvile i ro efter døden, men la mig dog først vinde hæder.\
+La nu saa mangen en midjesmal mø blandt dardaner og troer\
+tørre fra dunbløt kind med skjælvende hænder de stride\
+strømmende taarer og sukke saa tungt for den nød som jeg voldte.\
+La dem nu merke forvisst, at jeg hvilte mig længe fra kampen.\
+Stans mig nu ikke med kjærlige ord. Du bøier mig ikke.»
 
-Svarte ham da gudinden, den sølverfotede Tetis:
-«Ja, du har visselig ret, mit barn. Det kan ikke lastes
-at man i faren vil verne mot truende død sin venner.
-Men dine herlige vaaben av malm, de skinnende blanke,
-er nu i troernes eie. Den hjelmbuskvaiende Hektor
-bærer dem stolt om skuldre; men ei kan jeg tro at han længe
-bryster sig kry i sin pragt; ti snart vil han finde sin bane.
-Vent dog en stund med at kaste dig ind i de larmende kampe,
-indtil jeg vender tilbake og kommer dig atter for øie.
-Tidlig i morgen, naar solen staar op, vil jeg gaa til den gjæve
+Svarte ham da gudinden, den sølverfotede Tetis:\
+«Ja, du har visselig ret, mit barn. Det kan ikke lastes\
+at man i faren vil verne mot truende død sin venner.\
+Men dine herlige vaaben av malm, de skinnende blanke,\
+er nu i troernes eie. Den hjelmbuskvaiende Hektor\
+bærer dem stolt om skuldre; men ei kan jeg tro at han længe\
+bryster sig kry i sin pragt; ti snart vil han finde sin bane.\
+Vent dog en stund med at kaste dig ind i de larmende kampe,\
+indtil jeg vender tilbake og kommer dig atter for øie.\
+Tidlig i morgen, naar solen staar op, vil jeg gaa til den gjæve\
 hersker Hefaistos og bringe dig hit den herligste rustning.»
 
-Saa hun talte, og bort fra sin søn, den herlige høvding,
-vendte hun sig og talte til søstrene, havets gudinder:
-«Skynd jer at dukke paany i havdypets vældige avgrund.
+Saa hun talte, og bort fra sin søn, den herlige høvding,\
+vendte hun sig og talte til søstrene, havets gudinder:\
+«Skynd jer at dukke paany i havdypets vældige avgrund.\
 [(141–78) ]{.linjenummer}
-Gaa til vor fars palads for at se til den gamle i dypet.
-Meld ham saa alt; men selv vil jeg gaa til det høie Olympen
-hen for at gjeste vor navngjetne smed, den gjæve Hefaistos,
-om han vil skjænke min søn en straalende, kunstfærdig rustning1.
+Gaa til vor fars palads for at se til den gamle i dypet.\
+Meld ham saa alt; men selv vil jeg gaa til det høie Olympen\
+hen for at gjeste vor navngjetne smed, den gjæve Hefaistos,\
+om han vil skjænke min søn en straalende, kunstfærdig rustning.»
 
 Saa hun talte. Da dukket de straks i det bølgende havdyp,
 medens hun selv, gudinden, den sølverfotede Tetis,
