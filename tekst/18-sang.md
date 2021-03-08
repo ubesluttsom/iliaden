@@ -159,84 +159,84 @@ Meld ham saa alt; men selv vil jeg gaa til det høie Olympen\
 hen for at gjeste vor navngjetne smed, den gjæve Hefaistos,\
 om han vil skjænke min søn en straalende, kunstfærdig rustning.»
 
-Saa hun talte. Da dukket de straks i det bølgende havdyp,
-medens hun selv, gudinden, den sølverfotede Tetis,
-gik til Olymp for at hente sin søn en straalende rustning.
-Føtterne bar hende nu til Olymp; men akaiernes sønner
-flygtet med larmende skrik for den blodgriske Hektor og stormet
-rædde tilbake til skibenes rad og til Hellespontos.
-Ei var akaiernes pansrede mænd i stand til at slæpe
-drotten Akillevs' ven, den faldne Patroklos, fra valen,
-ti baade fotfolk og vogner var atter naadd frem og tillike
-Hektor, Priamos' søn, saa sterk som en luende flamme.
-Helten, den straalende Hektor tok treganger fat i hans føtter,
-grisk paa at slæpe ham bort, mens ivrig han troerne egget.
-Treganger støtte med stormende kraft de tvende Aianter
-høvdingen bort fra den faldne; men stolende trygt paa sin styrke
-stormet han snart i tummelen frem, snart stanset han atter,
-løftende vældige hærskrik; men aldrig dog vek han tilbake.
-Likesom gjæterne ei kan jage den gulbrune løve
-bort fra dyret den dræpte paa vang, naar den pines av sulten,
-saaledes kunde ei nu de malmklædte tvende Aianter
-jage bort Hektor, Priamos' søn, fra den faldne Patroklos.
-Bort hadde helten ham slæpt og vundet uvisnelig hæder,
-hvis ei den stormsnare Iris var kommet i hast fra Olympen
-ned til Akillevs med bud om at væbne sig. Zevs og de andre
-himmelske visste det ei; ti hun sendtes i løndom av Hera.
-Gik hun da nær, og med vingede ord hun talte til helten:
-«Op nu, Pelevs' søn, blandt mænd mest frygtet av alle!
-Op, for at verge Patroklos, om hvem det rædsomme kampgny
-raser ved skibene. Kjæmperne slaar hverandre til døde.
-Her vil akaierne verne hans lik; hist søker de grumme
-troer at trække det hen til det stormomsusede Troja.
-Ivrigst av alle paa valen er selve den straalende Hektor
-efter at slæpe ham bort, og det lyster hans hjerte at skille
-hodet fra bøielig hals og fæste det høit paa en stake.
-Op da, og nøl ikke mer, men skam dig inderst i hjertet,
+Saa hun talte. Da dukket de straks i det bølgende havdyp,\
+medens hun selv, gudinden, den sølverfotede Tetis,\
+gik til Olymp for at hente sin søn en straalende rustning.\
+Føtterne bar hende nu til Olymp; men akaiernes sønner\
+flygtet med larmende skrik for den blodgriske Hektor og stormet\
+rædde tilbake til skibenes rad og til Hellespontos.\
+Ei var akaiernes pansrede mænd i stand til at slæpe\
+drotten Akillevs' ven, den faldne Patroklos, fra valen,\
+ti baade fotfolk og vogner var atter naadd frem og tillike\
+Hektor, Priamos' søn, saa sterk som en luende flamme.\
+Helten, den straalende Hektor tok treganger fat i hans føtter,\
+grisk paa at slæpe ham bort, mens ivrig han troerne egget.\
+Treganger støtte med stormende kraft de tvende Aianter\
+høvdingen bort fra den faldne; men stolende trygt paa sin styrke\
+stormet han snart i tummelen frem, snart stanset han atter,\
+løftende vældige hærskrik; men aldrig dog vek han tilbake.\
+Likesom gjæterne ei kan jage den gulbrune løve\
+bort fra dyret den dræpte paa vang, naar den pines av sulten,\
+saaledes kunde ei nu de malmklædte tvende Aianter\
+jage bort Hektor, Priamos' søn, fra den faldne Patroklos.\
+Bort hadde helten ham slæpt og vundet uvisnelig hæder,\
+hvis ei den stormsnare Iris var kommet i hast fra Olympen\
+ned til Akillevs med bud om at væbne sig. Zevs og de andre\
+himmelske visste det ei; ti hun sendtes i løndom av Hera.\
+Gik hun da nær, og med vingede ord hun talte til helten:\
+«Op nu, Pelevs' søn, blandt mænd mest frygtet av alle!\
+Op, for at verge Patroklos, om hvem det rædsomme kampgny\
+raser ved skibene. Kjæmperne slaar hverandre til døde.\
+Her vil akaierne verne hans lik; hist søker de grumme\
+troer at trække det hen til det stormomsusede Troja.\
+Ivrigst av alle paa valen er selve den straalende Hektor\
+efter at slæpe ham bort, og det lyster hans hjerte at skille\
+hodet fra bøielig hals og fæste det høit paa en stake.\
+Op da, og nøl ikke mer, men skam dig inderst i hjertet,\
 [(179–216) ]{.linjenummer}
-dersom Patroklos skal vorde til lek for de trolske hunder.
+dersom Patroklos skal vorde til lek for de troiske hunder.\
 Kommer han hit som et skamskjendet lik, blir skammen din egen.»
 
-Mælte da atter den fotrappe helt, den gjæve Akillevs:
-«Iris, si, hvilken guddom har sendt dig hit med dit budskap1?»
+Mælte da atter den fotrappe helt, den gjæve Akillevs:\
+«Iris, si, hvilken guddom har sendt dig hit med dit budskap?»
 
-Atter tok Iris, den stormsnare mø, til orde og svarte:
-«Zevs' stormægtige hustru, den værdige Hera, har sendt mig.
-Hverken har Zevs faat nys om min færd eller en av de andre
+Atter tok Iris, den stormsnare mø, til orde og svarte:\
+«Zevs' stormægtige hustru, den værdige Hera, har sendt mig.\
+Hverken har Zevs faat nys om min færd eller en av de andre\
 evige guder som bor paa Olympos' snedækte tinder.»
 
-Talte da atter Akillevs, den fotrappe kriger, og spurte:
-«Kan jeg da gaa til en kamp, naar hine har røvet min rustning!
-Ogsaa min elskede mor har bedt mig ikke at kjæmpe
-før hun er vendt tilbake og kommet mig atter for øie;
-ti fra Hefaistos hun lovet at bringe mig herlige vaaben.
-Ikke en eneste vet jeg, hvis rustning jeg selv kunde bære
-uten hin Telamons søns, den vældige Aias' malmskjold.
-Dog han færdes vel selv, kan jeg tro, blandt de forreste kjæmper,
+Talte da atter Akillevs, den fotrappe kriger, og spurte:\
+«Kan jeg da gaa til en kamp, naar hine har røvet min rustning?\
+Ogsaa min elskede mor har bedt mig ikke at kjæmpe\
+før hun er vendt tilbake og kommet mig atter for øie;\
+ti fra Hefaistos hun lovet at bringe mig herlige vaaben.\
+Ikke en eneste vet jeg, hvis rustning jeg selv kunde bære\
+uten hin Telamons søns, den vældige Aias' malmskjold.\
+Dog han færdes vel selv, kan jeg tro, blandt de forreste kjæmper,\
 svingende barsk sit spyd til vern for den faldne Patroklos.»
 
-Atter tok Iris, den stormsnare mø, til orde og mælte:
-«Visselig vet ogsaa vi, at din herlige rustning er røvet;
-men du faar gaa som du er og vise dig fremme ved graven.
-Kanske vil troerne ræddes og holde sig borte fra kampen,
-mens i den ytterste nød akaiernes krigerske sønner
+Atter tok Iris, den stormsnare mø, til orde og mælte:\
+«Visselig vet ogsaa vi, at din herlige rustning er røvet;\
+men du faar gaa som du er og vise dig fremme ved graven.\
+Kanske vil troerne ræddes og holde sig borte fra kampen,\
+mens i den ytterste nød akaiernes krigerske sønner\
 kommer til aande. Et øiebliks hvil kan lette dem kampen.»
 
-Saa hun talte og svandt, den fotrappe straalende Iris.
-Reiste sig da Akillevs, hin yndling av Zevs, og Atene
-hængte aigiden, det frynsede skjold, om hans kraftige skuldre,
-og med en sky som av lysende guld den høie gudinde
-kranset hans isse og tændte fra den en flammende lue.
-Som naar en røk stiger op fra en by og hvirvler mot himlen
-fjernt paa en ø som er kringsat i strid av fiendens skarer
-—hele den utslagne dag maa de gaa til de grufulde kampe
-ut fra sin by; men naar solen tilsidst om aftenen daler,
-flammer utallige luende baal, og lysglansen stiger
-op imot himlen til tydelig tegn som skal sees av grander,
-om de paa skibe vil seile derut og hjælpe i nøden —
-saaledes steg hin glans fra Akillevs' hode mot himlen.
-Frem fra muren til graven han gik, men holdt sig tilbake
-fra sine landsmænd og agtet sin mors forstandige paalæg.
+Saa hun talte og svandt, den fotrappe straalende Iris.\
+Reiste sig da Akillevs, hin yndling av Zevs, og Atene\
+hængte aigiden, det frynsede skjold, om hans kraftige skuldre,\
+og med en sky som av lysende guld den høie gudinde\
+kranset hans isse og tændte fra den en flammende lue.\
+Som naar en røk stiger op fra en by og hvirvler mot himlen\
+fjernt paa en ø som er kringsat i strid av fiendens skarer\
+— hele den utslagne dag maa de gaa til de grufulde kampe\
+ut fra sin by; men naar solen tilsidst om aftenen daler,\
+flammer utallige luende baal, og lysglansen stiger\
+op imot himlen til tydelig tegn som skal sees av grander,\
+om de paa skibe vil seile derut og hjælpe i nøden —\
+saaledes steg hin glans fra Akillevs' hode mot himlen.\
+Frem fra muren til graven han gik, men holdt sig tilbake\
+fra sine landsmænd og agtet sin mors forstandige paalæg.\
 [(217–54) ]{.linjenummer}
 Stansende der skrek han i, og særlig lot Pallas Atene
 høre sin røst til usigelig skræk for de larmende troer.
