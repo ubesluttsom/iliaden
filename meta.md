@@ -1,7 +1,5 @@
 ---
-title:
-- type: main
-  text: Iliaden
+title: Iliaden
 creator:
 - role: author
   text: Homer
