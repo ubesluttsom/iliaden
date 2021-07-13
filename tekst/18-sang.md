@@ -238,442 +238,442 @@ saaledes steg hin glans fra Akillevs' hode mot himlen.\
 Frem fra muren til graven han gik, men holdt sig tilbake\
 fra sine landsmænd og agtet sin mors forstandige paalæg.\
 [(217–54) ]{.linjenummer}
-Stansende der skrek han i, og særlig lot Pallas Atene
-høre sin røst til usigelig skræk for de larmende troer.
-Likesaa skarpt som det skingrendeskrald fradengjaldendekrigslur
-lyder, naar rundt om en by de blodgriske fiender flokkes,
-likesaa skarpt lød hærskriket nu fra Aiakos' ætling.
-Men da nu troerne hørte Akillevs' rungende malmrøst,
-bævet de alle i gru, og de mankeflagrende hester
-vendte med vognene om; ti de ante en skrækkelig fare.
-Kuskene stivnet av gru, da de saa en uskikkelig lue
-flamme i skræmmende brand fra den kjække Akillevs' isse,
-tændt av den mægtige guddom, den blaaøide Pallas Atene.
-Treganger gjaldet Akillevs' skrik vidt hen over graven,
-treganger tumlet paa flugt baade troer og hjælpere gjæve.
-Der fandt tolv av de tapreste mænd sin bane og knustes
-under sin vogn eller spiddet sig selv paa lansen; men glade
-bjerget akaierne trygt Patroklos' lik fra den tætte
-spydregn og la ham paa baare, mens elskede venner stod om ham
-hulkende høit. Dem fulgte den raske Akillevs, og hete
-strømmet hans taarer paa kind, da han saa sin trofaste staldbror
-ligge paa baaren med gapende såar av det skjærende kobber,
-vennen som nys han sendte til kamp med hester og stridsvogn,
+Stansende der skrek han i, og særlig lot Pallas Atene\
+høre sin røst til usigelig skræk for de larmende troer.\
+Likesaa skarpt som det skingrende skrald fra den gjaldende krigslur\
+lyder, naar rundt om en by de blodgriske fiender flokkes,\
+likesaa skarpt lød hærskriket nu fra Aiakos' ætling.\
+Men da nu troerne hørte Akillevs' rungende malmrøst,\
+bævet de alle i gru, og de mankeflagrende hester\
+vendte med vognene om; ti de ante en skrækkelig fare.\
+Kuskene stivnet av gru, da de saa en uskikkelig lue\
+flamme i skræmmende brand fra den kjække Akillevs' isse,\
+tændt av den mægtige guddom, den blaaøide Pallas Atene.\
+Treganger gjaldet Akillevs' skrik vidt hen over graven,\
+treganger tumlet paa flugt baade troer og hjælpere gjæve.\
+Der fandt tolv av de tapreste mænd sin bane og knustes\
+under sin vogn eller spiddet sig selv paa lansen; men glade\
+bjerget akaierne trygt Patroklos' lik fra den tætte\
+spydregn og la ham paa baare, mens elskede venner stod om ham\
+hulkende høit. Dem fulgte den raske Akillevs, og hete\
+strømmet hans taarer paa kind, da han saa sin trofaste staldbror\
+ligge paa baaren med gapende saar av det skjærende kobber,\
+vennen som nys han sendte til kamp med hester og stridsvogn,\
 men som han aldrig igjen skulde hilse velkommen tilbake.
 
-Hera, den høie gudinde, lot nu den rastløse solgud
-gjeste paany Okeanos' strøm, saa nødig han vilde.
-Solen gik ned. Da hvilte tilsidst de gjæve akaier
-efter den vældige strid og de blindt ødelæggende kampe.
-Men paa den motsatte kant drog ogsaa de troiske stridsmænd
-bort fra kampen og spændte fra vogn de fotrappe hester.
-Derefter stevnet de samlet til tings, før de tænkte paa maaltid.
-Tinget blev sat; men mændene stod under møtet, og ingen
-vaaget at sætte sig ned; ti de bævet av frygt, da Akillevs
-nu hadde vist sig, hin helt som længe var borte fra kampen.
-Først tok Pantoos' søn, Polydamas, sindig til orde,
-han som alene forstod at se baade frem og tilbake.
-Drotten var Hektors ven; paa én nat fødtes de begge.
-En var mester i ordenes kunst, den anden med lansen.
-Venlig tilsinds mot dem alle tok drotten til orde og mælte:
-«Tænk jer nu om, mine venner. For min del raader jeg alle
+Hera, den høie gudinde, lot nu den rastløse solgud\
+gjeste paany Okeanos' strøm, saa nødig han vilde.\
+Solen gik ned. Da hvilte tilsidst de gjæve akaier\
+efter den vældige strid og de blindt ødelæggende kampe.\
+Men paa den motsatte kant drog ogsaa de troiske stridsmænd\
+bort fra kampen og spændte fra vogn de fotrappe hester.\
+Derefter stevnet de samlet til tings, før de tænkte paa maaltid.\
+Tinget blev sat; men mændene stod under møtet, og ingen\
+vaaget at sætte sig ned; ti de bævet av frygt, da Akillevs\
+nu hadde vist sig, hin helt som længe var borte fra kampen.\
+Først tok Pantoos' søn, Polydamas, sindig til orde,\
+han som alene forstod at se baade frem og tilbake.\
+Drotten var Hektors ven; paa én nat fødtes de begge.\
+En var mester i ordenes kunst, den anden med lansen.\
+Venlig tilsinds mot dem alle tok drotten til orde og mælte:\
+«Tænk jer nu om, mine venner. For *min* del raader jeg alle\
 [(255–92) ]{.linjenummer}
-nu ta at stevne til byen og ei til den gryende morgen
-vente her ute paa sletten ved skibene, fjernt fra ver bymur.
-Medens hin helt var vred paa den høibaarne drot Agamemnon,
-faldt det os let at staa i en kamp mot akaiernes sønner-
-Selv var jeg glad, naar vi hvilte en nat ved de hurtige snekker,
-haabende snart at faa i vor vold de stavnkrumme skibe.
-Derimot ræddes jeg nu for den fotrappe høvding Akillevs.
-Kjæk, som han er, og ustyrlig av sind, vil han ikke i længden
-holde sig ute paa sletten i ro, hvor akaier og troer
-møter hverandre paa val og veksler de kraftige sverdhugg;
-men han vil gaa til en kamp om vor by og om vore kvinder.
-Lyd mig da nu. La os gaa til vor by. Det vil gaa som jeg sier.
-Nu er den signede nat brutt frem og har dennegang stanset
-Pelevs' fotrappe søn; men træffer han os, naar han rustet
-stevner imorgen til kamp, vil mangen tilvisse faa lære
-helten at kjende; ti hvo som kan fly, vil vende med glæde
-hjem til det hellige Troja; men hunder og gribber vil æte
-troer i mængde. Aa, maatte det ei mig komme for øre!
-Men hvis vi derimot lyder mit raad, saa tungt som det falder,
-holder vi samlet paa torvet inat vor stridsmagt; men byen
-vernes av muren og portenes hvælv, som lukkes med sterke,
-vel sammentømrede fløier av glattede, mægtige planker.
-Men naar det lider mot dag, skal vi stille os, klædt i vor rustning,
-oppe paa taarnene. Da blir det værst for ham selv, hvis han agter
-freidig at komme fra skibene hit for at kjæmpe om muren.
-Hjem skal han vende til flaaten, naar først han har trættet de sterke
-hester i alle slags løp paa sin vildsomme færd under byen.
-Modet vil ei strække til til at trænge sig ind, og han øder
+nu ta at stevne til byen og ei til den gryende morgen\
+vente her ute paa sletten ved skibene, fjernt fra vor bymur.\
+Medens hin helt var vred paa den høibaarne drot Agamemnon,\
+faldt det os let at staa i en kamp mot akaiernes sønner.\
+Selv var jeg glad, naar vi hvilte en nat ved de hurtige snekker,\
+haabende snart at faa i vor vold de stavnkrumme skibe.\
+Derimot ræddes jeg nu for den fotrappe høvding Akillevs.\
+Kjæk, som han er, og ustyrlig av sind, vil han ikke i længden\
+holde sig ute paa sletten i ro, hvor akaier og troer\
+møter hverandre paa val og veksler de kraftige sverdhugg;\
+men han vil gaa til en kamp om vor by og om vore kvinder.\
+Lyd mig da nu. La os gaa til vor by. Det vil gaa som jeg sier.\
+Nu er den signede nat brutt frem og har dennegang stanset\
+Pelevs' fotrappe søn; men træffer han os, naar han rustet\
+stevner imorgen til kamp, vil mangen tilvisse faa lære\
+helten at kjende; ti hvo som kan fly, vil vende med glæde\
+hjem til det hellige Troja; men hunder og gribber vil æte\
+troer i mængde. Aa, maatte det ei mig komme for øre!\
+Men hvis vi derimot lyder mit raad, saa tungt som det falder,\
+holder vi samlet paa torvet inat vor stridsmagt; men byen\
+vernes av muren og portenes hvælv, som lukkes med sterke,\
+vel sammentømrede fløier av glattede, mægtige planker.\
+Men naar det lider mot dag, skal vi stille os, klædt i vor rustning,\
+oppe paa taarnene. Da blir det værst for ham selv, hvis han agter\
+freidig at komme fra skibene hit for at kjæmpe om muren.\
+Hjem skal han vende til flaaten, naar først han har trættet de sterke\
+hester i alle slags løp paa sin vildsomme færd under byen.\
+Modet vil ei strække til til at trænge sig ind, og han øder\
 aldrig vor by; nei, før blir han rov for de fotrappe hunder.»
 
-Barsk og med rynkede bryn tok den straalende Hektor til orde:
-«Nei, Polydamas, raadet du gir os, huer mig ikke,
-at vi skal stevne til byen paany og stænge os inde.
-Har I da ikke faat nok av at trænge jer sammen bak muren?
-Mælende mænd har pleiet tilforn samstemmig at kalde
-Priamos' by den guldrike borg, den malmrike kongsstad.
-Hu er husene tømt for de herlige skatte, og meget
-arvegods solgtes og kom til Mæoniens yndige egne
-eller til Frygiens land, siden Zevs blev vred paa os alle.
+Barsk og med rynkede bryn tok den straalende Hektor til orde:\
+«Nei, Polydamas, raadet du gir os, huer mig ikke,\
+at vi skal stevne til byen paany og stænge os inde.\
+Har I da ikke faat nok av at trænge jer sammen bak muren?\
+Mælende mænd har pleiet tilforn samstemmig at kalde\
+Priamos' by den guldrike borg, den malmrike kongsstad.\
+Hu er husene tømt for de herlige skatte, og meget\
+arvegods solgtes og kom til Mæoniens yndige egne\
+eller til Frygiens land, siden Zevs blev vred paa os alle.\
 [(293–329) ]{.linjenummer}
-Men da den listige Kronos' søn har undt mig at vinde
-hæder ved flaaten og trænge akaierne sammen ved havet,
-kom da ei mer, du daare, med denslags tanker paa tinge.
-Ikke en troer vil følge dit raad; ti jeg taaler det ikke.
-Selv skal jeg gi jer et raad, og la os saa følge det alle:
-Nyt nu jer kveldsmat her i vor leir, enhver i sin deling.
-Husk saa alle at gaa til jer vakt og holde jer vaakne.
-Den iblandt troernes mænd som ængster sig såart for sit eie,
-han kan jo samle sit gods og dele det ut iblandt folket.
-Bedre at nogen av vore faar godt av det end en akaier.
-La os saa straks, naar det lider mot dag, i panser og plate
-vække paany den hidsige kamp ved de stavnkrumme snekker.
-Hvis det er saa at Akillevs til kamp har reist sig ved flaaten,
-blir det nok værst for ham selv, hvis han føier sin lyst; ti jeg agter
-ikke at fly fra den larmende strid, men stille mig mot ham,
-enten det nu blir ham selv eller mig som skal seire i kampen.
-Krigsguden rammer i blinde og dræpte saa ofte en drapsmand.
+Men da den listige Kronos' søn har undt mig at vinde\
+hæder ved flaaten og trænge akaierne sammen ved havet,\
+kom da ei mer, du daare, med denslags tanker paa tinge.\
+Ikke en troer vil følge dit raad; ti jeg taaler det ikke.\
+Selv skal jeg gi jer et raad, og la os saa følge det alle:\
+Nyt nu jer kveldsmat her i vor leir, enhver i sin deling.\
+Husk saa alle at gaa til jer vakt og holde jer vaakne.\
+Den iblandt troernes mænd som ængster sig saart for sit eie,\
+han kan jo samle sit gods og dele det ut iblandt folket.\
+Bedre at nogen av vore faar godt av det end en akaier.\
+La os saa straks, naar det lider mot dag, i panser og plate\
+vække paany den hidsige kamp ved de stavnkrumme snekker.\
+Hvis det er saa at Akillevs til kamp har reist sig ved flaaten,\
+blir det nok værst for ham selv, hvis han føier sin lyst; ti jeg agter\
+ikke at fly fra den larmende strid, men stille mig mot ham,\
+enten det nu blir ham selv eller mig som skal seire i kampen.\
+Krigsguden rammer i blinde og dræpte saa ofte en drapsmand.»
 
-Dette var Hektors ord, og troerne jublet som daarer,
-larmende vildt; ti Pallas Atene slog dem med blindhet.
-Samstemmig roste de Hektor, hvis plan skulde bringe dem vanheld
+Dette var Hektors ord, og troerne jublet som daarer,\
+larmende vildt; ti Pallas Atene slog dem med blindhet.\
+Samstemmig roste de Hektor, hvis plan skulde bringe dem vanheld.\
 Ingen gav agt paa Polydamas' raad, som dog var det bedste.
 
-Derefter nøt de i leiren sin mat; men for helten Patroklos
-jamret med stønnende suk akaierne natten til ende.
-Pelevs' søn var den første som jamret i hulkende klage,
-mens paa sin vaabenbrors bryst han la de hænder som dræpte
-mangen en helt, og stønnet saa dypt som den skjeggede løve,
-naar fra det løvtætte krat en jæger som lurer paa hjorten,
-røvet dens unger. Da vredes den vildt naar den kommer for silde
-Kastløs farer den om fra kløft til kløft for at finde
-jægerens spor og ham selv; ti den gripes av rasende vrede.
-Sukkende tungt tok han ordet iblandt de tro myrmidoner:
-«Aa, for et tankeløst løfte jeg gav hin dag da jeg talte
-trøstende ord i vor hal til Menoitios, drotten den gjæve.
-Bringe tilbake til Opus hans herlige søn har jeg lovet,
-naar han ved Ilions fald hadde vundet sin mandslod av byttet.
-Alt fuldbyrdes dog ikke av Zevs, hvad mennesker tænker.
-Os to var det beskaaret at farve med blodet, det røde,
+Derefter nøt de i leiren sin mat; men for helten Patroklos\
+jamret med stønnende suk akaierne natten til ende.\
+Pelevs' søn var den første som jamret i hulkende klage,\
+mens paa sin vaabenbrors bryst han la de hænder som dræpte\
+mangen en helt, og stønnet saa dypt som den skjeggede løve,\
+naar fra det løvtætte krat en jæger som lurer paa hjorten,\
+røvet dens unger. Da vredes den vildt naar den kommer for silde.\
+Rastløs farer den om fra kløft til kløft for at finde\
+jægerens spor og ham selv; ti den gripes av rasende vrede.\
+Sukkende tungt tok han ordet iblandt de tro myrmidoner:\
+«Aa, for et tankeløst løfte jeg gav hin dag da jeg talte\
+trøstende ord i vor hal til Menoitios, drotten den gjæve.\
+Bringe tilbake til Opus hans herlige søn har jeg lovet,\
+naar han ved Ilions fald hadde vundet sin mandslod av byttet.\
+Alt fuldbyrdes dog ikke av Zevs, hvad mennesker tænker.\
+Os to var det beskaaret at farve med blodet, det røde,\
 [(330–67) ]{.linjenummer}
-selvsamme jord ved Troja; ti jeg skal ei heller i hallen
-bydes velkommen av Pelevs, den hestetumlende gubbe,
-eller av Tetis, min mor; men her skal jeg bo under mulde.
-Nu da jeg sidst av os to skal synke i graven, Patroklos,
-vil jeg ei jorde dit lik, før hit jeg kan bære den grumme
-Hektors, din banemands, rustning som rov og hans blodige hode,
-og før jeg foran dit baal tolv høibaarne troiske svendes
-hoder kan skille fra hals i vrede, fordi du blev fældet.
-Slik som du er, skal du ligge imens ved de stavnkrumme snekker.
-Mangen dardanisk og troisk mø, skjønbeltet og fager,
-skal om dit lik maatte hulke i graat baade nætter og dage,
-møer vi vandt med det vældige spyd i møisomme kampe,
+selvsamme jord ved Troja; ti jeg skal ei heller i hallen\
+bydes velkommen av Pelevs, den hestetumlende gubbe,\
+eller av Tetis, min mor; men her skal jeg bo under mulde.\
+Nu da jeg sidst av os to skal synke i graven, Patroklos,\
+vil jeg ei jorde dit lik, før hit jeg kan bære den grumme\
+Hektors, din banemands, rustning som rov og hans blodige hode,\
+og før jeg foran dit baal tolv høibaarne troiske svendes\
+hoder kan skille fra hals i vrede, fordi du blev fældet.\
+Slik som du er, skal du ligge imens ved de stavnkrumme snekker.\
+Mangen dardanisk og troisk mø, skjønbeltet og fager,\
+skal om dit lik maatte hulke i graat baade nætter og dage,\
+møer vi vandt med det vældige spyd i møisomme kampe,\
 hvergang vi herjet en by, hvor mælende mænd var til huse.»
 
-Saaledes talte Akillevs og bød sine svende at sætte
-over den flammende ild en rummelig trebenet kjedel
-forat de snart fra Patroklos' lik kunde avtvætte blodet
-Hen over ildstedet stillet de straks en badevandskjedel,
-øste den fuld av vand, og under den tændte de veden.
-Våndet blev varmt, da luerne slog over trefotens runding.
-Men saasnart det var kommet i kok i det blankskurte kobber,
-tvættet de liket og salvet dets hud med glinsende olje,
-fyldte de gapende såar med niaarig salve og strakte
-liket paa baaren og svøpte det ind i den fineste linduk
-like fra isse til fot og dækket det til med et laken.
-Samlet den utslagne nat i kreds om den raske Akillevs
-sat myrmidonernes mænd og graat for den faldne Patroklos.
-Spottende talte da Zevs til Hera, sin søster og hustru:
-«Endelig var du da heldig, du værdige Hera, og vakte
-atter den raske Akillevs til daad. Ja, sandelig tror jeg
+Saaledes talte Akillevs og bød sine svende at sætte\
+over den flammende ild en rummelig trebenet kjedel\
+forat de snart fra Patroklos' lik kunde avtvætte blodet.\
+Hen over ildstedet stillet de straks en badevandskjedel,\
+øste den fuld av vand, og under den tændte de veden.\
+Vandet blev varmt, da luerne slog over trefotens runding.\
+Men saasnart det var kommet i kok i det blankskurte kobber,\
+tvættet de liket og salvet dets hud med glinsende olje,\
+fyldte de gapende saar med niaarig salve og strakte\
+liket paa baaren og svøpte det ind i den fineste linduk\
+like fra isse til fot og dækket det til med et laken.\
+Samlet den utslagne nat i kreds om den raske Akillevs\
+sat myrmidonernes mænd og graat for den faldne Patroklos.\
+Spottende talte da Zevs til Hera, sin søster og hustru:\
+«Endelig var du da heldig, du værdige Hera, og vakte\
+atter den raske Akillevs til daad. Ja, sandelig tror jeg\
 at du er kjødelig mor til akaiernes haarfagre helter.»
 
-Harmfuld svarte ham da den mørkøide værdige Hera:
-«Kronos' vældige søn, hvor kan du dog føre slik tale?
-Mangen en dødelig mand kan tilsidst faa bugt med en anden,
-skjønt han er jordisk av æt og ikke i kløkt er vor like.
-Hvorledes skulde da jeg, den første blandt alle gudinder
-baade av byrd og fordi jeg blir kaldt din hustru og make,
-du som er hersker og drot over alle de evige guder,
+Harmfuld svarte ham da den mørkøide værdige Hera:\
+«Kronos' vældige søn, hvor kan du dog føre slik tale?\
+Mangen en dødelig mand kan tilsidst faa bugt med en anden,\
+skjønt han er jordisk av æt og ikke i kløkt er vor like.\
+Hvorledes skulde da jeg, den første blandt alle gudinder\
+baade av byrd og fordi jeg blir kaldt din hustru og make,\
+du som er hersker og drot over alle de evige guder,\
 ei kunne hevne mig vildt paa det troiske folk i min vrede?»
 
 [(368–405) ]{.linjenummer}
-Saaledes talte de tvende med vekslende ord til hinanden.
-Tetis var kommet imens til Hefaistos' evige bolig,
-prydet med stjerner og bygget av malm, blandt gudernes borge
-skjønnest av alle. Han reiste den selv, den haltende mester.
-Fremme ved bælgene traf hun ham nu, mens han svedende hinket
-travelt omkring; ti treføtter smidde han, tyve i tallet,
-som i hans fastbygde hal skulde stilles i række langs væggen.
-Under dem fæstet han trinser av gnid til samtlige føtter,
-forat enhver av sig selv kunde rulle til gudernes festsal
-frem, og tilbake igjen til hans hal, et under at skue.
-Verket var færdig saavidt; ti bare de kunstige hanker
-manglet dem endnu; dem naglet han fast med hamrede stifter.
-Medens nu guden med sindrikste kløgt hadde travelt med dette,
-traadte gudinden ham nær, den sølverfotede Tetis.
-Først skred den yndige Charis, den haltende smedeguds hustru,
-ut av paladset i skinnende slør og saa hende komme.
-Hjertelig grep hun gudinden ved haand, tok ordet og mælte:
-«Tetis med sløret det lange, hvi kommer du, værdige guddom
-nu som en kjærkommen gjest til vor hal? Det sker jo saa sjelden
+Saaledes talte de tvende med vekslende ord til hinanden.\
+Tetis var kommet imens til Hefaistos' evige bolig,\
+prydet med stjerner og bygget av malm, blandt gudernes borge\
+skjønnest av alle. Han reiste den selv, den haltende mester.\
+Fremme ved bælgene traf hun ham nu, mens han svedende hinket\
+travelt omkring; ti treføtter smidde han, tyve i tallet,\
+som i hans fastbygde hal skulde stilles i række langs væggen.\
+Under dem fæstet han trinser av guld til samtlige føtter,\
+forat enhver av sig selv kunde rulle til gudernes festsal\
+frem, og tilbake igjen til hans hal, et under at skue.\
+Verket var færdig saavidt; ti bare de kunstige hanker\
+manglet dem endnu; dem naglet han fast med hamrede stifter.\
+Medens nu guden med sindrikste kløgt hadde travelt med dette,\
+traadte gudinden ham nær, den sølverfotede Tetis.\
+Først skred den yndige Charis, den haltende smedeguds hustru,\
+ut av paladset i skinnende slør og saa hende komme.\
+Hjertelig grep hun gudinden ved haand, tok ordet og mælte:\
+«Tetis med sløret det lange, hvi kommer du, værdige guddom\
+nu som en kjærkommen gjest til vor hal? Det sker jo saa sjelden.\
 Følg mig nu ind, mens jeg sætter paa bord hvad man byr sine gjester.»
 
-Saaledes talte gudinden og førte den anden til hallen,
-bød hende derpaa en stol, beslaat med sølvblanke nagler,
-skjøn og arbeidet med kunst, og til føtterne var der en skammel.
-Kaldte hun saa paa Hefaistos, den navngjetne kunstner, og mælte
-«Skynd dig nu ind, Hefaistos; ti Tetis vil faa dig i tale.»
-Straks fik hun svar av sin mand, den navngjetne, armsterke mester
-«Visselig gjester os nu en høi og værdig gudinde,
-hun som har frelst mig efter mit fald, da jeg pintes av smerter,
-voldt av min skamløse mor, som fik lyst til at faa mig av veien,
-halt som jeg var. Da hadde jeg lidt utaalelig pine,
-hvis ikke Tetis i hast og Evrynome ømt hadde tat mig
-op i sit fang, hint barn av Okeanos' kredsende havstrøm.
-Der har jeg smidd paa det niende aar utallige smykker,
-søljer og dreiede spænder og gulddobber fine og halsbaand,
-hist i den hvælvede hal, hvor Okeanos' fraadende strømme
-bruste om grotten i endeløst løp. Der fandtes jo ingen
-gud eller dødelig mand som visste mit skjul, uten Tetis.
-Hun og Evrynome kjendte det vel, de to som har frelst mig.
+Saaledes talte gudinden og førte den anden til hallen,\
+bød hende derpaa en stol, beslaat med sølvblanke nagler,\
+skjøn og arbeidet med kunst, og til føtterne var der en skammel.\
+Kaldte hun saa paa Hefaistos, den navngjetne kunstner, og mælte\
+«Skynd dig nu ind, Hefaistos; ti Tetis vil faa dig i tale.»\
+Straks fik hun svar av sin mand, den navngjetne, armsterke mester\
+«Visselig gjester os nu en høi og værdig gudinde,\
+hun som har frelst mig efter mit fald, da jeg pintes av smerter,\
+voldt av min skamløse mor, som fik lyst til at faa mig av veien,\
+halt som jeg var. Da hadde jeg lidt utaalelig pine,\
+hvis ikke Tetis i hast og Evrýnome ømt hadde tat mig\
+op i sit fang, hint barn av Okeanos' kredsende havstrøm.\
+Der har jeg smidd paa det niende aar utallige smykker,\
+søljer og dreiede spænder og gulddobber fine og halsbaand,\
+hist i den hvælvede hal, hvor Okeanos' fraadende strømme\
+bruste om grotten i endeløst løp. Der fandtes jo ingen\
+gud eller dødelig mand som visste mit skjul, uten Tetis.\
+Hun og Evrynome kjendte det vel, de to som har frelst mig.\
 [(406–43) ]{.linjenummer}
-Nu er hun gjest i mit hus, og jeg skylder den haarfagre Tetis
-alt hvad jeg evner at gjøre til tak for min frelse i nøden.
-Skynd dig nu ind og sæt frem de herligste gjestebudsretter,
+Nu er hun gjest i mit hus, og jeg skylder den haarfagre Tetis\
+alt hvad jeg evner at gjøre til tak for min frelse i nøden.\
+Skynd dig nu ind og sæt frem de herligste gjestebudsretter,\
 medens jeg lægger tilside mine bælg og hele mit verktøi.»
 
-Saaledes talte det pæsende troll, og op fra sin ambolt
-reiste han sig og humpet omkring paa de skindmagre lægger.
-Bælgene flyttet han fjernt fra sin ild og sanket sit verktøi
-sammen i kisten av sølv, hvert redskap som lettet hans møie.
-Derefter vasket han sig med en svamp paa ansigt og hænder,
-tvættet den kraftige, senede hals og den haarede bringe,
-tok saa sin kjortel og grep den vældige krumstav og humpet
-ut fra sit verksted; men støttende gik ved herskerens side
-terner av guld, livagtig at se som levende kvinder;
-ti de har kløktig forstand i sit bryst og mælende stemme.
-Livskraft de har, og kvindelig dont har guderne lært dem.
-Hjælpende støttet de møisomt sin drot; men da han A^ar kommet
-nær til Tetis, tok herskeren plads paa en straalende tronstol.
-Hjertelig grep han gudinden ved haand, tok ordet og mælte:
-«Tetis med sløret, det lange, hvi kommer du værdige guddom,
-nu som en kjærkommen gjest til vor hal? Det sker jo saa sjelden
-Si hvad du ønsker. Mig byder mit sind at gjøre din vilje,
+Saaledes talte det pæsende troll, og op fra sin ambolt\
+reiste han sig og humpet omkring paa de skindmagre lægger.\
+Bælgene flyttet han fjernt fra sin ild og sanket sit verktøi\
+sammen i kisten av sølv, hvert redskap som lettet hans møie.\
+Derefter vasket han sig med en svamp paa ansigt og hænder,\
+tvættet den kraftige, senede hals og den haarede bringe,\
+tok saa sin kjortel og grep den vældige krumstav og humpet\
+ut fra sit verksted; men støttende gik ved herskerens side\
+terner av guld, livagtig at se som levende kvinder;\
+ti de har kløktig forstand i sit bryst og mælende stemme.\
+Livskraft de har, og kvindelig dont har guderne lært dem.\
+Hjælpende støttet de møisomt sin drot; men da han var kommet\
+nær til Tetis, tok herskeren plads paa en straalende tronstol.\
+Hjertelig grep han gudinden ved haand, tok ordet og mælte:\
+«Tetis med sløret, det lange, hvi kommer du værdige guddom,\
+nu som en kjærkommen gjest til vor hal? Det sker jo saa sjelden.\
+Si hvad du ønsker. Mig byder mit sind at gjøre din vilje,\
 dersom det staar i min magt, og det som du ønsker, er gjørlig.»
 
-Derpaa tok Tetis til orde og svarte med strømmende taarer:
-«Findes der vel, Hefaistos, blandt alle Olympens gudinder
-nogen som led i sit hjerte en sorg saa tung som de bitre
-kvaler jeg fik av Zevs, av Kronos' søn, fremfor alle.
-Ene blandt havets gudinder blev jeg til et menneske lænket,
-Pelevs, Aiakos' søn, og favntak av dødelig husbond
-maatte jeg taale uvillig. Av sørgelig alderdom svækket
-ligger han kraftløs i hallen, og mer har jeg nu maattet lide.
-Zevs har jo undt mig at føde en søn og fostre en høvding,
-ypperst blandt helter. I veiret han skjøtsomenrankvoksen stængel.
-Da han var pleiet saa ømt som man pleier en blomst i sin have,
-sendte jeg ham til Ilions by paa stavnkrumme snekker
-frem til kampen mot troernes mænd. Dog, det undes mig aldrig*
-hjemkommen elskling i Pelevs' hal at favne til velkomst.
-Nei, og saa længe han lever og skuer det straalende sollys,
-knuger ham sorg, og det nytter jo ei om jeg gaar for at hjælpe.
+Derpaa tok Tetis til orde og svarte med strømmende taarer:\
+«Findes der vel, Hefaistos, blandt alle Olympens gudinder\
+nogen som led i sit hjerte en sorg saa tung som de bitre\
+kvaler jeg fik av Zevs, av Kronos' søn, fremfor alle.\
+Ene blandt havets gudinder blev jeg til et menneske lænket,\
+Pelevs, Aiakos' søn, og favntak av dødelig husbond\
+maatte jeg taale uvillig. Av sørgelig alderdom svækket\
+ligger han kraftløs i hallen, og mer har jeg nu maattet lide.\
+Zevs har jo undt mig at føde en søn og fostre en høvding,\
+ypperst blandt helter. I veiret han skjøt som en rankvoksen stængel.\
+Da han var pleiet saa ømt som man pleier en blomst i sin have,\
+sendte jeg ham til Ilions by paa stavnkrumme snekker\
+frem til kampen mot troernes mænd. Dog, det undes mig aldrig\
+hjemkommen elskling i Pelevs' hal at favne til velkomst.\
+Nei, og saa længe han lever og skuer det straalende sollys,\
+knuger ham sorg, og det nytter jo ei om jeg gaar for at hjælpe.\
 [(444–80) ]{.linjenummer}
-Møen, hans hædrende løn, som akaiernc selv hadde git ham,
-hende har mændenes drot Agamemnon frækt tat tilbake.
-Sorg over ungmøen naget hans sjæl; men troernes stridsmænd
-stængte akaierne inde ved skibenes bakstavn, og ingen
-lot de faa slippe igjennem. Da tigget argeiernes drotter
-helten om hjælp og bød ham som løn de herligste gaver.
-Selv stod han fast og negtet sin hjælp mot den truende fare;
-men han lot vennen Patroklos faa laane sin rustning og sendte
-ham til den larmende kamp med talrike stridsmænd i følge.
-Hele den dag stred heltene haardt ved den skaiiske byport.
-Troernes by var stormet hin dag, hvis Foibos Apollon
-ei hadde fældet Menoitios' søn blandt de forreste kjæmper,
-helten som voldte dem ulykke svar, og git seiren til Hektor.
-Tryglende kommer jeg nu til dit knæ med bøn om du vilde
-skjænke min søn som snarlig maa dø, et skjold og en stridshjelm,
-herlige skinner om læg, om anklerne fæstet med spænder;
-dertil en brynje. Hans ven, som troerne dræpte, har mistet
+Møen, hans hædrende løn, som akaierne selv hadde git ham,\
+hende har mændenes drot Agamemnon frækt tat tilbake.\
+Sorg over ungmøen naget hans sjæl; men troernes stridsmænd\
+stængte akaierne inde ved skibenes bakstavn, og ingen\
+lot de faa slippe igjennem. Da tigget argeiernes drotter\
+helten om hjælp og bød ham som løn de herligste gaver.\
+Selv stod han fast og negtet sin hjælp mot den truende fare;\
+men han lot vennen Patroklos faa laane sin rustning og sendte\
+ham til den larmende kamp med talrike stridsmænd i følge.\
+Hele den dag stred heltene haardt ved den skaiiske byport.\
+Troernes by var stormet hin dag, hvis Foibos Apollon\
+ei hadde fældet Menoitios' søn blandt de forreste kjæmper,\
+helten som voldte dem ulykke svar, og git seiren til Hektor.\
+Tryglende kommer jeg nu til dit knæ med bøn om du vilde\
+skjænke min søn som snarlig maa dø, et skjold og en stridshjelm,\
+herlige skinner om læg, om anklerne fæstet med spænder;\
+dertil en brynje. Hans ven, som troerne dræpte, har mistet\
 alle hans vaaben. Selv ligger han nu paa jorden i tungsind.»
 
-Straks tok den armsterke gud, den navngjetne mester til orde:
-«Kjære vær trøstig, dg la ikke slikt faa trykke dit hjerte.
-Gid jeg saasandt kunde gjemme ham bort fra dødstimens jammer,
-naar den skal naa ham, den grufulde lod, saavisst som han snarlig
-faar i sit eie en rustning saa skjøn, at enhver som faar se den,
+Straks tok den armsterke gud, den navngjetne mester til orde:\
+«Kjære vær trøstig, og la ikke slikt faa trykke dit hjerte.\
+Gid jeg saasandt kunde gjemme ham bort fra dødstimens jammer,\
+naar den skal naa ham, den grufulde lod, saavisst som han snarlig\
+faar i sit eie en rustning saa skjøn, at enhver som faar se den,\
 var det end aldrig saamange, maa undre sig høilig ved synet.»
 
-Talende saa forlot han sin gjest og gik til sit verksted,
-rettet mot ilden hver eneste bælg og bød dem at blæse.
-Ind i esserne blæste da straks de pustende bælger,
-tyve i tallet, en susende vind med skiftende styrke,
-følgende med i mesterens hast eller sagtnende blæsten,
-slik som det fremmet Hefaistos' verk og det tyktes ham tjenligst.
-Ind i flammerne kastet han tin og uslitelig kobber,
-derefter sølv og kostelig guld og løftet paa blokken
-amboltens vældige vegt. Saa grep han tilsidst i sin høire
+Talende saa forlot han sin gjest og gik til sit verksted,\
+rettet mot ilden hver eneste bælg og bød dem at blæse.\
+Ind i esserne blæste da straks de pustende bælger,\
+tyve i tallet, en susende vind med skiftende styrke,\
+følgende med i mesterens hast eller sagtnende blæsten,\
+slik som det fremmet Hefaistos' verk og det tyktes ham tjenligst.\
+Ind i flammerne kastet han tin og uslitelig kobber,\
+derefter sølv og kostelig guld og løftet paa blokken\
+amboltens vældige vegt. Saa grep han tilsidst i sin høire\
 hammeren vældig og tung og fattet sin tang med den venstre.
 
-Først tok han paa at smie det sterke og mægtige malmskjold,
-hamrende skiven med kunst. En tredobbelt skinnende malmkant
+Først tok han paa at smie det sterke og mægtige malmskjold,\
+hamrende skiven med kunst. En tredobbelt skinnende malmkant\
 fæstet han rundt og smykket med sølv den prægtige skjoldrem.
 [(481–518) ]{.linjenummer}
-Skjoldet blev hamret av fem lag malm, og ytterst paa platen
+Skjoldet blev hamret av fem lag malm, og ytterst paa platen\
 formet han nu med mesterlig kløkt mangt straalende kunstverk.
 
-Jordskiven formet han først og himlen og derefter havet,
-solen som skrider utrættelig frem og fuldmaanens runding;
-stjernernes hær som straaler i krans paa himmelens bue,
-alle Pleiåder, Hyådernes sverm og den sterke Orion;
-bjørnen tilsidst eller himmelens vogn, som den kaldes av andre.
-Altid gaar den i ring og speider i angst mot Orion.
+Jordskiven formet han først og himlen og derefter havet,\
+solen som skrider utrættelig frem og fuldmaanens runding;\
+stjernernes hær som straaler i krans paa himmelens bue,\
+alle Pleiáder, Hyádernes sverm og den sterke Orion;\
+bjørnen tilsidst eller himmelens vogn, som den kaldes av andre.\
+Altid gaar den i ring og speider i angst mot Orion.\
 Ene blandt stjernerne bades den ei i Okéanos' strømme.
 
-Derefter hamret han ut med kunst to prægtige byer,
-mælende menneskers bo. I den ene var bryllup og gilder.
-Brudene førtes fra kamrene ut i faklernes lysskjær
-hen gjennem byen i festlig tog til et brudekvads toner.
-Svendene traadte den hvirvlende dans mens fløiter og lyrer
-klang i de dansendes kreds. I husenes aapnede dører
+Derefter hamret han ut med kunst to prægtige byer,\
+mælende menneskers bo. I den ene var bryllup og gilder.\
+Brudene førtes fra kamrene ut i faklernes lysskjær\
+hen gjennem byen i festlig tog til et brudekvads toner.\
+Svendene traadte den hvirvlende dans mens fløiter og lyrer\
+klang i de dansendes kreds. I husenes aapnede dører\
 stillet sig kvinderne frem og saa med beundring paa festen.
 
-Folket var samlet paa torvet til ting. Et tvistemaal reistes.
-To av mændene hadde en strid og trættet om skyldig
-bot for et manddrap. I almuens kreds forsikret den ene
-dyrt at alt var betalt, den anden at intet var mottat.
-Begge forlangte de mænd til at avgjøre trætten ved voldgift.
-Hjælpere hadde de begge, som støttet med tilrop blandt mængden.
-Folket blev bragt til sømmelig ro av herolder. De ældste
-sat rundt tingstedets viede kreds paa tilhugne stener
-holdende staver som raktes ov klarmælte travle herolder.
-Støttet paa dem stod de op efter tur og dømte i saken.
-Tvende talenter i guld var stillet til skue i kredsen,
+Folket var samlet paa torvet til ting. Et tvistemaal reistes.\
+To av mændene hadde en strid og trættet om skyldig\
+bot for et manddrap. I almuens kreds forsikret den ene\
+dyrt at alt var betalt, den anden at intet var mottat.\
+Begge forlangte de mænd til at avgjøre trætten ved voldgift.\
+Hjælpere hadde de begge, som støttet med tilrop blandt mængden.\
+Folket blev bragt til sømmelig ro av herolder. De ældste\
+sat rundt tingstedets viede kreds paa tilhugne stener\
+holdende staver som raktes ov klarmælte travle herolder.\
+Støttet paa dem stod de op efter tur og dømte i saken.\
+Tvende talenter i guld var stillet til skue i kredsen,\
 lokkende løn for den, som bedst kunde finde det rette.
 
-Rundt om den anden av byene laa to leirede hære,
-rustet i skinnende malm. To vilkaar stillet den ene:
-enten at straks den prægtige by skulde jevnes med jorden,
-eller at alt hvad den rummet av gods, skulde likelig deles.
-Endnu gav ikke forsvarerne tapt, men rustet et bakhold.
-Borgernes hustruer stod med umyndige barn og med gubber,
-trykket av alderens vegt, paa muren og verget den modig,
-medens de andre drog bort med Ares og Pallas i spidsen.
-Begge var hamret i guld, og av guld var de skinnende dragter.
-At det var guder man saa, var klart, ti skjønne og store
+Rundt om den anden av byene laa to leirede hære,\
+rustet i skinnende malm. To vilkaar stillet den ene:\
+enten at straks den prægtige by skulde jevnes med jorden,\
+eller at alt hvad den rummet av gods, skulde likelig deles.\
+Endnu gav ikke forsvarerne tapt, men rustet et bakhold.\
+Borgernes hustruer stod med umyndige barn og med gubber,\
+trykket av alderens vegt, paa muren og verget den modig,\
+medens de andre drog bort med Ares og Pallas i spidsen.\
+Begge var hamret i guld, og av guld var de skinnende dragter.\
+At det var guder man saa, var klart, ti skjønne og store\
 [(519–56) ]{.linjenummer}
-var de i rustningens pragt, mens folket som fulgte var mindre.
-Da de nu kom til det sted hvor de agtet at ligge i bakhold
-tæt ved en elv hvor alle slags kvæg kom ned for at drikke,
-stanset de der og satte sig, klædt i det blinkende kobber.
-Tvende av mændene sat som speidere fjernt fra de andre,
-ventende paa at faa øie paa lam eller hornede okser.
-Snart kom bølingen frem. To gjætere fulgte, som glade
-blæste paa fløiter av rør, om bakholdet ante de intet.
-Straks de fik se dem, styrtet de frem fra sit gjemsel og røvet
-oksernes kringsatte bøling i hast og flokker av vakre
-snehvite sauer og lam; men gjæterne tok de av dage.
-Derpaa, da fiendens mænd, mens de sat paa sin tingplads i leiren,
-hørte en lydelig larm ved okserne, styrtet de hastig
-hver paa sin vogn med det travende spand, og snart var de fremme,
-fylket sig saa og kjæmpet i slag ved bredden av elven.
-Kjæmperne slynget de malmhvasse spyd og rammet hverandre.
-Stridens og kamplarmens vætter og dødens den grumme gudinde
-færdedes blandt dem. Hun grep snart usaaret kjæmpe, snart saaret,
-snart efter føtterne slæpte hun bort et lik gjennem tumlen.
-Farvet i mændenes blod var kappen hun bar over skuldre.
-Levende mennesker lik for krigerne frem og tilbake,
+var de i rustningens pragt, mens folket som fulgte var mindre.\
+Da de nu kom til det sted hvor de agtet at ligge i bakhold\
+tæt ved en elv hvor alle slags kvæg kom ned for at drikke,\
+stanset de der og satte sig, klædt i det blinkende kobber.\
+Tvende av mændene sat som speidere fjernt fra de andre,\
+ventende paa at faa øie paa lam eller hornede okser.\
+Snart kom bølingen frem. To gjætere fulgte, som glade\
+blæste paa fløiter av rør, om bakholdet ante de intet.\
+Straks de fik se dem, styrtet de frem fra sit gjemsel og røvet\
+oksernes kringsatte bøling i hast og flokker av vakre\
+snehvite sauer og lam; men gjæterne tok de av dage.\
+Derpaa, da fiendens mænd, mens de sat paa sin tingplads i leiren,\
+hørte en lydelig larm ved okserne, styrtet de hastig\
+hver paa sin vogn med det travende spand, og snart var de fremme,\
+fylket sig saa og kjæmpet i slag ved bredden av elven.\
+Kjæmperne slynget de malmhvasse spyd og rammet hverandre.\
+Stridens og kamplarmens vætter og dødens den grumme gudinde\
+færdedes blandt dem. Hun grep snart usaaret kjæmpe, snart saaret,\
+snart efter føtterne slæpte hun bort et lik gjennem tumlen.\
+Farvet i mændenes blod var kappen hun bar over skuldre.\
+Levende mennesker lik fôr krigerne frem og tilbake,\
 møtte hverandre i kamp og slæpte avsted med de faldne.
 
-Derefter hamret han ut en frugtbar og finmuldet åker,
-stor og treganger pløiet. Mangfoldige plogkarer vendte
-der sine kraftige spand og kjørte dem frem og tilbake.
-Hvergang de efter en vending var kommet til enden av teigen,
-kom der en mand som gav dem i haand et bæger med deilig
-honningsøt vin. Saa vendte de rundt, og langs efter teigen
-skyndte de sig til den motsatte kant av den muldrike åker.
-Bak dem blev åkeren sort og lignet et virkelig plogland,
+Derefter hamret han ut en frugtbar og finmuldet aker,\
+stor og treganger pløiet. Mangfoldige plogkarer vendte\
+der sine kraftige spand og kjørte dem frem og tilbake.\
+Hvergang de efter en vending var kommet til enden av teigen,\
+kom der en mand som gav dem i haand et bæger med deilig\
+honningsøt vin. Saa vendte de rundt, og langs efter teigen\
+skyndte de sig til den motsatte kant av den muldrike aker.\
+Bak dem blev akeren sort og lignet et virkelig plogland,\
 skjønt den var laget av guld. Med vidunderlig kunst var den formet.
 
-Videre hamret han ut en gaard med bølgende akre.
-Høstfolk meiet det fuldmodne korn med sigden i hænde.
-Haandfuld paa haandfuld sank det til jord i bugnende ekaarer.
-Derpaa kom mænd som bandt det i neg med snoede halmbaand.
-Tre av folkene stod der og bandt, mens smaagutter travelt
-bragte dem korn som de sanket i armene, fange paa fange,
-efter de meiende mænd; men taus stod kongen iblandt dem,
+Videre hamret han ut en gaard med bølgende akre.\
+Høstfolk meiet det fuldmodne korn med sigden i hænde.\
+Haandfuld paa haandfuld sank det til jord i bugnende skaarer.\
+Derpaa kom mænd som bandt det i neg med snoede halmbaand.\
+Tre av folkene stod der og bandt, mens smaagutter travelt\
+bragte dem korn som de sanket i armene, fange paa fange,\
+efter de meiende mænd; men taus stod kongen iblandt dem,\
 [(557–94) ]{.linjenummer}
-tæt ved skaaren med staven i haand og glad i sit hjerte.
-Bortenfor slagtet imens herolder en velfetet okse
-under en ek og stelte istand til gilde, mens kvinder
-laget for høstfolket maaltid til kvelds av det hviteste bygmel
+tæt ved skaaren med staven i haand og glad i sit hjerte.\
+Bortenfor slagtet imens herolder en velfetet okse\
+under en ek og stelte istand til gilde, mens kvinder\
+laget for høstfolket maaltid til kvelds av det hviteste bygmel.
 
-Ogsaa en vingaard hamret han ut med bugnende ranker,
-skjøn og a\~ lysende guld; men druernes klaser var sorte.
-Tæt i tæt stod støtter av sølv i rad og i række.
-Rundt den løp der en grav av anløpet staal, og dens gjærde
-hamret han til av tin. Til vingaarden førte en fotsti.
-Hen over den gik bærernes rad, naar vinen blev høstet.
-Gutter og ungmøer bar i kurver av flettede vidjer
-glade i hu under latter og spøk de deilige druer.
-Midt iblanclt bærerne lokket en gut av den klingende lyre
-liflige toner og sang med sin spæde og barnlige stemme
-Linos' deilige kvad. De andre sang med, og i jubel
+Ogsaa en vingaard hamret han ut med bugnende ranker,\
+skjøn og av lysende guld; men druernes klaser var sorte.\
+Tæt i tæt stod støtter av sølv i rad og i række.\
+Rundt den løp der en grav av anløpet staal, og dens gjærde\
+hamret han til av tin. Til vingaarden førte en fotsti.\
+Hen over den gik bærernes rad, naar vinen blev høstet.\
+Gutter og ungmøer bar i kurver av flettede vidjer\
+glade i hu under latter og spøk de deilige druer.\
+Midt iblandt bærerne lokket en gut av den klingende lyre\
+liflige toner og sang med sin spæde og barnlige stemme\
+Linos' deilige kvad. De andre sang med, og i jubel\
 trampet de alle i takt og fulgte paa dansende føtter.
 
-Derefter smidde han sindrik en flok langhornede okser.
-Somme var formet av tin og somme av guidet, det røde.
-Rautende gik de fra fjøset og løp til de frodige beiter
-langsmed en brusende elv, hvor sivgræsset svaiet i vinden.
-Gjætere, meislet i guld, kom ut og fulgte sin bøling,
-fire paa rad, og med disse gik ni av de rappeste hunder.
-Forrest i dyrenes flok hadde just to blodgriske løver
-grepet en rautende okse og slæpte den bort. I sin dødsangst
-brølte den høit, mens hunder og gjætere hidsig løp efter.
-Leverne flænget dens hud og slukte den vældige okses
-indvold og slurpet dens blod. Ved tilrop søkte forgjæves
-gjæterne ivrig at hidse til kamp de fotrappe hunder.
-Rædde for løverne vendte de om, naar det gjaldt om at bite.
+Derefter smidde han sindrik en flok langhornede okser.\
+Somme var formet av tin og somme av guldet, det røde.\
+Rautende gik de fra fjøset og løp til de frodige beiter\
+langsmed en brusende elv, hvor sivgræsset svaiet i vinden.\
+Gjætere, meislet i guld, kom ut og fulgte sin bøling,\
+fire paa rad, og med disse gik ni av de rappeste hunder.\
+Forrest i dyrenes flok hadde just to blodgriske løver\
+grepet en rautende okse og slæpte den bort. I sin dødsangst\
+brølte den høit, mens hunder og gjætere hidsig løp efter.\
+Løverne flænget dens hud og slukte den vældige okses\
+indvold og slurpet dens blod. Ved tilrop søkte forgjæves\
+gjæterne ivrig at hidse til kamp de fotrappe hunder.\
+Rædde for løverne vendte de om, naar det gjaldt om at bite.\
 Snart gik de paa, snart tok de tilbens under rasende gjøen.
 
-Derefter hamret den armsterke smed og navngjetne mester
-vidtstrakte beiter for snehvite lam i den yndige fjelddal.
+Derefter hamret den armsterke smed og navngjetne mester\
+vidtstrakte beiter for snehvite lam i den yndige fjelddal.\
 Der var et fjøs og en indgjærdet kve og tækkede hytter.
 
-Endelig hamret med kunst den armsterke mester en herlig
-danseplads, make til den som fordum i storbyen Knosos
-Daidalos ordnet saa smukt for den haarfagre mø Ariadne.
-Kraftige gutter og blomstrende ungmøer, rike og fagre,
-traadte den yndige dans og holdt hverandre ved haanden.
+Endelig hamret med kunst den armsterke mester en herlig\
+danseplads, make til den som fordum i storbyen Knosos\
+Daidalos ordnet saa smukt for den haarfagre mø Ariadne.\
+Kraftige gutter og blomstrende ungmøer, rike og fagre,\
+traadte den yndige dans og holdt hverandre ved haanden.\
 [(595–616) ]{.linjenummer}
-Pikerne bar sine fineste slør, og guttenes kjortler
-var av det deiligste tøi og flunkende nye fra væven.
-Pikerne smykket med kranser sit håar. Fra guttenes belter
-hang der en dolk med skjæfte av guld i en skinnende sølvrem.
-Snart svang alle sig rundt og trippet paa øvede føtter,
-som naar en mester, som sætter sig ned for at forme et lerkar,
-griper om skiven med haand og prøver hvor let den kan løpe,
-snart gik de alle paa rad i dansetakt frem mot hverandre.
-Tæt stod talrike skarer omkring og frydet sit hjerte
-over den yndige dans, mens lydt en guddommelig sanger
-løftet til lyren sin røst. Saasnart han begyndte at spille,
+Pikerne bar sine fineste slør, og guttenes kjortler\
+var av det deiligste tøi og flunkende nye fra væven.\
+Pikerne smykket med kranser sit haar. Fra guttenes belter\
+hang der en dolk med skjæfte av guld i en skinnende sølvrem.\
+Snart svang alle sig rundt og trippet paa øvede føtter,\
+som naar en mester, som sætter sig ned for at forme et lerkar,\
+griper om skiven med haand og prøver hvor let den kan løpe,\
+snart gik de alle paa rad i dansetakt frem mot hverandre.\
+Tæt stod talrike skarer omkring og frydet sit hjerte\
+over den yndige dans, mens lydt en guddommelig sanger\
+løftet til lyren sin røst. Saasnart han begyndte at spille,\
 traadte to gjøglere frem og slog sine rundkast i kredsen.
 
-Derefter meislet han ut Okeanos' mægtige havstrøm
+Derefter meislet han ut Okeanos' mægtige havstrøm\
 rundt om den ytterste rand av det fast tilhamrede malmskjold.
 
-Men da saa endelig skjoldet, det store og sterke, var færdig,
-smidde han helten et panser. Mer straalende var det end ilden,
-hamret saa hjelmen, den tunge, som passet om høvdingens tinding,
-prydet med ypperlig kunst og med hjelmbusk av lysende guldtraad.
+Men da saa endelig skjoldet, det store og sterke, var færdig,\
+smidde han helten et panser. Mer straalende var det end ilden,\
+hamret saa hjelmen, den tunge, som passet om høvdingens tinding,\
+prydet med ypperlig kunst og med hjelmbusk av lysende guldtraad.\
 Benskinner slog han tilsidst, og av fineste tin blev de hamret.
 
-Men da den navngjetne, armsterke smed hadde formet med omhu
-rustningen færdig, da bar han den ind og lagde den varlig
-ned for Akillevs' mor. Fra Olympos' snedækte tinder
+Men da den navngjetne, armsterke smed hadde formet med omhu\
+rustningen færdig, da bar han den ind og lagde den varlig\
+ned for Akillevs' mor. Fra Olympos' snedækte tinder\
 svævet hun ned som en falk med Hefaistos' blinkende vaaben.
 
 :::
