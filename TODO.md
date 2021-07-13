@@ -65,7 +65,7 @@
   - [x] Sang 15
   - [x] Sang 16
   - [x] Sang 17
-  - [ ] Sang 18
+  - [x] Sang 18
   - [ ] Sang 19
   - [ ] Sang 20
   - [ ] Sang 21
