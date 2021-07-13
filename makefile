@@ -1,6 +1,7 @@
 .PHONY: default epub open clean check
 
 EBOK   = Iliaden.epub
+HTML   = Iliaden.html
 CSS    = css/style.css
 FONT   = fonter/*.ttf
 META   = meta.md
@@ -17,6 +18,9 @@ epub: $(EBOK)
 
 $(EBOK): $(TEKST) $(BILDER)
 	pandoc --css $(CSS) --epub-embed-font=$(FONT) -o $(EBOK) $(META) $(TEKST)
+
+$(HTML): $(TEKST) $(BILDER)
+	pandoc --css $(CSS) -o $(HTML) $(META) $(TEKST) --standalone
 
 check: $(CHECK)
 	sed -i '' '/^#/d' ordliste/ordliste.utf-8.add # slett skigaardslinjer
