@@ -8,9 +8,8 @@ META   = meta.pandoc
 TEKST  = tekst/*.pandoc
 BILDER = bilder/*.png
 ASPELL = --encoding=utf-8 --home-dir=./ordliste --personal=ordliste.utf-8.add \
-				 --lang=no-nb --mode=markdown # --run-together --run-together-limit=3
-CHECK  = tekst/00-forord.md tekst/01-sang.md tekst/02-sang.md tekst/03-sang.md \
-				 tekst/04-sang.md tekst/16-sang.md tekst/17-sang.md
+         --lang=no-nb --mode=markdown # --run-together --run-together-limit=3
+CHECK  = $(TEKST)
 
 default: epub
 
@@ -23,7 +22,7 @@ $(HTML): $(TEKST) $(BILDER)
 	pandoc --css $(CSS) -o $(HTML) $(META) $(TEKST) --standalone
 
 check: $(CHECK)
-	sed -i '' '/^#/d' ordliste/ordliste.utf-8.add # slett skigaardslinjer
+	sed -i '/^#/d' ordliste/ordliste.utf-8.add # slett skigaardslinjer
 	for fil in $(CHECK); do aspell $(ASPELL) check $$fil; done
 
 open: $(EBOK)
