@@ -4,8 +4,8 @@ EBOK   = Iliaden.epub
 HTML   = Iliaden.html
 CSS    = css/style.css
 FONT   = fonter/*.ttf
-META   = meta.md
-TEKST  = tekst/*.md
+META   = meta.pandoc
+TEKST  = tekst/*.pandoc
 BILDER = bilder/*.png
 ASPELL = --encoding=utf-8 --home-dir=./ordliste --personal=ordliste.utf-8.add \
 				 --lang=no-nb --mode=markdown # --run-together --run-together-limit=3
