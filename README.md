@@ -28,9 +28,10 @@ for å lage eboken fra markdown-filene. Se [`makefile`](makefile) for detaljer.
 * [Nasjonalbibliotekets
   skann](https://www.nb.no/items/URN:NBN:no-nb_digibok_2009102100002) av boken.
   Kan lastes ned i høyere oppløsning enn hva GitHub tillater (>100MB filstørrelse).
-* Eboken bruker [Junicode](https://junicode.sourceforge.io/) fonter.
-* [*Pandoc*](https://pandoc.org/), konvertering mellom tekstformater. Her:
-  `.md` til `.epub`/`.html`.
-* [GNU Aspell](http://aspell.net/) brukes til stavekontroll, med egen ordliste:
-  [`ordliste/ordliste.utf-8.add`](ordliste/ordliste.utf-8.add). Kan kjøre sjekk
+* Eboken bruker [*Junicode*](https://junicode.sourceforge.io/) fonter. Disse er
+  lisensiert under [*OFL*](http://scripts.sil.org/OFL).
+* [*Pandoc*](https://pandoc.org/), konvertering mellom tekstformater. I dette
+  prosjektet fra `.md` til `.epub`/`.html`.
+* [*GNU Aspell*](http://aspell.net/) brukes til stavekontroll, med egen ordliste:
+  [`ordliste/ordliste.utf-8.add`](ordliste/ordliste.utf-8.add). Man kan kjøre sjekk
   med `$ make check`.
