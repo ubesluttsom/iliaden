@@ -21,7 +21,7 @@ oversettelsen nå har falt i det fri. NB har vært snille og gjort en [**grov**
 OCR](original/iliaden-tekst.txt) på skannen sin, og det er den teksten jeg har
 tatt utgangspunkt i.
 
-Ufullstendig ebok kan leses på nett her:
+En sniktitt på eboken kan leses på nett her:
 [mihle.no/iliaden](https://www.mihle.no/iliaden).
 
 ## Kompilering
