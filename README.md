@@ -2,7 +2,7 @@
 
 Denne digitale utgaven er lagd etter [Nasjonalbibliotekets
 skann](https://www.nb.no/items/URN:NBN:no-nb_digibok_2009102100002) av
-førsteutgaven av P. Østbyes oversettelse fra 1920. Teksten er etter beste evne
+førsteutgaven av P. Østbyes oversettelse fra 1920. Teksten ~~er~~blir etter beste evne
 transkribert tegn for tegn fra orginalen. Oversettelsen, og denne eboken,
 tilfaller allmannseie, og kan deles og endres fritt.
 
@@ -14,6 +14,15 @@ tilfaller allmannseie, og kan deles og endres fritt.
 > I krenket stolthet trekker Akhillevs seg for en stund tilbake fra kampene og
 > skaper dermed en krise i grekernes beleiring av Troja.
 > —[*Store norske leksikon*](https://snl.no/Iliaden)
+
+Så vidt meg kjent finnes det ingen andre frie, digitale, utgaver av denne
+oversettelsen tilgjenegelig på nettet, foruten NBs pdf-skann. Dette på tross av
+oversettelsen nå har falt i det fri. NB har vært snille og gjort en [**grov**
+OCR](original/iliaden-tekst.txt) på skannen sin, og det den teksten jeg har
+tatt utgangspunkt i.
+
+Ufullstendig ebok kan leses på nett her:
+[mihle.no/iliaden](https://www.mihle.no/iliaden).
 
 ## Kompilering
 
