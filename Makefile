@@ -1,4 +1,4 @@
-.PHONY: default epub open clean check
+.PHONY: default epub html open clean check
 
 EBOK   = Iliaden.epub
 HTML   = Iliaden.html
