@@ -1,4 +1,4 @@
-# Attende sang. *Vaabnene smies.*
+# Attende sang. *Vaabnene smies.* {epub:type=chapter}
 
 ::: {.sang}
 

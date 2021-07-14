@@ -1,4 +1,4 @@
-# Nittende sang. *Akillevs opgir sin vrede.*
+# Nittende sang. *Akillevs opgir sin vrede.* {epub:type=chapter}
 
 ::: {.sang}
 
