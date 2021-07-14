@@ -14,12 +14,15 @@ CHECK  = $(TEKST)
 default: epub
 
 epub: $(EBOK)
+html: $(HTML)
 
 $(EBOK): $(TEKST) $(BILDER)
-	pandoc --css $(CSS) --epub-embed-font=$(FONT) -o $(EBOK) $(META) $(TEKST)
+	pandoc --from markdown --to epub --css $(CSS) --epub-embed-font=$(FONT) \
+	       -o $(EBOK) $(META) $(TEKST)
 
 $(HTML): $(TEKST) $(BILDER)
-	pandoc --css $(CSS) -o $(HTML) $(META) $(TEKST) --standalone
+	pandoc --from markdown --to html --css $(CSS) \
+	       -o $(HTML) $(META) $(TEKST) --standalone
 
 check: $(CHECK)
 	sed -i '/^#/d' ordliste/ordliste.utf-8.add # slett skigaardslinjer
