@@ -1,4 +1,4 @@
-personal_ws-1.1 nb 3025 utf-8
+personal_ws-1.1 nb 3090 utf-8
 Abas
 Abydos
 Admetos
@@ -162,6 +162,7 @@ Davlis
 Deimos
 Deisenor
 Deksámene
+Demeter
 Demeters
 Demokoon
 Devkalions
@@ -294,6 +295,7 @@ Haimons
 Halios
 Haliártos
 Halía
+Harmon
 Hebe
 Hefaistos
 Heinrich
@@ -545,6 +547,7 @@ Otrevs
 Oïlevs
 Paieon
 Paioniens
+Paisos
 Paiéon
 Pallas
 Pandaros
@@ -658,6 +661,7 @@ Speio
 Sperkeios
 Stenelaos
 Stenelos
+Stentor
 Stratias
 Strofios
 Styks
@@ -706,6 +710,7 @@ Toon
 Trasymedes
 Trasymelos
 Trekis
+Trekos
 Trike
 Troizen
 Troizenos
@@ -844,6 +849,7 @@ bakved
 banemand
 banemands
 banlyses
+barnene
 bedst
 bedste
 begynde
@@ -860,6 +866,7 @@ beundringsværdig
 bevisgrunde
 bid
 bidslet
+billeders
 bjerge
 bjergenes
 bjerger
@@ -891,6 +898,7 @@ boiotiske
 bolde
 boleren
 borgport
+borgporten
 borgødelægger
 bosat
 bragtes
@@ -903,6 +911,7 @@ bredfulde
 brudekvads
 brunstekte
 brynjernes
+brystrem
 brændende
 brændingen
 brændofre
@@ -910,7 +919,9 @@ brændt
 brændte
 brødefuld
 bueberømte
+buegudinden
 buernes
+bugnet
 bugt
 bugten
 bugtet
@@ -928,6 +939,7 @@ bækker
 bælg
 bælgene
 bælger
+bælgmørke
 bævende
 bæver
 bævet
@@ -938,9 +950,11 @@ bøiede
 bøielig
 bøier
 bøiet
+bøiler
 bølgerne
 bølgernes
 bøn
+bøndernes
 bønfald
 bønfaldt
 bønhørte
@@ -1029,8 +1043,10 @@ dæmmer
 dæmning
 dæmpe
 dæmret
+dødsgudens
 dødskval
 dødslod
+dødslodden
 dødsmøke
 dødsmørke
 dødsmørket
@@ -1093,6 +1109,7 @@ fegtende
 femdelte
 festhekatombe
 festhekatomben
+fiendehaand
 find
 finde
 finder
@@ -1130,6 +1147,7 @@ flammernes
 fler
 flermandsstyre
 flettede
+flodgud
 flok
 flomvandet
 fluerne
@@ -1160,6 +1178,7 @@ forat
 forbandede
 fordærv
 fordærvelig
+fordølge
 foreword
 forfærdende
 forfærdet
@@ -1196,11 +1215,13 @@ forunde
 forunder
 forundes
 forundt
+forundte
 forvandt
 forvisst
 forældre
 forældrene
 fos
+fostredes
 fotrappe
 fotslag
 fotsti
@@ -1226,7 +1247,9 @@ frygten
 frygtende
 frygter
 frygtet
+frygtløs
 frygtløse
+frygtsomme
 fræk
 frække
 frækt
@@ -1323,10 +1346,12 @@ gjestfrit
 gjeteskinds
 gjælder
 gjærde
+gjærdet
 gjæs
 gjæter
 gjætere
 gjæteren
+gjæterens
 gjæterne
 gjæternes
 gjæv
@@ -1365,6 +1390,7 @@ grufulde
 grufuldt
 grummere
 grund
+grundrik
 græs
 græsk
 græske
@@ -1376,6 +1402,7 @@ gudernes
 gudesendt
 gudfagre
 gudfostrede
+gudfødte
 gudinde
 gudinden
 gudindens
@@ -1406,6 +1433,7 @@ haand
 haanden
 haandfalden
 haandfuld
+haandleddet
 haandroten
 haandsbredder
 haandslag
@@ -1478,6 +1506,7 @@ hjælper
 hjælpere
 hjælperes
 hjælperne
+hjælpernes
 hodekulds
 hodeskal
 hofteskaal
@@ -1504,6 +1533,7 @@ hvirvlende
 hvirvler
 hvirvlet
 hvo
+hvorlænge
 hvælv
 hvælvede
 hvælving
@@ -1611,6 +1641,7 @@ jagtmø
 jagtspyd
 jammerfuld
 jer
+jernsmidde
 jert
 jertegn
 jog
@@ -1675,6 +1706,7 @@ kjæmpendes
 kjæmper
 kjæmpernes
 kjæmpes
+kjæmpestor
 kjæmpet
 kjæphøie
 kjæve
@@ -1699,6 +1731,7 @@ knaphet
 knæ
 knæerne
 knække
+knækkedes
 knækker
 knækkes
 knækket
@@ -1722,7 +1755,9 @@ kretiske
 krigsgud
 krigsguden
 krigsgudens
+krigsguds
 krigshær
+krigslarm
 krigsluen
 krigslur
 krigsmand
@@ -1744,6 +1779,7 @@ krævet
 kuede
 kuld
 kuldet
+kulsort
 kummerfuld
 kundskap
 kunstfulde
@@ -1770,6 +1806,7 @@ laan
 laane
 laaneord
 laar
+laarbenet
 laarene
 laaret
 lammede
@@ -1815,6 +1852,7 @@ litet
 livagtig
 livslys
 lod
+logulv
 lok
 lokkede
 lokkernes
@@ -1877,6 +1915,7 @@ løpen
 løshesten
 løstes
 løverne
+løvernes
 løvhang
 løvrike
 løvtætte
@@ -1891,6 +1930,7 @@ maaltidet
 maaltidets
 maane
 maaned
+maaneder
 maatte
 maattet
 magneternes
@@ -1909,9 +1949,11 @@ malmhvæsset
 malmklædt
 malmklædte
 malmodd
+malmspids
 mand
 manddom
 manddrap
+manddraper
 manden
 mandespildende
 mandhaftige
@@ -2055,6 +2097,7 @@ o
 odd
 ogsaa
 oksehuds
+oksehudsskjold
 oksehudsskjolde
 oksehudsskjoldet
 oksehudsstrengen
@@ -2121,6 +2164,7 @@ pelasgernes
 peraiber
 perlende
 pikerne
+pilglade
 pinende
 pittevs
 plads
@@ -2154,6 +2198,7 @@ raadeligst
 raader
 raadet
 raadighet
+raadløs
 raadsherrer
 raadsnar
 raadsnare
@@ -2226,6 +2271,7 @@ saamange
 saar
 saare
 saarede
+saaredes
 saarene
 saaret
 saart
@@ -2245,6 +2291,7 @@ sammentømrede
 sanddru
 sande
 sandelig
+sandheten
 sandige
 sandsiger
 sandsigerkunst
@@ -2316,6 +2363,7 @@ skik
 skind
 skindmagre
 skindremmen
+skindtrukne
 skjeggede
 skjelde
 skjeldsord
@@ -2326,6 +2374,7 @@ skjendte
 skjolddækte
 skjolde
 skjoldmø
+skjoldmøens
 skjoldrem
 skjæbne
 skjæbnegudinde
@@ -2346,6 +2395,7 @@ skjænket
 skjærme
 skjærmen
 skjærmende
+skjærmer
 skjærmet
 skjøn
 skjønbeltet
@@ -2362,6 +2412,7 @@ skridt
 skræk
 skrækkelig
 skrækslagen
+skrækslagne
 skrællet
 skræmmende
 skræmmer
@@ -2379,6 +2430,7 @@ skyhøie
 skyomhyllede
 skysamler
 skysamleren
+skysamlerens
 skytsgud
 skytte
 skytten
@@ -2393,6 +2445,7 @@ slegt
 slegter
 slegtled
 sletikke
+sletingen
 slog
 slubrende
 slyngedes
@@ -2497,14 +2550,17 @@ staar
 stadødelægger
 stak
 staldbror
+stalder
 stammerne
 stampede
 stansende
 stavnhøie
+stedmor
 stedse
 stenblok
 stenhaarde
 stik
+stilhet
 stimlen
 stjernerne
 stjernernes
@@ -2572,6 +2628,7 @@ svig
 svigerinden
 svigte
 svigter
+svigtet
 svinde
 svindende
 svinder
@@ -2647,6 +2704,7 @@ tilhugne
 tilhøire
 tilkjende
 tillaans
+tillive
 tillivs
 tilsidst
 tilsinds
@@ -2749,6 +2807,7 @@ tusind
 tusinde
 tvedragt
 tvedragten
+tvedragtens
 tvende
 tvespand
 tvespandet
@@ -2776,6 +2835,7 @@ tænkte
 tæt
 tætsluttet
 tætte
+tættest
 tætteste
 tøi
 tøielig
@@ -2801,6 +2861,7 @@ ukjendt
 uklippet
 uld
 uldbaand
+uldrike
 ulykkesbudskap
 ulægelig
 umaadelig
@@ -2870,11 +2931,13 @@ val
 valplads
 vande
 vandet
+vandflommen
 vanheld
 vederlagsfrit
 vegt
 vegten
 vegtskaalen
+veidemand
 veir
 veiret
 velan
@@ -2899,11 +2962,13 @@ videnom
 vidtstrakte
 viede
 vild
+vilddyr
 vilde
 vildest
 vildeste
 vildgjet
 vildgjæs
+vildhet
 vildledte
 vildskap
 vildsomme
