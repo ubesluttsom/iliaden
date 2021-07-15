@@ -7,7 +7,7 @@ FONT   = fonter/*.ttf
 META   = meta.pandoc
 TEKST  = tekst/*.pandoc
 BILDER = bilder/*.png
-ASPELL = --encoding=utf-8 --home-dir=./ordliste --personal=ordliste.utf-8.add \
+ASPELL = --encoding=utf-8 --home-dir=./ordliste --personal=./ordliste/ordliste.utf-8.add \
          --lang=no-nb --mode=markdown # --run-together --run-together-limit=3
 CHECK  = $(TEKST)
 
