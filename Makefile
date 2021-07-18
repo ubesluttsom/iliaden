@@ -21,7 +21,7 @@ $(EBOK): $(TEKST) $(BILDER)
 	       -o $(EBOK) $(META) $(TEKST)
 
 $(HTML): $(TEKST) $(BILDER)
-	pandoc --from markdown --to html --css $(CSS) \
+	pandoc --from markdown --to html --css $(CSS) --table-of-contents \
 	       -o $(HTML) $(META) $(TEKST) --standalone
 
 check: $(CHECK)
@@ -33,3 +33,4 @@ open: $(EBOK)
 
 clean:
 	rm Iliaden.epub
+	rm Iliaden.html

@@ -4,28 +4,28 @@
   font-family: Junicode;
   font-style: normal;
   font-weight: normal;
-  src:url("fonter/Junicode.ttf");
+  src:url("../fonter/Junicode.ttf");
 }
 
 @font-face {
   font-family: Junicode;
   font-style: normal;
   font-weight: bold;
-  src:url("fonter/Junicode-Bold.ttf");
+  src:url("../fonter/Junicode-Bold.ttf");
 }
 
 @font-face {
   font-family: Junicode;
   font-style: italic;
   font-weight: normal;
-  src:url("fonter/Junicode-Italic.ttf");
+  src:url("../fonter/Junicode-Italic.ttf");
 }
 
 @font-face {
   font-family: Junicode;
   font-style: italic;
   font-weight: bold;
-  src:url("fonter/Junicode-BoldItalic.ttf");
+  src:url("../fonter/Junicode-BoldItalic.ttf");
 }
 
 body {
