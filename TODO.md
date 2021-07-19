@@ -16,8 +16,8 @@
   - [x] Sang 16, dobbelsjekket
   - [x] Sang 17, dobbelsjekket
   - [x] Sang 18, dobbelsjekket
-  - [ ] Sang 19, dobbelsjekket
-  - [ ] Sang 20, dobbelsjekket
+  - [x] Sang 19, dobbelsjekket
+  - [x] Sang 20, dobbelsjekket
   - [ ] Sang 21, dobbelsjekket
   - [ ] Sang 22, dobbelsjekket
   - [ ] Sang 23, dobbelsjekket
@@ -41,8 +41,8 @@
   - [x] Sang 16
   - [x] Sang 17
   - [x] Sang 18
-  - [ ] Sang 19
-  - [ ] Sang 20
+  - [x] Sang 19
+  - [x] Sang 20
   - [ ] Sang 21
   - [ ] Sang 22
   - [ ] Sang 23
@@ -66,12 +66,40 @@
   - [x] Sang 16
   - [x] Sang 17
   - [x] Sang 18
+  - [x] Sang 19
+  - [x] Sang 20
+  - [ ] Sang 21
+  - [ ] Sang 22
+  - [ ] Sang 23
+  - [ ] Sang 24
+
+- [ ] Sjekke forsvunnede punktum på slutten av linje. Bruk regulæruttrykk
+  `\v([\.\?:!]»?)@<!»?\\\n+«?\u` (Vim-stil).
+  - [x] Sang 1
+  - [x] Sang 2
+  - [x] Sang 3
+  - [x] Sang 4
+  - [x] Sang 5
+  - [x] Sang 6
+  - [x] Sang 7
+  - [x] Sang 8
+  - [x] Sang 9
+  - [x] Sang 10
+  - [ ] Sang 11
+  - [ ] Sang 12
+  - [ ] Sang 14
+  - [ ] Sang 15
+  - [ ] Sang 16
+  - [ ] Sang 17
+  - [ ] Sang 18
   - [ ] Sang 19
   - [ ] Sang 20
   - [ ] Sang 21
   - [ ] Sang 22
   - [ ] Sang 23
   - [ ] Sang 24
+
+- [ ] Sjekke tegnsetting på slutten av hver paragraf.
 
 - [ ] Fikse utforming i Moon Reader.
   - [x] Innrykk til linjenummer?
