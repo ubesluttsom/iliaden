@@ -1,5 +1,16 @@
 # Femte sang. *Diomedes' heltegjerninger.* {epub:type=chapter}
 
+<!--
+  TODOs:
+  - [x] Stavekontroll med Aspell.
+  - [x] Dobbelsjekke linjenummre
+  - [x] Korrekte paragrafinndelinger
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk
+        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+-->
+
 ::: {.sang}
 
 [N]{.initial}u gav Pallas Atene den vældige helt Diomedes,\

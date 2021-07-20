@@ -1,5 +1,16 @@
 # Femtende sang. *Troerne drives bort fra skibene.* {epub:type=chapter}
 
+<!--
+  TODOs:
+  - [ ] Stavekontroll med Aspell.
+  - [x] Dobbelsjekke linjenummre.
+  - [x] Korrekte paragrafinndelinger.
+  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
+        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+-->
+
 ::: {.sang}
 
 [M]{.initial}en da de kom paa sin flugt over pælenes række og graven,\

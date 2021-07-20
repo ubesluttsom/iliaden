@@ -1,5 +1,16 @@
 # Syttende sang. *Menelaos' heltegjerninger.* {epub:type=chapter}
 
+<!--
+  TODOs:
+  - [x] Stavekontroll med Aspell.
+  - [x] Dobbelsjekke linjenummre.
+  - [x] Korrekte paragrafinndelinger.
+  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
+        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+-->
+
 ::: {.sang}
 
 [E]{.initial}i blev det skjult for Atrevs' søn, hin helt Menelaos,\
