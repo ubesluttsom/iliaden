@@ -2,7 +2,7 @@
 
 <!--
   TODOs:
-  - [ ] Stavekontroll med Aspell.
+  - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
@@ -310,7 +310,7 @@ likesaa myke var Hektors knær og rappe hans føtter,\
 da han paa Foibos' bud løp hen for at egge sin fylking.\
 Som naar de halsende hunder og kraftige svende fra bygden\
 jager den springende bukk eller hjorten med grenede takker —\
-dog, det undes dem ei at fæelde sit bytte; ti vildtet\
+dog, det undes dem ei at fælde sit bytte; ti vildtet\
 frelses paa svimlende skrænt eller inde i skogenes skygger.\
 Kommer da, lokket ved larmen, en langskjegget løve paa veien,\
 skræmmer den straks de modigste mænd og jager dem alle —\
@@ -648,7 +648,7 @@ Dog, han slynget ei ut sin blinkende lanse forgjæves;\
 ti Hiketáons søn, den modige helt Melanippos\
 rammet han, just som han stevnet til kamp, i brystet ved vorten.\
 Drønende faldt han til jord, og dødsmørket slørte hans øine.\
-Kask sprang Antilokos frem lik en hund som glubende styrter\
+Rask sprang Antilokos frem lik en hund som glubende styrter\
 frem imot raadyrets saarede kalv, som jægeren rammet,\
 just da den sprang fra sit skjul, og lammet dens lemmer med pilen.\
 Saa, Melanippos, stormet mot dig for at røve din rustning\
