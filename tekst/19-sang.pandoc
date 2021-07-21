@@ -5,9 +5,8 @@
   - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -168,7 +167,7 @@ Vel da, reis dig til kamp og egg vore øvrige stridsmænd.\
 [(140–77) ]{.linjenummer}
 Selv er jeg rede til straks at bringe dig alt, hvad Odyssevs\
 lovet igaar i dit telt, da han kom for at gjeste din bolig.\
-Vil du, saa vent, hvor ivrig du end monne længes til kampen\
+Vil du, saa vent, hvor ivrig du end monne længes til kampen.\
 Svendene henter da hit fra mit skib de lovede gaver,\
 saa du kan se, at jeg agter at gi hvad dit hjerte begjærer.»
 

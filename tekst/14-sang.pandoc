@@ -5,9 +5,8 @@
   - [ ] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -282,7 +281,7 @@ Let kan jeg dysse en anden i søvn av de evige guder,\
 ja, om det saa var Okéanos selv med de brusende strømme,\
 han som er far og ophav til alt som lever og røres.\
 Dog, at komme til Zevs, til Kronos' søn for at dysse\
-guden i slummer, det vaager jeg ei, naar han selv ikke ber mig,\
+guden i slummer, det vaager jeg ei, naar han selv ikke ber mig.\
 Nei, en befaling fra dig har lært mig at ta mig i vare\
 engang tilforn, da Alfaders søn, den barske Herakles,\
 vendte fra Ilios hjem, da han troernes by hadde ødet.\
@@ -460,7 +459,7 @@ Aias, som vendte sig mot ham. Han kastet ei feil, men hans lanse\
 rammet ham der hvor remmer var spændt i kryds over brystet,\
 én fra hans skjold og én fra hans sverd med de sølvblanke nagler.\
 Remmene verget hans smidige hud. Da vrededes Hektor\
-over at spydet det skarpe forgjæves fôr ut av hans næve.\
+over at spydet det skarpe forgjæves fór ut av hans næve.\
 Ilsomt vek han til vennernes flok og flygtet for døden.\
 Men da han vek, tok Telamons søn, den vældige Aias,\
 en av de talrike stener som rullet for kjæmpernes føtter,\
@@ -502,7 +501,7 @@ Styrtet nu straks Oilevs' søn, den fotrappe Aias\
 foran de andre med malmhvæsset spyd, og Satnios traf han,\
 Enops' søn. Hans mor var en skjøn najade som Enops\
 traf da han vogtet sit kvæg ved bredden av Satniosfloden.\
-Drotten Oilevs' navngjetne søn for mot ham og rammet\
+Drotten Oilevs' navngjetne søn fôr mot ham og rammet\
 helten i lysken. Han tumlet til jord, og i kreds om den faldne\
 møttes danaer og troiske mænd i vældige kampe.\
 Svingende lansen i haand fôr Polydamas frem som hans hevner,\
@@ -547,7 +546,7 @@ længe den skyldige bot. Ja, her maa nok mangen en kjæmpe\
 ønske sig eftermaalsmand i sin hal som kan hevne hans ufærd.»
 
 Pralende talte han saa, og argeierne harmedes saare.\
-Haardest blev dog den mandige helt Penéleos krænket,\
+Haardest blev dog den mandige helt Penéleos krænket.\
 Like mot Akamas fôr han; dog, høvdingen turde ei trodse\
 drotten Penéleos' kraft; men Ilíonevs traf han med lansen,\
 søn av den kvægrike Forbas, en drot som guden Hermeias\

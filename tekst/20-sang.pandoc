@@ -5,9 +5,8 @@
   - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -525,7 +524,7 @@ favnet hans knær, svang helten sit sverd og hugg i hans lever.\
 Straks gled leveren ut, og sort sprang blodet og vætet\
 høvdingens kjortel. Hans livskraft svandt, og over hans øine\
 bredte sig mørket. Mot Mulios fôr han dernæst og jog ham\
-lansen i øret, saa spidsen av malm fôr ut av det andet\
+lansen i øret, saa spidsen av malm fôr ut av det andet.\
 Derefter drog han sit sverd, med det mægtige hjalte, og rammet\
 helten Ekeklos, Agenors søn, og kløvde hans hode.\
 Sverdet blev varmt av det dampende blod, og over hans øine\

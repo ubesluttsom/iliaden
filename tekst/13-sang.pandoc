@@ -5,9 +5,8 @@
   - [ ] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+)\u`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -105,7 +104,7 @@ føtter vil frem. Nu ønsker jeg selv at møte i tvekamp\
 Priamos' vildt fremstormende søn, den vældige Hektor.»
 
 Saaledes talte de to med vekslende ord til hinanden,\
-glade ved lysten paa kamp som en gud hadde vakt hos dem begge\
+glade ved lysten paa kamp som en gud hadde vakt hos dem begge.\
 Egget da guden Poseidon imens de bakerste stridsmænd,\
 helter som søkte et øiebliks hvil ved de hurtige snekker;\
 ti deres kraftige lemmer var brutt av lammende træthet,\
@@ -212,7 +211,7 @@ trak det saa atter tilbake, og Imbrios segnet lik asken,\
 som paa den fjerntfra synlige top av en kneisende aasryg\
 falder for øksen og segner til jord med de skjælvende blade.\
 Saaledes faldt han til jord, og rustningen klirret om manden.\
-Frem for Tevkros paany for at røve hans rustning; men Hektor\
+Frem fôr Tevkros paany for at røve hans rustning; men Hektor\
 sigtet med blinkende spyd paa høvdingen midt i hans stormløp.\
 Lynsnart saa han sig for og slap med nød for at rammes\
 selv av det malmhvasse spyd; men Amtimakos traf det i brystet,\
@@ -276,7 +275,7 @@ Vi to skulde da trygt kunne slaas med de tapreste kjæmper.»
 Saa han talte, og guden gik selv tilbake til kampen.\
 Men da Idomenevs kom til sit vel avstivede leirtelt.\
 spændte han rustningens plater om bryst og grep sine lanser,\
-for saa avsted lik et lyn som Kronos' søn med sin høire\
+fôr saa avsted lik et lyn som Kronos' søn med sin høire\
 griper og slynger med kraft fra Olympos' lysende tinde\
 menneskers slegt til et tegn, og straalerne skinner saa vide\
 saaledes skinnet den blinkende malm om hans bryst under løpet.\
@@ -372,7 +371,7 @@ Vel, la os styre til venstre vor gang, saa vi begge kan vite\
 snart om vi selv skal vinde os ry eller øke en andens.»
 
 Saa han talte, og helten Meriones, kampglad som Ares,\
-skyndte sig foran sin ven, til de kom hvor han bød ham at kjæmpe\
+skyndte sig foran sin ven, til de kom hvor han bød ham at kjæmpe.\
 Men da nu troerne saa Idomenevs, sterk som en flamme,\
 [(331–68) ]{.linjenummer}
 rustet i skinnende malm, ham selv og hans kraftige væbner,\
@@ -563,7 +562,7 @@ Lynsnart saa han sig for og slap for den malmhvasse spydsodd.\
 Dirrende boret Aineias' spyd sin malmodd i jorden.\
 Uten at ramme sit maal fôr det ut av hans vældige næve.\
 Men da Idomenevs traf Oinómaos like i buken,\
-sprængtes den hvælvede brynje, saa spydet for ind hans indvold.\
+sprængtes den hvælvede brynje, saa spydet fôr ind hans indvold.\
 Høvdingen segnet i støvet og grep med sin næve i jorden.\
 Helten Idomenevs rykket med kraft den vældige lanse\
 ut av hans krop; dog magtet han ei at rive det skjønne\
@@ -610,7 +609,7 @@ styrtet han frem og flænget med skarpslepen lanse den lange\
 aare som løper langs lænder og ryg helt op under nakken.\
 Tvers gjennem aaren han skar, og bakover faldt han i støvet,\
 rækkende armene frem i bøn mot de elskede venner.\
-Straks fór Antílokos frem og rev ham av kroppen hans rustning,\
+Straks fôr Antílokos frem og rev ham av kroppen hans rustning,\
 speidende rundt; ti troernes flok som sanket sig om ham,\
 rammet hans skinnende skjold, men magtet dog ikke at flænge\
 bakenfor skjoldet Antílokos' hud med det grusomme kobber,\
@@ -632,7 +631,7 @@ Hen til vennerne vek han i gru og flygtet for døden.\
 Dog, Meríones fulgte ham straks og traf ham med spydet\
 midt mellem lysken og navlen, et sted hvor de sværeste smerter\
 voldes en dødelig mand, naar han rammes av krigsgudens vunder.\
-Der blev det sittende fast, og sprællende fulgte han spydet\
+Der blev det sittende fast, og sprællende fulgte han spydet.\
 Likesom oksen paa vildsomme fjeld, naar gjæterne binder\
 repene om den og trækker den med, saa nødig den følger,\
 saaledes sprællet et øieblik nu den saarede kjæmpe,\

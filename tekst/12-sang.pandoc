@@ -5,9 +5,8 @@
   - [ ] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+)\u`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -212,7 +211,7 @@ trængte med knusende kraft dens malmhvasse odd, og hans hjerne\
 farvedes rød av blod, og han fældte ham midt i hans stormløp.\
 Derefter dræpte han Pylon, og Ormenos faldt for hans lanse.\
 Krigsgudens ætling Leontevs tok sigte med spydet og rammet\
-helten Hippomakos, søn av Antimakos, like ved beltet\
+helten Hippomakos, søn av Antimakos, like ved beltet.\
 Hastig drog helten av skeden sit skarpslepne sverd, og i vrimlen\
 stormet han først mot Antifates frem, og i rasende nærkamp\
 gav han ham dødelig saar, saa han styrtet paa ryggen til jorden.\
@@ -367,11 +366,11 @@ La os da øke en fiendes ry eller selv vinde hæder.»
 Saa han talte, og ei var Glavkos sen til at lyde.\
 Fremad førte de kjækt den vældige lykiske fylking.\
 Ræd blev Menestevs, Peteos' søn, da han saa at de stevnet\
-truende frem mot det mægtige taarn, som han selv skulde verne\
+truende frem mot det mægtige taarn, som han selv skulde verne.\
 Langsmed akaiernes mur gled høvdingens blik, om han kunde\
 øine en fører som trygt kunde verne hans stridsmænd i nøden.\
 Saa han da begge Aianter, som aldrig blev mætte av kampen,\
-staaende sammen med Tevkros som nylig var kommet fra teltet\
+staaende sammen med Tevkros som nylig var kommet fra teltet.\
 Nær ham stod de; men rope saa høit at det hørtes var uraad,\
 midt under kampenes larm; ti himmelhøit braket de sterke\
 slag imot hjelmer og skjold og mot porthvælvets mægtige fløier.\

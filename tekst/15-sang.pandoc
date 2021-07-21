@@ -5,9 +5,8 @@
   - [ ] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -258,7 +257,7 @@ Men til Apollon tok Zevs, hin skyernes herre til orde:\
 gaa, ti Poseidon, min bror, som favner og ryster al jorden,\
 dukket nu ned i det herlige hav for at fly for min vrede.\
 Visselig hadde en kamp mellem os maattet meldes av rygtet\
-endog i Kronos' kreds, blandt guderne nede i dypet\
+endog i Kronos' kreds, blandt guderne nede i dypet.\
 Baade for mig og for havguden selv var dog dette en vinding\
 at han, saa harmfuld han var, paa forhaand trak sig tilbake\
 for mine næver; ti ei uten sved var vi kommet fra kampen.\

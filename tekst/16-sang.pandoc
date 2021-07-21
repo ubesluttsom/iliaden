@@ -3,12 +3,10 @@
 <!--
   TODOs:
   - [x] Stavekontroll med Aspell.
-  - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -899,7 +897,7 @@ atter tilbake til vennernes flok og flygtet for døden.\
 Dog, da Hektor blev var at den modige høvding Patroklos,\
 rammet tilblods av det hvæssede spyd, maatte vike tilbake,\
 gik han i rækkerne helten tillivs og traf ham med lansen\
-nederst i lysken og støtte ham spydsodden tvers gjennem buken\
+nederst i lysken og støtte ham spydsodden tvers gjennem buken.\
 Drønende faldt han til jord til sorg for akaiernes stridsmænd.\
 [(823–59) ]{.linjenummer}
 Som naar en løve beseirer i strid et utrættelig vildsvin,\

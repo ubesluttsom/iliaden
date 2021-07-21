@@ -5,9 +5,8 @@
   - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk
-        `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
 -->
 
@@ -136,7 +135,7 @@ slik som han vakte min vrede fornys, hin drot Agamemnon.\
 Dog, la mig glemme hvad fordum er hændt, saa tungt som det falder,\
 nødt som jeg er til at kue i barm den flammende vrede.\
 Nu vil jeg gaa for at møtes med ham, med Hektor som myrdet\
-Vennen jeg elsket, og efterpaa — vel, da tar jeg min dødslod\
+vennen jeg elsket, og efterpaa — vel, da tar jeg min dødslod\
 trøstig den dag det skal ske efter Zevs' og gudernes vilje.\
 Ikke Herakles engang, den vældige, flygtet for døden,\
 skjønt han var elsket som ingen av Zevs, den sterke Kronide,\
