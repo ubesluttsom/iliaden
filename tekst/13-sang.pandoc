@@ -2,7 +2,7 @@
 
 <!--
   TODOs:
-  - [ ] Stavekontroll med Aspell.
+  - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
@@ -137,12 +137,12 @@ kjækt vore snekker, men myrdes i flok ved skibenes bakstavn.\
 Men om det end er sandt at skylden unegtelig ligger\
 ene hos Atrevs' søn, den mægtige drot Agamemnon,\
 saasom han krænket fornys Peleiden, den raske Akillevs,\
-derfor har slet ikke vi nogen ret til at svigte i kampen.\
+derfor har slet ikke *vi* nogen ret til at svigte i kampen.\
 Nei, la os bøte vor feil! En helt lar sig tale tilrette.\
 Ei er det rigtig av jer at glemme det stormende kampmod,\
 I som er gjævest i hele vor leir. Jeg vilde jo aldrig\
 refse en stymper, en mand som trak sig tilbake i feighet,\
-ræd for en kamp; men paa jer ma jeg harmes av inderste hjerte.\
+ræd for en kamp; men paa *jer* ma jeg harmes av inderste hjerte.\
 Aa, mine venner. I volder jo snart ved denne jer sløvhet\
 ulykker større end nu. Enhver maa dog føle i hjertet\
 blygsel for menneskers dom; ti frygtelig raser jo striden.\
@@ -869,7 +869,7 @@ Verge sig mer end han evner, er uraad selv for den tapre.»
 Saaledes svarte han freidig sin bror og mildnet hans hjerte.\
 Skyndte da begge sig dit hvor kampen og striden var hetest,\
 der hvor Kebríones stod og Polydamas, helten saa mandig,\
-Falkes, Ortaios og Palmys og drotten saa gjæv Polyfetes,\
+Falkes, Ortaíos og Palmys og drotten saa gjæv Polyfetes,\
 og hvor Askanios kjæmpet og Morys, Hippótions sønner.\
 Dagen tilforn ved det tidligste gry var de kommet med stridsmænd\
 fjernt fra Askaniens land, og nu drev Zevs dem til kampen.

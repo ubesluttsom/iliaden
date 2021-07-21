@@ -2,7 +2,7 @@
 
 <!--
   TODOs:
-  - [ ] Stavekontroll med Aspell.
+  - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
@@ -294,7 +294,7 @@ fjernt fra de trofaste venner; men vred blev Zevs, da han vaagnet.\
 Guderne slynget han om i sin hal; mig søkte han ivrigst.\
 Skamslaat mig hadde han sikkert og slængt mig fra himlen i havet,\
 hvis ikke Natten som kuer hver gud og mand, hadde frelst mig.\
-Tilflugt fandt jeg hos hende, og vred som han var,blev han mildnet;\
+Tilflugt fandt jeg hos hende, og vred som han var, blev han mildnet;\
 ti han var ræd for at krænke den ilende Nat ved sin vrede.\
 Nu er det atter en halsløs daad som du byder mig øve.»
 
@@ -393,7 +393,7 @@ han som av alle har øine som skarpest kan se i det skjulte.»
 
 Kronos' søn hadde talt, og i armene tok han sin hustru.\
 Under dem bredte den hellige jord et spirende teppe,\
-kløverens duggede blad, hyaeinter og lysende krokus,\
+kløverens duggede blad, hyacinter og lysende krokus,\
 dunbløtt og tæt, og lindt ifra jord det løftet dem begge.\
 Der gik de trygge til ro, og over sig bredte de varlig\
 taaken den gyldne. Da drysset fra sky de glitrende draaper.
@@ -416,7 +416,7 @@ Ilsomt styrtet han frem til de forreste rækker og ropte:\
 Priamos' søn, saa han vinder sig ry og tar vore snekker?\
 Ja, for han sier det selv og praler, saalænge Akillevs\
 sitter i ro ved skibenes stavn med vrede i hjertet.\
-Ham skal vi dog ikke savne saa saart, hvis alle vi andre\
+*Ham* skal vi dog ikke savne saa saart, hvis alle vi andre\
 kraftig vil mande os op til at hjælpe hverandre i kampen.\
 Vel, jeg skal nævne mit raad, og la os saa følge det alle:\
 Alle de største og sterkeste skjold som findes i hæren,\

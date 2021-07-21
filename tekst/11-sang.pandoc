@@ -2,7 +2,7 @@
 
 <!--
   TODOs:
-- [x] Stavekontroll med Aspell.
+  - [x] Stavekontroll med Aspell.
   - [x] Dobbelsjekke linjenummre.
   - [x] Korrekte paragrafinndelinger.
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
