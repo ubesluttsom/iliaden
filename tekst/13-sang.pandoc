@@ -8,6 +8,7 @@
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
   - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+)\u`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke «anførselstegn».
 -->
 
 ::: {.sang}
@@ -301,7 +302,7 @@ tyve saa sikkert som én; i rad staar de lænet til væggen,\
 bytte fra troiske mænd som jeg vog; ti det huer mig aldrig\
 lunkent at holde mig fjernt fra fienders fylking i kampen.\
 Derfor eier jeg her baade spyd og buklede skjolde,\
-hjelmer og brynjer av blinkende malm i straalende rækker.
+hjelmer og brynjer av blinkende malm i straalende rækker.»
 
 Straks tok den kløktige helt Meriones ordet og mælte:\
 «Selv har jeg hist i mit telt ved det tjærede langskib en mængde\

@@ -9,6 +9,7 @@
   - [x] Tegnsetting på slutten av linje. Regulæruttrykk
         `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke «anførselstegn».
 -->
 
 ::: {.sang}
@@ -395,7 +396,7 @@ da er det jer som jeg først lar byde til gjest ved vort gilde.\
 Da er det brunstekte kjøt eders fryd og de bredfulde bægre.\
 Vinen den liflige drikker I da saa meget I lyster.\
 Men nu saa I vist helst at ti akaiiske hære\
-foran jer selv kunde storme til kamp med det grusomme kobber.
+foran jer selv kunde storme til kamp med det grusomme kobber.»
 
 Harmfuld svarte Odyssevs og sendte ham trodsige blikke:\
 «Atrevs' søn, hvi slipper du slikt over tændernes gjærde?\

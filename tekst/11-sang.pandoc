@@ -9,6 +9,7 @@
   - [x] Tegnsetting på slutten av linje. Regulæruttrykk
         `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke «anførselstegn».
 -->
 
 ::: {.sang}
@@ -462,7 +463,7 @@ ene blandt alle danaer, da Zevs jo har jaget de andre.\
 Dog, hvi drøfter jeg nu i min sjæl saa faafængte tanker?\
 Visst jeg vet at nidding er hver som flygter fra kampen.\
 Den som er foregangsmand i en dyst, maa staa til det sidste,\
-kraftig og kjæk, hvad enten han selv blir dræpt eller dræper.
+kraftig og kjæk, hvad enten han selv blir dræpt eller dræper.»
 
 Medens han stod med grublende tvil i sind og i hjerte,\
 stormet imot ham til strid den skjolddækte troiske fylking.\

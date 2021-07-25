@@ -9,6 +9,7 @@
   - [x] Tegnsetting på slutten av linje. Regulæruttrykk
         `\v([\.\?:!]»?)@<!»?\\\n+«?\u`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke «anførselstegn».
 -->
 
 ::: {.sang}
