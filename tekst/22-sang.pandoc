@@ -2,13 +2,13 @@
 
 <!--
   TODOs:
-  - [ ] Stavekontroll med Aspell.
-  - [ ] Dobbelsjekke linjenumre.
-  - [ ] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Stavekontroll med Aspell.
+  - [x] Dobbelsjekke linjenumre.
+  - [x] Korrekte paragrafinndelinger.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
   - [ ] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
   - [ ] Sjekke tegnsetting på slutten av hver paragraf.
-  - [ ] Sjekke «anførselstegn».
+  - [x] Sjekke «anførselstegn».
   - [ ] Lese nøye igjennom.
 -->
 
@@ -27,6 +27,7 @@ kjendt mig og set at du følger en gud, naar du raser saa hidsig.
 Kampen mot troernes mænd som du jog, forsømmer du ganske;
 ti mens du fjernet dig hit, har de flokket sig sammen i byen.
 Mig kan du ikke faa dræpt; ti aldrig kan dødslodden naa mig.»
+
 Sukkende tungt tok helten, den raske Akillevs, til orde:
 «Fjerntrammer, ondt har du voldt mig, du grummeste guddom av alle,
 da du fra muren fik lokket mig hit; ti mangen en stridsmand
@@ -34,6 +35,7 @@ hadde vel ellers sat tanden i muld, før han naadde til Troja.
 Nu har du røvet mig straalende ry og frelst dem i nøden
 farefrit nok; ti en kommende hevn har du ikke at frygte.
 Visselig skulde jeg hevne mig grumt, saasandt som jeg evnet.»
+
 Saa han talte og vendte sig stolt og ilte mot byen,
 strækkende ut som en veddeløpshest, naar den seirende farer
 let over sletten for rullende vogn i flyvende firsprang.
@@ -92,6 +94,7 @@ Herlig er alt hvad man ser av hans legeme selv efter døden.
 Men naar en gubbe er dræpt og hunder faar skjæmme hans hvite
 haar og det graanede skjeg og det som han dækker i blygsel —
 tungere lod kan aldrig en jammerfuld dødelig times.»
+
 Saaledes talte den gamle og slet i de graanede lokker,
 rykkende haar av sit hode; men Hektor var ei til at rokke.
 Ogsaa hans jamrende mor stod nær, og opløst i taarer
@@ -105,9 +108,11 @@ Dræper han dig, kan hverken jeg selv faa graate ved baaren
 over min søn, min herligste livsfrugt, eller din kjære
 rikt utstyrede hustru; men fjernt fra os begge skal griske
 fotrappe hunder fortære dit lik ved akaiernes snekker!»
+
 Saaledes ropte de ned til sin søn med strømmende taarer,
 begge i brændende bøn; dog Hektor var ei til at rokke;
 men paa Akillevs ventet han kjækt, da han nærmet sig vældig.
+
 Likesom huggormen, mættet paa fjeld med giftige urter,
 lurer paa gjæteren lumsk i sit hul i rasende vrede
 — stikkende lyser dens blik, mens den bugter sig om paa sit leie —
@@ -147,6 +152,7 @@ venlig om gammelt og nyt, som en ungmø taler med vennen,
 ja, som en fæstemø hvisker saa ømt med sin elskede brudgom.
 Bedre paany at møtes i strid og snart faa at vite
 hvem av os to den olympiske drot vil unde at seire.»
+
 Saaledes stod han og grublet. Da nærmet Akillevs sig hastig,
 lignende Ares, den kampglade gud, med den vaiende hjelmbusk.
 Lansen, den grumme, av Pelions ask, over skuldren til høire
@@ -163,7 +169,7 @@ glupsk efter fangsten, og gang efter gang slaar den ned efter byttet —
 saaledes stormet Akillevs avsted som paa vinger, men Hektor
 vek langs troernes mur, og knæerne løftet han lynsnart.
 Baade den kneisende varde og fikenens stormbøide stamme
-for de forbi ad den banede vei, og bort ifra muren
+fôr de forbi ad den banede vei, og bort ifra muren
 ilte de fremad og kom til de to skjøntrislende bækker.
 Der har Skamandros, den hvirvlende elv, sine dobbelte kilder.
 En av dem strømmer med vand som er varmt, og hvirvlende dampe
@@ -194,18 +200,21 @@ helten i løp rundt Priamos' by paa hurtige føtter.
 Gaa da, I guder, paa raad med jer selv og tænk paa hans skjæbne,
 om vi skal frelse fra døden hin helt, eller straks la ham kue,
 kjæk som han er, av Pelevs' søn, den gjæve Akillevs.»
+
 Da tok gudinden, den blaaøide Pallas, til orde og svarte:
 [(177–214) ]{.linjenummer}
 «Lynsvinger, skyomhyllede far, hvad var det du mælte?
 Vil du da frelse en dødelig mand, som skjæbnen, den grumme,
 kaaret forlængst, fra en jammerfuld død paa den larmende valplads?
 Gjør det; men ei vil din gjerning bli rost av samtlige guder.»
+
 Talte da Zevs, hin skyernes drot, og svarte sin datter:
 «Fat dig, Tritogeneia, mit elskede barn! hvad jeg nævnte
 var ikke ment for alvor; ti dig vil jeg føie saa gjerne.
 Gjør hvad du selv maatte finde for godt og nøl ikke længer.»
+
 Saa han talte og egget end mer den higende Pallas.
-Ilsomt for hun avsted fra Olympos' svimlende tinder.
+Ilsomt fôr hun avsted fra Olympos' svimlende tinder.
 Hektor blev jaget imens i ustanselig løp av Akillevs.
 Som naar en hjortekalv følges paa fjeld gjennem daler og kløfter
 hidsig av halsende hund som har jaget den op fra dens leie —
@@ -243,6 +252,7 @@ selv om fjernskytten Foibos ydmyger sig aldrig saa meget
 veltende sig for sin fars, for aigissvingerens føtter.
 Bli nu staaende her for at hvile dig, medens jeg iler
 hen til Hektor og mander ham op til at vaage en tvekamp.»
+
 Saaledes lød hendes ord, og han fulgte dem glad i sit hjerte.
 Støttet til lansen med malmhvæsset odd blev han staaende rolig.
 Gik hun da bort fra Akillevs og hen til den straalende Hektor.
@@ -251,12 +261,14 @@ traadte hun nær, og med vingede ord hun talte til helten:
 «Elskede bror, nu trænges du haardt av den raske Akillevs,
 jaget av helten rundt Priamos' by paa hurtige føtter.
 La os nu vente og kjækt holde stand og verge os kraftig.»
+
 Hektor, den hjelmbuskvaiende helt, tok ordet og svarte:
 «Altid, Deifobos, var du tilforn mig kjærest av alle
 brødre som Priamos avlet, og Hékabe fødte til verden.
 Høiere endnu end før vil jeg herefter prise din manddom,
 siden du, da du fik se mig, har vaaget for min skyld at ile
 utenfor porten, mens andre saa feigt har ventet derinde.»
+
 Svarte da straks gudinden, den blaaøide Pallas Atene:
 «Elskede bror, vor far og vor mor og de trofaste venner
 tryglet mig, favnende en efter en mine knær, om at vente
@@ -265,7 +277,8 @@ Men i mit bryst var hjertet forpint av sorgtunge kvaler.
 La os nu trøstig gaa frem til en dyst og la os ei spare
 lansernes malm, saa vi snart kan vite forvisst, om Akillevs
 seirende fælder os begge og bærer vor blodige rustning
-hen til de stavnkrumme skibe som rov, eller dør for din lanse.
+hen til de stavnkrumme skibe som rov, eller dør for din lanse.»
+
 Saaledes lokket Atene ham frem med svigefuld tale.
 Da de var kommet paa nærmeste hold og gik frem mot hinanden,
 talte den straalende Hektor og rettet et ord til Akillevs:
@@ -280,6 +293,7 @@ Ti dersom Zevs vil unde mig seir, og jeg røver dig livet,
 skal jeg, Akillevs, ei skjende dit lik med rædsomme vunder.
 Naar jeg faar røvet dig rustningens pragt, skal jeg sende det urørt
 hjem til akaiernes leir, og lov mig at gjøre det samme.»
+
 Svarte da barsk, med rynkede bryn, den raske Akillevs:
 «Tal ikke, Hektor, til mig, du evig forhatte, om edspakt;
 ti mellem løver og mænd er en edelig avtale faafængt.
@@ -293,6 +307,7 @@ rigtig at vise med lansen din kunst som den frygtløse kriger.
 Nu skal du ei kunne fly. Nei, snart skal Pallas Atene
 kue din kraft ved mit spyd. For al den kval skal du bøte
 som jeg har følt over venner du vog, naar du raste med lansen.»
+
 Saa han talte og slynget med kraft sin vældige lanse.
 Dog, den straalende Hektor holdt øie med spydet og undvek;
 ti da han saa det, knælte han ned, og spydet fløi over
@@ -309,11 +324,12 @@ dersom en gud gir dig kraft; men søk nu at undgaa min lanses
 malmhvasse odd. Aa, maatte du faa den i brystet til skaftet!
 Lettere blev det for troernes mænd at færdes i kampen
 efter dit fald; ti størst er den sorg som du har forvoldt dem.»
+
 Derefter svang han sit vældige spyd og rammet ved kastet
-midt i Akillevs' skjold. Ei for det forbi; men tilbake
+midt i Akillevs' skjold. Ei fôr det forbi; men tilbake
 [(291–328) ]{.linjenummer}
 sprat det fra skjoldet og slyngedes fjernt. Da harmedes Hektor
-over at spydet, det skarpe, forgjæves for ut av hans næve.
+over at spydet, det skarpe, forgjæves fôr ut av hans næve.
 Haandfalden stod han og hadde ei mer nogen lanse at kaste.
 Ropende lydt paa sin skjolddækte bror Deifobos bad han
 helten at gi ham sit vældige spyd; — men han stod ikke nær ham.
@@ -327,12 +343,13 @@ baade for Zevs og hans søn fjerntrammeren, de som saa naadig
 hjalp mig tilforn; — men nu er det saa at skjæbnen har naadd mig.
 Ei vil jeg dø en vanærende død uten manddom og hæder.
 Nei, la mig øve en stordaad, som kommende slegter skal mindes.»
+
 Saa han talte og rev med et ryk av skeden sit svære
 skarpslepne sverd, det tunge, som hang i en rem ved hans side.
 Lutende styrtet han frem som ørnen fra himmelens høider,
 naar den slaar ned gjennem skyernes mulm for at røve paa sletten
 enten et hjælpeløst lam eller haren som flyr til sit gjemsel.
-Saa for Hektor avsted og svang sit skarpslepne slagsverd.
+Saa fôr Hektor avsted og svang sit skarpslepne slagsverd.
 Fyldt av rasende harm i sin sjæl sprang Akillevs imot ham.
 Foran sig holdt han som dækkende vern sit herlige malmskjold,
 hamret med kunst, og den straalende hjelm om høvdingens isse
@@ -353,12 +370,14 @@ Dog, det malmtunge spyd skar ei gjennem strupen, saa helten
 [(329–66) ]{.linjenummer}
 endnu fik bruke sit mæle til svar i vekslende tale.
 Segnet han da til jord, og jublende ropte Akillevs:
+
 «Hektor, du mente dig visst saa tryg, da du fældte Patroklos.
 Ikke det ringeste frygtet du mig som var borte fra kampen.
 Daare; ti sat jeg end fjernt fra min ven ved de stavnkrumme snekker,
 var jeg dog endnu i live og blev ham en sterkere hevner;
-ti dine knær har jeg lammet, og di g skal hunder og gribber
-slæpe til spot og spe; men ham skal akaierne jorde.»
+ti dine knær har jeg lammet, og *dig* skal hunder og gribber
+slæpe til spot og spe; men *ham* skal akaierne jorde.»
+
 Lammet av dødstræthet svarte den hjelmbuskvaiende Hektor:
 «Bønlig ber jeg dig nu ved dit liv, dine knær og forældre:
 La dog ei hundene æte mit lik ved akaiernes snekker.
@@ -366,8 +385,9 @@ Nei, ta skinnende kobber og guld i rikelig mængde,
 alt hvad min far og ærværdige mor vil gi dig som gaver;
 men send liket tilbake, saa troer og troiske kvinder
 hjemme kan reise mit baal og unde mig hædrende likfærd.»
+
 Truende svarte, med rynkede bryn, den raske Akillevs:
-«Favn ikke ,hund, mine knær, og tig mig ei ved forældre.
+«Favn ikke, hund, mine knær, og tig mig ei ved forældre.
 Aa, om min rasende harm kunde egge min sjæl til at skjære
 kjøt av din krop og æte det raat for den sorg du har voldt mig.
 Ingen skal nu kunne verne mot graadige hunder dit hode,
@@ -377,18 +397,21 @@ Vilde dardaneren Priamos end med guldet, det røde,
 veie dig op, saa skal ei din værdige mor kunne lægge
 selv den søn, hun har født, paa baaren med jamrende klage.
 Nei, men hele din krop skal flænges av hunder og gribber.»
+
 Døende mælte paany den hjelmbuskvaiende Hektor:
 «Ja, jeg kjender dig godt, som du staar mig for øie. Jeg skulde
 altsaa ei røre din sjæl; ti av jern er dit hjerte i barmen.
 Vogt dig, at ikke min lod skal volde at guderne vredes,
 naar den er kommet den dag, da Paris og Foibos Apollon
 fælder dig hist ved den skaiiske port, hvor kjækt du end kjæmper.»
+
 Saa han talte, og over ham gled den evige dødssøvn.
 Bort fra lemmerne svævet hans sjæl og vandret til Hades,
 jamrende over sin lod, at skilles fra mandskraft og ungdom.
 Selv til den avdøde talte paany den stolte Akillevs:
 «Dø! — og efterpaa tar jeg min lod, naar Zevs og de andre
 evige guder vil styre det saa at døden skal naa mig.»
+
 [(367–404) ]{.linjenummer}
 Saa han talte og rykket sit malmspyd ut av den faldne,
 lagde det fra sig og rev hans blodige rustning fra skuldre.
@@ -398,6 +421,7 @@ Alle, som traadte ham nær, gav liket en flænge med spydet.
 Mangen en mand saa hen til sin nærmeste nabo og mælte:
 «Jo da, tilvisse, langt bløtere nu er Hektor at ta paa,
 end da han brændte med flammende ild vore tjærede snekker.»
+
 Saaledes talte saa mangen og gik og stak ham med lansen.
 Men da Akillevs, den fotrappe helt, hadde røvet hans rustning,
 stod han og talte med vingede ord til akaiernes sønner:
@@ -418,6 +442,7 @@ La os nu gaa, akaiiske mænd, til et seierskvads toner
 førende denne avsted til vor leir ved de stavnkrumme snekker.
 Glimrende ry har vi vundet. Vi dræpte den herlige Hektor,
 helten, som troernes mænd har prist som en guddom i byen.»
+
 Saa han talte og øvet en gruelig gjerning mot Hektor;
 ti ifra ankel til hæl paa begge hans føtter bak vristen
 stak han i senerne hul, trak oksehuds remmer igjennem,
@@ -453,6 +478,7 @@ Kummer for Hektor vil føre mig ned til Hades' bolig.
 Aa, om det bare var undt mig at favne ham endnu i døden!
 Da hadde begge med jammer og graat kunnet mætte sit hjerte,
 baade jeg selv og min viv, den usalige mor som har født ham.»
+
 Hulkende talte han saa, og borgerne sukket i medynk.
 Men blandt de troiske kvinder lød Hékabes jamrende klage:
 «Hvorfor, mit barn, skal jeg ribbet og arm maatte leve i jammer
@@ -461,6 +487,7 @@ her i vor stad min stolthet og lyst og en hjælper for alle
 troer og troiske kvinder, som hædret dig høit som en guddom.
 Visselig var du jo ogsaa for dem den herligste hæder,
 medens du levde, men nu er du død, og skjæbnen har naadd dig.»
+
 Hulkende talte hun saa; men Hektors viv hadde endnu
 intet faat vite; ti ingen var gaat som bud for at melde
 at hendes husbond alene holdt stand hist utenfor porten.
@@ -485,6 +512,7 @@ veien til byen og jager ham om alene paa sletten.
 Kanske han alt har stanset for godt den usalige kjækhet
 som var ham egen. Blandt mængden av stridsmænd holdt han sig aldrig.
 Langt foran fylkingen løp han og vek ei for nogen i manddom.»
+
 Saa hun talte og hastet med bankende hjerte fra hallen,
 lik en avsindig at se, og tjenestekvinderne fulgte.
 Men da hun naadde til taarnet og kom til mændenes skare,
@@ -541,6 +569,7 @@ fine og prægtige klær, som kvindehaand virket paa væven.
 Nu vil jeg brænde dem alle i flammende luer til aske.
 Dig blir de ikke til gagn; ti i dem skal du aldrig faa hvile;
 men det skal øke dit ry blandt troer og troiske kvinder.»
+
 Hulkende talte hun saa, og kvinderne sukket i medynk.
 
 :::
