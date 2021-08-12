@@ -7,7 +7,7 @@
   - [x] Korrekte paragrafinndelinger.
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
   - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
-  - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke tegnsetting på slutten av hver paragraf.
   - [x] Sjekke «anførselstegn».
 -->
 

@@ -7,7 +7,7 @@
   - [x] Korrekte paragrafinndelinger.
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
   - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
-  - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke tegnsetting på slutten av hver paragraf.
   - [x] Sjekke «anførselstegn».
 -->
 
@@ -416,7 +416,7 @@ Ham vil jeg møte i kamp, om hans næver var hete som ilden,\
 ja, om hans næver var hete som ild og hans styrke som jernets.»
 
 Eggende talte han saa, og troerne svang sine lange\
-lanser til kamp, og de møttes paa val med rungende hærskrik
+lanser til kamp, og de møttes paa val med rungende hærskrik.
 
 Foibos Apollon gik hen til den straalende Hektor og mælte:\
 «Hektor, du skal ikke mer som forkjæmper møte Akillevs.\

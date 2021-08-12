@@ -7,7 +7,7 @@
   - [x] Korrekte paragrafinndelinger.
   - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
   - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+)\u`.
-  - [ ] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke tegnsetting på slutten av hver paragraf.
   - [x] Sjekke «anførselstegn».
 -->
 
@@ -143,7 +143,7 @@ Nei, la os bøte vor feil! En helt lar sig tale tilrette.\
 Ei er det rigtig av jer at glemme det stormende kampmod,\
 I som er gjævest i hele vor leir. Jeg vilde jo aldrig\
 refse en stymper, en mand som trak sig tilbake i feighet,\
-ræd for en kamp; men paa *jer* ma jeg harmes av inderste hjerte.\
+ræd for en kamp; men paa *jer* maa jeg harmes av inderste hjerte.\
 Aa, mine venner. I volder jo snart ved denne jer sløvhet\
 ulykker større end nu. Enhver maa dog føle i hjertet\
 blygsel for menneskers dom; ti frygtelig raser jo striden.\

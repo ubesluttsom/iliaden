@@ -2,13 +2,13 @@
 
 <!--
   TODOs:
-  - [ ] Stavekontroll med Aspell.
-  - [ ] Dobbelsjekke linjenumre.
-  - [ ] Korrekte paragrafinndelinger.
-  - [ ] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
-  - [ ] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
-  - [ ] Sjekke tegnsetting på slutten av hver paragraf.
-  - [ ] Sjekke «anførselstegn».
+  - [x] Stavekontroll med Aspell.
+  - [x] Dobbelsjekke linjenumre.
+  - [x] Korrekte paragrafinndelinger.
+  - [x] Sjekke «for» og «fôr». Regulæruttrykk `\v(\S)@<![Ff][oôó]r(\S)@!/e-1`.
+  - [x] Tegnsetting på slutten av linje. Regulæruttrykk `\v(\.)@<!(\\\n+\u)`.
+  - [x] Sjekke tegnsetting på slutten av hver paragraf.
+  - [x] Sjekke «anførselstegn».
   - [ ] Lese nøye igjennom.
 -->
 
@@ -35,6 +35,7 @@ henslængt i støvet med ansigtet ned; men Foibos Apollon
 vernet mot skjæmmende vunder hans hud; ti selv efter døden
 ynket han helten og dækket ham helt med den guldsmykte Aigis
 for at hans fiende ei skulde flænge hans hud, naar han slæptes.
+
 Saaledes skjendet han, pint av sin harm, den straalende Hektor.
 Guderne saa det og ynkedes saart og bød at den raske
 speidende lysbringer Hermes med list skulde bortføre liket.
@@ -69,6 +70,7 @@ bundet hans lik til sin vogn, og om graven hvor vennen er jordet,
 slæper han ham. Slikt bringer ham dog hverken gavn eller hæder.
 Gjæv som han er, maa han vogte sig vel for at vække vor harme;
 ti den umælende jord forhaaner han jo i sin vildskap.»
+
 Heftig forbitret i hu tok den armhvite Hera til orde:
 «Sølvbuegud, det ord du har talt, kunde gjælde for rigtig,
 hvis I vil sætte jer Hektor i rang saa høit som Akillevs.
@@ -78,6 +80,7 @@ selv jeg har fostret og pleiet og viet til dødelig husbond,
 Pelevs, hin drot som blev elsket saa høit av de evige guder.
 Alle I guder var med ved hans bryllupsfest. Selv med din lyre
 gjestet du gildet, du stymperes ven, som altid maa lyve.»
+
 [(64–101) ]{.linjenummer}
 Da tok den mægtige skysamler Zevs til orde og svarte:
 «Stans nu, Hera, og ras ikke saa mot de evige guder.
@@ -92,6 +95,7 @@ vanker hans mor ved nat og ved dag omkring ved hans side.
 Bedst om en gud vilde skynde sig bort og hente mig Tetis,
 saa jeg kan gi hende selv det forstandige raad at Akillevs
 villig bør ta hvad Priamos byr til løsning for Hektor.»
+
 Saa han talte. Da ilte som bud den stormsnare Iris.
 Midt mellem Samos og Imbros' kyst med de styrtbratte skrænter
 hoppet hun ned i det mørkeblaa hav, saa bølgerne plasket.
@@ -104,15 +108,17 @@ hulket hun saart for sin herlige søn; ti han skulde jo snarlig
 fjernt fra sit fødeland miste sit liv ved det frugtbare Troja.
 Nær hende traadte da straks den fotrappe Iris og mælte:
 «Skynd dig nu, Tetis; ti Zevs, vor alvise far, lar dig kalde.»
+
 Derefter svarte gudinden, den sølverfotede Tetis:
 «Hvi har den mægtige budsendt mig nu? At færdes blandt guder
 blues jeg ved; ti mit hjerte er pint av utallige sorger.
 Dog, jeg maa gaa. Hvad han sier, maa ske; det kan ikke rokkes.»
+
 Saaledes talte gudinden og hyllet sig ind i det mørke
 dækkende slør. Ei fandtes en dragt mer kulsort end denne.
 Derefter gik hun avsted, og den stormsnare Iris gik foran.
 Havdypets vandstrømme kløvde sig let om de tvende gudinder.
-Da de var steget paa land, for de op til den lysende himmel.
+Da de var steget paa land, fôr de op til den lysende himmel.
 Snart kom de frem til Kronos' søn, og alle de andre
 salige guder, som aldrig kan dø, sat samlet omkring ham.
 Tetis tok sæte hos alfader Zevs; ti Atene vek pladsen.
@@ -136,6 +142,7 @@ Kanske han da vil ræddes for mig og gi Hektor tilbake.
 Selv skal jeg sende til Priamos bud med den stormsnare Iris,
 at han skal gaa til akaiernes leir for at løskjøpe sønnen,
 bringende med til Akillevs en bot som kan mildne hans hjerte.»
+
 Saa han talte, og Tetis, den sølverfotede guddom,
 lød ham og svævet i hast fra Olympos' mægtige tinder.
 Snart kom hun frem til Akillevs' telt og traf ham derinde,
@@ -150,14 +157,16 @@ Kanske det bragte dig trøst, om du favnet en kvinde i elskov.
 Snart er jo ogsaa dit livsløp forbi; ti døden og skjæbnens
 vældige magter har nærmet sig alt og staar ved din side.
 Lyt nu straks til mit ord: Fra Zevs er jeg kommet med budskap.
-Gudérne, sier han, laster din færd; han selv fremfor alle
+Guderne, sier han, laster din færd; han selv fremfor alle
 evige guder er harm, fordi du i rasende vrede
 holder paa Hektor ved skibenes stavn og negter ham løsning.
 Gi nu hans lik tilbake og ta de gaver som bydes.»
+
 Straks tok Akillevs, den fotrappe helt, til orde og svarte:
 «Vel, la da ham som bringer mig bot, faa hjemføre liket,
 [(140–77) ]{.linjenummer}
-siden for alvor han byder det selv, hin gud paa Olynipen.»
+siden for alvor han byder det selv, hin gud paa Olympen.»
+
 Saaledes drøftet nu mor og søn ved skibenes række
 mangt med hinanden med vingede ord; men den høie Kronide
 sendte den fotrappe Iris imens til det hellige Troja:
@@ -176,6 +185,7 @@ Og naar han først faar ledet ham ind i Akillevs' leirtelt,
 skal han ei dræpe sin gjest, men verne ham trygt mot de andre;
 ti han er hverken uvittig og ond eller blind for det rette;
 men han vil skaane en tryglende far med den ytterste omhu.»
+
 Saa han talte. Straks ilte den stormsnare Iris med budet.
 Frem til Priamos kom hun. Der møtte hun jammer og klage.
 Rundt om sin far i en kreds sat sønnerne inde paa gaarden,
@@ -206,6 +216,7 @@ Men naar han først faar ledet dig ind i Akillevs' leirtelt,
 skal han ei dræpe sin gjest, men verne dig trygt mot de andre;
 ti han er hverken uvittig og ond eller blind for det rette;
 men han vil skaane en tryglende far med ytterste omhu.»
+
 Saaledes talte den fotrappe mø og hastet tilbake.
 Priamos bød nu straks sine sønner at spænde de raske
 muldyr for rullende vogn og binde en kurv til dens fating.
@@ -218,6 +229,7 @@ bringende med til Akillevs en bot som kan mildne hans hjerte.
 Nu maa du gi mig et raad og si hvad du mener om dette;
 ti i mit hjerte og sind staar hele min hu til at drage
 gjennem akaiernes vidtstrakte leir til de hurtige snekker.»
+
 Saa han talte, og hulkende tok hans hustru til orde:
 «Ve mig arme! Hvor er din forstand som fordum blev lovprist
 viden blandt fremmede mænd og av dem som lyder dit magtbud.
@@ -236,6 +248,7 @@ hevn for min søn; ti det var ingen usling han vog; men han kjæmpet
 [(215–53) ]{.linjenummer}
 modig for troernes mænd og slanktombeltede kvinder,
 uten at tænke paa flugt eller feigt at vike tilbake.»
+
 Svarte da drotten, den graanede Priamos, gudernes like:
 «Stans ei min færd, naar jeg ønsker at gaa, og spaa ikke vanheld
 selv som en ulykkesfugl i vor hal. Du rokker mig ikke;
@@ -247,6 +260,7 @@ ansigt til ansigt, og ei skal hint bud være bragt mig forgjæves.
 Selv om det vorder min lod at dø ved akaiernes skibe,
 vil jeg det dog. Ja, Akillevs kan straks faa røve mig livet,
 naar jeg faar favnet min søn og stillet min trang til at graate.»
+
 Saa han talte og lukket saa op de prægtige kister.
 Tolv av de herligste slør tok han ut og tolv av de bedste
 enkelte kapper og tepper av uld i selvsamme antal.
@@ -266,18 +280,19 @@ ti langt lettere blir det jo nu for akaiernes sønner,
 efterat Hektor er falden, at ta jer andre av dage.
 Aa, om det maatte forundes mig selv at vandre til Hades,
 før jeg faar se for mit øie at byen blir herjet og plyndret.»
-Saa han talte og for med sin stav gjennem flokken, og alle
+
+Saa han talte og fôr med sin stav gjennem flokken, og alle
 vek for den hidsige gubbe. Saa skjendte han paa sine sønner,
 Helenos først og den straalende Agaton, dernæst paa Paris,
-saa kom Antifonos, Pammon, Deifobos, dernæst Polites,
+saa kom Antífonos, Pammon, Deifobos, dernæst Polites,
 høimælt og rask, Hippótoos sidst og den mandige Dios.
-Gubben for løs paa samtlige ni og ropte i vrede:
+Gubben fôr løs paa samtlige ni og ropte i vrede:
 «Skynd jer, I slyngler av sønner, elendige! Gid at I alle
 [(254–91) ]{.linjenummer}
 laa ved de hurtige snekker som lik istedetfor Hektor.
 Ve mig, usalige mand; ti jeg avlet de ypperste sønner
 her i det vidtstrakte Troja; men ingen av dem er tilbake:
-Mestor, saa kjæk som en gud, og Troilos, freidig i vognkamp,
+Mestor, saa kjæk som en gud, og Troïlos, freidig i vognkamp,
 ja, og min Hektor som var som en gud blandt jordiske helter.
 Ei saa han ut som en dødeligs barn, men som søn av en guddom.
 Disse har krigsguden dræpt; men alle de værste er sparet,
@@ -285,6 +300,7 @@ mestre i løgn og i dans, i alleslags fagter og krumspring;
 helter som skaffer sig gjeter og lam ved ran ifra landsmænd.
 Kan I da ei i en fart faa ordnet med vognen og fylde
 kurven med sakerne her, saa vi snart kan faa git os paa veien?»
+
 Saaledes talte den harmfulde far, og skræmt ved hans tilrop
 bar de fra skuret den flunkende ny, letrullende, skjønne
 mulæselsvogn, og fast til vognstolen snørte de kurven,
@@ -301,6 +317,7 @@ Mulerne spændte de for, sterkhovede, raske i sælen,
 herlige dyr som Priamos fik av myserne fordum.
 Men for Priamos spændte de for de hester som gubben
 selv hadde røgtet som ypperste spand ved den glattede krybbe.
+
 Medens nu Priamos selv og hans svend, de forstandige gubber,
 begge lot dyrene spænde for vogn i den kneisende borggaard,
 traadte den værdige Hekabe frem med kummer i hjertet,
@@ -320,9 +337,11 @@ trøstig kan gi dig paa vei til danaernes hurtige snekker.
 Men hvis den tordnende Zevs ei gir dig sit varslende budskap,
 da vil jeg ei kunne raade dig til eller be dig at drage
 hen til akaiernes leir, om du ønsker det aldrig saa ivrig.»
+
 Priamos, gudernes like, tok straks til orde og svarte:
 «Kjæreste hustru, dit velmente raad skal jeg visselig lyde.
 Løfte mot Zevs sine hænder er bedst, om han kanske vil ynkes.»
+
 Saaledes talte den gamle og bød sine terner at helde
 over hans hænder det klareste vand, og tjenestekvinden
 nærmet sig straks med en kande i haand og fatet til tvætning.
@@ -335,6 +354,7 @@ Send mig fra høire den varslende fugl, dit hurtige ilbud,
 den som er kjærest for dig og er sterkest av vingede fugler,
 forat jeg selv, naar jeg faar den at se, i lit til dens varsel
 trøstig kan gi mig paa vei til danaernes hurtige snekker.»
+
 Saaledes bad han, og Zevs, den alvise, hørte ham naadig.
 Straks lot han flyve sin ørn, den stolteste fugl under himlen,
 jagtfuglen mørk; den spraglede kongeørn kaldes den ogsaa.
@@ -343,6 +363,7 @@ trygt for hans skatkammers høireiste hvælv med de mægtige laaser,
 likesaa lange var vingernes par, og de saa at den svævet
 hen over byen til høire, og da de fik øie paa fuglen,
 følte de inderlig glæde, og alle blev varme om hjertet.
+
 Oldingen skyndte sig op paa den skinnende vognkarm og kjørte
 under den drønende søilehal ut av den hvælvede borgport.
 Foran med firehjulsvognen gik spandet av kraftige muldyr,
@@ -361,6 +382,7 @@ venlig en mand, og du hører en bøn, naar den huer dit hjerte.
 Skynd dig avsted! Før Priamos frem til akaiernes snekker,
 stille og tyst, saa end ikke én av de andre danaer
 ser eller merker hans færd, før han naar til Akillevs' leirtelt.»
+
 Saa han talte, og Hermes, hans straalende ilbud, var villig.
 Straks under føtterne snørte han fast de himmelske saaler,
 gyldne og skjønne, som bærer ham hen over vandenes vidder
@@ -371,6 +393,7 @@ Holdende denne i haand fløi han bort, den mægtige lysgud.
 Straks da han kom til troernes by og til Hellespontos,
 vandret han fremad, av skikkelse lik en kongsbaaren yngling,
 skygget om haken av spirende dun, i sin fagreste ungdom.
+
 Men da de tvende var kommet forbi kong Ilos' gravhaug,
 stanset de muldyr og hester og lot dem faa drikke ved elven;
 ti over markerne bredte sig alt det natlige mørke.
@@ -380,6 +403,7 @@ Hermes som nærmet sig raskt, og til Priamos talte han lønlig:
 Hist kan jeg øine en mand. Jeg er ræd han vil dræpe os begge.
 Kom, la os stige tilvogns og friste at fly, eller ogsaa
 favne hans knæ og be for vort liv, om han kanske vil ynkes.»
+
 Saa han talte. I lammende gru skalv oldingens hjerte.
 Haarene reiste sig stive av skræk paa de krokete lemmer.
 Haandfalden stod han. Da nærmet sig raskt den venlige guddom.
@@ -395,12 +419,14 @@ Selv er du sletikke ung, og gammel er han som er med dig.
 Verge jer kunde I ei mot en mand som først yppet trætte.
 Jeg skal tilvisse ei volde dig men. Jeg verger dig heller
 trygt mot en anden. Min elskede far du tykkes mig ligne.»
+
 Oldingen Priamos svarte ham da med guddommelig høihet:
 «Ja, du har ret, min søn; du har ret i alt hvad du sier.
 Over mig holder dog endnu en gud sine naadige hænder,
 siden han sendte mig nu, da det gjaldt, en vandrer i møte
 saadan som dig, saa kraftig av vekst og herlig av aasyn,
 dertil saa klok. Lyksalige de som er dine forældre!»
+
 Straks tok gudernes straalende bud til orde og svarte:
 «Gamle, ja visselig gir jeg dig ret i alt hvad du nævnte.
 Si mig nu bare og la hvert ord være sandt som du sier:
@@ -409,9 +435,11 @@ bort til fremmede mænd for at ha det i sikker forvaring?
 Eller kanhænde I alle drar bort fra det hellige Troja,
 slagne av frygt; ti helten, din søn, eders tapreste høvding,
 faldt jo fornys. I kamp mot akaierne svigtet han aldrig.»
+
 Svarte da drotten, den graanede Priamos, gudernes like:
 «Si mig, min ven, hvem du er og fra hvilke forældre du stammer,
 siden du talte saa smukt om min søns usalige skjæbne.»
+
 Derpaa tok gudernes straalende bud til orde og svarte:
 «Gubbe, du prøver mig visst, naar du spør om den herlige Hektor.
 Ham har jeg set saa mangen en gang i de hædrende kampe
@@ -428,12 +456,14 @@ Nu er jeg kommet til sletten fra skibene. Tidlig imorgen
 agter akaiernes klarøide mænd at kjæmpe om byen.
 Alle er kjede av hvile og ro, og danaernes konger
 kan ikke holde de kamplystne mænd tilbake fra striden.»
+
 Oldingen Priamos, guderne lik, tok ordet og svarte:
 [(406–43) ]{.linjenummer}
 «Er du en kriger hos Pelevs' søn, den stolte Akillevs,
 si mig da sandheten helt om min søn og fortæl om han ligger
 endnu ved skibene hist, eller kanske den haarde Akillevs
 alt har hugget i stykker hans lik og lagt det for hunder.»
+
 Gudernes straalende bud tok atter til orde og svarte:
 «Nei, ærværdige gubbe, han er ikke endnu fortæret,
 hverken av hund eller fugl. Ved Akillevs' telter og snekker
@@ -448,6 +478,7 @@ uten det ringeste smuds, og lukket er alle de vunder,
 fienden slog; ti av mangen en mand blev han stukket med spydet.
 Saaledes vernes din herlige søn av de evige guder,
 selv naar han ligger som lik; ti de elsker ham høit i sit hjerte.»
+
 Saa han talte. Den gamle blev glad og svarte ham venlig:
 «Ja, mit barn, det er godt at bringe de evige guder
 sømmelig offer. Ei glemte min søn, — mit barn som jeg mistet —
@@ -456,6 +487,7 @@ Derfor kom de ham ogsaa i hu, da dødslodden traf ham.
 Ta nu, du kjære, som gave fra mig dette herlige bæger.
 Verg mig mot farer og følg mig paa vei med gudernes bistand,
 indtil jeg kommer til teltet hvor Pelevs' søn er til huse.»
+
 Atter tok gudernes straalende bud til orde og svarte:
 «Gamle, du frister mig, ung som jeg er; men du ber mig forgjæves
 motta en gave fra dig, naar jeg ikke har lov av Akillevs.
@@ -464,6 +496,7 @@ det som er hans, forat ei noget ondt skal ramme mig siden.
 Men som din følgesvend, selv om det var til det herlige Argos,
 følger jeg tro over land eller hav paa den hurtige snekke.
 Ingen skal gaa dig for nær, fordi han foragter din fører.»
+
 Saaledes talte den naadige gud, og op paa hans stridsvogn
 steg han og grep i en fart baade svepe og skinnende tøiler.
 Kræfter i lemmerne blæste han ind paa hester og muldyr.
@@ -493,6 +526,7 @@ aapenlyst skjænker en dødelig mand saa kjærlig sin bistand.
 Selv kan du trøstig gaa ind til Pelevs' søn for at favne
 ydmyg hans knær i inderlig bøn ved hans far og hans kjære
 haarfagre mor og hans søn, saa du rører hans hjerte til medynk.»
+
 Saaledes talte Hermeias og fôr til det høie Olympen.
 Priamos selv steg ned fra sin vogn; men ute paa gaarden
 lot han Idaios tilbake. Der ventet han nu for at holde
@@ -533,12 +567,14 @@ Ynk mig, Akillevs, og gjør det i sky for gudernes vrede.
 Tænk paa din far. End mere end han fortjener jeg medynk.
 Endnu har aldrig en mand som har mistet sin søn, maattet taale
 likesom jeg at føre hans banemands haand til sin læbe.»
+
 Saa han talte og vakte hans trang til at graate for Pelevs.
 Varsomt rørte han oldingens arm og skjøv ham tilbake.
 Begge kom sine i hu. For Hektor, hin vældige stridsmand,
 hulket den ene og vred sig paa jord for Akillevs' føtter,
 medens Akillevs, snart for sin far og snart for Patroklos,
 jamret sig lydt. Deres stønnende suk gav gjenlyd i hallen.
+
 Men da Akillevs i hulkende graat hadde lettet sit hjerte,
 og fra hans lemmer og sind den sorgtunge længsel var svunden,
 steg han fra tronstolen op og reiste den gamle med haanden,
@@ -579,6 +615,7 @@ raser jo altid den vildeste kamp og manddrap om byen.
 Tving dig og pin ikke længer din sjæl med ustanselig klage.
 Faafængt at klage i sorg for din søn. Du vækker ham aldrig
 op fra de døde. Nei, før kan en ny hjemsøkelse naa dig.»
+
 Oldingen Priamos, guderne lik, tok ordet og svarte:
 «Byd mig ei endnu at sætte mig ned, saa længe min Hektor
 ujordet ligger ved teltene her. Nei gi ham tilbake!
@@ -587,6 +624,7 @@ herlige gaver jeg bringer. Ja, maatte de glæde dit hjerte.
 [(557–93) ]{.linjenummer}
 Maatte du komme i fred til dit fædrenehjem, naar du naadig
 under mig selv at leve og skue det straalende sollys.»
+
 Barsk og med rynkede bryn tok den raske Akillevs til orde:
 «Plag mig ei længer, du gamle. Jeg agter frivillig at gi dig
 Hektor tilbake. Med budskap fra Zevs kom nylig til teltet
@@ -599,6 +637,7 @@ bommen som stænger den mægtige port, tilbake med lethet.
 Plag nu ei mere min sorgpinte sjæl, ærværdige gubbe,
 forat jeg ei i mit telt skal forgripe mig paa dig og krænke
 tryglende gjest og forsynde mig haardt mot Alfaders paalæg.»
+
 Saa han talte; men oldingen skalv og lød hans formaning.
 Pelevs' søn fôr ut og sprang som en løve mot døren,
 ikke alene, men fulgt av to av de ypperste svende.
@@ -625,6 +664,7 @@ endog i Hades' bo, at jeg sendte den herlige Hektor
 [(594–631) ]{.linjenummer}
 hjem med hans far; ti rikelig bot har han git mig til løsning.
 Dig skal jeg vie en rundelig del av hans gaver som offer.»
+
 Saaledes talte Akillevs og vandret tilbake til teltet.
 Inde ved teltvæggen satte han sig paa den prægtige tronstol,
 hvorfra han reiste sig nys, og til Priamos talte han venlig:
@@ -650,6 +690,7 @@ ruger hun, stivnet til sten, over sorgen som guderne sendte.
 La ogsaa os, ærværdige drot, nu tænke paa kveldsverd,
 Naar du har ført din elskede søn tilbake til Troja,
 kan du jo graate paany. Han vil volde dig strømme av taarer.»
+
 Derefter reiste Akillevs sig straks og slagtet et snehvitt
 lam som svendene flaadde og gjorde i stand som det bør sig.
 Lemmerne delte de skjønsomt og stak dem med omhu paa spiddet,
@@ -673,6 +714,7 @@ Nei, men med stønnende suk og med talløse sorger i hjertet
 veltet jeg mig paa den smudsige jord bak borggaardens gjærde.
 Nu har jeg først kunnet nyte min mat og læske min strupe
 liflig med funklende vin; før smakte jeg ikke det mindste.»
+
 Saa han talte, og Pelevs' søn bød svende og terner
 straks at sætte i forhallen frem to senger med skjønne,
 purpurfarvede bolstre og lægge paa disse de bløte
@@ -689,6 +731,7 @@ Da kan det hænde det vilde gaa sent med løsning av liket.
 Svar mig nu ogsaa paa dette, og si hvad du finder er rigtig:
 Nævn hvad av dage du tænker er nok til at jordfæste Hektor,
 saa jeg kan hvile imens og holde vor fylking tilbake.»
+
 Oldingen Priamos, guderne lik, tok ordet og svarte:
 «Hvis du, Akillevs, vil unde mig tid til at jorde min Hektor,
 gjør det da saa som jeg sier dig nu, saa gjør du min vilje.
@@ -698,16 +741,19 @@ Godt, om vi kunde ni dage i træk faa graate paa borgen
 og paa den tiende jorde hans lik og feire hans gravøl
 sammen med folket og reise hans haug, naar den ellevte kommer.
 Maa det saa være, saa gaar vi paany til kamp paa den tolvte.»
+
 Straks tok Akillevs, den fotrappe helt, til orde og svarte:
 [(669–706) ]{.linjenummer}
 «Ja, ogsaa dette skal ske, som du ber om, værdige gubbe,
 ti jeg skal stanse med strid i al den tid som du ønsker.»
+
 Saa han talte og grep om oldingens haandled og trykket
 venlig hans høire, saa frygt ei mer skulde pine hans hjerte.
 Ute i forstuen foran hans telt gik begge til hvile,
 Priamos selv og herolden, de tvende forstandige gamle.
 Men i det inderste rum av det fast opbyggede leirtelt
 hvilte Akillevs med møen, den fagre Briseis, ved siden.
+
 Alle de øvrige guder og vældige kjæmper paa stridsvogn
 slumret den utslagne nat, av søvnguden blidelig bundet;
 men over Hermes, den naadige gud, sank slummeren ikke,
@@ -720,12 +766,14 @@ Nu har du løst din elskede søn, og dyrt har du kjøpt ham;
 men dine sønner, som nys du forlot der hjemme, vil kjøpe
 livet for dig med tredobbelt bot, saasandt Agamemnon,
 Atrevs' søn, blir dig var, og alle akaier faar se dig.»
+
 Saa han talte. Den gamle blev ræd og vækket herolden
 Hermes gik selv for at spænde for vogn deres hester og muldyr,
 kjørte saa hen gjennem leiren i hast og uset av alle.
 Men da de kom til hint overfartssted ved den hvirvlende Ksantos,
 der hvor den deilige elv, som Zevs har avlet, kan vades,
 hastet den straalende Hermes avsted til det høie Olympen.
+
 Eos spredte i gyldent gevandt sit lys over lande,
 just da de styret til byen sit spand under klager og sukke,
 mens deres muldyr kom efter med liket paa vognen, og ingen
@@ -738,6 +786,7 @@ Jamrende ropte hun høit, saa vidt over byen det hørtes:
 «Kom nu, troiske kvinder og mænd for at skue vor Hektor.
 Tidt, da han levet, var jubelen stor, naar han vendte tilbake
 uskadt fra kampen. Han var jo en fryd for byen og folket.»
+
 [(707–44) ]{.linjenummer}
 Saa hun talte, og hverken blev mand eller kvinde tilbake
 inde i byen. Ulidelig sorg hadde grepet dem alle.
@@ -750,6 +799,7 @@ jamret for Hektor i klagende graat hist utenfor porten,
 hvis ikke oldingen barskt fra sin vogn hadde skreket til folket:
 «Plads! La muldyr og hester faa slippe igjennem. Med taarer
 kan I jo mætte jer siden, saasnart jeg faar ført ham til borgen.»
+
 Saa han talte. Da vek de i hast til side for vognen.
 Men da de ind i den herlige hal hadde baaret den døde,
 lagde de ham paa den utskaarne seng og bragte til sæte
@@ -780,6 +830,7 @@ Ei fik du sagt mig et trøstende ord, som jeg kunde for altid
 [(745–82) ]{.linjenummer}
 gjemme i mindet ved nat og ved dag, naar taarerne strømmet.»
 Graatende talte hun saa, mens kvinderne stønnet og sukket.
+
 Derpaa faldt Hekabe ind og begyndte den jamrende klage:
 «Hektor, min elskede søn, mit hjertebarn fremfor de andre.
 Høit var du elsket forvisst av guderne, medens du levet,
@@ -793,6 +844,7 @@ hans som du vog; men han vakte ham dog ei op fra de døde,
 medens du ligger her nu i vor hal, som dræptes du nylig,
 dugfrisk og skjøn som en helt hvem sølvbueguden Apollon
 rammet med smertefri pil og mildelig sendte i døden.»
+
 Graatende talte hun saa og vakte ustanselig jammer.
 Men som den tredje faldt Hélena ind i klagende vemod:
 «Hektor, aa du som i svogrenes flok var mig kjærest av alle;
@@ -809,12 +861,14 @@ mildt med forsonende ord, som kom fra dit kjærlige hjerte.
 Nu maa jeg graate for dig og min egen usalige skjæbne,
 sorgfuld i sind; ti jeg eier ei nu i det vidtstrakte Troja
 mer nogen ven som er kjærlig og mild. Nu skyr de mig alle.»
+
 Graatende talte hun saa. Tungt sukket den talløse mængde.
 Men til det samlede folk tok Priamos derpaa til orde:
 «Skynd jer, troer, hent ved til vor by og frygt ikke længer
 lumskelig bakhold fra Argos' mænd; ti forvisst har Akillevs
 lovet mig nys, da han sendte mig hjem fra de tjærede snekker,
 ikke at volde os mén, før den tolvte av dage er kommet.»
+
 Saa han talte. Da spændte de straks for de rullende vogner
 [(783–804) ]{.linjenummer}
 okser og muldyr, og snart var mændene samlet ved byen.
@@ -838,6 +892,7 @@ forat akaierne ei skulde storme imot dem for tidlig.
 Hjemover gik de, da haugen var reist, og derefter samlet
 folket sig atter til maaltid og smakte de herlige retter
 oppe paa Priamos' borg i den høibaarne folkedrots haller.
+
 Saaledes jordet de Hektor, den vældige kjæmpe paa stridsvogn.
 
 :::
