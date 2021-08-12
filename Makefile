@@ -1,4 +1,4 @@
-.PHONY: default epub html open clean check
+.PHONY: default epub html open clean check todo
 
 EBOK     = Iliaden.epub
 HTML     = Iliaden.html
@@ -26,11 +26,14 @@ $(HTML): $(TEKST) $(BILDER) $(META)
 	       -o $(HTML) $(META) $(TEKST) --standalone
 
 check: $(CHECK)
-	sed -i '/^#/d' $(ORDLISTE) # slett skigaardslinjer
+	#sed -i '/^#/d' $(ORDLISTE) # slett skigaardslinjer
 	for fil in $(CHECK); do aspell $(ASPELL) check $$fil; done
 
 open: $(EBOK)
 	open $(EBOK)
+
+todo: $(TEKST)
+	grep ' *[-\*] \[ \]' tekst/*.pandoc | less
 
 clean:
 	rm -f Iliaden.epub
