@@ -2,8 +2,8 @@
 
 Denne digitale utgaven er lagd etter [Nasjonalbibliotekets
 skann](https://www.nb.no/items/URN:NBN:no-nb_digibok_2009102100002) av
-førsteutgaven av P. Østbyes oversettelse fra 1920. Teksten ~~er~~blir etter beste evne
-transkribert tegn for tegn fra orginalen. Oversettelsen, og denne eboken,
+førsteutgaven av P. Østbyes oversettelse fra 1920. Teksten er etter beste evne
+transkribert tegn for tegn fra originalen. Oversettelsen, og denne eboken,
 tilfaller allmannseie, og kan deles og endres fritt.
 
 > Iliaden er et gresk epos i 24 sanger, tillagt Homer. Iliaden skildrer 51
@@ -16,14 +16,15 @@ tilfaller allmannseie, og kan deles og endres fritt.
 > —[*Store norske leksikon*](https://snl.no/Iliaden)
 
 Så vidt meg kjent finnes det ingen andre frie, digitale, utgaver av denne
-oversettelsen tilgjenegelig på nettet, foruten NBs pdf-skann. Dette på tross av
+oversettelsen tilgjengelig på nettet, foruten NBs pdf-skann. Dette på tross av
 oversettelsen nå har falt i det fri. NB har vært snille og gjort en [**grov**
 OCR](original/iliaden-tekst.txt) på skannen sin, og det er den teksten jeg har
 tatt utgangspunkt i. I noen av de senere sangene (21–24) har jeg også brukt
 [`tesseract`](https://github.com/tesseract-ocr/tesseract) til OCR i tillegg.
 
-En sniktitt på eboken kan leses på nett her:
-[mihle.no/iliaden](https://www.mihle.no/iliaden).
+Eboken kan leses på nett her:
+[mihle.no/iliaden](https://www.mihle.no/iliaden). Eller lastes ned i
+[releases](https://github.com/ubesluttsom/iliaden/releases) som epub eller HTML.
 
 ## Kompilering
 
